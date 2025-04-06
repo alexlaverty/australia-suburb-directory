@@ -1,9 +1,10 @@
 ---
-title: TASMAN ISLAND
-state: TAS
-postcode: 7001
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.535913
-longitude: 146.356055
-url: /tas/tasman-island/
 layout: suburb
+longitude: 146.356055
+postcode: '7001'
+state: TAS
+title: TASMAN ISLAND
+url: /tas/tasman-island/
 ---

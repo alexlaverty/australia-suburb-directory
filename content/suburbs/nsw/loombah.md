@@ -1,9 +1,10 @@
 ---
-title: LOOMBAH
-state: NSW
-postcode: 2867
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.78685
-longitude: 148.735871
-url: /nsw/loombah/
 layout: suburb
+longitude: 148.735871
+postcode: '2867'
+state: NSW
+title: LOOMBAH
+url: /nsw/loombah/
 ---

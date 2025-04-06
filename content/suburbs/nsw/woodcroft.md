@@ -1,9 +1,10 @@
 ---
-title: WOODCROFT
-state: NSW
-postcode: 2767
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.763843
-longitude: 150.871134
-url: /nsw/woodcroft/
 layout: suburb
+longitude: 150.871134
+postcode: '2767'
+state: NSW
+title: WOODCROFT
+url: /nsw/woodcroft/
 ---

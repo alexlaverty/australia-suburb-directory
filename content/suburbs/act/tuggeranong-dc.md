@@ -1,9 +1,10 @@
 ---
-title: TUGGERANONG DC
-state: ACT
-postcode: 2901
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.4197
-longitude: 149.069
-url: /act/tuggeranong-dc/
 layout: suburb
+longitude: 149.069
+postcode: '2901'
+state: ACT
+title: TUGGERANONG DC
+url: /act/tuggeranong-dc/
 ---

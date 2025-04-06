@@ -1,9 +1,10 @@
 ---
-title: ROSSVILLE
-state: QLD
-postcode: 4895
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -15.79626907
-longitude: 145.2418843
-url: /qld/rossville/
 layout: suburb
+longitude: 145.2418843
+postcode: '4895'
+state: QLD
+title: ROSSVILLE
+url: /qld/rossville/
 ---

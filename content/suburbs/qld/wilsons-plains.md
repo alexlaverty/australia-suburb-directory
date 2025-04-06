@@ -1,9 +1,10 @@
 ---
-title: WILSONS PLAINS
-state: QLD
-postcode: 4307
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.851804
-longitude: 152.592399
-url: /qld/wilsons-plains/
 layout: suburb
+longitude: 152.592399
+postcode: '4307'
+state: QLD
+title: WILSONS PLAINS
+url: /qld/wilsons-plains/
 ---

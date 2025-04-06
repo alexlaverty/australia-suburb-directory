@@ -1,9 +1,10 @@
 ---
-title: BENOWA
-state: QLD
-postcode: 4217
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.008783
-longitude: 153.412197
-url: /qld/benowa/
 layout: suburb
+longitude: 153.412197
+postcode: '4217'
+state: QLD
+title: BENOWA
+url: /qld/benowa/
 ---

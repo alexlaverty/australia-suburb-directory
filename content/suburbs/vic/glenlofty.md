@@ -1,9 +1,10 @@
 ---
-title: GLENLOFTY
-state: VIC
-postcode: 3469
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.172964
-longitude: 143.280627
-url: /vic/glenlofty/
 layout: suburb
+longitude: 143.280627
+postcode: '3469'
+state: VIC
+title: GLENLOFTY
+url: /vic/glenlofty/
 ---

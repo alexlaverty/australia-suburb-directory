@@ -1,9 +1,10 @@
 ---
-title: MOOROODUC
-state: VIC
-postcode: 3933
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.261168
-longitude: 145.096992
-url: /vic/moorooduc/
 layout: suburb
+longitude: 145.096992
+postcode: '3933'
+state: VIC
+title: MOOROODUC
+url: /vic/moorooduc/
 ---

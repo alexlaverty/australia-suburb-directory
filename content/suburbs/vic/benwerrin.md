@@ -1,9 +1,10 @@
 ---
-title: BENWERRIN
-state: VIC
-postcode: 3235
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.411964
-longitude: 143.924288
-url: /vic/benwerrin/
 layout: suburb
+longitude: 143.924288
+postcode: '3235'
+state: VIC
+title: BENWERRIN
+url: /vic/benwerrin/
 ---

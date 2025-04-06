@@ -1,9 +1,10 @@
 ---
-title: CUDLEE CREEK
-state: SA
-postcode: 5232
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.855449
-longitude: 138.815964
-url: /sa/cudlee-creek/
 layout: suburb
+longitude: 138.815964
+postcode: '5232'
+state: SA
+title: CUDLEE CREEK
+url: /sa/cudlee-creek/
 ---

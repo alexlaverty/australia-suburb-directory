@@ -1,9 +1,10 @@
 ---
-title: SWANSEA
-state: NSW
-postcode: 2281
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.089963
-longitude: 151.668857
-url: /nsw/swansea/
 layout: suburb
+longitude: 151.668857
+postcode: '2281'
+state: NSW
+title: SWANSEA
+url: /nsw/swansea/
 ---

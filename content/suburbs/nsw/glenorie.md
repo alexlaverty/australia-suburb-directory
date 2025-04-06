@@ -1,9 +1,10 @@
 ---
-title: GLENORIE
-state: NSW
-postcode: 2157
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.602167
-longitude: 150.991055
-url: /nsw/glenorie/
 layout: suburb
+longitude: 150.991055
+postcode: '2157'
+state: NSW
+title: GLENORIE
+url: /nsw/glenorie/
 ---

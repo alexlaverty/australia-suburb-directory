@@ -1,9 +1,10 @@
 ---
-title: SEVEN HILLS WEST
-state: NSW
-postcode: 2147
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.766075
-longitude: 150.935836
-url: /nsw/seven-hills-west/
 layout: suburb
+longitude: 150.935836
+postcode: '2147'
+state: NSW
+title: SEVEN HILLS WEST
+url: /nsw/seven-hills-west/
 ---

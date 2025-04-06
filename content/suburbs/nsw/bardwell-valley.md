@@ -1,9 +1,10 @@
 ---
-title: BARDWELL VALLEY
-state: NSW
-postcode: 2207
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.948744
-longitude: 151.119517
-url: /nsw/bardwell-valley/
 layout: suburb
+longitude: 151.119517
+postcode: '2207'
+state: NSW
+title: BARDWELL VALLEY
+url: /nsw/bardwell-valley/
 ---

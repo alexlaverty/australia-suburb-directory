@@ -1,9 +1,10 @@
 ---
-title: TALLOWWOOD RIDGE
-state: NSW
-postcode: 2453
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.261156
-longitude: 152.7239732
-url: /nsw/tallowwood-ridge/
 layout: suburb
+longitude: 152.7239732
+postcode: '2453'
+state: NSW
+title: TALLOWWOOD RIDGE
+url: /nsw/tallowwood-ridge/
 ---

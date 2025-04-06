@@ -1,9 +1,10 @@
 ---
-title: GEORGETOWN
-state: SA
-postcode: 5472
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.387234
-longitude: 138.410287
-url: /sa/georgetown/
 layout: suburb
+longitude: 138.410287
+postcode: '5472'
+state: SA
+title: GEORGETOWN
+url: /sa/georgetown/
 ---

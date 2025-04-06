@@ -1,9 +1,10 @@
 ---
-title: VICTOR HARBOR CENTRAL
-state: SA
-postcode: 5211
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.5635
-longitude: 138.607
-url: /sa/victor-harbor-central/
 layout: suburb
+longitude: 138.607
+postcode: '5211'
+state: SA
+title: VICTOR HARBOR CENTRAL
+url: /sa/victor-harbor-central/
 ---

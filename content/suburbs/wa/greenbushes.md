@@ -1,9 +1,10 @@
 ---
-title: GREENBUSHES
-state: WA
-postcode: 6254
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.844406
-longitude: 116.072643
-url: /wa/greenbushes/
 layout: suburb
+longitude: 116.072643
+postcode: '6254'
+state: WA
+title: GREENBUSHES
+url: /wa/greenbushes/
 ---

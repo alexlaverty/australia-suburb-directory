@@ -1,9 +1,10 @@
 ---
-title: ASHFIELD
-state: WA
-postcode: 6054
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.901801
-longitude: 115.942572
-url: /wa/ashfield/
 layout: suburb
+longitude: 115.942572
+postcode: '6054'
+state: WA
+title: ASHFIELD
+url: /wa/ashfield/
 ---

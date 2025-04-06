@@ -1,9 +1,10 @@
 ---
-title: HEIDELBERG HEIGHTS
-state: VIC
-postcode: 3081
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.743008
-longitude: 145.046401
-url: /vic/heidelberg-heights/
 layout: suburb
+longitude: 145.046401
+postcode: '3081'
+state: VIC
+title: HEIDELBERG HEIGHTS
+url: /vic/heidelberg-heights/
 ---

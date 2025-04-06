@@ -1,9 +1,10 @@
 ---
-title: SALTIA
-state: SA
-postcode: 5433
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.48420771
-longitude: 137.9513729
-url: /sa/saltia/
 layout: suburb
+longitude: 137.9513729
+postcode: '5433'
+state: SA
+title: SALTIA
+url: /sa/saltia/
 ---

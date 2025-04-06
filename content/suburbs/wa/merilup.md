@@ -1,9 +1,10 @@
 ---
-title: MERILUP
-state: WA
-postcode: 6352
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.185465
-longitude: 118.086163
-url: /wa/merilup/
 layout: suburb
+longitude: 118.086163
+postcode: '6352'
+state: WA
+title: MERILUP
+url: /wa/merilup/
 ---

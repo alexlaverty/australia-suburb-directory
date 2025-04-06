@@ -1,9 +1,10 @@
 ---
-title: MYOCUM
-state: NSW
-postcode: 2481
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.660756
-longitude: 153.592843
-url: /nsw/myocum/
 layout: suburb
+longitude: 153.592843
+postcode: '2481'
+state: NSW
+title: MYOCUM
+url: /nsw/myocum/
 ---

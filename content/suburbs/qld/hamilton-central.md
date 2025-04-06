@@ -1,9 +1,10 @@
 ---
-title: HAMILTON CENTRAL
-state: QLD
-postcode: 4007
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.436088
-longitude: 153.061914
-url: /qld/hamilton-central/
 layout: suburb
+longitude: 153.061914
+postcode: '4007'
+state: QLD
+title: HAMILTON CENTRAL
+url: /qld/hamilton-central/
 ---

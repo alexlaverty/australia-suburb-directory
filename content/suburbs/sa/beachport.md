@@ -1,9 +1,10 @@
 ---
-title: BEACHPORT
-state: SA
-postcode: 5280
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.449179
-longitude: 140.260783
-url: /sa/beachport/
 layout: suburb
+longitude: 140.260783
+postcode: '5280'
+state: SA
+title: BEACHPORT
+url: /sa/beachport/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SALISBURY SOUTH
-state: SA
-postcode: 5106
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.793169
-longitude: 138.629463
-url: /sa/salisbury-south/
 layout: suburb
+longitude: 138.629463
+postcode: '5106'
+state: SA
+title: SALISBURY SOUTH
+url: /sa/salisbury-south/
 ---

@@ -1,9 +1,10 @@
 ---
-title: COOMINYA
-state: QLD
-postcode: 4311
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.418572
-longitude: 152.438771
-url: /qld/coominya/
 layout: suburb
+longitude: 152.438771
+postcode: '4311'
+state: QLD
+title: COOMINYA
+url: /qld/coominya/
 ---

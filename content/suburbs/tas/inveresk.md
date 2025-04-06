@@ -1,9 +1,10 @@
 ---
-title: INVERESK
-state: TAS
-postcode: 7248
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.397239
-longitude: 147.130185
-url: /tas/inveresk/
 layout: suburb
+longitude: 147.130185
+postcode: '7248'
+state: TAS
+title: INVERESK
+url: /tas/inveresk/
 ---

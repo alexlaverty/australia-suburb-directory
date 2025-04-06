@@ -1,9 +1,10 @@
 ---
-title: ST KILDA SOUTH
-state: VIC
-postcode: 3182
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.865322
-longitude: 144.979478
-url: /vic/st-kilda-south/
 layout: suburb
+longitude: 144.979478
+postcode: '3182'
+state: VIC
+title: ST KILDA SOUTH
+url: /vic/st-kilda-south/
 ---

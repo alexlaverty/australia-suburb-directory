@@ -1,9 +1,10 @@
 ---
-title: STONY CREEK
-state: VIC
-postcode: 3957
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.589302
-longitude: 146.126718
-url: /vic/stony-creek/
 layout: suburb
+longitude: 146.126718
+postcode: '3957'
+state: VIC
+title: STONY CREEK
+url: /vic/stony-creek/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WATERFORD WEST
-state: QLD
-postcode: 4133
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.723837
-longitude: 153.102664
-url: /qld/waterford-west/
 layout: suburb
+longitude: 153.102664
+postcode: '4133'
+state: QLD
+title: WATERFORD WEST
+url: /qld/waterford-west/
 ---

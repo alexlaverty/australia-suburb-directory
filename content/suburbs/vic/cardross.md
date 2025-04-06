@@ -1,9 +1,10 @@
 ---
-title: CARDROSS
-state: VIC
-postcode: 3496
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.287804
-longitude: 142.144177
-url: /vic/cardross/
 layout: suburb
+longitude: 142.144177
+postcode: '3496'
+state: VIC
+title: CARDROSS
+url: /vic/cardross/
 ---

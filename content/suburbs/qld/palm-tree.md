@@ -1,9 +1,10 @@
 ---
-title: PALM TREE
-state: QLD
-postcode: 4352
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.627661
-longitude: 151.94182
-url: /qld/palm-tree/
 layout: suburb
+longitude: 151.94182
+postcode: '4352'
+state: QLD
+title: PALM TREE
+url: /qld/palm-tree/
 ---

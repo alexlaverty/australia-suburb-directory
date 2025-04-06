@@ -1,9 +1,10 @@
 ---
-title: PIARA WATERS
-state: WA
-postcode: 6112
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.152386
-longitude: 116.008274
-url: /wa/piara-waters/
 layout: suburb
+longitude: 116.008274
+postcode: '6112'
+state: WA
+title: PIARA WATERS
+url: /wa/piara-waters/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WATERLOO DC
-state: NSW
-postcode: 2017
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.9003
-longitude: 151.206
-url: /nsw/waterloo-dc/
 layout: suburb
+longitude: 151.206
+postcode: '2017'
+state: NSW
+title: WATERLOO DC
+url: /nsw/waterloo-dc/
 ---

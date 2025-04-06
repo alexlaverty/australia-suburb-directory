@@ -1,9 +1,10 @@
 ---
-title: BORONIA
-state: VIC
-postcode: 3155
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.861799
-longitude: 145.284418
-url: /vic/boronia/
 layout: suburb
+longitude: 145.284418
+postcode: '3155'
+state: VIC
+title: BORONIA
+url: /vic/boronia/
 ---

@@ -1,9 +1,10 @@
 ---
-title: KERRIE
-state: VIC
-postcode: 3434
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.35388
-longitude: 144.750796
-url: /vic/kerrie/
 layout: suburb
+longitude: 144.750796
+postcode: '3434'
+state: VIC
+title: KERRIE
+url: /vic/kerrie/
 ---

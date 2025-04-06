@@ -1,9 +1,10 @@
 ---
-title: LAKE PLACID
-state: QLD
-postcode: 4878
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.839378
-longitude: 145.711531
-url: /qld/lake-placid/
 layout: suburb
+longitude: 145.711531
+postcode: '4878'
+state: QLD
+title: LAKE PLACID
+url: /qld/lake-placid/
 ---

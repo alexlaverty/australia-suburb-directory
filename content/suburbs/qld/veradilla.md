@@ -1,9 +1,10 @@
 ---
-title: VERADILLA
-state: QLD
-postcode: 4347
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.655062
-longitude: 152.142704
-url: /qld/veradilla/
 layout: suburb
+longitude: 152.142704
+postcode: '4347'
+state: QLD
+title: VERADILLA
+url: /qld/veradilla/
 ---

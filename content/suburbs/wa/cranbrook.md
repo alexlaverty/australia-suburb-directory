@@ -1,9 +1,10 @@
 ---
-title: CRANBROOK
-state: WA
-postcode: 6321
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.26948
-longitude: 117.398532
-url: /wa/cranbrook/
 layout: suburb
+longitude: 117.398532
+postcode: '6321'
+state: WA
+title: CRANBROOK
+url: /wa/cranbrook/
 ---

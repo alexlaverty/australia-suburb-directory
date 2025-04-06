@@ -1,9 +1,10 @@
 ---
-title: MENANGLE
-state: NSW
-postcode: 2568
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.147379
-longitude: 150.718007
-url: /nsw/menangle/
 layout: suburb
+longitude: 150.718007
+postcode: '2568'
+state: NSW
+title: MENANGLE
+url: /nsw/menangle/
 ---

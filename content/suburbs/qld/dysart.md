@@ -1,9 +1,10 @@
 ---
-title: DYSART
-state: QLD
-postcode: 4745
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -22.497884
-longitude: 148.259592
-url: /qld/dysart/
 layout: suburb
+longitude: 148.259592
+postcode: '4745'
+state: QLD
+title: DYSART
+url: /qld/dysart/
 ---

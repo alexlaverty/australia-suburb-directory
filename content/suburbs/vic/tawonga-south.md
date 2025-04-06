@@ -1,9 +1,10 @@
 ---
-title: TAWONGA SOUTH
-state: VIC
-postcode: 3698
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.722034
-longitude: 147.149468
-url: /vic/tawonga-south/
 layout: suburb
+longitude: 147.149468
+postcode: '3698'
+state: VIC
+title: TAWONGA SOUTH
+url: /vic/tawonga-south/
 ---

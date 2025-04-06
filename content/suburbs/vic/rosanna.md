@@ -1,9 +1,10 @@
 ---
-title: ROSANNA
-state: VIC
-postcode: 3084
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.744406
-longitude: 145.082685
-url: /vic/rosanna/
 layout: suburb
+longitude: 145.082685
+postcode: '3084'
+state: VIC
+title: ROSANNA
+url: /vic/rosanna/
 ---

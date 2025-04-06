@@ -1,9 +1,10 @@
 ---
-title: STRATHERNE
-state: WA
-postcode: 6309
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.668322
-longitude: 117.129227
-url: /wa/stratherne/
 layout: suburb
+longitude: 117.129227
+postcode: '6309'
+state: WA
+title: STRATHERNE
+url: /wa/stratherne/
 ---

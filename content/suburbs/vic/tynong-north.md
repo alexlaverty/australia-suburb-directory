@@ -1,9 +1,10 @@
 ---
-title: TYNONG NORTH
-state: VIC
-postcode: 3813
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.064252
-longitude: 145.634339
-url: /vic/tynong-north/
 layout: suburb
+longitude: 145.634339
+postcode: '3813'
+state: VIC
+title: TYNONG NORTH
+url: /vic/tynong-north/
 ---

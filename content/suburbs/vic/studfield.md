@@ -1,9 +1,10 @@
 ---
-title: STUDFIELD
-state: VIC
-postcode: 3152
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.864951
-longitude: 145.221695
-url: /vic/studfield/
 layout: suburb
+longitude: 145.221695
+postcode: '3152'
+state: VIC
+title: STUDFIELD
+url: /vic/studfield/
 ---

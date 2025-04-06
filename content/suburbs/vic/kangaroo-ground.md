@@ -1,9 +1,10 @@
 ---
-title: KANGAROO GROUND
-state: VIC
-postcode: 3097
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.695254
-longitude: 145.224204
-url: /vic/kangaroo-ground/
 layout: suburb
+longitude: 145.224204
+postcode: '3097'
+state: VIC
+title: KANGAROO GROUND
+url: /vic/kangaroo-ground/
 ---

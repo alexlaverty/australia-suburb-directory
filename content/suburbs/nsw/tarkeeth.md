@@ -1,9 +1,10 @@
 ---
-title: TARKEETH
-state: NSW
-postcode: 2455
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.529366
-longitude: 152.96348
-url: /nsw/tarkeeth/
 layout: suburb
+longitude: 152.96348
+postcode: '2455'
+state: NSW
+title: TARKEETH
+url: /nsw/tarkeeth/
 ---

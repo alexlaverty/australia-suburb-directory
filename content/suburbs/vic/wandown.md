@@ -1,9 +1,10 @@
 ---
-title: WANDOWN
-state: VIC
-postcode: 3549
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.82232378
-longitude: 142.9427595
-url: /vic/wandown/
 layout: suburb
+longitude: 142.9427595
+postcode: '3549'
+state: VIC
+title: WANDOWN
+url: /vic/wandown/
 ---

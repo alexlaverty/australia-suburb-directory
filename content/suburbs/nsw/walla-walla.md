@@ -1,9 +1,10 @@
 ---
-title: WALLA WALLA
-state: NSW
-postcode: 2659
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.610147
-longitude: 146.767477
-url: /nsw/walla-walla/
 layout: suburb
+longitude: 146.767477
+postcode: '2659'
+state: NSW
+title: WALLA WALLA
+url: /nsw/walla-walla/
 ---

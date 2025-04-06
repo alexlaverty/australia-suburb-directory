@@ -1,9 +1,10 @@
 ---
-title: GREENSLOPES
-state: QLD
-postcode: 4120
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.508707
-longitude: 153.044217
-url: /qld/greenslopes/
 layout: suburb
+longitude: 153.044217
+postcode: '4120'
+state: QLD
+title: GREENSLOPES
+url: /qld/greenslopes/
 ---

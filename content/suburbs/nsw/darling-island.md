@@ -1,9 +1,10 @@
 ---
-title: DARLING ISLAND
-state: NSW
-postcode: 2009
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.871222
-longitude: 151.193055
-url: /nsw/darling-island/
 layout: suburb
+longitude: 151.193055
+postcode: '2009'
+state: NSW
+title: DARLING ISLAND
+url: /nsw/darling-island/
 ---

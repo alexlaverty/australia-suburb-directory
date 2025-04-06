@@ -1,9 +1,10 @@
 ---
-title: KORUMBURRA SOUTH
-state: VIC
-postcode: 3950
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.435217
-longitude: 145.812945
-url: /vic/korumburra-south/
 layout: suburb
+longitude: 145.812945
+postcode: '3950'
+state: VIC
+title: KORUMBURRA SOUTH
+url: /vic/korumburra-south/
 ---

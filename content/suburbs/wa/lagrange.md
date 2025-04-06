@@ -1,9 +1,10 @@
 ---
-title: LAGRANGE
-state: WA
-postcode: 6725
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -18.773365
-longitude: 122.753792
-url: /wa/lagrange/
 layout: suburb
+longitude: 122.753792
+postcode: '6725'
+state: WA
+title: LAGRANGE
+url: /wa/lagrange/
 ---

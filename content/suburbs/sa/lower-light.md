@@ -1,9 +1,10 @@
 ---
-title: LOWER LIGHT
-state: SA
-postcode: 5501
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.595073
-longitude: 138.547998
-url: /sa/lower-light/
 layout: suburb
+longitude: 138.547998
+postcode: '5501'
+state: SA
+title: LOWER LIGHT
+url: /sa/lower-light/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WEST PINE
-state: TAS
-postcode: 7316
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.269708
-longitude: 145.931776
-url: /tas/west-pine/
 layout: suburb
+longitude: 145.931776
+postcode: '7316'
+state: TAS
+title: WEST PINE
+url: /tas/west-pine/
 ---

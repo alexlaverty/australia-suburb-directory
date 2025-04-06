@@ -1,9 +1,10 @@
 ---
-title: KOONAMORE
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.10342353
-longitude: 139.3735174
-url: /sa/koonamore/
 layout: suburb
+longitude: 139.3735174
+postcode: '5440'
+state: SA
+title: KOONAMORE
+url: /sa/koonamore/
 ---

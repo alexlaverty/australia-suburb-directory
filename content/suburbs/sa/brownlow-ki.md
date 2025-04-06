@@ -1,9 +1,10 @@
 ---
-title: BROWNLOW KI
-state: SA
-postcode: 5223
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.67173055
-longitude: 137.6073939
-url: /sa/brownlow-ki/
 layout: suburb
+longitude: 137.6073939
+postcode: '5223'
+state: SA
+title: BROWNLOW KI
+url: /sa/brownlow-ki/
 ---

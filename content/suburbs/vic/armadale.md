@@ -1,9 +1,10 @@
 ---
-title: ARMADALE
-state: VIC
-postcode: 3143
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.858918
-longitude: 145.019393
-url: /vic/armadale/
 layout: suburb
+longitude: 145.019393
+postcode: '3143'
+state: VIC
+title: ARMADALE
+url: /vic/armadale/
 ---

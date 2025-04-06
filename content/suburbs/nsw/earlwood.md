@@ -1,9 +1,10 @@
 ---
-title: EARLWOOD
-state: NSW
-postcode: 2206
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.926056
-longitude: 151.122881
-url: /nsw/earlwood/
 layout: suburb
+longitude: 151.122881
+postcode: '2206'
+state: NSW
+title: EARLWOOD
+url: /nsw/earlwood/
 ---

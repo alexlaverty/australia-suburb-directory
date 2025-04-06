@@ -1,9 +1,10 @@
 ---
-title: WHITLOW
-state: NSW
-postcode: 2404
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.89153536
-longitude: 150.7354843
-url: /nsw/whitlow/
 layout: suburb
+longitude: 150.7354843
+postcode: '2404'
+state: NSW
+title: WHITLOW
+url: /nsw/whitlow/
 ---

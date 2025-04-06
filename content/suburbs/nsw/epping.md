@@ -1,9 +1,10 @@
 ---
-title: EPPING
-state: NSW
-postcode: 2121
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.774145
-longitude: 151.079919
-url: /nsw/epping/
 layout: suburb
+longitude: 151.079919
+postcode: '2121'
+state: NSW
+title: EPPING
+url: /nsw/epping/
 ---

@@ -1,9 +1,10 @@
 ---
-title: KEIRAVILLE
-state: NSW
-postcode: 2500
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.423171
-longitude: 150.874294
-url: /nsw/keiraville/
 layout: suburb
+longitude: 150.874294
+postcode: '2500'
+state: NSW
+title: KEIRAVILLE
+url: /nsw/keiraville/
 ---

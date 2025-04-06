@@ -1,9 +1,10 @@
 ---
-title: SUNNYSIDE
-state: TAS
-postcode: 7305
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.352322
-longitude: 146.412127
-url: /tas/sunnyside/
 layout: suburb
+longitude: 146.412127
+postcode: '7305'
+state: TAS
+title: SUNNYSIDE
+url: /tas/sunnyside/
 ---

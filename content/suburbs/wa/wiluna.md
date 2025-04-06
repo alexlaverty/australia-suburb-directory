@@ -1,9 +1,10 @@
 ---
-title: WILUNA
-state: WA
-postcode: 6646
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -25.912724
-longitude: 121.214907
-url: /wa/wiluna/
 layout: suburb
+longitude: 121.214907
+postcode: '6646'
+state: WA
+title: WILUNA
+url: /wa/wiluna/
 ---

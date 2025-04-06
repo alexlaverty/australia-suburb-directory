@@ -1,9 +1,10 @@
 ---
-title: MANTUAN DOWNS
-state: QLD
-postcode: 4722
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.506491
-longitude: 147.41651
-url: /qld/mantuan-downs/
 layout: suburb
+longitude: 147.41651
+postcode: '4722'
+state: QLD
+title: MANTUAN DOWNS
+url: /qld/mantuan-downs/
 ---

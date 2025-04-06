@@ -1,9 +1,10 @@
 ---
-title: BOONOOROO PLAINS
-state: QLD
-postcode: 4650
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.640978
-longitude: 152.791302
-url: /qld/boonooroo-plains/
 layout: suburb
+longitude: 152.791302
+postcode: '4650'
+state: QLD
+title: BOONOOROO PLAINS
+url: /qld/boonooroo-plains/
 ---

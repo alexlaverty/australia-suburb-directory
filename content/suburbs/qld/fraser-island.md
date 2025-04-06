@@ -1,9 +1,10 @@
 ---
-title: FRASER ISLAND
-state: QLD
-postcode: 4581
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.990771
-longitude: 153.097862
-url: /qld/fraser-island/
 layout: suburb
+longitude: 153.097862
+postcode: '4581'
+state: QLD
+title: FRASER ISLAND
+url: /qld/fraser-island/
 ---

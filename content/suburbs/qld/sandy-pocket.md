@@ -1,9 +1,10 @@
 ---
-title: SANDY POCKET
-state: QLD
-postcode: 4871
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.934184
-longitude: 145.994075
-url: /qld/sandy-pocket/
 layout: suburb
+longitude: 145.994075
+postcode: '4871'
+state: QLD
+title: SANDY POCKET
+url: /qld/sandy-pocket/
 ---

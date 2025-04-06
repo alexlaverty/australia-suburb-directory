@@ -1,9 +1,10 @@
 ---
-title: MILLTHORPE
-state: NSW
-postcode: 2798
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.462193
-longitude: 149.158755
-url: /nsw/millthorpe/
 layout: suburb
+longitude: 149.158755
+postcode: '2798'
+state: NSW
+title: MILLTHORPE
+url: /nsw/millthorpe/
 ---

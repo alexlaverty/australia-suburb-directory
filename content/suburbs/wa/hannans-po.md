@@ -1,9 +1,10 @@
 ---
-title: HANNANS PO
-state: WA
-postcode: 6433
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.724
-longitude: 121.454
-url: /wa/hannans-po/
 layout: suburb
+longitude: 121.454
+postcode: '6433'
+state: WA
+title: HANNANS PO
+url: /wa/hannans-po/
 ---

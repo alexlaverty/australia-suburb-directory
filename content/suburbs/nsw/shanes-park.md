@@ -1,9 +1,10 @@
 ---
-title: SHANES PARK
-state: NSW
-postcode: 2747
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.722323
-longitude: 150.739398
-url: /nsw/shanes-park/
 layout: suburb
+longitude: 150.739398
+postcode: '2747'
+state: NSW
+title: SHANES PARK
+url: /nsw/shanes-park/
 ---

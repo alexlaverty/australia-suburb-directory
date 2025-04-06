@@ -1,5 +1,112 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+#-----------------------------------------------------------------------------
+# Hugo - https://gohugo.io/
+#-----------------------------------------------------------------------------
+
+# Folders containing generated site files. Usually you don't want to commit these.
+# The exception is if you are deploying FROM the /public directory (e.g., GitHub Pages root).
+# For most source repositories, ignore these.
+/public/
+/static/public/ # If using staticDir setting pointing to public inside static
+/resources/
+
+# Hugo build lock file and stats
+.hugo_build.lock
+hugo_stats.json
+
+# Temporary files
+*.temporary
+*~
+*.tmp
+
+#-----------------------------------------------------------------------------
+# Operating System Files
+#-----------------------------------------------------------------------------
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+#-----------------------------------------------------------------------------
+# Node / Frontend Dependencies (if you use npm/yarn for asset processing)
+#-----------------------------------------------------------------------------
+node_modules/
+package-lock.json # Usually commit this if you commit package.json
+yarn.lock         # Usually commit this if you commit package.json
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Build output directory (common names)
+dist/
+build/
+.parcel-cache/
+.sass-cache/
+
+#-----------------------------------------------------------------------------
+# Python (if used for scripting/tooling)
+#-----------------------------------------------------------------------------
+*.py[cod]
+*.so
+*.egg*
+dist/
+build/
+*.egg-info/
+.cache/
+__pycache__/
+*.env
+.env
+.venv/
+venv/
+ENV/
+env/
+# If using Jupyter notebooks outside version control
+.ipynb_checkpoints
+
+#-----------------------------------------------------------------------------
+# Editor/IDE Specific Files
+#-----------------------------------------------------------------------------
+# VS Code
+.vscode/
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+# Vim
+*.sw[op]
+# NetBeans
+nbproject/
+# Atom
+.atom/
+
+#-----------------------------------------------------------------------------
+# Miscellaneous
+#-----------------------------------------------------------------------------
+# Log files
+*.log
+
+# Archives (Uncomment if you don't want archives in repo)
+# *.zip
+# *.tar.gz
+# *.rar
+
+# Environment variables (NEVER commit secrets!)
+*.env
+.env.*
+!.env.example # Keep example env files
+
+# Local config overrides (if you use them)
+# config.local.toml
+# config.local.yaml
+# config.local.json

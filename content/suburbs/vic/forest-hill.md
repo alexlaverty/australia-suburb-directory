@@ -1,9 +1,10 @@
 ---
-title: FOREST HILL
-state: VIC
-postcode: 3131
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.817798
-longitude: 145.174489
-url: /vic/forest-hill/
 layout: suburb
+longitude: 145.174489
+postcode: '3131'
+state: VIC
+title: FOREST HILL
+url: /vic/forest-hill/
 ---

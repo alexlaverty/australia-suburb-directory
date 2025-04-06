@@ -1,9 +1,10 @@
 ---
-title: CORUNNA STATION
-state: SA
-postcode: 5611
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.68751476
-longitude: 137.0317736
-url: /sa/corunna-station/
 layout: suburb
+longitude: 137.0317736
+postcode: '5611'
+state: SA
+title: CORUNNA STATION
+url: /sa/corunna-station/
 ---

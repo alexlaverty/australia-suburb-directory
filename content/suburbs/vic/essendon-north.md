@@ -1,9 +1,10 @@
 ---
-title: ESSENDON NORTH
-state: VIC
-postcode: 3041
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.731464
-longitude: 144.904815
-url: /vic/essendon-north/
 layout: suburb
+longitude: 144.904815
+postcode: '3041'
+state: VIC
+title: ESSENDON NORTH
+url: /vic/essendon-north/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MERRYLANDS
-state: NSW
-postcode: 2160
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.835883
-longitude: 150.976594
-url: /nsw/merrylands/
 layout: suburb
+longitude: 150.976594
+postcode: '2160'
+state: NSW
+title: MERRYLANDS
+url: /nsw/merrylands/
 ---

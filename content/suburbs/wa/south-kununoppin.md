@@ -1,9 +1,10 @@
 ---
-title: SOUTH KUNUNOPPIN
-state: WA
-postcode: 6489
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.12327
-longitude: 117.945624
-url: /wa/south-kununoppin/
 layout: suburb
+longitude: 117.945624
+postcode: '6489'
+state: WA
+title: SOUTH KUNUNOPPIN
+url: /wa/south-kununoppin/
 ---

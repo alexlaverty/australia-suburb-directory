@@ -1,9 +1,10 @@
 ---
-title: LAVARACK BARRACKS
-state: QLD
-postcode: 4813
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.338928
-longitude: 146.786368
-url: /qld/lavarack-barracks/
 layout: suburb
+longitude: 146.786368
+postcode: '4813'
+state: QLD
+title: LAVARACK BARRACKS
+url: /qld/lavarack-barracks/
 ---

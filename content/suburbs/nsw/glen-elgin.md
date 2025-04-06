@@ -1,9 +1,10 @@
 ---
-title: GLEN ELGIN
-state: NSW
-postcode: 2370
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.736171
-longitude: 151.869397
-url: /nsw/glen-elgin/
 layout: suburb
+longitude: 151.869397
+postcode: '2370'
+state: NSW
+title: GLEN ELGIN
+url: /nsw/glen-elgin/
 ---

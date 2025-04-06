@@ -1,9 +1,10 @@
 ---
-title: SOUTHERN SUBURBS MC
-state: NSW
-postcode: 1419
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.0641
-longitude: 151.094
-url: /nsw/southern-suburbs-mc/
 layout: suburb
+longitude: 151.094
+postcode: '1419'
+state: NSW
+title: SOUTHERN SUBURBS MC
+url: /nsw/southern-suburbs-mc/
 ---

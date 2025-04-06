@@ -1,9 +1,10 @@
 ---
-title: NARRABUNDAH
-state: ACT
-postcode: 2604
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.336413
-longitude: 149.147614
-url: /act/narrabundah/
 layout: suburb
+longitude: 149.147614
+postcode: '2604'
+state: ACT
+title: NARRABUNDAH
+url: /act/narrabundah/
 ---

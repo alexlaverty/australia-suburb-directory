@@ -1,9 +1,10 @@
 ---
-title: TURNERS FLAT
-state: NSW
-postcode: 2440
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.375791
-longitude: 153.019648
-url: /nsw/turners-flat/
 layout: suburb
+longitude: 153.019648
+postcode: '2440'
+state: NSW
+title: TURNERS FLAT
+url: /nsw/turners-flat/
 ---

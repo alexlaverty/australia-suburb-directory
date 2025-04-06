@@ -1,9 +1,10 @@
 ---
-title: BEREMBOKE
-state: VIC
-postcode: 3342
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.651463
-longitude: 144.239102
-url: /vic/beremboke/
 layout: suburb
+longitude: 144.239102
+postcode: '3342'
+state: VIC
+title: BEREMBOKE
+url: /vic/beremboke/
 ---

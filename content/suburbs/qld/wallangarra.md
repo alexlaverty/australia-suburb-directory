@@ -1,9 +1,10 @@
 ---
-title: WALLANGARRA
-state: QLD
-postcode: 4383
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.904615
-longitude: 151.948363
-url: /qld/wallangarra/
 layout: suburb
+longitude: 151.948363
+postcode: '4383'
+state: QLD
+title: WALLANGARRA
+url: /qld/wallangarra/
 ---

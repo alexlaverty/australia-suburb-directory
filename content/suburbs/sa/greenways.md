@@ -1,9 +1,10 @@
 ---
-title: GREENWAYS
-state: SA
-postcode: 5272
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.162862
-longitude: 140.321798
-url: /sa/greenways/
 layout: suburb
+longitude: 140.321798
+postcode: '5272'
+state: SA
+title: GREENWAYS
+url: /sa/greenways/
 ---

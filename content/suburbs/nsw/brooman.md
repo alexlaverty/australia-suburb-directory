@@ -1,9 +1,10 @@
 ---
-title: BROOMAN
-state: NSW
-postcode: 2538
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.366161
-longitude: 150.320507
-url: /nsw/brooman/
 layout: suburb
+longitude: 150.320507
+postcode: '2538'
+state: NSW
+title: BROOMAN
+url: /nsw/brooman/
 ---

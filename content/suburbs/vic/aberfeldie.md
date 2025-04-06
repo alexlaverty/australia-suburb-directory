@@ -1,9 +1,10 @@
 ---
-title: ABERFELDIE
-state: VIC
-postcode: 3040
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.751845
-longitude: 144.902556
-url: /vic/aberfeldie/
 layout: suburb
+longitude: 144.902556
+postcode: '3040'
+state: VIC
+title: ABERFELDIE
+url: /vic/aberfeldie/
 ---

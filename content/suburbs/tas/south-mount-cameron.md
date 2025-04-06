@@ -1,9 +1,10 @@
 ---
-title: SOUTH MOUNT CAMERON
-state: TAS
-postcode: 7264
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.015197
-longitude: 148.026137
-url: /tas/south-mount-cameron/
 layout: suburb
+longitude: 148.026137
+postcode: '7264'
+state: TAS
+title: SOUTH MOUNT CAMERON
+url: /tas/south-mount-cameron/
 ---

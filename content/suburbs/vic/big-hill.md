@@ -1,9 +1,10 @@
 ---
-title: BIG HILL
-state: VIC
-postcode: 3555
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.777226
-longitude: 144.245239
-url: /vic/big-hill/
 layout: suburb
+longitude: 144.245239
+postcode: '3555'
+state: VIC
+title: BIG HILL
+url: /vic/big-hill/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SOUTH MELBOURNE DC
-state: VIC
-postcode: 3205
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.831693
-longitude: 144.958176
-url: /vic/south-melbourne-dc/
 layout: suburb
+longitude: 144.958176
+postcode: '3205'
+state: VIC
+title: SOUTH MELBOURNE DC
+url: /vic/south-melbourne-dc/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BUFF POINT
-state: NSW
-postcode: 2262
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.209125
-longitude: 151.528042
-url: /nsw/buff-point/
 layout: suburb
+longitude: 151.528042
+postcode: '2262'
+state: NSW
+title: BUFF POINT
+url: /nsw/buff-point/
 ---

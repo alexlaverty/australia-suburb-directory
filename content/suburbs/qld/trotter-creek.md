@@ -1,9 +1,10 @@
 ---
-title: TROTTER CREEK
-state: QLD
-postcode: 4714
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.66268
-longitude: 150.394906
-url: /qld/trotter-creek/
 layout: suburb
+longitude: 150.394906
+postcode: '4714'
+state: QLD
+title: TROTTER CREEK
+url: /qld/trotter-creek/
 ---

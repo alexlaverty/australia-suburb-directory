@@ -1,9 +1,10 @@
 ---
-title: CORA LYNN
-state: VIC
-postcode: 3814
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.10718
-longitude: 145.669112
-url: /vic/cora-lynn/
 layout: suburb
+longitude: 145.669112
+postcode: '3814'
+state: VIC
+title: CORA LYNN
+url: /vic/cora-lynn/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MOUNT SLIDE
-state: VIC
-postcode: 3763
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.521863
-longitude: 145.353378
-url: /vic/mount-slide/
 layout: suburb
+longitude: 145.353378
+postcode: '3763'
+state: VIC
+title: MOUNT SLIDE
+url: /vic/mount-slide/
 ---

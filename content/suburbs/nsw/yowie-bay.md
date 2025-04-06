@@ -1,9 +1,10 @@
 ---
-title: YOWIE BAY
-state: NSW
-postcode: 2228
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.037692
-longitude: 151.101564
-url: /nsw/yowie-bay/
 layout: suburb
+longitude: 151.101564
+postcode: '2228'
+state: NSW
+title: YOWIE BAY
+url: /nsw/yowie-bay/
 ---

@@ -1,9 +1,10 @@
 ---
-title: TANAH MERAH
-state: QLD
-postcode: 4128
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.652403
-longitude: 153.174214
-url: /qld/tanah-merah/
 layout: suburb
+longitude: 153.174214
+postcode: '4128'
+state: QLD
+title: TANAH MERAH
+url: /qld/tanah-merah/
 ---

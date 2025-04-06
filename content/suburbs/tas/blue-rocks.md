@@ -1,9 +1,10 @@
 ---
-title: BLUE ROCKS
-state: TAS
-postcode: 7255
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -39.949379
-longitude: 148.329247
-url: /tas/blue-rocks/
 layout: suburb
+longitude: 148.329247
+postcode: '7255'
+state: TAS
+title: BLUE ROCKS
+url: /tas/blue-rocks/
 ---

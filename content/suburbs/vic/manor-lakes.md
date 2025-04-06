@@ -1,9 +1,10 @@
 ---
-title: MANOR LAKES
-state: VIC
-postcode: 3024
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.86694209
-longitude: 144.5812323
-url: /vic/manor-lakes/
 layout: suburb
+longitude: 144.5812323
+postcode: '3024'
+state: VIC
+title: MANOR LAKES
+url: /vic/manor-lakes/
 ---

@@ -1,9 +1,10 @@
 ---
-title: IRON BARON
-state: SA
-postcode: 5611
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.98961545
-longitude: 137.1595436
-url: /sa/iron-baron/
 layout: suburb
+longitude: 137.1595436
+postcode: '5611'
+state: SA
+title: IRON BARON
+url: /sa/iron-baron/
 ---

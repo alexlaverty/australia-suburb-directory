@@ -1,9 +1,10 @@
 ---
-title: CRAFERS WEST
-state: SA
-postcode: 5152
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.998401
-longitude: 138.703957
-url: /sa/crafers-west/
 layout: suburb
+longitude: 138.703957
+postcode: '5152'
+state: SA
+title: CRAFERS WEST
+url: /sa/crafers-west/
 ---

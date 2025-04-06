@@ -1,9 +1,10 @@
 ---
-title: OAKFORD
-state: WA
-postcode: 6121
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.208934
-longitude: 115.916459
-url: /wa/oakford/
 layout: suburb
+longitude: 115.916459
+postcode: '6121'
+state: WA
+title: OAKFORD
+url: /wa/oakford/
 ---

@@ -1,9 +1,10 @@
 ---
-title: YOUNGHUSBAND
-state: SA
-postcode: 5238
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.92127935
-longitude: 139.5289413
-url: /sa/younghusband/
 layout: suburb
+longitude: 139.5289413
+postcode: '5238'
+state: SA
+title: YOUNGHUSBAND
+url: /sa/younghusband/
 ---

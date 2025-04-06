@@ -1,9 +1,10 @@
 ---
-title: NINE MILE CREEK
-state: QLD
-postcode: 4714
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.66268
-longitude: 150.394906
-url: /qld/nine-mile-creek/
 layout: suburb
+longitude: 150.394906
+postcode: '4714'
+state: QLD
+title: NINE MILE CREEK
+url: /qld/nine-mile-creek/
 ---

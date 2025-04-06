@@ -1,9 +1,10 @@
 ---
-title: TURRIFF EAST
-state: VIC
-postcode: 3488
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.435634
-longitude: 142.427118
-url: /vic/turriff-east/
 layout: suburb
+longitude: 142.427118
+postcode: '3488'
+state: VIC
+title: TURRIFF EAST
+url: /vic/turriff-east/
 ---

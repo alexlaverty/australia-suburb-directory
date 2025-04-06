@@ -1,9 +1,10 @@
 ---
-title: SAINT RONANS
-state: WA
-postcode: 6302
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.896269
-longitude: 116.742895
-url: /wa/saint-ronans/
 layout: suburb
+longitude: 116.742895
+postcode: '6302'
+state: WA
+title: SAINT RONANS
+url: /wa/saint-ronans/
 ---

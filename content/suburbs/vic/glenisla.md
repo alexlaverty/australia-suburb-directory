@@ -1,9 +1,10 @@
 ---
-title: GLENISLA
-state: VIC
-postcode: 3314
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.586718
-longitude: 141.935665
-url: /vic/glenisla/
 layout: suburb
+longitude: 141.935665
+postcode: '3314'
+state: VIC
+title: GLENISLA
+url: /vic/glenisla/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SCOTTS BROOK
-state: WA
-postcode: 6244
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.783171
-longitude: 116.506912
-url: /wa/scotts-brook/
 layout: suburb
+longitude: 116.506912
+postcode: '6244'
+state: WA
+title: SCOTTS BROOK
+url: /wa/scotts-brook/
 ---

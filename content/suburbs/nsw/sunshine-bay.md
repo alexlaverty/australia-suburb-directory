@@ -1,9 +1,10 @@
 ---
-title: SUNSHINE BAY
-state: NSW
-postcode: 2536
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.671272
-longitude: 150.125945
-url: /nsw/sunshine-bay/
 layout: suburb
+longitude: 150.125945
+postcode: '2536'
+state: NSW
+title: SUNSHINE BAY
+url: /nsw/sunshine-bay/
 ---

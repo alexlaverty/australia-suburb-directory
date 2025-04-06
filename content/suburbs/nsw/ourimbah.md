@@ -1,9 +1,10 @@
 ---
-title: OURIMBAH
-state: NSW
-postcode: 2258
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.333187
-longitude: 151.3433
-url: /nsw/ourimbah/
 layout: suburb
+longitude: 151.3433
+postcode: '2258'
+state: NSW
+title: OURIMBAH
+url: /nsw/ourimbah/
 ---

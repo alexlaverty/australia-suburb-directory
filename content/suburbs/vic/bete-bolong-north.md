@@ -1,9 +1,10 @@
 ---
-title: BETE BOLONG NORTH
-state: VIC
-postcode: 3888
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.39051
-longitude: 148.660943
-url: /vic/bete-bolong-north/
 layout: suburb
+longitude: 148.660943
+postcode: '3888'
+state: VIC
+title: BETE BOLONG NORTH
+url: /vic/bete-bolong-north/
 ---

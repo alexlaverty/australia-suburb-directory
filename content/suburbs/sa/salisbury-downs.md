@@ -1,9 +1,10 @@
 ---
-title: SALISBURY DOWNS
-state: SA
-postcode: 5108
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.761553
-longitude: 138.61884
-url: /sa/salisbury-downs/
 layout: suburb
+longitude: 138.61884
+postcode: '5108'
+state: SA
+title: SALISBURY DOWNS
+url: /sa/salisbury-downs/
 ---

@@ -1,9 +1,10 @@
 ---
-title: THERESA CREEK
-state: NSW
-postcode: 2469
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.338403
-longitude: 153.002402
-url: /nsw/theresa-creek/
 layout: suburb
+longitude: 153.002402
+postcode: '2469'
+state: NSW
+title: THERESA CREEK
+url: /nsw/theresa-creek/
 ---

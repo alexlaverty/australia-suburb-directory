@@ -1,9 +1,10 @@
 ---
-title: STOCKTON
-state: QLD
-postcode: 4871
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.934184
-longitude: 145.994075
-url: /qld/stockton/
 layout: suburb
+longitude: 145.994075
+postcode: '4871'
+state: QLD
+title: STOCKTON
+url: /qld/stockton/
 ---

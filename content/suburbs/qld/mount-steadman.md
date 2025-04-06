@@ -1,9 +1,10 @@
 ---
-title: MOUNT STEADMAN
-state: QLD
-postcode: 4650
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.640978
-longitude: 152.791302
-url: /qld/mount-steadman/
 layout: suburb
+longitude: 152.791302
+postcode: '4650'
+state: QLD
+title: MOUNT STEADMAN
+url: /qld/mount-steadman/
 ---

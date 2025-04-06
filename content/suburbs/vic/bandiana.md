@@ -1,9 +1,10 @@
 ---
-title: BANDIANA
-state: VIC
-postcode: 3694
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.150678
-longitude: 146.919493
-url: /vic/bandiana/
 layout: suburb
+longitude: 146.919493
+postcode: '3694'
+state: VIC
+title: BANDIANA
+url: /vic/bandiana/
 ---

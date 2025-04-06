@@ -1,9 +1,10 @@
 ---
-title: PEGARAH
-state: TAS
-postcode: 7256
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -39.830946
-longitude: 144.159775
-url: /tas/pegarah/
 layout: suburb
+longitude: 144.159775
+postcode: '7256'
+state: TAS
+title: PEGARAH
+url: /tas/pegarah/
 ---

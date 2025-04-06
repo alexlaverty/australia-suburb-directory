@@ -1,9 +1,10 @@
 ---
-title: NORTH TRAYNING
-state: WA
-postcode: 6488
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.127571
-longitude: 117.735836
-url: /wa/north-trayning/
 layout: suburb
+longitude: 117.735836
+postcode: '6488'
+state: WA
+title: NORTH TRAYNING
+url: /wa/north-trayning/
 ---

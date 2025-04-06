@@ -1,9 +1,10 @@
 ---
-title: EVERTON PARK
-state: QLD
-postcode: 4053
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.399573
-longitude: 152.98725
-url: /qld/everton-park/
 layout: suburb
+longitude: 152.98725
+postcode: '4053'
+state: QLD
+title: EVERTON PARK
+url: /qld/everton-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GOOMBARGANA
-state: NSW
-postcode: 2646
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.757569
-longitude: 146.324523
-url: /nsw/goombargana/
 layout: suburb
+longitude: 146.324523
+postcode: '2646'
+state: NSW
+title: GOOMBARGANA
+url: /nsw/goombargana/
 ---

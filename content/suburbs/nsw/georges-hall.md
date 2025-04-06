@@ -1,9 +1,10 @@
 ---
-title: GEORGES HALL
-state: NSW
-postcode: 2198
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.908788
-longitude: 150.986277
-url: /nsw/georges-hall/
 layout: suburb
+longitude: 150.986277
+postcode: '2198'
+state: NSW
+title: GEORGES HALL
+url: /nsw/georges-hall/
 ---

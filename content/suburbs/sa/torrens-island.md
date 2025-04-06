@@ -1,9 +1,10 @@
 ---
-title: TORRENS ISLAND
-state: SA
-postcode: 5015
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.840209
-longitude: 138.496803
-url: /sa/torrens-island/
 layout: suburb
+longitude: 138.496803
+postcode: '5015'
+state: SA
+title: TORRENS ISLAND
+url: /sa/torrens-island/
 ---

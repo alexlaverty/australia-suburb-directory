@@ -1,9 +1,10 @@
 ---
-title: ST CLAIR
-state: NSW
-postcode: 2759
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.82252
-longitude: 150.781767
-url: /nsw/st-clair/
 layout: suburb
+longitude: 150.781767
+postcode: '2759'
+state: NSW
+title: ST CLAIR
+url: /nsw/st-clair/
 ---

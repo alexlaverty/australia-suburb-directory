@@ -1,9 +1,10 @@
 ---
-title: CARBINE CREEK
-state: QLD
-postcode: 4723
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.18786242
-longitude: 147.7853995
-url: /qld/carbine-creek/
 layout: suburb
+longitude: 147.7853995
+postcode: '4723'
+state: QLD
+title: CARBINE CREEK
+url: /qld/carbine-creek/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CHRISTMAS HILLS
-state: VIC
-postcode: 3775
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.642852
-longitude: 145.365993
-url: /vic/christmas-hills/
 layout: suburb
+longitude: 145.365993
+postcode: '3775'
+state: VIC
+title: CHRISTMAS HILLS
+url: /vic/christmas-hills/
 ---

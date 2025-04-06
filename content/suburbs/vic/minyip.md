@@ -1,9 +1,10 @@
 ---
-title: MINYIP
-state: VIC
-postcode: 3392
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.430131
-longitude: 142.677858
-url: /vic/minyip/
 layout: suburb
+longitude: 142.677858
+postcode: '3392'
+state: VIC
+title: MINYIP
+url: /vic/minyip/
 ---

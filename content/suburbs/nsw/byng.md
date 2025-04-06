@@ -1,9 +1,10 @@
 ---
-title: BYNG
-state: NSW
-postcode: 2800
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.34774733
-longitude: 149.2451236
-url: /nsw/byng/
 layout: suburb
+longitude: 149.2451236
+postcode: '2800'
+state: NSW
+title: BYNG
+url: /nsw/byng/
 ---

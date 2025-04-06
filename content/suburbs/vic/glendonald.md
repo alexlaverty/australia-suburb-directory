@@ -1,9 +1,10 @@
 ---
-title: GLENDONALD
-state: VIC
-postcode: 3364
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.36045587
-longitude: 143.8443538
-url: /vic/glendonald/
 layout: suburb
+longitude: 143.8443538
+postcode: '3364'
+state: VIC
+title: GLENDONALD
+url: /vic/glendonald/
 ---

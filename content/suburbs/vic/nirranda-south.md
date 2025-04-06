@@ -1,9 +1,10 @@
 ---
-title: NIRRANDA SOUTH
-state: VIC
-postcode: 3268
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.535802
-longitude: 142.908911
-url: /vic/nirranda-south/
 layout: suburb
+longitude: 142.908911
+postcode: '3268'
+state: VIC
+title: NIRRANDA SOUTH
+url: /vic/nirranda-south/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SPRING MOUNTAIN
-state: NSW
-postcode: 2370
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.8315
-longitude: 151.4928
-url: /nsw/spring-mountain/
 layout: suburb
+longitude: 151.4928
+postcode: '2370'
+state: NSW
+title: SPRING MOUNTAIN
+url: /nsw/spring-mountain/
 ---

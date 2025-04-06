@@ -1,9 +1,10 @@
 ---
-title: INDIGO
-state: VIC
-postcode: 3683
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.180787
-longitude: 146.604622
-url: /vic/indigo/
 layout: suburb
+longitude: 146.604622
+postcode: '3683'
+state: VIC
+title: INDIGO
+url: /vic/indigo/
 ---

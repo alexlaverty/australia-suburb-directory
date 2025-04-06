@@ -1,9 +1,10 @@
 ---
-title: OATLANDS
-state: TAS
-postcode: 7120
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.31694
-longitude: 147.48727
-url: /tas/oatlands/
 layout: suburb
+longitude: 147.48727
+postcode: '7120'
+state: TAS
+title: OATLANDS
+url: /tas/oatlands/
 ---

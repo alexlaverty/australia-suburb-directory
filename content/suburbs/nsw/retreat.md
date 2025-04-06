@@ -1,9 +1,10 @@
 ---
-title: RETREAT
-state: NSW
-postcode: 2713
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.586342
-longitude: 145.52068
-url: /nsw/retreat/
 layout: suburb
+longitude: 145.52068
+postcode: '2713'
+state: NSW
+title: RETREAT
+url: /nsw/retreat/
 ---

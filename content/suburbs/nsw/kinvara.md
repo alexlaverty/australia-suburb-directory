@@ -1,9 +1,10 @@
 ---
-title: KINVARA
-state: NSW
-postcode: 2478
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.79173459
-longitude: 153.5470004
-url: /nsw/kinvara/
 layout: suburb
+longitude: 153.5470004
+postcode: '2478'
+state: NSW
+title: KINVARA
+url: /nsw/kinvara/
 ---

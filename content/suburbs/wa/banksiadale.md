@@ -1,9 +1,10 @@
 ---
-title: BANKSIADALE
-state: WA
-postcode: 6213
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.702065
-longitude: 116.128249
-url: /wa/banksiadale/
 layout: suburb
+longitude: 116.128249
+postcode: '6213'
+state: WA
+title: BANKSIADALE
+url: /wa/banksiadale/
 ---

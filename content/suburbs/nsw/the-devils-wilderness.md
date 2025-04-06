@@ -1,9 +1,10 @@
 ---
-title: THE DEVILS WILDERNESS
-state: NSW
-postcode: 2758
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.54288496
-longitude: 150.5320309
-url: /nsw/the-devils-wilderness/
 layout: suburb
+longitude: 150.5320309
+postcode: '2758'
+state: NSW
+title: THE DEVILS WILDERNESS
+url: /nsw/the-devils-wilderness/
 ---

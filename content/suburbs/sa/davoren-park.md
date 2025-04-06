@@ -1,9 +1,10 @@
 ---
-title: DAVOREN PARK
-state: SA
-postcode: 5113
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.702506
-longitude: 138.674449
-url: /sa/davoren-park/
 layout: suburb
+longitude: 138.674449
+postcode: '5113'
+state: SA
+title: DAVOREN PARK
+url: /sa/davoren-park/
 ---

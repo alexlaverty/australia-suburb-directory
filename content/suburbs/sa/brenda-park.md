@@ -1,9 +1,10 @@
 ---
-title: BRENDA PARK
-state: SA
-postcode: 5320
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.06761517
-longitude: 139.6820449
-url: /sa/brenda-park/
 layout: suburb
+longitude: 139.6820449
+postcode: '5320'
+state: SA
+title: BRENDA PARK
+url: /sa/brenda-park/
 ---

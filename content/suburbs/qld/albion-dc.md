@@ -1,9 +1,10 @@
 ---
-title: ALBION DC
-state: QLD
-postcode: 4010
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.433237
-longitude: 153.04354
-url: /qld/albion-dc/
 layout: suburb
+longitude: 153.04354
+postcode: '4010'
+state: QLD
+title: ALBION DC
+url: /qld/albion-dc/
 ---

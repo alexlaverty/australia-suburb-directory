@@ -1,9 +1,10 @@
 ---
-title: WESTMERE
-state: VIC
-postcode: 3351
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.758248
-longitude: 143.637463
-url: /vic/westmere/
 layout: suburb
+longitude: 143.637463
+postcode: '3351'
+state: VIC
+title: WESTMERE
+url: /vic/westmere/
 ---

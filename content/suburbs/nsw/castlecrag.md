@@ -1,9 +1,10 @@
 ---
-title: CASTLECRAG
-state: NSW
-postcode: 2068
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.800881
-longitude: 151.202715
-url: /nsw/castlecrag/
 layout: suburb
+longitude: 151.202715
+postcode: '2068'
+state: NSW
+title: CASTLECRAG
+url: /nsw/castlecrag/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WINCHELSEA SOUTH
-state: VIC
-postcode: 3241
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.20363
-longitude: 143.892824
-url: /vic/winchelsea-south/
 layout: suburb
+longitude: 143.892824
+postcode: '3241'
+state: VIC
+title: WINCHELSEA SOUTH
+url: /vic/winchelsea-south/
 ---

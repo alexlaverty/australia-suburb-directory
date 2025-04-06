@@ -1,9 +1,10 @@
 ---
-title: WARDING EAST
-state: WA
-postcode: 6405
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.605825
-longitude: 117.020194
-url: /wa/warding-east/
 layout: suburb
+longitude: 117.020194
+postcode: '6405'
+state: WA
+title: WARDING EAST
+url: /wa/warding-east/
 ---

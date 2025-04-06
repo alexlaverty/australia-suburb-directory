@@ -1,9 +1,10 @@
 ---
-title: ST KITTS
-state: SA
-postcode: 5356
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.353109
-longitude: 139.240946
-url: /sa/st-kitts/
 layout: suburb
+longitude: 139.240946
+postcode: '5356'
+state: SA
+title: ST KITTS
+url: /sa/st-kitts/
 ---

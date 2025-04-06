@@ -1,9 +1,10 @@
 ---
-title: MOUNT ROOPER
-state: QLD
-postcode: 4802
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -20.271072
-longitude: 148.989038
-url: /qld/mount-rooper/
 layout: suburb
+longitude: 148.989038
+postcode: '4802'
+state: QLD
+title: MOUNT ROOPER
+url: /qld/mount-rooper/
 ---

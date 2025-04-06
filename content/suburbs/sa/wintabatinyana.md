@@ -1,9 +1,10 @@
 ---
-title: WINTABATINYANA
-state: SA
-postcode: 5713
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.4446
-longitude: 138.1808
-url: /sa/wintabatinyana/
 layout: suburb
+longitude: 138.1808
+postcode: '5713'
+state: SA
+title: WINTABATINYANA
+url: /sa/wintabatinyana/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WENTWORTH PORT
-state: NSW
-postcode: 2177
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.888801
-longitude: 150.886505
-url: /nsw/wentworth-port/
 layout: suburb
+longitude: 150.886505
+postcode: '2177'
+state: NSW
+title: WENTWORTH PORT
+url: /nsw/wentworth-port/
 ---

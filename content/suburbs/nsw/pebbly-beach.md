@@ -1,9 +1,10 @@
 ---
-title: PEBBLY BEACH
-state: NSW
-postcode: 2536
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.59942886
-longitude: 150.3328672
-url: /nsw/pebbly-beach/
 layout: suburb
+longitude: 150.3328672
+postcode: '2536'
+state: NSW
+title: PEBBLY BEACH
+url: /nsw/pebbly-beach/
 ---

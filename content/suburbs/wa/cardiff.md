@@ -1,9 +1,10 @@
 ---
-title: CARDIFF
-state: WA
-postcode: 6225
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.35257
-longitude: 116.204886
-url: /wa/cardiff/
 layout: suburb
+longitude: 116.204886
+postcode: '6225'
+state: WA
+title: CARDIFF
+url: /wa/cardiff/
 ---

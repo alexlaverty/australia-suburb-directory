@@ -1,9 +1,10 @@
 ---
-title: MUDLO
-state: QLD
-postcode: 4600
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.055099
-longitude: 152.221081
-url: /qld/mudlo/
 layout: suburb
+longitude: 152.221081
+postcode: '4600'
+state: QLD
+title: MUDLO
+url: /qld/mudlo/
 ---

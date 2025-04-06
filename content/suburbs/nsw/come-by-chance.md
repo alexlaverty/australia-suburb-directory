@@ -1,9 +1,10 @@
 ---
-title: COME BY CHANCE
-state: NSW
-postcode: 2832
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.958521
-longitude: 147.983033
-url: /nsw/come-by-chance/
 layout: suburb
+longitude: 147.983033
+postcode: '2832'
+state: NSW
+title: COME BY CHANCE
+url: /nsw/come-by-chance/
 ---

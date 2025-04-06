@@ -1,9 +1,10 @@
 ---
-title: PASTORIA
-state: VIC
-postcode: 3444
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.171788
-longitude: 144.544716
-url: /vic/pastoria/
 layout: suburb
+longitude: 144.544716
+postcode: '3444'
+state: VIC
+title: PASTORIA
+url: /vic/pastoria/
 ---

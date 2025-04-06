@@ -1,9 +1,10 @@
 ---
-title: CAMBERWELL EAST
-state: VIC
-postcode: 3126
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.827203
-longitude: 145.075748
-url: /vic/camberwell-east/
 layout: suburb
+longitude: 145.075748
+postcode: '3126'
+state: VIC
+title: CAMBERWELL EAST
+url: /vic/camberwell-east/
 ---

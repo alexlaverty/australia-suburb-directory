@@ -1,9 +1,10 @@
 ---
-title: BLINMAN
-state: SA
-postcode: 5730
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.109943
-longitude: 138.641084
-url: /sa/blinman/
 layout: suburb
+longitude: 138.641084
+postcode: '5730'
+state: SA
+title: BLINMAN
+url: /sa/blinman/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GOWANFORD
-state: VIC
-postcode: 3544
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.487989
-longitude: 143.14445
-url: /vic/gowanford/
 layout: suburb
+longitude: 143.14445
+postcode: '3544'
+state: VIC
+title: GOWANFORD
+url: /vic/gowanford/
 ---

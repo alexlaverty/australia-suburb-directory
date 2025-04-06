@@ -1,9 +1,10 @@
 ---
-title: BRAHMA LODGE
-state: SA
-postcode: 5109
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.771432
-longitude: 138.663871
-url: /sa/brahma-lodge/
 layout: suburb
+longitude: 138.663871
+postcode: '5109'
+state: SA
+title: BRAHMA LODGE
+url: /sa/brahma-lodge/
 ---

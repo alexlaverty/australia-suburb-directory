@@ -1,9 +1,10 @@
 ---
-title: GELLIBRAND LOWER
-state: VIC
-postcode: 3237
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.716838
-longitude: 143.474392
-url: /vic/gellibrand-lower/
 layout: suburb
+longitude: 143.474392
+postcode: '3237'
+state: VIC
+title: GELLIBRAND LOWER
+url: /vic/gellibrand-lower/
 ---

@@ -1,9 +1,10 @@
 ---
-title: YANINEE
-state: SA
-postcode: 5653
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.967987
-longitude: 135.229267
-url: /sa/yaninee/
 layout: suburb
+longitude: 135.229267
+postcode: '5653'
+state: SA
+title: YANINEE
+url: /sa/yaninee/
 ---

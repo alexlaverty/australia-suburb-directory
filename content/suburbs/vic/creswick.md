@@ -1,9 +1,10 @@
 ---
-title: CRESWICK
-state: VIC
-postcode: 3363
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.420588
-longitude: 143.88637
-url: /vic/creswick/
 layout: suburb
+longitude: 143.88637
+postcode: '3363'
+state: VIC
+title: CRESWICK
+url: /vic/creswick/
 ---

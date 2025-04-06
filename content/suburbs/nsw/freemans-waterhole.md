@@ -1,9 +1,10 @@
 ---
-title: FREEMANS WATERHOLE
-state: NSW
-postcode: 2323
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.757616
-longitude: 151.607554
-url: /nsw/freemans-waterhole/
 layout: suburb
+longitude: 151.607554
+postcode: '2323'
+state: NSW
+title: FREEMANS WATERHOLE
+url: /nsw/freemans-waterhole/
 ---

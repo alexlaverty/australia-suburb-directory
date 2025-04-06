@@ -1,9 +1,10 @@
 ---
-title: KILLARA
-state: NSW
-postcode: 2071
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.761834
-longitude: 151.171738
-url: /nsw/killara/
 layout: suburb
+longitude: 151.171738
+postcode: '2071'
+state: NSW
+title: KILLARA
+url: /nsw/killara/
 ---

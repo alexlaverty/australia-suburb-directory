@@ -1,9 +1,10 @@
 ---
-title: PARABURDOO
-state: WA
-postcode: 6754
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -23.303751
-longitude: 117.47663
-url: /wa/paraburdoo/
 layout: suburb
+longitude: 117.47663
+postcode: '6754'
+state: WA
+title: PARABURDOO
+url: /wa/paraburdoo/
 ---

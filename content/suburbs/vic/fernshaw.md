@@ -1,9 +1,10 @@
 ---
-title: FERNSHAW
-state: VIC
-postcode: 3778
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.537492
-longitude: 145.623011
-url: /vic/fernshaw/
 layout: suburb
+longitude: 145.623011
+postcode: '3778'
+state: VIC
+title: FERNSHAW
+url: /vic/fernshaw/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WANALTA
-state: VIC
-postcode: 3612
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.575936
-longitude: 145.019312
-url: /vic/wanalta/
 layout: suburb
+longitude: 145.019312
+postcode: '3612'
+state: VIC
+title: WANALTA
+url: /vic/wanalta/
 ---

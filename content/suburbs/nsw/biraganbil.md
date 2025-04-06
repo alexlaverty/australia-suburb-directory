@@ -1,9 +1,10 @@
 ---
-title: BIRAGANBIL
-state: NSW
-postcode: 2852
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.280785
-longitude: 149.45909
-url: /nsw/biraganbil/
 layout: suburb
+longitude: 149.45909
+postcode: '2852'
+state: NSW
+title: BIRAGANBIL
+url: /nsw/biraganbil/
 ---

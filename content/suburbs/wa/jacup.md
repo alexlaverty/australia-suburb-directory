@@ -1,9 +1,10 @@
 ---
-title: JACUP
-state: WA
-postcode: 6337
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.990448
-longitude: 119.237195
-url: /wa/jacup/
 layout: suburb
+longitude: 119.237195
+postcode: '6337'
+state: WA
+title: JACUP
+url: /wa/jacup/
 ---

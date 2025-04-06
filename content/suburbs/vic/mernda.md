@@ -1,9 +1,10 @@
 ---
-title: MERNDA
-state: VIC
-postcode: 3754
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.593554
-longitude: 145.112985
-url: /vic/mernda/
 layout: suburb
+longitude: 145.112985
+postcode: '3754'
+state: VIC
+title: MERNDA
+url: /vic/mernda/
 ---

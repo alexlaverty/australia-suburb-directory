@@ -1,9 +1,10 @@
 ---
-title: FORREST
-state: ACT
-postcode: 2603
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.330382
-longitude: 149.125739
-url: /act/forrest/
 layout: suburb
+longitude: 149.125739
+postcode: '2603'
+state: ACT
+title: FORREST
+url: /act/forrest/
 ---

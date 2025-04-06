@@ -1,9 +1,10 @@
 ---
-title: MOUNT BARKER
-state: WA
-postcode: 6324
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.618289
-longitude: 117.781468
-url: /wa/mount-barker/
 layout: suburb
+longitude: 117.781468
+postcode: '6324'
+state: WA
+title: MOUNT BARKER
+url: /wa/mount-barker/
 ---

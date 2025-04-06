@@ -1,9 +1,10 @@
 ---
-title: LAKE INNES
-state: NSW
-postcode: 2446
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.387394
-longitude: 152.466916
-url: /nsw/lake-innes/
 layout: suburb
+longitude: 152.466916
+postcode: '2446'
+state: NSW
+title: LAKE INNES
+url: /nsw/lake-innes/
 ---

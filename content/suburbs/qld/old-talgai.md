@@ -1,9 +1,10 @@
 ---
-title: OLD TALGAI
-state: QLD
-postcode: 4362
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.035848
-longitude: 151.982723
-url: /qld/old-talgai/
 layout: suburb
+longitude: 151.982723
+postcode: '4362'
+state: QLD
+title: OLD TALGAI
+url: /qld/old-talgai/
 ---

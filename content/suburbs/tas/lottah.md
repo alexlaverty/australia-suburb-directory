@@ -1,9 +1,10 @@
 ---
-title: LOTTAH
-state: TAS
-postcode: 7216
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.284242
-longitude: 148.076401
-url: /tas/lottah/
 layout: suburb
+longitude: 148.076401
+postcode: '7216'
+state: TAS
+title: LOTTAH
+url: /tas/lottah/
 ---

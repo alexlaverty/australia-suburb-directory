@@ -1,9 +1,10 @@
 ---
-title: IRREWARRA
-state: VIC
-postcode: 3249
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.388291
-longitude: 143.557159
-url: /vic/irrewarra/
 layout: suburb
+longitude: 143.557159
+postcode: '3249'
+state: VIC
+title: IRREWARRA
+url: /vic/irrewarra/
 ---

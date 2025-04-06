@@ -1,9 +1,10 @@
 ---
-title: TRINDER PARK
-state: QLD
-postcode: 4114
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.652812
-longitude: 153.110764
-url: /qld/trinder-park/
 layout: suburb
+longitude: 153.110764
+postcode: '4114'
+state: QLD
+title: TRINDER PARK
+url: /qld/trinder-park/
 ---

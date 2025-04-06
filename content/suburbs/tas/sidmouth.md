@@ -1,9 +1,10 @@
 ---
-title: SIDMOUTH
-state: TAS
-postcode: 7270
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.177924
-longitude: 146.783947
-url: /tas/sidmouth/
 layout: suburb
+longitude: 146.783947
+postcode: '7270'
+state: TAS
+title: SIDMOUTH
+url: /tas/sidmouth/
 ---

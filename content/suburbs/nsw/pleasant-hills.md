@@ -1,9 +1,10 @@
 ---
-title: PLEASANT HILLS
-state: NSW
-postcode: 2658
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.535739
-longitude: 146.977849
-url: /nsw/pleasant-hills/
 layout: suburb
+longitude: 146.977849
+postcode: '2658'
+state: NSW
+title: PLEASANT HILLS
+url: /nsw/pleasant-hills/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DOUGLAS POINT
-state: SA
-postcode: 5601
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.84744376
-longitude: 137.8076599
-url: /sa/douglas-point/
 layout: suburb
+longitude: 137.8076599
+postcode: '5601'
+state: SA
+title: DOUGLAS POINT
+url: /sa/douglas-point/
 ---

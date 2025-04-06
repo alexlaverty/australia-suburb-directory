@@ -1,9 +1,10 @@
 ---
-title: BERRY PARK
-state: NSW
-postcode: 2321
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.660186
-longitude: 151.683702
-url: /nsw/berry-park/
 layout: suburb
+longitude: 151.683702
+postcode: '2321'
+state: NSW
+title: BERRY PARK
+url: /nsw/berry-park/
 ---

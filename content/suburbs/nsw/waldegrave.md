@@ -1,9 +1,10 @@
 ---
-title: WALDEGRAVE
-state: NSW
-postcode: 2800
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.43795921
-longitude: 149.0482565
-url: /nsw/waldegrave/
 layout: suburb
+longitude: 149.0482565
+postcode: '2800'
+state: NSW
+title: WALDEGRAVE
+url: /nsw/waldegrave/
 ---

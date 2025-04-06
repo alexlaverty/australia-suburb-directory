@@ -1,9 +1,10 @@
 ---
-title: ISRAELITE BAY
-state: WA
-postcode: 6452
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.91833
-longitude: 122.895
-url: /wa/israelite-bay/
 layout: suburb
+longitude: 122.895
+postcode: '6452'
+state: WA
+title: ISRAELITE BAY
+url: /wa/israelite-bay/
 ---

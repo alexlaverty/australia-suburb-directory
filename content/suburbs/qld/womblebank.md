@@ -1,9 +1,10 @@
 ---
-title: WOMBLEBANK
-state: QLD
-postcode: 4465
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.968591
-longitude: 148.062548
-url: /qld/womblebank/
 layout: suburb
+longitude: 148.062548
+postcode: '4465'
+state: QLD
+title: WOMBLEBANK
+url: /qld/womblebank/
 ---

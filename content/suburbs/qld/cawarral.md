@@ -1,9 +1,10 @@
 ---
-title: CAWARRAL
-state: QLD
-postcode: 4702
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.279639
-longitude: 150.885772
-url: /qld/cawarral/
 layout: suburb
+longitude: 150.885772
+postcode: '4702'
+state: QLD
+title: CAWARRAL
+url: /qld/cawarral/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WANGOOM
-state: VIC
-postcode: 3279
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.214555
-longitude: 142.657483
-url: /vic/wangoom/
 layout: suburb
+longitude: 142.657483
+postcode: '3279'
+state: VIC
+title: WANGOOM
+url: /vic/wangoom/
 ---

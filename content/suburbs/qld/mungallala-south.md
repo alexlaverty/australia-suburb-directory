@@ -1,9 +1,10 @@
 ---
-title: MUNGALLALA SOUTH
-state: QLD
-postcode: 4467
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.76362198
-longitude: 147.4483979
-url: /qld/mungallala-south/
 layout: suburb
+longitude: 147.4483979
+postcode: '4467'
+state: QLD
+title: MUNGALLALA SOUTH
+url: /qld/mungallala-south/
 ---

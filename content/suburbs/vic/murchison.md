@@ -1,9 +1,10 @@
 ---
-title: MURCHISON
-state: VIC
-postcode: 3610
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.577628
-longitude: 145.229349
-url: /vic/murchison/
 layout: suburb
+longitude: 145.229349
+postcode: '3610'
+state: VIC
+title: MURCHISON
+url: /vic/murchison/
 ---

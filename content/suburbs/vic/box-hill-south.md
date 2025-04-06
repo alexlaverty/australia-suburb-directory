@@ -1,9 +1,10 @@
 ---
-title: BOX HILL SOUTH
-state: VIC
-postcode: 3128
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.828866
-longitude: 145.122393
-url: /vic/box-hill-south/
 layout: suburb
+longitude: 145.122393
+postcode: '3128'
+state: VIC
+title: BOX HILL SOUTH
+url: /vic/box-hill-south/
 ---

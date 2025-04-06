@@ -1,9 +1,10 @@
 ---
-title: HABERFIELD
-state: NSW
-postcode: 2045
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.879301
-longitude: 151.138684
-url: /nsw/haberfield/
 layout: suburb
+longitude: 151.138684
+postcode: '2045'
+state: NSW
+title: HABERFIELD
+url: /nsw/haberfield/
 ---

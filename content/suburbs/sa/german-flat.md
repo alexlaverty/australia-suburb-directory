@@ -1,9 +1,10 @@
 ---
-title: GERMAN FLAT
-state: SA
-postcode: 5280
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.7840189
-longitude: 140.4196268
-url: /sa/german-flat/
 layout: suburb
+longitude: 140.4196268
+postcode: '5280'
+state: SA
+title: GERMAN FLAT
+url: /sa/german-flat/
 ---

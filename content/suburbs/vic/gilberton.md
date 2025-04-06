@@ -1,9 +1,10 @@
 ---
-title: GILBERTON
-state: VIC
-postcode: 3072
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.74247
-longitude: 145.005702
-url: /vic/gilberton/
 layout: suburb
+longitude: 145.005702
+postcode: '3072'
+state: VIC
+title: GILBERTON
+url: /vic/gilberton/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DOWS CREEK
-state: QLD
-postcode: 4754
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -21.188063
-longitude: 148.832763
-url: /qld/dows-creek/
 layout: suburb
+longitude: 148.832763
+postcode: '4754'
+state: QLD
+title: DOWS CREEK
+url: /qld/dows-creek/
 ---

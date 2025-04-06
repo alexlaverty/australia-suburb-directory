@@ -1,9 +1,10 @@
 ---
-title: PLUMBAGO
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.00073654
-longitude: 139.8961328
-url: /sa/plumbago/
 layout: suburb
+longitude: 139.8961328
+postcode: '5440'
+state: SA
+title: PLUMBAGO
+url: /sa/plumbago/
 ---

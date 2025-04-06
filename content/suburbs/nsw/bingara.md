@@ -1,9 +1,10 @@
 ---
-title: BINGARA
-state: NSW
-postcode: 2404
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.871532
-longitude: 150.49786
-url: /nsw/bingara/
 layout: suburb
+longitude: 150.49786
+postcode: '2404'
+state: NSW
+title: BINGARA
+url: /nsw/bingara/
 ---

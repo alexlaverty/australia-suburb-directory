@@ -1,9 +1,10 @@
 ---
-title: BURWOOD HEIGHTS
-state: VIC
-postcode: 3151
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.85523
-longitude: 145.151119
-url: /vic/burwood-heights/
 layout: suburb
+longitude: 145.151119
+postcode: '3151'
+state: VIC
+title: BURWOOD HEIGHTS
+url: /vic/burwood-heights/
 ---

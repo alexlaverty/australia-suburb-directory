@@ -1,9 +1,10 @@
 ---
-title: HONEYWOOD
-state: TAS
-postcode: 7017
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.719274
-longitude: 147.315111
-url: /tas/honeywood/
 layout: suburb
+longitude: 147.315111
+postcode: '7017'
+state: TAS
+title: HONEYWOOD
+url: /tas/honeywood/
 ---

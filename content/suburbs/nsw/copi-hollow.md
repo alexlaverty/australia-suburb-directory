@@ -1,9 +1,10 @@
 ---
-title: COPI HOLLOW
-state: NSW
-postcode: 2879
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.366157
-longitude: 142.666608
-url: /nsw/copi-hollow/
 layout: suburb
+longitude: 142.666608
+postcode: '2879'
+state: NSW
+title: COPI HOLLOW
+url: /nsw/copi-hollow/
 ---

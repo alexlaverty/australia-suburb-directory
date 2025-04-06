@@ -1,9 +1,10 @@
 ---
-title: KAREELA
-state: NSW
-postcode: 2232
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.061753
-longitude: 151.064329
-url: /nsw/kareela/
 layout: suburb
+longitude: 151.064329
+postcode: '2232'
+state: NSW
+title: KAREELA
+url: /nsw/kareela/
 ---

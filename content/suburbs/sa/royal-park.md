@@ -1,9 +1,10 @@
 ---
-title: ROYAL PARK
-state: SA
-postcode: 5014
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.86475
-longitude: 138.509247
-url: /sa/royal-park/
 layout: suburb
+longitude: 138.509247
+postcode: '5014'
+state: SA
+title: ROYAL PARK
+url: /sa/royal-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WILCANNIA
-state: NSW
-postcode: 2836
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.498123
-longitude: 143.270562
-url: /nsw/wilcannia/
 layout: suburb
+longitude: 143.270562
+postcode: '2836'
+state: NSW
+title: WILCANNIA
+url: /nsw/wilcannia/
 ---

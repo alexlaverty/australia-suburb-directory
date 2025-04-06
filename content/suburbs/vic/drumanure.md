@@ -1,9 +1,10 @@
 ---
-title: DRUMANURE
-state: VIC
-postcode: 3636
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.093878
-longitude: 145.479471
-url: /vic/drumanure/
 layout: suburb
+longitude: 145.479471
+postcode: '3636'
+state: VIC
+title: DRUMANURE
+url: /vic/drumanure/
 ---

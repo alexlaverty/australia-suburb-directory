@@ -1,9 +1,10 @@
 ---
-title: GLENFIELD
-state: NSW
-postcode: 2167
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.972167
-longitude: 150.890441
-url: /nsw/glenfield/
 layout: suburb
+longitude: 150.890441
+postcode: '2167'
+state: NSW
+title: GLENFIELD
+url: /nsw/glenfield/
 ---

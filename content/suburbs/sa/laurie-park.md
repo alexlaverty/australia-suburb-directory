@@ -1,9 +1,10 @@
 ---
-title: LAURIE PARK
-state: SA
-postcode: 5271
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.0010755
-longitude: 140.9551505
-url: /sa/laurie-park/
 layout: suburb
+longitude: 140.9551505
+postcode: '5271'
+state: SA
+title: LAURIE PARK
+url: /sa/laurie-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EAST HALDON
-state: QLD
-postcode: 4343
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.656074
-longitude: 152.224616
-url: /qld/east-haldon/
 layout: suburb
+longitude: 152.224616
+postcode: '4343'
+state: QLD
+title: EAST HALDON
+url: /qld/east-haldon/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PRIESTDALE
-state: QLD
-postcode: 4127
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.629474
-longitude: 153.142035
-url: /qld/priestdale/
 layout: suburb
+longitude: 153.142035
+postcode: '4127'
+state: QLD
+title: PRIESTDALE
+url: /qld/priestdale/
 ---

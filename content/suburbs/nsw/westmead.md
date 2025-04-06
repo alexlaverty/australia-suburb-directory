@@ -1,9 +1,10 @@
 ---
-title: WESTMEAD
-state: NSW
-postcode: 2145
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.813104
-longitude: 150.957425
-url: /nsw/westmead/
 layout: suburb
+longitude: 150.957425
+postcode: '2145'
+state: NSW
+title: WESTMEAD
+url: /nsw/westmead/
 ---

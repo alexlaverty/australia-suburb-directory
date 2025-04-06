@@ -1,9 +1,10 @@
 ---
-title: HOPELAND
-state: WA
-postcode: 6125
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.364427
-longitude: 115.901277
-url: /wa/hopeland/
 layout: suburb
+longitude: 115.901277
+postcode: '6125'
+state: WA
+title: HOPELAND
+url: /wa/hopeland/
 ---

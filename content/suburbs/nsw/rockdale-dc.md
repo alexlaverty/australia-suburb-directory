@@ -1,9 +1,10 @@
 ---
-title: ROCKDALE DC
-state: NSW
-postcode: 2216
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.9529
-longitude: 151.138
-url: /nsw/rockdale-dc/
 layout: suburb
+longitude: 151.138
+postcode: '2216'
+state: NSW
+title: ROCKDALE DC
+url: /nsw/rockdale-dc/
 ---

@@ -1,9 +1,10 @@
 ---
-title: THE GURDIES
-state: VIC
-postcode: 3984
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.312647
-longitude: 145.563979
-url: /vic/the-gurdies/
 layout: suburb
+longitude: 145.563979
+postcode: '3984'
+state: VIC
+title: THE GURDIES
+url: /vic/the-gurdies/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BOKAL
-state: WA
-postcode: 6392
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.400929
-longitude: 116.625294
-url: /wa/bokal/
 layout: suburb
+longitude: 116.625294
+postcode: '6392'
+state: WA
+title: BOKAL
+url: /wa/bokal/
 ---

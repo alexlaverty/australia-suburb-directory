@@ -1,9 +1,10 @@
 ---
-title: MOUNT GARDINER
-state: QLD
-postcode: 4705
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -22.771751
-longitude: 149.719215
-url: /qld/mount-gardiner/
 layout: suburb
+longitude: 149.719215
+postcode: '4705'
+state: QLD
+title: MOUNT GARDINER
+url: /qld/mount-gardiner/
 ---

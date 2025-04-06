@@ -1,9 +1,10 @@
 ---
-title: DAGGAR HILLS
-state: WA
-postcode: 6638
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -28.612449
-longitude: 118.157573
-url: /wa/daggar-hills/
 layout: suburb
+longitude: 118.157573
+postcode: '6638'
+state: WA
+title: DAGGAR HILLS
+url: /wa/daggar-hills/
 ---

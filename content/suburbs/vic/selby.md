@@ -1,9 +1,10 @@
 ---
-title: SELBY
-state: VIC
-postcode: 3159
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.921894
-longitude: 145.3892
-url: /vic/selby/
 layout: suburb
+longitude: 145.3892
+postcode: '3159'
+state: VIC
+title: SELBY
+url: /vic/selby/
 ---

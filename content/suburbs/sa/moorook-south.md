@@ -1,9 +1,10 @@
 ---
-title: MOOROOK SOUTH
-state: SA
-postcode: 5332
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.251101
-longitude: 140.28104
-url: /sa/moorook-south/
 layout: suburb
+longitude: 140.28104
+postcode: '5332'
+state: SA
+title: MOOROOK SOUTH
+url: /sa/moorook-south/
 ---

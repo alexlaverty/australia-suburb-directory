@@ -1,9 +1,10 @@
 ---
-title: MEADOWS
-state: SA
-postcode: 5201
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.206107
-longitude: 138.727179
-url: /sa/meadows/
 layout: suburb
+longitude: 138.727179
+postcode: '5201'
+state: SA
+title: MEADOWS
+url: /sa/meadows/
 ---

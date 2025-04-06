@@ -1,9 +1,10 @@
 ---
-title: COOGEE
-state: NSW
-postcode: 2034
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.929096
-longitude: 151.252171
-url: /nsw/coogee/
 layout: suburb
+longitude: 151.252171
+postcode: '2034'
+state: NSW
+title: COOGEE
+url: /nsw/coogee/
 ---

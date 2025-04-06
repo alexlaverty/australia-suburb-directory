@@ -1,9 +1,10 @@
 ---
-title: MEGALONG VALLEY
-state: NSW
-postcode: 2785
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.71946185
-longitude: 150.2228056
-url: /nsw/megalong-valley/
 layout: suburb
+longitude: 150.2228056
+postcode: '2785'
+state: NSW
+title: MEGALONG VALLEY
+url: /nsw/megalong-valley/
 ---

@@ -1,9 +1,10 @@
 ---
-title: YOONGARILLUP
-state: WA
-postcode: 6280
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.728945
-longitude: 115.302732
-url: /wa/yoongarillup/
 layout: suburb
+longitude: 115.302732
+postcode: '6280'
+state: WA
+title: YOONGARILLUP
+url: /wa/yoongarillup/
 ---

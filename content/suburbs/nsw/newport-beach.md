@@ -1,9 +1,10 @@
 ---
-title: NEWPORT BEACH
-state: NSW
-postcode: 2106
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.660707
-longitude: 151.314599
-url: /nsw/newport-beach/
 layout: suburb
+longitude: 151.314599
+postcode: '2106'
+state: NSW
+title: NEWPORT BEACH
+url: /nsw/newport-beach/
 ---

@@ -1,9 +1,10 @@
 ---
-title: LAKE COWAL
-state: NSW
-postcode: 2671
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.839275
-longitude: 147.308172
-url: /nsw/lake-cowal/
 layout: suburb
+longitude: 147.308172
+postcode: '2671'
+state: NSW
+title: LAKE COWAL
+url: /nsw/lake-cowal/
 ---

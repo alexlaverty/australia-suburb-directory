@@ -1,9 +1,10 @@
 ---
-title: BIDGEEMIA
-state: NSW
-postcode: 2642
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.39437569
-longitude: 146.4617054
-url: /nsw/bidgeemia/
 layout: suburb
+longitude: 146.4617054
+postcode: '2642'
+state: NSW
+title: BIDGEEMIA
+url: /nsw/bidgeemia/
 ---

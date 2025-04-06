@@ -1,9 +1,10 @@
 ---
-title: NGAANYATJARRA-GILES
-state: WA
-postcode: 0872
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -25.27073166
-longitude: 128.1150802
-url: /wa/ngaanyatjarra-giles/
 layout: suburb
+longitude: 128.1150802
+postcode: 0872
+state: WA
+title: NGAANYATJARRA-GILES
+url: /wa/ngaanyatjarra-giles/
 ---

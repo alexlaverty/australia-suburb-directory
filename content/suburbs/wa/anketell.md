@@ -1,9 +1,10 @@
 ---
-title: ANKETELL
-state: WA
-postcode: 6167
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.223657
-longitude: 115.835308
-url: /wa/anketell/
 layout: suburb
+longitude: 115.835308
+postcode: '6167'
+state: WA
+title: ANKETELL
+url: /wa/anketell/
 ---

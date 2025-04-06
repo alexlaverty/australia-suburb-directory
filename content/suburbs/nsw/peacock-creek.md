@@ -1,9 +1,10 @@
 ---
-title: PEACOCK CREEK
-state: NSW
-postcode: 2469
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.6738983
-longitude: 152.6995344
-url: /nsw/peacock-creek/
 layout: suburb
+longitude: 152.6995344
+postcode: '2469'
+state: NSW
+title: PEACOCK CREEK
+url: /nsw/peacock-creek/
 ---

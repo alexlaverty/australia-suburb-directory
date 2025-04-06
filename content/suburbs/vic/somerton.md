@@ -1,9 +1,10 @@
 ---
-title: SOMERTON
-state: VIC
-postcode: 3062
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.632986
-longitude: 144.932557
-url: /vic/somerton/
 layout: suburb
+longitude: 144.932557
+postcode: '3062'
+state: VIC
+title: SOMERTON
+url: /vic/somerton/
 ---

@@ -1,9 +1,10 @@
 ---
-title: FORTESCUE
-state: TAS
-postcode: 7182
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.170598
-longitude: 147.822931
-url: /tas/fortescue/
 layout: suburb
+longitude: 147.822931
+postcode: '7182'
+state: TAS
+title: FORTESCUE
+url: /tas/fortescue/
 ---

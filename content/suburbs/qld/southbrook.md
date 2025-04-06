@@ -1,9 +1,10 @@
 ---
-title: SOUTHBROOK
-state: QLD
-postcode: 4363
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.676647
-longitude: 151.739695
-url: /qld/southbrook/
 layout: suburb
+longitude: 151.739695
+postcode: '4363'
+state: QLD
+title: SOUTHBROOK
+url: /qld/southbrook/
 ---

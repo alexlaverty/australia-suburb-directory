@@ -1,9 +1,10 @@
 ---
-title: KINGSCLIFF
-state: NSW
-postcode: 2487
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.27973
-longitude: 153.548588
-url: /nsw/kingscliff/
 layout: suburb
+longitude: 153.548588
+postcode: '2487'
+state: NSW
+title: KINGSCLIFF
+url: /nsw/kingscliff/
 ---

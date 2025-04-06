@@ -1,9 +1,10 @@
 ---
-title: GORANBA
-state: QLD
-postcode: 4421
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.324371
-longitude: 150.444304
-url: /qld/goranba/
 layout: suburb
+longitude: 150.444304
+postcode: '4421'
+state: QLD
+title: GORANBA
+url: /qld/goranba/
 ---

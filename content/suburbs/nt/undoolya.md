@@ -1,9 +1,10 @@
 ---
-title: UNDOOLYA
-state: NT
-postcode: 0874
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -23.68480339
-longitude: 133.9224797
-url: /nt/undoolya/
 layout: suburb
+longitude: 133.9224797
+postcode: 0874
+state: NT
+title: UNDOOLYA
+url: /nt/undoolya/
 ---

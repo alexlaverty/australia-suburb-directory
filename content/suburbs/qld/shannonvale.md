@@ -1,9 +1,10 @@
 ---
-title: SHANNONVALE
-state: QLD
-postcode: 4873
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.230854
-longitude: 145.299094
-url: /qld/shannonvale/
 layout: suburb
+longitude: 145.299094
+postcode: '4873'
+state: QLD
+title: SHANNONVALE
+url: /qld/shannonvale/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MIDDLETON GRANGE
-state: NSW
-postcode: 2171
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.91465272
-longitude: 150.8427566
-url: /nsw/middleton-grange/
 layout: suburb
+longitude: 150.8427566
+postcode: '2171'
+state: NSW
+title: MIDDLETON GRANGE
+url: /nsw/middleton-grange/
 ---

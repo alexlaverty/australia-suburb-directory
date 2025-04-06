@@ -1,9 +1,10 @@
 ---
-title: WANAARING
-state: NSW
-postcode: 2840
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.205908
-longitude: 145.251371
-url: /nsw/wanaaring/
 layout: suburb
+longitude: 145.251371
+postcode: '2840'
+state: NSW
+title: WANAARING
+url: /nsw/wanaaring/
 ---

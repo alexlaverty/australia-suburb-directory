@@ -1,9 +1,10 @@
 ---
-title: BARKSTEAD
-state: VIC
-postcode: 3364
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.47880506
-longitude: 144.0999652
-url: /vic/barkstead/
 layout: suburb
+longitude: 144.0999652
+postcode: '3364'
+state: VIC
+title: BARKSTEAD
+url: /vic/barkstead/
 ---

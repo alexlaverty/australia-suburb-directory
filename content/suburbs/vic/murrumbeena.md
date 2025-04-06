@@ -1,9 +1,10 @@
 ---
-title: MURRUMBEENA
-state: VIC
-postcode: 3163
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.896497
-longitude: 145.057237
-url: /vic/murrumbeena/
 layout: suburb
+longitude: 145.057237
+postcode: '3163'
+state: VIC
+title: MURRUMBEENA
+url: /vic/murrumbeena/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NORTH YEOVAL
-state: NSW
-postcode: 2868
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.72303102
-longitude: 148.6732145
-url: /nsw/north-yeoval/
 layout: suburb
+longitude: 148.6732145
+postcode: '2868'
+state: NSW
+title: NORTH YEOVAL
+url: /nsw/north-yeoval/
 ---

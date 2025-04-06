@@ -1,9 +1,10 @@
 ---
-title: PARK HOLME
-state: SA
-postcode: 5043
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.005492
-longitude: 138.553853
-url: /sa/park-holme/
 layout: suburb
+longitude: 138.553853
+postcode: '5043'
+state: SA
+title: PARK HOLME
+url: /sa/park-holme/
 ---

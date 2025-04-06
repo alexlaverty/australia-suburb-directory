@@ -1,9 +1,10 @@
 ---
-title: CHARMHAVEN
-state: NSW
-postcode: 2263
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.285097
-longitude: 151.556223
-url: /nsw/charmhaven/
 layout: suburb
+longitude: 151.556223
+postcode: '2263'
+state: NSW
+title: CHARMHAVEN
+url: /nsw/charmhaven/
 ---

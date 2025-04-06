@@ -1,9 +1,10 @@
 ---
-title: EAST GREENMOUNT
-state: QLD
-postcode: 4359
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.7732073
-longitude: 151.9520167
-url: /qld/east-greenmount/
 layout: suburb
+longitude: 151.9520167
+postcode: '4359'
+state: QLD
+title: EAST GREENMOUNT
+url: /qld/east-greenmount/
 ---

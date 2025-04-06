@@ -1,9 +1,10 @@
 ---
-title: WEST PENNANT HILLS
-state: NSW
-postcode: 2125
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.752645
-longitude: 151.031807
-url: /nsw/west-pennant-hills/
 layout: suburb
+longitude: 151.031807
+postcode: '2125'
+state: NSW
+title: WEST PENNANT HILLS
+url: /nsw/west-pennant-hills/
 ---

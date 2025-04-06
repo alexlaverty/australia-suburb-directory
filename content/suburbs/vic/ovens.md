@@ -1,9 +1,10 @@
 ---
-title: OVENS
-state: VIC
-postcode: 3738
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.587922
-longitude: 146.75397
-url: /vic/ovens/
 layout: suburb
+longitude: 146.75397
+postcode: '3738'
+state: VIC
+title: OVENS
+url: /vic/ovens/
 ---

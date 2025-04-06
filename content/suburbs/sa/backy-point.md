@@ -1,9 +1,10 @@
 ---
-title: BACKY POINT
-state: SA
-postcode: 5601
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.91326147
-longitude: 137.7869937
-url: /sa/backy-point/
 layout: suburb
+longitude: 137.7869937
+postcode: '5601'
+state: SA
+title: BACKY POINT
+url: /sa/backy-point/
 ---

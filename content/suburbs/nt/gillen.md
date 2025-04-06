@@ -1,9 +1,10 @@
 ---
-title: GILLEN
-state: NT
-postcode: 0870
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -23.71080361
-longitude: 133.8660005
-url: /nt/gillen/
 layout: suburb
+longitude: 133.8660005
+postcode: 0870
+state: NT
+title: GILLEN
+url: /nt/gillen/
 ---

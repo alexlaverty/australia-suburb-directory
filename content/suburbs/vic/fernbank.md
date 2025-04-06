@@ -1,9 +1,10 @@
 ---
-title: FERNBANK
-state: VIC
-postcode: 3864
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.860878
-longitude: 147.341513
-url: /vic/fernbank/
 layout: suburb
+longitude: 147.341513
+postcode: '3864'
+state: VIC
+title: FERNBANK
+url: /vic/fernbank/
 ---

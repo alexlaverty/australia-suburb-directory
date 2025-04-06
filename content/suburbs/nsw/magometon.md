@@ -1,9 +1,10 @@
 ---
-title: MAGOMETON
-state: NSW
-postcode: 2829
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.766245
-longitude: 148.261265
-url: /nsw/magometon/
 layout: suburb
+longitude: 148.261265
+postcode: '2829'
+state: NSW
+title: MAGOMETON
+url: /nsw/magometon/
 ---

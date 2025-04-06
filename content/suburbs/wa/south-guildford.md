@@ -1,9 +1,10 @@
 ---
-title: SOUTH GUILDFORD
-state: WA
-postcode: 6055
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.842527
-longitude: 115.980754
-url: /wa/south-guildford/
 layout: suburb
+longitude: 115.980754
+postcode: '6055'
+state: WA
+title: SOUTH GUILDFORD
+url: /wa/south-guildford/
 ---

@@ -1,9 +1,10 @@
 ---
-title: LIFFEY
-state: TAS
-postcode: 7301
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.600123
-longitude: 147.046481
-url: /tas/liffey/
 layout: suburb
+longitude: 147.046481
+postcode: '7301'
+state: TAS
+title: LIFFEY
+url: /tas/liffey/
 ---

@@ -1,9 +1,10 @@
 ---
-title: LISMORE
-state: VIC
-postcode: 3324
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.941939
-longitude: 143.375414
-url: /vic/lismore/
 layout: suburb
+longitude: 143.375414
+postcode: '3324'
+state: VIC
+title: LISMORE
+url: /vic/lismore/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MARYLAND
-state: NSW
-postcode: 4377
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.53923902
-longitude: 152.0460516
-url: /nsw/maryland/
 layout: suburb
+longitude: 152.0460516
+postcode: '4377'
+state: NSW
+title: MARYLAND
+url: /nsw/maryland/
 ---

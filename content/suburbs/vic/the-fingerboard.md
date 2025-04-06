@@ -1,9 +1,10 @@
 ---
-title: THE FINGERBOARD
-state: VIC
-postcode: 3864
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.860878
-longitude: 147.341513
-url: /vic/the-fingerboard/
 layout: suburb
+longitude: 147.341513
+postcode: '3864'
+state: VIC
+title: THE FINGERBOARD
+url: /vic/the-fingerboard/
 ---

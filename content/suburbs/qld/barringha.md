@@ -1,9 +1,10 @@
 ---
-title: BARRINGHA
-state: QLD
-postcode: 4816
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.5377438
-longitude: 146.7962019
-url: /qld/barringha/
 layout: suburb
+longitude: 146.7962019
+postcode: '4816'
+state: QLD
+title: BARRINGHA
+url: /qld/barringha/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DEAN PARK
-state: NSW
-postcode: 2761
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.742006
-longitude: 150.84746
-url: /nsw/dean-park/
 layout: suburb
+longitude: 150.84746
+postcode: '2761'
+state: NSW
+title: DEAN PARK
+url: /nsw/dean-park/
 ---

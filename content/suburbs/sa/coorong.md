@@ -1,9 +1,10 @@
 ---
-title: COORONG
-state: SA
-postcode: 5264
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.669947
-longitude: 139.275737
-url: /sa/coorong/
 layout: suburb
+longitude: 139.275737
+postcode: '5264'
+state: SA
+title: COORONG
+url: /sa/coorong/
 ---

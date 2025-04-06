@@ -1,9 +1,10 @@
 ---
-title: PORT VINCENT
-state: SA
-postcode: 5581
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.789625
-longitude: 137.748829
-url: /sa/port-vincent/
 layout: suburb
+longitude: 137.748829
+postcode: '5581'
+state: SA
+title: PORT VINCENT
+url: /sa/port-vincent/
 ---

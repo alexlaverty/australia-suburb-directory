@@ -1,9 +1,10 @@
 ---
-title: LOCHIEL
-state: SA
-postcode: 5510
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.9491
-longitude: 138.188988
-url: /sa/lochiel/
 layout: suburb
+longitude: 138.188988
+postcode: '5510'
+state: SA
+title: LOCHIEL
+url: /sa/lochiel/
 ---

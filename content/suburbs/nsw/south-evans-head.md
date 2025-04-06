@@ -1,9 +1,10 @@
 ---
-title: SOUTH EVANS HEAD
-state: NSW
-postcode: 2473
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.120479
-longitude: 153.436052
-url: /nsw/south-evans-head/
 layout: suburb
+longitude: 153.436052
+postcode: '2473'
+state: NSW
+title: SOUTH EVANS HEAD
+url: /nsw/south-evans-head/
 ---

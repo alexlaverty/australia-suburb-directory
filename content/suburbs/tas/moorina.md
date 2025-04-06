@@ -1,9 +1,10 @@
 ---
-title: MOORINA
-state: TAS
-postcode: 7264
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.015197
-longitude: 148.026137
-url: /tas/moorina/
 layout: suburb
+longitude: 148.026137
+postcode: '7264'
+state: TAS
+title: MOORINA
+url: /tas/moorina/
 ---

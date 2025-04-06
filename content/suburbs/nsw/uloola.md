@@ -1,9 +1,10 @@
 ---
-title: ULOOLA
-state: NSW
-postcode: 2232
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.1231
-longitude: 151.0243
-url: /nsw/uloola/
 layout: suburb
+longitude: 151.0243
+postcode: '2232'
+state: NSW
+title: ULOOLA
+url: /nsw/uloola/
 ---

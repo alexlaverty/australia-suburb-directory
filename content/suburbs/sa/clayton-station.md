@@ -1,9 +1,10 @@
 ---
-title: CLAYTON STATION
-state: SA
-postcode: 5733
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -29.20471574
-longitude: 138.1969223
-url: /sa/clayton-station/
 layout: suburb
+longitude: 138.1969223
+postcode: '5733'
+state: SA
+title: CLAYTON STATION
+url: /sa/clayton-station/
 ---

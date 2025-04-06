@@ -1,9 +1,10 @@
 ---
-title: MANGO HILL
-state: QLD
-postcode: 4509
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.232691
-longitude: 153.017319
-url: /qld/mango-hill/
 layout: suburb
+longitude: 153.017319
+postcode: '4509'
+state: QLD
+title: MANGO HILL
+url: /qld/mango-hill/
 ---

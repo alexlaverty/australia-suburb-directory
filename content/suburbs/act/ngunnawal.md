@@ -1,9 +1,10 @@
 ---
-title: NGUNNAWAL
-state: ACT
-postcode: 2913
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.201802
-longitude: 149.132349
-url: /act/ngunnawal/
 layout: suburb
+longitude: 149.132349
+postcode: '2913'
+state: ACT
+title: NGUNNAWAL
+url: /act/ngunnawal/
 ---

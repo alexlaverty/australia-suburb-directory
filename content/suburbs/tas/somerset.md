@@ -1,9 +1,10 @@
 ---
-title: SOMERSET
-state: TAS
-postcode: 7322
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.044472
-longitude: 145.804533
-url: /tas/somerset/
 layout: suburb
+longitude: 145.804533
+postcode: '7322'
+state: TAS
+title: SOMERSET
+url: /tas/somerset/
 ---

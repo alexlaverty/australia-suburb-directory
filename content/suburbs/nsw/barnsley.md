@@ -1,9 +1,10 @@
 ---
-title: BARNSLEY
-state: NSW
-postcode: 2278
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.932412
-longitude: 151.590415
-url: /nsw/barnsley/
 layout: suburb
+longitude: 151.590415
+postcode: '2278'
+state: NSW
+title: BARNSLEY
+url: /nsw/barnsley/
 ---

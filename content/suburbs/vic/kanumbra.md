@@ -1,9 +1,10 @@
 ---
-title: KANUMBRA
-state: VIC
-postcode: 3719
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.041215
-longitude: 145.608491
-url: /vic/kanumbra/
 layout: suburb
+longitude: 145.608491
+postcode: '3719'
+state: VIC
+title: KANUMBRA
+url: /vic/kanumbra/
 ---

@@ -1,9 +1,10 @@
 ---
-title: LOWER BROUGHTON
-state: SA
-postcode: 5540
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.3198857
-longitude: 137.9576204
-url: /sa/lower-broughton/
 layout: suburb
+longitude: 137.9576204
+postcode: '5540'
+state: SA
+title: LOWER BROUGHTON
+url: /sa/lower-broughton/
 ---

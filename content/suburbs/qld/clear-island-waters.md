@@ -1,9 +1,10 @@
 ---
-title: CLEAR ISLAND WATERS
-state: QLD
-postcode: 4226
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.06794
-longitude: 153.40282
-url: /qld/clear-island-waters/
 layout: suburb
+longitude: 153.40282
+postcode: '4226'
+state: QLD
+title: CLEAR ISLAND WATERS
+url: /qld/clear-island-waters/
 ---

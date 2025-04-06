@@ -1,9 +1,10 @@
 ---
-title: GUNGAHLIN
-state: ACT
-postcode: 2912
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.172453
-longitude: 149.123552
-url: /act/gungahlin/
 layout: suburb
+longitude: 149.123552
+postcode: '2912'
+state: ACT
+title: GUNGAHLIN
+url: /act/gungahlin/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ULTIMA EAST
-state: VIC
-postcode: 3586
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.114021
-longitude: 143.792594
-url: /vic/ultima-east/
 layout: suburb
+longitude: 143.792594
+postcode: '3586'
+state: VIC
+title: ULTIMA EAST
+url: /vic/ultima-east/
 ---

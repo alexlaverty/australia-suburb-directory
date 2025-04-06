@@ -1,9 +1,10 @@
 ---
-title: CROUDACE BAY
-state: NSW
-postcode: 2280
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.019715
-longitude: 151.663175
-url: /nsw/croudace-bay/
 layout: suburb
+longitude: 151.663175
+postcode: '2280'
+state: NSW
+title: CROUDACE BAY
+url: /nsw/croudace-bay/
 ---

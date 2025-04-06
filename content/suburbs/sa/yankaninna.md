@@ -1,9 +1,10 @@
 ---
-title: YANKANINNA
-state: SA
-postcode: 5732
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.33286364
-longitude: 138.9647658
-url: /sa/yankaninna/
 layout: suburb
+longitude: 138.9647658
+postcode: '5732'
+state: SA
+title: YANKANINNA
+url: /sa/yankaninna/
 ---

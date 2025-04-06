@@ -1,9 +1,10 @@
 ---
-title: FLAGSTAFF HILL
-state: SA
-postcode: 5159
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.061705
-longitude: 138.603897
-url: /sa/flagstaff-hill/
 layout: suburb
+longitude: 138.603897
+postcode: '5159'
+state: SA
+title: FLAGSTAFF HILL
+url: /sa/flagstaff-hill/
 ---

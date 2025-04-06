@@ -1,9 +1,10 @@
 ---
-title: YARROWITCH
-state: NSW
-postcode: 2354
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.145898
-longitude: 151.762627
-url: /nsw/yarrowitch/
 layout: suburb
+longitude: 151.762627
+postcode: '2354'
+state: NSW
+title: YARROWITCH
+url: /nsw/yarrowitch/
 ---

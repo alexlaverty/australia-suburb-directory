@@ -1,9 +1,10 @@
 ---
-title: FIG TREE POCKET
-state: QLD
-postcode: 4069
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.502784
-longitude: 152.898911
-url: /qld/fig-tree-pocket/
 layout: suburb
+longitude: 152.898911
+postcode: '4069'
+state: QLD
+title: FIG TREE POCKET
+url: /qld/fig-tree-pocket/
 ---

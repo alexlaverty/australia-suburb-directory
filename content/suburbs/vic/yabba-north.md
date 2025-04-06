@@ -1,9 +1,10 @@
 ---
-title: YABBA NORTH
-state: VIC
-postcode: 3646
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.247446
-longitude: 145.704042
-url: /vic/yabba-north/
 layout: suburb
+longitude: 145.704042
+postcode: '3646'
+state: VIC
+title: YABBA NORTH
+url: /vic/yabba-north/
 ---

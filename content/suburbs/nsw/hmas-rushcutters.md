@@ -1,9 +1,10 @@
 ---
-title: HMAS RUSHCUTTERS
-state: NSW
-postcode: 2027
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.868972
-longitude: 151.250494
-url: /nsw/hmas-rushcutters/
 layout: suburb
+longitude: 151.250494
+postcode: '2027'
+state: NSW
+title: HMAS RUSHCUTTERS
+url: /nsw/hmas-rushcutters/
 ---

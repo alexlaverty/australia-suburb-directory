@@ -1,9 +1,10 @@
 ---
-title: HOPE FOREST
-state: SA
-postcode: 5172
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.28775
-longitude: 138.555169
-url: /sa/hope-forest/
 layout: suburb
+longitude: 138.555169
+postcode: '5172'
+state: SA
+title: HOPE FOREST
+url: /sa/hope-forest/
 ---

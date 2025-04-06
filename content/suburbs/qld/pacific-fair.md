@@ -1,9 +1,10 @@
 ---
-title: PACIFIC FAIR
-state: QLD
-postcode: 4218
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.037627
-longitude: 153.41692
-url: /qld/pacific-fair/
 layout: suburb
+longitude: 153.41692
+postcode: '4218'
+state: QLD
+title: PACIFIC FAIR
+url: /qld/pacific-fair/
 ---

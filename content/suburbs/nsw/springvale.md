@@ -1,9 +1,10 @@
 ---
-title: SPRINGVALE
-state: NSW
-postcode: 2790
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.412094
-longitude: 150.11719
-url: /nsw/springvale/
 layout: suburb
+longitude: 150.11719
+postcode: '2790'
+state: NSW
+title: SPRINGVALE
+url: /nsw/springvale/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BENNETT SPRINGS
-state: WA
-postcode: 6063
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.8589186
-longitude: 115.9421996
-url: /wa/bennett-springs/
 layout: suburb
+longitude: 115.9421996
+postcode: '6063'
+state: WA
+title: BENNETT SPRINGS
+url: /wa/bennett-springs/
 ---

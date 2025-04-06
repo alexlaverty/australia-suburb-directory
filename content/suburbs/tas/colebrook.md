@@ -1,9 +1,10 @@
 ---
-title: COLEBROOK
-state: TAS
-postcode: 7027
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.536377
-longitude: 147.383495
-url: /tas/colebrook/
 layout: suburb
+longitude: 147.383495
+postcode: '7027'
+state: TAS
+title: COLEBROOK
+url: /tas/colebrook/
 ---

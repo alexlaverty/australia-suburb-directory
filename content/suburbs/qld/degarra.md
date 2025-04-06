@@ -1,9 +1,10 @@
 ---
-title: DEGARRA
-state: QLD
-postcode: 4895
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -15.94342392
-longitude: 145.3422653
-url: /qld/degarra/
 layout: suburb
+longitude: 145.3422653
+postcode: '4895'
+state: QLD
+title: DEGARRA
+url: /qld/degarra/
 ---

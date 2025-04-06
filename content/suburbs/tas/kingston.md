@@ -1,9 +1,10 @@
 ---
-title: KINGSTON
-state: TAS
-postcode: 7051
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.987394
-longitude: 147.327238
-url: /tas/kingston/
 layout: suburb
+longitude: 147.327238
+postcode: '7051'
+state: TAS
+title: KINGSTON
+url: /tas/kingston/
 ---

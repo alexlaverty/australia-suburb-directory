@@ -1,9 +1,10 @@
 ---
-title: WYNDHAM VALE
-state: VIC
-postcode: 3024
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.899873
-longitude: 144.556552
-url: /vic/wyndham-vale/
 layout: suburb
+longitude: 144.556552
+postcode: '3024'
+state: VIC
+title: WYNDHAM VALE
+url: /vic/wyndham-vale/
 ---

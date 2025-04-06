@@ -1,9 +1,10 @@
 ---
-title: EVANS LANDING
-state: QLD
-postcode: 4874
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -12.533944
-longitude: 142.267938
-url: /qld/evans-landing/
 layout: suburb
+longitude: 142.267938
+postcode: '4874'
+state: QLD
+title: EVANS LANDING
+url: /qld/evans-landing/
 ---

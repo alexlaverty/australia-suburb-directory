@@ -1,9 +1,10 @@
 ---
-title: MONBULK
-state: VIC
-postcode: 3793
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.874533
-longitude: 145.429715
-url: /vic/monbulk/
 layout: suburb
+longitude: 145.429715
+postcode: '3793'
+state: VIC
+title: MONBULK
+url: /vic/monbulk/
 ---

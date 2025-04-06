@@ -1,9 +1,10 @@
 ---
-title: SPRING GULLY
-state: VIC
-postcode: 3550
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.764269
-longitude: 144.285267
-url: /vic/spring-gully/
 layout: suburb
+longitude: 144.285267
+postcode: '3550'
+state: VIC
+title: SPRING GULLY
+url: /vic/spring-gully/
 ---

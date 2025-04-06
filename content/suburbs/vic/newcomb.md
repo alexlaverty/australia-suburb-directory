@@ -1,9 +1,10 @@
 ---
-title: NEWCOMB
-state: VIC
-postcode: 3219
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.17277
-longitude: 144.389533
-url: /vic/newcomb/
 layout: suburb
+longitude: 144.389533
+postcode: '3219'
+state: VIC
+title: NEWCOMB
+url: /vic/newcomb/
 ---

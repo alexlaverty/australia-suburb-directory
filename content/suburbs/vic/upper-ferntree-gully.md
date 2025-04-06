@@ -1,9 +1,10 @@
 ---
-title: UPPER FERNTREE GULLY
-state: VIC
-postcode: 3156
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.917932
-longitude: 145.292895
-url: /vic/upper-ferntree-gully/
 layout: suburb
+longitude: 145.292895
+postcode: '3156'
+state: VIC
+title: UPPER FERNTREE GULLY
+url: /vic/upper-ferntree-gully/
 ---

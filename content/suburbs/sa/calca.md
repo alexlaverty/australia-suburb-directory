@@ -1,9 +1,10 @@
 ---
-title: CALCA
-state: SA
-postcode: 5671
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.21045
-longitude: 134.673762
-url: /sa/calca/
 layout: suburb
+longitude: 134.673762
+postcode: '5671'
+state: SA
+title: CALCA
+url: /sa/calca/
 ---

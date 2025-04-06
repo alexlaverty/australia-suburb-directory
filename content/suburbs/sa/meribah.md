@@ -1,9 +1,10 @@
 ---
-title: MERIBAH
-state: SA
-postcode: 5311
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.721845
-longitude: 140.811093
-url: /sa/meribah/
 layout: suburb
+longitude: 140.811093
+postcode: '5311'
+state: SA
+title: MERIBAH
+url: /sa/meribah/
 ---

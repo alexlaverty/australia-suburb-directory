@@ -1,9 +1,10 @@
 ---
-title: WILLIAM CREEK
-state: SA
-postcode: 5723
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.90783798
-longitude: 136.342062
-url: /sa/william-creek/
 layout: suburb
+longitude: 136.342062
+postcode: '5723'
+state: SA
+title: WILLIAM CREEK
+url: /sa/william-creek/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EATONS HILL
-state: QLD
-postcode: 4037
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.341128
-longitude: 152.936519
-url: /qld/eatons-hill/
 layout: suburb
+longitude: 152.936519
+postcode: '4037'
+state: QLD
+title: EATONS HILL
+url: /qld/eatons-hill/
 ---

@@ -1,9 +1,10 @@
 ---
-title: TINGALPA BC
-state: QLD
-postcode: 4173
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.475814
-longitude: 153.120634
-url: /qld/tingalpa-bc/
 layout: suburb
+longitude: 153.120634
+postcode: '4173'
+state: QLD
+title: TINGALPA BC
+url: /qld/tingalpa-bc/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SERVICETON
-state: VIC
-postcode: 3420
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.41273
-longitude: 141.017332
-url: /vic/serviceton/
 layout: suburb
+longitude: 141.017332
+postcode: '3420'
+state: VIC
+title: SERVICETON
+url: /vic/serviceton/
 ---

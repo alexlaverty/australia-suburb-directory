@@ -1,9 +1,10 @@
 ---
-title: EMU SWAMP
-state: NSW
-postcode: 2800
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.3020552
-longitude: 149.1958871
-url: /nsw/emu-swamp/
 layout: suburb
+longitude: 149.1958871
+postcode: '2800'
+state: NSW
+title: EMU SWAMP
+url: /nsw/emu-swamp/
 ---

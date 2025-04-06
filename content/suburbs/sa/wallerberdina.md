@@ -1,9 +1,10 @@
 ---
-title: WALLERBERDINA
-state: SA
-postcode: 5713
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.8472
-longitude: 138.0077
-url: /sa/wallerberdina/
 layout: suburb
+longitude: 138.0077
+postcode: '5713'
+state: SA
+title: WALLERBERDINA
+url: /sa/wallerberdina/
 ---

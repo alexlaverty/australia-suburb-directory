@@ -1,9 +1,10 @@
 ---
-title: QUELLINGTON
-state: WA
-postcode: 6302
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.896269
-longitude: 116.742895
-url: /wa/quellington/
 layout: suburb
+longitude: 116.742895
+postcode: '6302'
+state: WA
+title: QUELLINGTON
+url: /wa/quellington/
 ---

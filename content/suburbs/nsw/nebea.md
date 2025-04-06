@@ -1,9 +1,10 @@
 ---
-title: NEBEA
-state: NSW
-postcode: 2829
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.89157867
-longitude: 148.5624197
-url: /nsw/nebea/
 layout: suburb
+longitude: 148.5624197
+postcode: '2829'
+state: NSW
+title: NEBEA
+url: /nsw/nebea/
 ---

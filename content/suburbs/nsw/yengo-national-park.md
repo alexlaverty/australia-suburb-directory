@@ -1,9 +1,10 @@
 ---
-title: YENGO NATIONAL PARK
-state: NSW
-postcode: 2325
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.01498358
-longitude: 150.9115105
-url: /nsw/yengo-national-park/
 layout: suburb
+longitude: 150.9115105
+postcode: '2325'
+state: NSW
+title: YENGO NATIONAL PARK
+url: /nsw/yengo-national-park/
 ---

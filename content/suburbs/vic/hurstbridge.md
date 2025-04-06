@@ -1,9 +1,10 @@
 ---
-title: HURSTBRIDGE
-state: VIC
-postcode: 3099
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.592101
-longitude: 145.192854
-url: /vic/hurstbridge/
 layout: suburb
+longitude: 145.192854
+postcode: '3099'
+state: VIC
+title: HURSTBRIDGE
+url: /vic/hurstbridge/
 ---

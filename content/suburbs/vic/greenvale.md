@@ -1,9 +1,10 @@
 ---
-title: GREENVALE
-state: VIC
-postcode: 3059
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.639887
-longitude: 144.879626
-url: /vic/greenvale/
 layout: suburb
+longitude: 144.879626
+postcode: '3059'
+state: VIC
+title: GREENVALE
+url: /vic/greenvale/
 ---

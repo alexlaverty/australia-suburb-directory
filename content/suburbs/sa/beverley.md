@@ -1,9 +1,10 @@
 ---
-title: BEVERLEY
-state: SA
-postcode: 5009
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.896906
-longitude: 138.542493
-url: /sa/beverley/
 layout: suburb
+longitude: 138.542493
+postcode: '5009'
+state: SA
+title: BEVERLEY
+url: /sa/beverley/
 ---

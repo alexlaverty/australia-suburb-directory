@@ -1,9 +1,10 @@
 ---
-title: ELLENDALE
-state: TAS
-postcode: 7140
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.544215
-longitude: 146.45502
-url: /tas/ellendale/
 layout: suburb
+longitude: 146.45502
+postcode: '7140'
+state: TAS
+title: ELLENDALE
+url: /tas/ellendale/
 ---

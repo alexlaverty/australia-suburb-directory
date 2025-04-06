@@ -1,9 +1,10 @@
 ---
-title: GINEROI
-state: NSW
-postcode: 2404
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.73913547
-longitude: 150.5025855
-url: /nsw/gineroi/
 layout: suburb
+longitude: 150.5025855
+postcode: '2404'
+state: NSW
+title: GINEROI
+url: /nsw/gineroi/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CICCONE
-state: NT
-postcode: 0870
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -23.69234565
-longitude: 133.8678028
-url: /nt/ciccone/
 layout: suburb
+longitude: 133.8678028
+postcode: 0870
+state: NT
+title: CICCONE
+url: /nt/ciccone/
 ---

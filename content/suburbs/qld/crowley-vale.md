@@ -1,9 +1,10 @@
 ---
-title: CROWLEY VALE
-state: QLD
-postcode: 4342
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.543847
-longitude: 152.377687
-url: /qld/crowley-vale/
 layout: suburb
+longitude: 152.377687
+postcode: '4342'
+state: QLD
+title: CROWLEY VALE
+url: /qld/crowley-vale/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EAST NEWDEGATE
-state: WA
-postcode: 6355
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.032688
-longitude: 119.098339
-url: /wa/east-newdegate/
 layout: suburb
+longitude: 119.098339
+postcode: '6355'
+state: WA
+title: EAST NEWDEGATE
+url: /wa/east-newdegate/
 ---

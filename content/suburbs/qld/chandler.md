@@ -1,9 +1,10 @@
 ---
-title: CHANDLER
-state: QLD
-postcode: 4155
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.5181
-longitude: 153.156446
-url: /qld/chandler/
 layout: suburb
+longitude: 153.156446
+postcode: '4155'
+state: QLD
+title: CHANDLER
+url: /qld/chandler/
 ---

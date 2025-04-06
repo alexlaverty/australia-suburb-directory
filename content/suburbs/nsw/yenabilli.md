@@ -1,9 +1,10 @@
 ---
-title: YENABILLI
-state: NSW
-postcode: 2232
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.1016
-longitude: 151.0852
-url: /nsw/yenabilli/
 layout: suburb
+longitude: 151.0852
+postcode: '2232'
+state: NSW
+title: YENABILLI
+url: /nsw/yenabilli/
 ---

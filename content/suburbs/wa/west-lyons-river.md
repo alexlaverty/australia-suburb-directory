@@ -1,9 +1,10 @@
 ---
-title: WEST LYONS RIVER
-state: WA
-postcode: 6705
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -25.111289
-longitude: 115.011494
-url: /wa/west-lyons-river/
 layout: suburb
+longitude: 115.011494
+postcode: '6705'
+state: WA
+title: WEST LYONS RIVER
+url: /wa/west-lyons-river/
 ---

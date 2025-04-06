@@ -1,9 +1,10 @@
 ---
-title: MCMAHONS POINT
-state: NSW
-postcode: 2060
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.839863
-longitude: 151.204557
-url: /nsw/mcmahons-point/
 layout: suburb
+longitude: 151.204557
+postcode: '2060'
+state: NSW
+title: MCMAHONS POINT
+url: /nsw/mcmahons-point/
 ---

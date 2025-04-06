@@ -1,9 +1,10 @@
 ---
-title: CLEMATIS
-state: VIC
-postcode: 3782
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.938068
-longitude: 145.433024
-url: /vic/clematis/
 layout: suburb
+longitude: 145.433024
+postcode: '3782'
+state: VIC
+title: CLEMATIS
+url: /vic/clematis/
 ---

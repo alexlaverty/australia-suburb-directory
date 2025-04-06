@@ -1,9 +1,10 @@
 ---
-title: O'CONNELL
-state: QLD
-postcode: 4680
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.446826
-longitude: 151.917285
-url: /qld/o'connell/
 layout: suburb
+longitude: 151.917285
+postcode: '4680'
+state: QLD
+title: O'CONNELL
+url: /qld/o'connell/
 ---

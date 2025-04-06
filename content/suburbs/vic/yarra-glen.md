@@ -1,9 +1,10 @@
 ---
-title: YARRA GLEN
-state: VIC
-postcode: 3775
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.642852
-longitude: 145.365993
-url: /vic/yarra-glen/
 layout: suburb
+longitude: 145.365993
+postcode: '3775'
+state: VIC
+title: YARRA GLEN
+url: /vic/yarra-glen/
 ---

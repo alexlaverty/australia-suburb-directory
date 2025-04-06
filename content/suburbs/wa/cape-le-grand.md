@@ -1,9 +1,10 @@
 ---
-title: CAPE LE GRAND
-state: WA
-postcode: 6450
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.401152
-longitude: 122.211127
-url: /wa/cape-le-grand/
 layout: suburb
+longitude: 122.211127
+postcode: '6450'
+state: WA
+title: CAPE LE GRAND
+url: /wa/cape-le-grand/
 ---

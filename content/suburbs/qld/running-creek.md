@@ -1,9 +1,10 @@
 ---
-title: RUNNING CREEK
-state: QLD
-postcode: 4287
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.259143
-longitude: 152.822971
-url: /qld/running-creek/
 layout: suburb
+longitude: 152.822971
+postcode: '4287'
+state: QLD
+title: RUNNING CREEK
+url: /qld/running-creek/
 ---

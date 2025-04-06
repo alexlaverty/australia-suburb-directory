@@ -1,9 +1,10 @@
 ---
-title: ALBERTON
-state: TAS
-postcode: 7263
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.308785
-longitude: 147.702655
-url: /tas/alberton/
 layout: suburb
+longitude: 147.702655
+postcode: '7263'
+state: TAS
+title: ALBERTON
+url: /tas/alberton/
 ---

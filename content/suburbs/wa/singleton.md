@@ -1,9 +1,10 @@
 ---
-title: SINGLETON
-state: WA
-postcode: 6175
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.445896
-longitude: 115.755289
-url: /wa/singleton/
 layout: suburb
+longitude: 115.755289
+postcode: '6175'
+state: WA
+title: SINGLETON
+url: /wa/singleton/
 ---

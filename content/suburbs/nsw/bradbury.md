@@ -1,9 +1,10 @@
 ---
-title: BRADBURY
-state: NSW
-postcode: 2560
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.194216
-longitude: 150.768408
-url: /nsw/bradbury/
 layout: suburb
+longitude: 150.768408
+postcode: '2560'
+state: NSW
+title: BRADBURY
+url: /nsw/bradbury/
 ---

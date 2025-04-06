@@ -1,9 +1,10 @@
 ---
-title: MARMADUA
-state: QLD
-postcode: 4405
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.46226247
-longitude: 150.7147545
-url: /qld/marmadua/
 layout: suburb
+longitude: 150.7147545
+postcode: '4405'
+state: QLD
+title: MARMADUA
+url: /qld/marmadua/
 ---

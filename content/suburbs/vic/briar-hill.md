@@ -1,9 +1,10 @@
 ---
-title: BRIAR HILL
-state: VIC
-postcode: 3088
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.700175
-longitude: 145.108339
-url: /vic/briar-hill/
 layout: suburb
+longitude: 145.108339
+postcode: '3088'
+state: VIC
+title: BRIAR HILL
+url: /vic/briar-hill/
 ---

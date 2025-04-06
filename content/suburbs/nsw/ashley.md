@@ -1,9 +1,10 @@
 ---
-title: ASHLEY
-state: NSW
-postcode: 2400
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.474921
-longitude: 149.462148
-url: /nsw/ashley/
 layout: suburb
+longitude: 149.462148
+postcode: '2400'
+state: NSW
+title: ASHLEY
+url: /nsw/ashley/
 ---

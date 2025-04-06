@@ -1,9 +1,10 @@
 ---
-title: WALLAN
-state: VIC
-postcode: 3756
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.41233
-longitude: 144.956641
-url: /vic/wallan/
 layout: suburb
+longitude: 144.956641
+postcode: '3756'
+state: VIC
+title: WALLAN
+url: /vic/wallan/
 ---

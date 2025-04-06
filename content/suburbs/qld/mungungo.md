@@ -1,9 +1,10 @@
 ---
-title: MUNGUNGO
-state: QLD
-postcode: 4630
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.860668
-longitude: 150.975499
-url: /qld/mungungo/
 layout: suburb
+longitude: 150.975499
+postcode: '4630'
+state: QLD
+title: MUNGUNGO
+url: /qld/mungungo/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PINDAR
-state: WA
-postcode: 6631
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -28.46368
-longitude: 115.755437
-url: /wa/pindar/
 layout: suburb
+longitude: 115.755437
+postcode: '6631'
+state: WA
+title: PINDAR
+url: /wa/pindar/
 ---

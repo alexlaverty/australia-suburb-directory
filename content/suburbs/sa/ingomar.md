@@ -1,9 +1,10 @@
 ---
-title: INGOMAR
-state: SA
-postcode: 5723
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -29.51784743
-longitude: 134.788974
-url: /sa/ingomar/
 layout: suburb
+longitude: 134.788974
+postcode: '5723'
+state: SA
+title: INGOMAR
+url: /sa/ingomar/
 ---

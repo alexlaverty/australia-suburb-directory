@@ -1,9 +1,10 @@
 ---
-title: EPPING DC
-state: VIC
-postcode: 3076
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.643598
-longitude: 145.022137
-url: /vic/epping-dc/
 layout: suburb
+longitude: 145.022137
+postcode: '3076'
+state: VIC
+title: EPPING DC
+url: /vic/epping-dc/
 ---

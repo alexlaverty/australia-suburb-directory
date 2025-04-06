@@ -1,9 +1,10 @@
 ---
-title: MARIBYRNONG
-state: VIC
-postcode: 3032
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.774486
-longitude: 144.897221
-url: /vic/maribyrnong/
 layout: suburb
+longitude: 144.897221
+postcode: '3032'
+state: VIC
+title: MARIBYRNONG
+url: /vic/maribyrnong/
 ---

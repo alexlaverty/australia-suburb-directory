@@ -1,9 +1,10 @@
 ---
-title: WEST RANGE
-state: SA
-postcode: 5275
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.61323
-longitude: 139.937126
-url: /sa/west-range/
 layout: suburb
+longitude: 139.937126
+postcode: '5275'
+state: SA
+title: WEST RANGE
+url: /sa/west-range/
 ---

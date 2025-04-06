@@ -1,9 +1,10 @@
 ---
-title: WARRENBAYNE
-state: VIC
-postcode: 3670
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.623748
-longitude: 145.852449
-url: /vic/warrenbayne/
 layout: suburb
+longitude: 145.852449
+postcode: '3670'
+state: VIC
+title: WARRENBAYNE
+url: /vic/warrenbayne/
 ---

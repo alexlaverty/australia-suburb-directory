@@ -1,9 +1,10 @@
 ---
-title: ROCKY RIVER
-state: NSW
-postcode: 2372
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.18550255
-longitude: 152.306808
-url: /nsw/rocky-river/
 layout: suburb
+longitude: 152.306808
+postcode: '2372'
+state: NSW
+title: ROCKY RIVER
+url: /nsw/rocky-river/
 ---

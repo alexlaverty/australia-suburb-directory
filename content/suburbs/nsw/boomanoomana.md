@@ -1,9 +1,10 @@
 ---
-title: BOOMANOOMANA
-state: NSW
-postcode: 2712
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.754185
-longitude: 145.872814
-url: /nsw/boomanoomana/
 layout: suburb
+longitude: 145.872814
+postcode: '2712'
+state: NSW
+title: BOOMANOOMANA
+url: /nsw/boomanoomana/
 ---

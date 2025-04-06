@@ -1,9 +1,10 @@
 ---
-title: GERROA
-state: NSW
-postcode: 2534
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.739425
-longitude: 150.800637
-url: /nsw/gerroa/
 layout: suburb
+longitude: 150.800637
+postcode: '2534'
+state: NSW
+title: GERROA
+url: /nsw/gerroa/
 ---

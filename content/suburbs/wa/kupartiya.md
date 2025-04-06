@@ -1,9 +1,10 @@
 ---
-title: KUPARTIYA
-state: WA
-postcode: 6765
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -18.8808
-longitude: 126.2461
-url: /wa/kupartiya/
 layout: suburb
+longitude: 126.2461
+postcode: '6765'
+state: WA
+title: KUPARTIYA
+url: /wa/kupartiya/
 ---

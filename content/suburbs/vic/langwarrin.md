@@ -1,9 +1,10 @@
 ---
-title: LANGWARRIN
-state: VIC
-postcode: 3910
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.156369
-longitude: 145.198328
-url: /vic/langwarrin/
 layout: suburb
+longitude: 145.198328
+postcode: '3910'
+state: VIC
+title: LANGWARRIN
+url: /vic/langwarrin/
 ---

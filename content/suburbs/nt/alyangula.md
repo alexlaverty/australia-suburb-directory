@@ -1,9 +1,10 @@
 ---
-title: ALYANGULA
-state: NT
-postcode: 0885
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -13.85078586
-longitude: 136.420066
-url: /nt/alyangula/
 layout: suburb
+longitude: 136.420066
+postcode: 0885
+state: NT
+title: ALYANGULA
+url: /nt/alyangula/
 ---

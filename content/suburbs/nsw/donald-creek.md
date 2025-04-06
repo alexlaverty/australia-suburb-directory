@@ -1,9 +1,10 @@
 ---
-title: DONALD CREEK
-state: NSW
-postcode: 2350
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.493397
-longitude: 151.906153
-url: /nsw/donald-creek/
 layout: suburb
+longitude: 151.906153
+postcode: '2350'
+state: NSW
+title: DONALD CREEK
+url: /nsw/donald-creek/
 ---

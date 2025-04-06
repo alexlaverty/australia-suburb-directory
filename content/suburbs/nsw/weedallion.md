@@ -1,9 +1,10 @@
 ---
-title: WEEDALLION
-state: NSW
-postcode: 2594
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.231083
-longitude: 148.10732
-url: /nsw/weedallion/
 layout: suburb
+longitude: 148.10732
+postcode: '2594'
+state: NSW
+title: WEEDALLION
+url: /nsw/weedallion/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EMBLETON
-state: WA
-postcode: 6062
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.886322
-longitude: 115.89088
-url: /wa/embleton/
 layout: suburb
+longitude: 115.89088
+postcode: '6062'
+state: WA
+title: EMBLETON
+url: /wa/embleton/
 ---

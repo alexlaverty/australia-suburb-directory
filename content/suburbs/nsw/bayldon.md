@@ -1,9 +1,10 @@
 ---
-title: BAYLDON
-state: NSW
-postcode: 2452
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.357168
-longitude: 153.08188
-url: /nsw/bayldon/
 layout: suburb
+longitude: 153.08188
+postcode: '2452'
+state: NSW
+title: BAYLDON
+url: /nsw/bayldon/
 ---

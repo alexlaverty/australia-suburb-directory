@@ -1,9 +1,10 @@
 ---
-title: BOONAH
-state: VIC
-postcode: 3235
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.42875898
-longitude: 143.979689
-url: /vic/boonah/
 layout: suburb
+longitude: 143.979689
+postcode: '3235'
+state: VIC
+title: BOONAH
+url: /vic/boonah/
 ---

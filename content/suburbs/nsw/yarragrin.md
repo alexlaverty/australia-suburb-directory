@@ -1,9 +1,10 @@
 ---
-title: YARRAGRIN
-state: NSW
-postcode: 2842
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.690852
-longitude: 149.051954
-url: /nsw/yarragrin/
 layout: suburb
+longitude: 149.051954
+postcode: '2842'
+state: NSW
+title: YARRAGRIN
+url: /nsw/yarragrin/
 ---

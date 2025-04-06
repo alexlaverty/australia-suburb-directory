@@ -1,9 +1,10 @@
 ---
-title: NUROM
-state: SA
-postcode: 5523
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.31761721
-longitude: 138.1000032
-url: /sa/nurom/
 layout: suburb
+longitude: 138.1000032
+postcode: '5523'
+state: SA
+title: NUROM
+url: /sa/nurom/
 ---

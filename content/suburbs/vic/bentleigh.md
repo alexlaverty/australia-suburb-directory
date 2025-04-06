@@ -1,9 +1,10 @@
 ---
-title: BENTLEIGH
-state: VIC
-postcode: 3204
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.916956
-longitude: 145.036783
-url: /vic/bentleigh/
 layout: suburb
+longitude: 145.036783
+postcode: '3204'
+state: VIC
+title: BENTLEIGH
+url: /vic/bentleigh/
 ---

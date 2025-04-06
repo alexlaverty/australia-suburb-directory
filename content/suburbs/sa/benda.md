@@ -1,9 +1,10 @@
 ---
-title: BENDA
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.65329828
-longitude: 140.1121142
-url: /sa/benda/
 layout: suburb
+longitude: 140.1121142
+postcode: '5440'
+state: SA
+title: BENDA
+url: /sa/benda/
 ---

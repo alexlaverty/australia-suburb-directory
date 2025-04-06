@@ -1,9 +1,10 @@
 ---
-title: ROSEHILL
-state: QLD
-postcode: 4370
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.18270629
-longitude: 151.9971528
-url: /qld/rosehill/
 layout: suburb
+longitude: 151.9971528
+postcode: '4370'
+state: QLD
+title: ROSEHILL
+url: /qld/rosehill/
 ---

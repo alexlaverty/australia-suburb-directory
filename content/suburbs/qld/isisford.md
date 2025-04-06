@@ -1,9 +1,10 @@
 ---
-title: ISISFORD
-state: QLD
-postcode: 4731
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.49928
-longitude: 144.26853
-url: /qld/isisford/
 layout: suburb
+longitude: 144.26853
+postcode: '4731'
+state: QLD
+title: ISISFORD
+url: /qld/isisford/
 ---

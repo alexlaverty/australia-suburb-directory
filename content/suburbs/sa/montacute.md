@@ -1,9 +1,10 @@
 ---
-title: MONTACUTE
-state: SA
-postcode: 5134
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.891863
-longitude: 138.760552
-url: /sa/montacute/
 layout: suburb
+longitude: 138.760552
+postcode: '5134'
+state: SA
+title: MONTACUTE
+url: /sa/montacute/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MOLONG
-state: NSW
-postcode: 2866
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.007264
-longitude: 148.904531
-url: /nsw/molong/
 layout: suburb
+longitude: 148.904531
+postcode: '2866'
+state: NSW
+title: MOLONG
+url: /nsw/molong/
 ---

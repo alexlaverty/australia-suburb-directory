@@ -1,9 +1,10 @@
 ---
-title: GEEGULLY CREEK
-state: WA
-postcode: 6728
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -17.090606
-longitude: 124.591962
-url: /wa/geegully-creek/
 layout: suburb
+longitude: 124.591962
+postcode: '6728'
+state: WA
+title: GEEGULLY CREEK
+url: /wa/geegully-creek/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NEWCASTLE UNIVERSITY
-state: NSW
-postcode: 2308
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.892884
-longitude: 151.697356
-url: /nsw/newcastle-university/
 layout: suburb
+longitude: 151.697356
+postcode: '2308'
+state: NSW
+title: NEWCASTLE UNIVERSITY
+url: /nsw/newcastle-university/
 ---

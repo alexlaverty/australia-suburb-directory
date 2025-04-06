@@ -1,9 +1,10 @@
 ---
-title: WELLARD
-state: WA
-postcode: 6170
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.265645
-longitude: 115.835972
-url: /wa/wellard/
 layout: suburb
+longitude: 115.835972
+postcode: '6170'
+state: WA
+title: WELLARD
+url: /wa/wellard/
 ---

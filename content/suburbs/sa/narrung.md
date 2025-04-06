@@ -1,9 +1,10 @@
 ---
-title: NARRUNG
-state: SA
-postcode: 5259
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.521405
-longitude: 139.236567
-url: /sa/narrung/
 layout: suburb
+longitude: 139.236567
+postcode: '5259'
+state: SA
+title: NARRUNG
+url: /sa/narrung/
 ---

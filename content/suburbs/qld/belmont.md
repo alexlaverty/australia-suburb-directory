@@ -1,9 +1,10 @@
 ---
-title: BELMONT
-state: QLD
-postcode: 4153
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.510035
-longitude: 153.131429
-url: /qld/belmont/
 layout: suburb
+longitude: 153.131429
+postcode: '4153'
+state: QLD
+title: BELMONT
+url: /qld/belmont/
 ---

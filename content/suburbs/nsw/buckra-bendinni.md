@@ -1,9 +1,10 @@
 ---
-title: BUCKRA BENDINNI
-state: NSW
-postcode: 2449
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.65151528
-longitude: 152.6981682
-url: /nsw/buckra-bendinni/
 layout: suburb
+longitude: 152.6981682
+postcode: '2449'
+state: NSW
+title: BUCKRA BENDINNI
+url: /nsw/buckra-bendinni/
 ---

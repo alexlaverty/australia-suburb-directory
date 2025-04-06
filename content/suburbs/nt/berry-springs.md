@@ -1,9 +1,10 @@
 ---
-title: BERRY SPRINGS
-state: NT
-postcode: 0838
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.71878122
-longitude: 131.0067348
-url: /nt/berry-springs/
 layout: suburb
+longitude: 131.0067348
+postcode: 0838
+state: NT
+title: BERRY SPRINGS
+url: /nt/berry-springs/
 ---

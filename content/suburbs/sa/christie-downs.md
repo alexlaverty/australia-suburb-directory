@@ -1,9 +1,10 @@
 ---
-title: CHRISTIE DOWNS
-state: SA
-postcode: 5164
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.124824
-longitude: 138.500365
-url: /sa/christie-downs/
 layout: suburb
+longitude: 138.500365
+postcode: '5164'
+state: SA
+title: CHRISTIE DOWNS
+url: /sa/christie-downs/
 ---

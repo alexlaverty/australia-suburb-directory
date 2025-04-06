@@ -1,9 +1,10 @@
 ---
-title: APPILA
-state: SA
-postcode: 5480
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.125751
-longitude: 138.319834
-url: /sa/appila/
 layout: suburb
+longitude: 138.319834
+postcode: '5480'
+state: SA
+title: APPILA
+url: /sa/appila/
 ---

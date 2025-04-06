@@ -1,9 +1,10 @@
 ---
-title: RED HILL SOUTH
-state: VIC
-postcode: 3937
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.373694
-longitude: 145.01994
-url: /vic/red-hill-south/
 layout: suburb
+longitude: 145.01994
+postcode: '3937'
+state: VIC
+title: RED HILL SOUTH
+url: /vic/red-hill-south/
 ---

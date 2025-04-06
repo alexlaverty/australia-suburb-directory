@@ -1,9 +1,10 @@
 ---
-title: EKIBIN
-state: QLD
-postcode: 4121
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.526966
-longitude: 153.053952
-url: /qld/ekibin/
 layout: suburb
+longitude: 153.053952
+postcode: '4121'
+state: QLD
+title: EKIBIN
+url: /qld/ekibin/
 ---

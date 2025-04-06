@@ -1,9 +1,10 @@
 ---
-title: YENGO
-state: NSW
-postcode: 2325
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.0239
-longitude: 150.9134
-url: /nsw/yengo/
 layout: suburb
+longitude: 150.9134
+postcode: '2325'
+state: NSW
+title: YENGO
+url: /nsw/yengo/
 ---

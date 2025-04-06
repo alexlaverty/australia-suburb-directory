@@ -1,9 +1,10 @@
 ---
-title: KINGS HILL
-state: NSW
-postcode: 2324
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.71798998
-longitude: 151.7752919
-url: /nsw/kings-hill/
 layout: suburb
+longitude: 151.7752919
+postcode: '2324'
+state: NSW
+title: KINGS HILL
+url: /nsw/kings-hill/
 ---

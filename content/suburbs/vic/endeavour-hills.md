@@ -1,9 +1,10 @@
 ---
-title: ENDEAVOUR HILLS
-state: VIC
-postcode: 3802
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.971763
-longitude: 145.255599
-url: /vic/endeavour-hills/
 layout: suburb
+longitude: 145.255599
+postcode: '3802'
+state: VIC
+title: ENDEAVOUR HILLS
+url: /vic/endeavour-hills/
 ---

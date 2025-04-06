@@ -1,9 +1,10 @@
 ---
-title: MURRAY LOCK NO 9
-state: VIC
-postcode: 3496
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.192418
-longitude: 141.597936
-url: /vic/murray-lock-no-9/
 layout: suburb
+longitude: 141.597936
+postcode: '3496'
+state: VIC
+title: MURRAY LOCK NO 9
+url: /vic/murray-lock-no-9/
 ---

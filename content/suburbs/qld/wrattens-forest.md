@@ -1,9 +1,10 @@
 ---
-title: WRATTENS FOREST
-state: QLD
-postcode: 4601
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.145002
-longitude: 152.012412
-url: /qld/wrattens-forest/
 layout: suburb
+longitude: 152.012412
+postcode: '4601'
+state: QLD
+title: WRATTENS FOREST
+url: /qld/wrattens-forest/
 ---

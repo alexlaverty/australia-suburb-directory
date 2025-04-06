@@ -1,9 +1,10 @@
 ---
-title: AUBURN
-state: SA
-postcode: 5451
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.092233
-longitude: 138.620883
-url: /sa/auburn/
 layout: suburb
+longitude: 138.620883
+postcode: '5451'
+state: SA
+title: AUBURN
+url: /sa/auburn/
 ---

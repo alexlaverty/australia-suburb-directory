@@ -1,9 +1,10 @@
 ---
-title: BOORHAMAN NORTH
-state: VIC
-postcode: 3685
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.056449
-longitude: 146.470638
-url: /vic/boorhaman-north/
 layout: suburb
+longitude: 146.470638
+postcode: '3685'
+state: VIC
+title: BOORHAMAN NORTH
+url: /vic/boorhaman-north/
 ---

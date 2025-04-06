@@ -1,9 +1,10 @@
 ---
-title: CALWELL
-state: ACT
-postcode: 2905
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.431011
-longitude: 149.110025
-url: /act/calwell/
 layout: suburb
+longitude: 149.110025
+postcode: '2905'
+state: ACT
+title: CALWELL
+url: /act/calwell/
 ---

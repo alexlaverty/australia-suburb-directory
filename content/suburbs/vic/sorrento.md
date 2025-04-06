@@ -1,9 +1,10 @@
 ---
-title: SORRENTO
-state: VIC
-postcode: 3943
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.345527
-longitude: 144.739101
-url: /vic/sorrento/
 layout: suburb
+longitude: 144.739101
+postcode: '3943'
+state: VIC
+title: SORRENTO
+url: /vic/sorrento/
 ---

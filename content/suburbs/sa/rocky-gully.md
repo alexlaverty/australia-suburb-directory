@@ -1,9 +1,10 @@
 ---
-title: ROCKY GULLY
-state: SA
-postcode: 5254
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.10901238
-longitude: 139.2020317
-url: /sa/rocky-gully/
 layout: suburb
+longitude: 139.2020317
+postcode: '5254'
+state: SA
+title: ROCKY GULLY
+url: /sa/rocky-gully/
 ---

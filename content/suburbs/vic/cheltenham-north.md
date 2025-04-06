@@ -1,9 +1,10 @@
 ---
-title: CHELTENHAM NORTH
-state: VIC
-postcode: 3192
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.965655
-longitude: 145.0623
-url: /vic/cheltenham-north/
 layout: suburb
+longitude: 145.0623
+postcode: '3192'
+state: VIC
+title: CHELTENHAM NORTH
+url: /vic/cheltenham-north/
 ---

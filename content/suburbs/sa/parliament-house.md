@@ -1,9 +1,10 @@
 ---
-title: PARLIAMENT HOUSE
-state: SA
-postcode: 5000
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.937459
-longitude: 138.608637
-url: /sa/parliament-house/
 layout: suburb
+longitude: 138.608637
+postcode: '5000'
+state: SA
+title: PARLIAMENT HOUSE
+url: /sa/parliament-house/
 ---

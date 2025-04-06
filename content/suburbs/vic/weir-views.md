@@ -1,9 +1,10 @@
 ---
-title: WEIR VIEWS
-state: VIC
-postcode: 3338
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.72870467
-longitude: 144.5683367
-url: /vic/weir-views/
 layout: suburb
+longitude: 144.5683367
+postcode: '3338'
+state: VIC
+title: WEIR VIEWS
+url: /vic/weir-views/
 ---

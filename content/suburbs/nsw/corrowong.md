@@ -1,9 +1,10 @@
 ---
-title: CORROWONG
-state: NSW
-postcode: 2633
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.865206
-longitude: 148.701564
-url: /nsw/corrowong/
 layout: suburb
+longitude: 148.701564
+postcode: '2633'
+state: NSW
+title: CORROWONG
+url: /nsw/corrowong/
 ---

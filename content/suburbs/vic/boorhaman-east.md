@@ -1,9 +1,10 @@
 ---
-title: BOORHAMAN EAST
-state: VIC
-postcode: 3678
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.68892
-longitude: 146.482439
-url: /vic/boorhaman-east/
 layout: suburb
+longitude: 146.482439
+postcode: '3678'
+state: VIC
+title: BOORHAMAN EAST
+url: /vic/boorhaman-east/
 ---

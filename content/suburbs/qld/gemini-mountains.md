@@ -1,9 +1,10 @@
 ---
-title: GEMINI MOUNTAINS
-state: QLD
-postcode: 4721
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -22.45140311
-longitude: 147.8610349
-url: /qld/gemini-mountains/
 layout: suburb
+longitude: 147.8610349
+postcode: '4721'
+state: QLD
+title: GEMINI MOUNTAINS
+url: /qld/gemini-mountains/
 ---

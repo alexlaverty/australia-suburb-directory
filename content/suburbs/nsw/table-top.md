@@ -1,9 +1,10 @@
 ---
-title: TABLE TOP
-state: NSW
-postcode: 2640
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.016196
-longitude: 147.026549
-url: /nsw/table-top/
 layout: suburb
+longitude: 147.026549
+postcode: '2640'
+state: NSW
+title: TABLE TOP
+url: /nsw/table-top/
 ---

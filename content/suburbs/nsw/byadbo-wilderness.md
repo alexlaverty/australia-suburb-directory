@@ -1,9 +1,10 @@
 ---
-title: BYADBO WILDERNESS
-state: NSW
-postcode: 2628
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.404324
-longitude: 148.833511
-url: /nsw/byadbo-wilderness/
 layout: suburb
+longitude: 148.833511
+postcode: '2628'
+state: NSW
+title: BYADBO WILDERNESS
+url: /nsw/byadbo-wilderness/
 ---

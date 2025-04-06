@@ -1,9 +1,10 @@
 ---
-title: COOLAC
-state: NSW
-postcode: 2727
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.983539
-longitude: 148.390372
-url: /nsw/coolac/
 layout: suburb
+longitude: 148.390372
+postcode: '2727'
+state: NSW
+title: COOLAC
+url: /nsw/coolac/
 ---

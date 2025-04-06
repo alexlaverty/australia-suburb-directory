@@ -1,9 +1,10 @@
 ---
-title: LOGAN RESERVE
-state: QLD
-postcode: 4133
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.723837
-longitude: 153.102664
-url: /qld/logan-reserve/
 layout: suburb
+longitude: 153.102664
+postcode: '4133'
+state: QLD
+title: LOGAN RESERVE
+url: /qld/logan-reserve/
 ---

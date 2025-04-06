@@ -1,9 +1,10 @@
 ---
-title: MURRUMBA
-state: QLD
-postcode: 4312
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.256065
-longitude: 152.482636
-url: /qld/murrumba/
 layout: suburb
+longitude: 152.482636
+postcode: '4312'
+state: QLD
+title: MURRUMBA
+url: /qld/murrumba/
 ---

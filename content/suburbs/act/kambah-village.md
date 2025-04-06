@@ -1,9 +1,10 @@
 ---
-title: KAMBAH VILLAGE
-state: ACT
-postcode: 2902
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.37869
-longitude: 149.059107
-url: /act/kambah-village/
 layout: suburb
+longitude: 149.059107
+postcode: '2902'
+state: ACT
+title: KAMBAH VILLAGE
+url: /act/kambah-village/
 ---

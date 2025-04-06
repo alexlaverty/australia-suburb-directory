@@ -1,9 +1,10 @@
 ---
-title: GULNARE
-state: SA
-postcode: 5471
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.47611
-longitude: 138.424322
-url: /sa/gulnare/
 layout: suburb
+longitude: 138.424322
+postcode: '5471'
+state: SA
+title: GULNARE
+url: /sa/gulnare/
 ---

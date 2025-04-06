@@ -1,9 +1,10 @@
 ---
-title: CANADA BAY
-state: NSW
-postcode: 2046
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.866044
-longitude: 151.133865
-url: /nsw/canada-bay/
 layout: suburb
+longitude: 151.133865
+postcode: '2046'
+state: NSW
+title: CANADA BAY
+url: /nsw/canada-bay/
 ---

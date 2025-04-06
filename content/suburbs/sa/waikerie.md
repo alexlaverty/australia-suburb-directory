@@ -1,9 +1,10 @@
 ---
-title: WAIKERIE
-state: SA
-postcode: 5330
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.94707
-longitude: 139.975421
-url: /sa/waikerie/
 layout: suburb
+longitude: 139.975421
+postcode: '5330'
+state: SA
+title: WAIKERIE
+url: /sa/waikerie/
 ---

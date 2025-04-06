@@ -1,9 +1,10 @@
 ---
-title: HARKAWAY
-state: VIC
-postcode: 3806
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.025018
-longitude: 145.349488
-url: /vic/harkaway/
 layout: suburb
+longitude: 145.349488
+postcode: '3806'
+state: VIC
+title: HARKAWAY
+url: /vic/harkaway/
 ---

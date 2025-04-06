@@ -1,9 +1,10 @@
 ---
-title: GERALDTON DC
-state: WA
-postcode: 6530
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.802491
-longitude: 114.862505
-url: /wa/geraldton-dc/
 layout: suburb
+longitude: 114.862505
+postcode: '6530'
+state: WA
+title: GERALDTON DC
+url: /wa/geraldton-dc/
 ---

@@ -1,9 +1,10 @@
 ---
-title: OXLEY
-state: NSW
-postcode: 2824
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.98197798
-longitude: 147.6205823
-url: /nsw/oxley/
 layout: suburb
+longitude: 147.6205823
+postcode: '2824'
+state: NSW
+title: OXLEY
+url: /nsw/oxley/
 ---

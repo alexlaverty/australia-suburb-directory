@@ -1,9 +1,10 @@
 ---
-title: MITCHELL PARK
-state: SA
-postcode: 5043
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.005492
-longitude: 138.553853
-url: /sa/mitchell-park/
 layout: suburb
+longitude: 138.553853
+postcode: '5043'
+state: SA
+title: MITCHELL PARK
+url: /sa/mitchell-park/
 ---

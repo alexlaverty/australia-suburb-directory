@@ -1,9 +1,10 @@
 ---
-title: CHIPPENDALE
-state: NSW
-postcode: 2008
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.891146
-longitude: 151.193858
-url: /nsw/chippendale/
 layout: suburb
+longitude: 151.193858
+postcode: '2008'
+state: NSW
+title: CHIPPENDALE
+url: /nsw/chippendale/
 ---

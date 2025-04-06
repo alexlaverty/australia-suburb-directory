@@ -1,9 +1,10 @@
 ---
-title: MOORE PARK
-state: NSW
-postcode: 2021
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.895705
-longitude: 151.227236
-url: /nsw/moore-park/
 layout: suburb
+longitude: 151.227236
+postcode: '2021'
+state: NSW
+title: MOORE PARK
+url: /nsw/moore-park/
 ---

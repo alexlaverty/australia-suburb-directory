@@ -1,9 +1,10 @@
 ---
-title: KOGARAH
-state: NSW
-postcode: 2217
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.974354
-longitude: 151.140345
-url: /nsw/kogarah/
 layout: suburb
+longitude: 151.140345
+postcode: '2217'
+state: NSW
+title: KOGARAH
+url: /nsw/kogarah/
 ---

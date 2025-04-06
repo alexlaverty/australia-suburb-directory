@@ -1,9 +1,10 @@
 ---
-title: YARRAGON
-state: VIC
-postcode: 3823
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.210382
-longitude: 146.065656
-url: /vic/yarragon/
 layout: suburb
+longitude: 146.065656
+postcode: '3823'
+state: VIC
+title: YARRAGON
+url: /vic/yarragon/
 ---

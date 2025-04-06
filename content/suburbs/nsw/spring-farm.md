@@ -1,9 +1,10 @@
 ---
-title: SPRING FARM
-state: NSW
-postcode: 2570
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.042913
-longitude: 150.525292
-url: /nsw/spring-farm/
 layout: suburb
+longitude: 150.525292
+postcode: '2570'
+state: NSW
+title: SPRING FARM
+url: /nsw/spring-farm/
 ---

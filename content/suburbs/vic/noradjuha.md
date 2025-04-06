@@ -1,9 +1,10 @@
 ---
-title: NORADJUHA
-state: VIC
-postcode: 3409
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.84799315
-longitude: 141.9194993
-url: /vic/noradjuha/
 layout: suburb
+longitude: 141.9194993
+postcode: '3409'
+state: VIC
+title: NORADJUHA
+url: /vic/noradjuha/
 ---

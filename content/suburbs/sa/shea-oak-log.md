@@ -1,9 +1,10 @@
 ---
-title: SHEA-OAK LOG
-state: SA
-postcode: 5371
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.517974
-longitude: 138.765349
-url: /sa/shea-oak-log/
 layout: suburb
+longitude: 138.765349
+postcode: '5371'
+state: SA
+title: SHEA-OAK LOG
+url: /sa/shea-oak-log/
 ---

@@ -1,9 +1,10 @@
 ---
-title: JIBBERDING
-state: WA
-postcode: 6612
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -29.545139
-longitude: 117.835179
-url: /wa/jibberding/
 layout: suburb
+longitude: 117.835179
+postcode: '6612'
+state: WA
+title: JIBBERDING
+url: /wa/jibberding/
 ---

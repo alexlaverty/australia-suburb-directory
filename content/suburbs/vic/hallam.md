@@ -1,9 +1,10 @@
 ---
-title: HALLAM
-state: VIC
-postcode: 3803
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.009435
-longitude: 145.265524
-url: /vic/hallam/
 layout: suburb
+longitude: 145.265524
+postcode: '3803'
+state: VIC
+title: HALLAM
+url: /vic/hallam/
 ---

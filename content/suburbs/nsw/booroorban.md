@@ -1,9 +1,10 @@
 ---
-title: BOOROORBAN
-state: NSW
-postcode: 2710
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.357619
-longitude: 144.984378
-url: /nsw/booroorban/
 layout: suburb
+longitude: 144.984378
+postcode: '2710'
+state: NSW
+title: BOOROORBAN
+url: /nsw/booroorban/
 ---

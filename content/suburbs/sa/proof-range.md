@@ -1,9 +1,10 @@
 ---
-title: PROOF RANGE
-state: SA
-postcode: 5550
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.093038
-longitude: 138.243785
-url: /sa/proof-range/
 layout: suburb
+longitude: 138.243785
+postcode: '5550'
+state: SA
+title: PROOF RANGE
+url: /sa/proof-range/
 ---

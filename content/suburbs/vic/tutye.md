@@ -1,9 +1,10 @@
 ---
-title: TUTYE
-state: VIC
-postcode: 3490
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.911674
-longitude: 142.206711
-url: /vic/tutye/
 layout: suburb
+longitude: 142.206711
+postcode: '3490'
+state: VIC
+title: TUTYE
+url: /vic/tutye/
 ---

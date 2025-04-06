@@ -1,9 +1,10 @@
 ---
-title: DRILLHAM
-state: QLD
-postcode: 4424
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.598388
-longitude: 149.960268
-url: /qld/drillham/
 layout: suburb
+longitude: 149.960268
+postcode: '4424'
+state: QLD
+title: DRILLHAM
+url: /qld/drillham/
 ---

@@ -1,9 +1,10 @@
 ---
-title: YARRA JUNCTION
-state: VIC
-postcode: 3797
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.867809
-longitude: 145.786343
-url: /vic/yarra-junction/
 layout: suburb
+longitude: 145.786343
+postcode: '3797'
+state: VIC
+title: YARRA JUNCTION
+url: /vic/yarra-junction/
 ---

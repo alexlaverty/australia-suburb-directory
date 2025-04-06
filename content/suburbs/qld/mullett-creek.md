@@ -1,9 +1,10 @@
 ---
-title: MULLETT CREEK
-state: QLD
-postcode: 4670
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.598349
-longitude: 152.0659408
-url: /qld/mullett-creek/
 layout: suburb
+longitude: 152.0659408
+postcode: '4670'
+state: QLD
+title: MULLETT CREEK
+url: /qld/mullett-creek/
 ---

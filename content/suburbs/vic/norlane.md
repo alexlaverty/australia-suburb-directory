@@ -1,9 +1,10 @@
 ---
-title: NORLANE
-state: VIC
-postcode: 3214
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.084781
-longitude: 144.352385
-url: /vic/norlane/
 layout: suburb
+longitude: 144.352385
+postcode: '3214'
+state: VIC
+title: NORLANE
+url: /vic/norlane/
 ---

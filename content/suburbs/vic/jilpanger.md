@@ -1,9 +1,10 @@
 ---
-title: JILPANGER
-state: VIC
-postcode: 3409
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.91000699
-longitude: 141.7461966
-url: /vic/jilpanger/
 layout: suburb
+longitude: 141.7461966
+postcode: '3409'
+state: VIC
+title: JILPANGER
+url: /vic/jilpanger/
 ---

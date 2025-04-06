@@ -1,9 +1,10 @@
 ---
-title: WINGAROO
-state: TAS
-postcode: 7255
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -39.949379
-longitude: 148.329247
-url: /tas/wingaroo/
 layout: suburb
+longitude: 148.329247
+postcode: '7255'
+state: TAS
+title: WINGAROO
+url: /tas/wingaroo/
 ---

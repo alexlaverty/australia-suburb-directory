@@ -1,9 +1,10 @@
 ---
-title: CARINE
-state: WA
-postcode: 6020
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.852698
-longitude: 115.765396
-url: /wa/carine/
 layout: suburb
+longitude: 115.765396
+postcode: '6020'
+state: WA
+title: CARINE
+url: /wa/carine/
 ---

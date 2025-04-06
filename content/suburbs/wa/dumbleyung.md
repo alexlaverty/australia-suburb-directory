@@ -1,9 +1,10 @@
 ---
-title: DUMBLEYUNG
-state: WA
-postcode: 6350
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.281233
-longitude: 117.783872
-url: /wa/dumbleyung/
 layout: suburb
+longitude: 117.783872
+postcode: '6350'
+state: WA
+title: DUMBLEYUNG
+url: /wa/dumbleyung/
 ---

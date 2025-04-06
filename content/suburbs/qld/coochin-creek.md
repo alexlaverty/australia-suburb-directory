@@ -1,9 +1,10 @@
 ---
-title: COOCHIN CREEK
-state: QLD
-postcode: 4519
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.849388
-longitude: 152.91803
-url: /qld/coochin-creek/
 layout: suburb
+longitude: 152.91803
+postcode: '4519'
+state: QLD
+title: COOCHIN CREEK
+url: /qld/coochin-creek/
 ---

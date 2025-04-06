@@ -1,9 +1,10 @@
 ---
-title: MOUNT HOPE
-state: SA
-postcode: 5607
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.156446
-longitude: 136.456454
-url: /sa/mount-hope/
 layout: suburb
+longitude: 136.456454
+postcode: '5607'
+state: SA
+title: MOUNT HOPE
+url: /sa/mount-hope/
 ---

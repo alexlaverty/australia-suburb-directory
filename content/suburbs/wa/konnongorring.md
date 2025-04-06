@@ -1,9 +1,10 @@
 ---
-title: KONNONGORRING
-state: WA
-postcode: 6603
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -30.874243
-longitude: 116.725982
-url: /wa/konnongorring/
 layout: suburb
+longitude: 116.725982
+postcode: '6603'
+state: WA
+title: KONNONGORRING
+url: /wa/konnongorring/
 ---

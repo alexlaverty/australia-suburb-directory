@@ -1,9 +1,10 @@
 ---
-title: GREIGS FLAT
-state: NSW
-postcode: 2549
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.953196
-longitude: 149.851694
-url: /nsw/greigs-flat/
 layout: suburb
+longitude: 149.851694
+postcode: '2549'
+state: NSW
+title: GREIGS FLAT
+url: /nsw/greigs-flat/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BRIDGEMAN DOWNS
-state: QLD
-postcode: 4035
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.356025
-longitude: 152.979085
-url: /qld/bridgeman-downs/
 layout: suburb
+longitude: 152.979085
+postcode: '4035'
+state: QLD
+title: BRIDGEMAN DOWNS
+url: /qld/bridgeman-downs/
 ---

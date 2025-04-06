@@ -1,9 +1,10 @@
 ---
-title: ALBACUTYA
-state: VIC
-postcode: 3424
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.727789
-longitude: 141.930872
-url: /vic/albacutya/
 layout: suburb
+longitude: 141.930872
+postcode: '3424'
+state: VIC
+title: ALBACUTYA
+url: /vic/albacutya/
 ---

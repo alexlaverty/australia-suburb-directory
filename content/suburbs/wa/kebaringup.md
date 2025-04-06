@@ -1,9 +1,10 @@
 ---
-title: KEBARINGUP
-state: WA
-postcode: 6335
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.869017
-longitude: 118.112783
-url: /wa/kebaringup/
 layout: suburb
+longitude: 118.112783
+postcode: '6335'
+state: WA
+title: KEBARINGUP
+url: /wa/kebaringup/
 ---

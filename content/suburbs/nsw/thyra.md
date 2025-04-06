@@ -1,9 +1,10 @@
 ---
-title: THYRA
-state: NSW
-postcode: 2731
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.84487627
-longitude: 144.7439889
-url: /nsw/thyra/
 layout: suburb
+longitude: 144.7439889
+postcode: '2731'
+state: NSW
+title: THYRA
+url: /nsw/thyra/
 ---

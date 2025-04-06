@@ -1,9 +1,10 @@
 ---
-title: MACQUARIE CENTRE
-state: NSW
-postcode: 2113
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.79419
-longitude: 151.130233
-url: /nsw/macquarie-centre/
 layout: suburb
+longitude: 151.130233
+postcode: '2113'
+state: NSW
+title: MACQUARIE CENTRE
+url: /nsw/macquarie-centre/
 ---

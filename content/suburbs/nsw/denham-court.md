@@ -1,9 +1,10 @@
 ---
-title: DENHAM COURT
-state: NSW
-postcode: 2565
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.996063
-longitude: 150.843761
-url: /nsw/denham-court/
 layout: suburb
+longitude: 150.843761
+postcode: '2565'
+state: NSW
+title: DENHAM COURT
+url: /nsw/denham-court/
 ---

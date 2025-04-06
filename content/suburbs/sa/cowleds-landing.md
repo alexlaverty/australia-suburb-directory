@@ -1,9 +1,10 @@
 ---
-title: COWLEDS LANDING
-state: SA
-postcode: 5609
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.14979064
-longitude: 137.4398767
-url: /sa/cowleds-landing/
 layout: suburb
+longitude: 137.4398767
+postcode: '5609'
+state: SA
+title: COWLEDS LANDING
+url: /sa/cowleds-landing/
 ---

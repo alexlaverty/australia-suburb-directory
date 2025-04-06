@@ -1,9 +1,10 @@
 ---
-title: THORNTON
-state: VIC
-postcode: 3712
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.3209
-longitude: 145.839057
-url: /vic/thornton/
 layout: suburb
+longitude: 145.839057
+postcode: '3712'
+state: VIC
+title: THORNTON
+url: /vic/thornton/
 ---

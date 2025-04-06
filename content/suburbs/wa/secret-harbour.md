@@ -1,9 +1,10 @@
 ---
-title: SECRET HARBOUR
-state: WA
-postcode: 6173
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.407414
-longitude: 115.757908
-url: /wa/secret-harbour/
 layout: suburb
+longitude: 115.757908
+postcode: '6173'
+state: WA
+title: SECRET HARBOUR
+url: /wa/secret-harbour/
 ---

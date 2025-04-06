@@ -1,9 +1,10 @@
 ---
-title: COOLGARDIE
-state: NSW
-postcode: 2478
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.865483
-longitude: 153.532475
-url: /nsw/coolgardie/
 layout: suburb
+longitude: 153.532475
+postcode: '2478'
+state: NSW
+title: COOLGARDIE
+url: /nsw/coolgardie/
 ---

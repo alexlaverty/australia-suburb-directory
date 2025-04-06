@@ -1,9 +1,10 @@
 ---
-title: NOWERGUP
-state: WA
-postcode: 6032
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.643227
-longitude: 115.74887
-url: /wa/nowergup/
 layout: suburb
+longitude: 115.74887
+postcode: '6032'
+state: WA
+title: NOWERGUP
+url: /wa/nowergup/
 ---

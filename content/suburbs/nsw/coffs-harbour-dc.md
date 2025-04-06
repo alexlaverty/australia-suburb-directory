@@ -1,9 +1,10 @@
 ---
-title: COFFS HARBOUR DC
-state: NSW
-postcode: 2450
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.2986
-longitude: 153.109
-url: /nsw/coffs-harbour-dc/
 layout: suburb
+longitude: 153.109
+postcode: '2450'
+state: NSW
+title: COFFS HARBOUR DC
+url: /nsw/coffs-harbour-dc/
 ---

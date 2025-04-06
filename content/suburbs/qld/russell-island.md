@@ -1,9 +1,10 @@
 ---
-title: RUSSELL ISLAND
-state: QLD
-postcode: 4184
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.676499
-longitude: 153.384655
-url: /qld/russell-island/
 layout: suburb
+longitude: 153.384655
+postcode: '4184'
+state: QLD
+title: RUSSELL ISLAND
+url: /qld/russell-island/
 ---

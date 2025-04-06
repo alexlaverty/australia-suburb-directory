@@ -1,9 +1,10 @@
 ---
-title: GARDENVALE
-state: VIC
-postcode: 3185
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.891841
-longitude: 145.002571
-url: /vic/gardenvale/
 layout: suburb
+longitude: 145.002571
+postcode: '3185'
+state: VIC
+title: GARDENVALE
+url: /vic/gardenvale/
 ---

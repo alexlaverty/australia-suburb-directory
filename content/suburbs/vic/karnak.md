@@ -1,9 +1,10 @@
 ---
-title: KARNAK
-state: VIC
-postcode: 3401
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.881534
-longitude: 141.940832
-url: /vic/karnak/
 layout: suburb
+longitude: 141.940832
+postcode: '3401'
+state: VIC
+title: KARNAK
+url: /vic/karnak/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MOOLOOLOO
-state: SA
-postcode: 5730
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.98685781
-longitude: 138.5275095
-url: /sa/moolooloo/
 layout: suburb
+longitude: 138.5275095
+postcode: '5730'
+state: SA
+title: MOOLOOLOO
+url: /sa/moolooloo/
 ---

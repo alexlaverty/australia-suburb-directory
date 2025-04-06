@@ -1,9 +1,10 @@
 ---
-title: MURRENGENBURG
-state: NSW
-postcode: 2622
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.53522574
-longitude: 149.9850502
-url: /nsw/murrengenburg/
 layout: suburb
+longitude: 149.9850502
+postcode: '2622'
+state: NSW
+title: MURRENGENBURG
+url: /nsw/murrengenburg/
 ---

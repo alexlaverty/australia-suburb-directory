@@ -1,9 +1,10 @@
 ---
-title: TREWILGA
-state: NSW
-postcode: 2869
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.584028
-longitude: 148.266655
-url: /nsw/trewilga/
 layout: suburb
+longitude: 148.266655
+postcode: '2869'
+state: NSW
+title: TREWILGA
+url: /nsw/trewilga/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MILTON
-state: QLD
-postcode: 4064
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.464676
-longitude: 152.999039
-url: /qld/milton/
 layout: suburb
+longitude: 152.999039
+postcode: '4064'
+state: QLD
+title: MILTON
+url: /qld/milton/
 ---

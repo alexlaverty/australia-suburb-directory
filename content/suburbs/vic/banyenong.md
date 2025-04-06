@@ -1,9 +1,10 @@
 ---
-title: BANYENONG
-state: VIC
-postcode: 3480
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.31227
-longitude: 142.968057
-url: /vic/banyenong/
 layout: suburb
+longitude: 142.968057
+postcode: '3480'
+state: VIC
+title: BANYENONG
+url: /vic/banyenong/
 ---

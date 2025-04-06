@@ -1,9 +1,10 @@
 ---
-title: BARRYS REEF
-state: VIC
-postcode: 3458
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.424116
-longitude: 144.33471
-url: /vic/barrys-reef/
 layout: suburb
+longitude: 144.33471
+postcode: '3458'
+state: VIC
+title: BARRYS REEF
+url: /vic/barrys-reef/
 ---

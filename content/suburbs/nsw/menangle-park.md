@@ -1,9 +1,10 @@
 ---
-title: MENANGLE PARK
-state: NSW
-postcode: 2563
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.102735
-longitude: 150.749847
-url: /nsw/menangle-park/
 layout: suburb
+longitude: 150.749847
+postcode: '2563'
+state: NSW
+title: MENANGLE PARK
+url: /nsw/menangle-park/
 ---

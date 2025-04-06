@@ -1,9 +1,10 @@
 ---
-title: CUNDEELEE
-state: WA
-postcode: 6434
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.820157
-longitude: 125.672818
-url: /wa/cundeelee/
 layout: suburb
+longitude: 125.672818
+postcode: '6434'
+state: WA
+title: CUNDEELEE
+url: /wa/cundeelee/
 ---

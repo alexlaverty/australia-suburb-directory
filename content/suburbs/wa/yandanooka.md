@@ -1,9 +1,10 @@
 ---
-title: YANDANOOKA
-state: WA
-postcode: 6522
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -29.139369
-longitude: 115.485567
-url: /wa/yandanooka/
 layout: suburb
+longitude: 115.485567
+postcode: '6522'
+state: WA
+title: YANDANOOKA
+url: /wa/yandanooka/
 ---

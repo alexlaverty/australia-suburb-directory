@@ -1,9 +1,10 @@
 ---
-title: CARINGAL
-state: VIC
-postcode: 3825
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.978862
-longitude: 146.342932
-url: /vic/caringal/
 layout: suburb
+longitude: 146.342932
+postcode: '3825'
+state: VIC
+title: CARINGAL
+url: /vic/caringal/
 ---

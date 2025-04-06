@@ -1,9 +1,10 @@
 ---
-title: SANS SOUCI
-state: NSW
-postcode: 2219
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.996587
-longitude: 151.132495
-url: /nsw/sans-souci/
 layout: suburb
+longitude: 151.132495
+postcode: '2219'
+state: NSW
+title: SANS SOUCI
+url: /nsw/sans-souci/
 ---

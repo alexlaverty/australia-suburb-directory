@@ -1,9 +1,10 @@
 ---
-title: YARRUNGA
-state: VIC
-postcode: 3677
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.358017
-longitude: 146.330564
-url: /vic/yarrunga/
 layout: suburb
+longitude: 146.330564
+postcode: '3677'
+state: VIC
+title: YARRUNGA
+url: /vic/yarrunga/
 ---

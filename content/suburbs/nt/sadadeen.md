@@ -1,9 +1,10 @@
 ---
-title: SADADEEN
-state: NT
-postcode: 0870
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -23.70326702
-longitude: 133.9010002
-url: /nt/sadadeen/
 layout: suburb
+longitude: 133.9010002
+postcode: 0870
+state: NT
+title: SADADEEN
+url: /nt/sadadeen/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ARNDELL PARK
-state: NSW
-postcode: 2148
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.783751
-longitude: 150.900547
-url: /nsw/arndell-park/
 layout: suburb
+longitude: 150.900547
+postcode: '2148'
+state: NSW
+title: ARNDELL PARK
+url: /nsw/arndell-park/
 ---

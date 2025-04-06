@@ -1,9 +1,10 @@
 ---
-title: BULLA
-state: VIC
-postcode: 3428
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.591069
-longitude: 144.811494
-url: /vic/bulla/
 layout: suburb
+longitude: 144.811494
+postcode: '3428'
+state: VIC
+title: BULLA
+url: /vic/bulla/
 ---

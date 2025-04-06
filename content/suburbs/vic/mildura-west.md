@@ -1,9 +1,10 @@
 ---
-title: MILDURA WEST
-state: VIC
-postcode: 3500
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.1931
-longitude: 142.154161
-url: /vic/mildura-west/
 layout: suburb
+longitude: 142.154161
+postcode: '3500'
+state: VIC
+title: MILDURA WEST
+url: /vic/mildura-west/
 ---

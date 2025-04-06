@@ -1,9 +1,10 @@
 ---
-title: WASHPOOL
-state: NSW
-postcode: 2460
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.29582566
-longitude: 152.3812776
-url: /nsw/washpool/
 layout: suburb
+longitude: 152.3812776
+postcode: '2460'
+state: NSW
+title: WASHPOOL
+url: /nsw/washpool/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HAMMOND PARK
-state: WA
-postcode: 6164
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.131993
-longitude: 115.854584
-url: /wa/hammond-park/
 layout: suburb
+longitude: 115.854584
+postcode: '6164'
+state: WA
+title: HAMMOND PARK
+url: /wa/hammond-park/
 ---

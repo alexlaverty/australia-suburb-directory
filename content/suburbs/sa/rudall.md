@@ -1,9 +1,10 @@
 ---
-title: RUDALL
-state: SA
-postcode: 5642
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.558726
-longitude: 136.103172
-url: /sa/rudall/
 layout: suburb
+longitude: 136.103172
+postcode: '5642'
+state: SA
+title: RUDALL
+url: /sa/rudall/
 ---

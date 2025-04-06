@@ -1,9 +1,10 @@
 ---
-title: MOOLIABEENEE
-state: WA
-postcode: 6504
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.310791
-longitude: 116.042298
-url: /wa/mooliabeenee/
 layout: suburb
+longitude: 116.042298
+postcode: '6504'
+state: WA
+title: MOOLIABEENEE
+url: /wa/mooliabeenee/
 ---

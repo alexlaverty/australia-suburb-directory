@@ -1,9 +1,10 @@
 ---
-title: BOMBO
-state: NSW
-postcode: 2533
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.645377
-longitude: 150.756883
-url: /nsw/bombo/
 layout: suburb
+longitude: 150.756883
+postcode: '2533'
+state: NSW
+title: BOMBO
+url: /nsw/bombo/
 ---

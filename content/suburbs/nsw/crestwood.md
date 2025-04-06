@@ -1,9 +1,10 @@
 ---
-title: CRESTWOOD
-state: NSW
-postcode: 2620
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.34845457
-longitude: 149.2175312
-url: /nsw/crestwood/
 layout: suburb
+longitude: 149.2175312
+postcode: '2620'
+state: NSW
+title: CRESTWOOD
+url: /nsw/crestwood/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MUCKATY STATION
-state: NT
-postcode: 0862
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -18.251528
-longitude: 134.463153
-url: /nt/muckaty-station/
 layout: suburb
+longitude: 134.463153
+postcode: 0862
+state: NT
+title: MUCKATY STATION
+url: /nt/muckaty-station/
 ---

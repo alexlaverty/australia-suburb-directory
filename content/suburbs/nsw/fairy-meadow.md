@@ -1,9 +1,10 @@
 ---
-title: FAIRY MEADOW
-state: NSW
-postcode: 2519
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.35558
-longitude: 150.709623
-url: /nsw/fairy-meadow/
 layout: suburb
+longitude: 150.709623
+postcode: '2519'
+state: NSW
+title: FAIRY MEADOW
+url: /nsw/fairy-meadow/
 ---

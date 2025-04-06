@@ -1,9 +1,10 @@
 ---
-title: FLORINA STATION
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.32128308
-longitude: 139.7889627
-url: /sa/florina-station/
 layout: suburb
+longitude: 139.7889627
+postcode: '5440'
+state: SA
+title: FLORINA STATION
+url: /sa/florina-station/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MOUNT ARDEN
-state: SA
-postcode: 5713
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.2847772
-longitude: 137.6946561
-url: /sa/mount-arden/
 layout: suburb
+longitude: 137.6946561
+postcode: '5713'
+state: SA
+title: MOUNT ARDEN
+url: /sa/mount-arden/
 ---

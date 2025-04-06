@@ -1,9 +1,10 @@
 ---
-title: LAKE HINDS
-state: WA
-postcode: 6603
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -30.874243
-longitude: 116.725982
-url: /wa/lake-hinds/
 layout: suburb
+longitude: 116.725982
+postcode: '6603'
+state: WA
+title: LAKE HINDS
+url: /wa/lake-hinds/
 ---

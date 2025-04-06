@@ -1,9 +1,10 @@
 ---
-title: EROBIN
-state: QLD
-postcode: 4160
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.506409
-longitude: 153.243312
-url: /qld/erobin/
 layout: suburb
+longitude: 153.243312
+postcode: '4160'
+state: QLD
+title: EROBIN
+url: /qld/erobin/
 ---

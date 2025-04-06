@@ -1,9 +1,10 @@
 ---
-title: GLENCOE
-state: SA
-postcode: 5291
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.927953
-longitude: 140.719634
-url: /sa/glencoe/
 layout: suburb
+longitude: 140.719634
+postcode: '5291'
+state: SA
+title: GLENCOE
+url: /sa/glencoe/
 ---

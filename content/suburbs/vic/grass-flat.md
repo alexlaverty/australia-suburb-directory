@@ -1,9 +1,10 @@
 ---
-title: GRASS FLAT
-state: VIC
-postcode: 3409
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.667303
-longitude: 141.89695
-url: /vic/grass-flat/
 layout: suburb
+longitude: 141.89695
+postcode: '3409'
+state: VIC
+title: GRASS FLAT
+url: /vic/grass-flat/
 ---

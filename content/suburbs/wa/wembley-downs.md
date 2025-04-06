@@ -1,9 +1,10 @@
 ---
-title: WEMBLEY DOWNS
-state: WA
-postcode: 6019
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.90733
-longitude: 115.769183
-url: /wa/wembley-downs/
 layout: suburb
+longitude: 115.769183
+postcode: '6019'
+state: WA
+title: WEMBLEY DOWNS
+url: /wa/wembley-downs/
 ---

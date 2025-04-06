@@ -1,9 +1,10 @@
 ---
-title: HURSTVILLE BC
-state: NSW
-postcode: 1481
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.9646
-longitude: 151.101
-url: /nsw/hurstville-bc/
 layout: suburb
+longitude: 151.101
+postcode: '1481'
+state: NSW
+title: HURSTVILLE BC
+url: /nsw/hurstville-bc/
 ---

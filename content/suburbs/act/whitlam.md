@@ -1,9 +1,10 @@
 ---
-title: WHITLAM
-state: ACT
-postcode: 2611
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.356503
-longitude: 149.042021
-url: /act/whitlam/
 layout: suburb
+longitude: 149.042021
+postcode: '2611'
+state: ACT
+title: WHITLAM
+url: /act/whitlam/
 ---

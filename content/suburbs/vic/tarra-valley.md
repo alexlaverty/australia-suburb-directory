@@ -1,9 +1,10 @@
 ---
-title: TARRA VALLEY
-state: VIC
-postcode: 3971
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.631942
-longitude: 146.815723
-url: /vic/tarra-valley/
 layout: suburb
+longitude: 146.815723
+postcode: '3971'
+state: VIC
+title: TARRA VALLEY
+url: /vic/tarra-valley/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NEWPORT
-state: VIC
-postcode: 3015
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.838242
-longitude: 144.880556
-url: /vic/newport/
 layout: suburb
+longitude: 144.880556
+postcode: '3015'
+state: VIC
+title: NEWPORT
+url: /vic/newport/
 ---

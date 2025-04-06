@@ -1,9 +1,10 @@
 ---
-title: NUBEENA
-state: TAS
-postcode: 7184
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.152512
-longitude: 147.70789
-url: /tas/nubeena/
 layout: suburb
+longitude: 147.70789
+postcode: '7184'
+state: TAS
+title: NUBEENA
+url: /tas/nubeena/
 ---

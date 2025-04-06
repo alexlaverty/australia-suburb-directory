@@ -1,9 +1,10 @@
 ---
-title: WARRABKOOK
-state: VIC
-postcode: 3286
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.98614494
-longitude: 142.0716061
-url: /vic/warrabkook/
 layout: suburb
+longitude: 142.0716061
+postcode: '3286'
+state: VIC
+title: WARRABKOOK
+url: /vic/warrabkook/
 ---

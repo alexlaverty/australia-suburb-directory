@@ -1,9 +1,10 @@
 ---
-title: GLENORMISTON SOUTH
-state: VIC
-postcode: 3265
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.178237
-longitude: 142.952372
-url: /vic/glenormiston-south/
 layout: suburb
+longitude: 142.952372
+postcode: '3265'
+state: VIC
+title: GLENORMISTON SOUTH
+url: /vic/glenormiston-south/
 ---

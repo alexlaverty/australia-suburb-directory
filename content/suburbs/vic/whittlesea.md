@@ -1,9 +1,10 @@
 ---
-title: WHITTLESEA
-state: VIC
-postcode: 3757
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.469784
-longitude: 145.182221
-url: /vic/whittlesea/
 layout: suburb
+longitude: 145.182221
+postcode: '3757'
+state: VIC
+title: WHITTLESEA
+url: /vic/whittlesea/
 ---

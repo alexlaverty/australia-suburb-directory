@@ -1,9 +1,10 @@
 ---
-title: THOWGLA VALLEY
-state: VIC
-postcode: 3707
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.586316
-longitude: 148.037958
-url: /vic/thowgla-valley/
 layout: suburb
+longitude: 148.037958
+postcode: '3707'
+state: VIC
+title: THOWGLA VALLEY
+url: /vic/thowgla-valley/
 ---

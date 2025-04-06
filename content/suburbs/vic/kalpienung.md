@@ -1,9 +1,10 @@
 ---
-title: KALPIENUNG
-state: VIC
-postcode: 3529
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.824259
-longitude: 143.232677
-url: /vic/kalpienung/
 layout: suburb
+longitude: 143.232677
+postcode: '3529'
+state: VIC
+title: KALPIENUNG
+url: /vic/kalpienung/
 ---

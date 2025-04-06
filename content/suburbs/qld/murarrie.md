@@ -1,9 +1,10 @@
 ---
-title: MURARRIE
-state: QLD
-postcode: 4172
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.458767
-longitude: 153.103331
-url: /qld/murarrie/
 layout: suburb
+longitude: 153.103331
+postcode: '4172'
+state: QLD
+title: MURARRIE
+url: /qld/murarrie/
 ---

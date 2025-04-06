@@ -1,9 +1,10 @@
 ---
-title: MAY DOWNS
-state: QLD
-postcode: 4746
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -22.851944
-longitude: 148.850932
-url: /qld/may-downs/
 layout: suburb
+longitude: 148.850932
+postcode: '4746'
+state: QLD
+title: MAY DOWNS
+url: /qld/may-downs/
 ---

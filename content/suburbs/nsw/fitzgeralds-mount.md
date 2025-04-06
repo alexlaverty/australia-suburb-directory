@@ -1,9 +1,10 @@
 ---
-title: FITZGERALDS MOUNT
-state: NSW
-postcode: 2799
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.571335
-longitude: 149.267666
-url: /nsw/fitzgeralds-mount/
 layout: suburb
+longitude: 149.267666
+postcode: '2799'
+state: NSW
+title: FITZGERALDS MOUNT
+url: /nsw/fitzgeralds-mount/
 ---

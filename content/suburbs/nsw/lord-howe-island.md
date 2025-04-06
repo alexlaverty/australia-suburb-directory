@@ -1,9 +1,10 @@
 ---
-title: LORD HOWE ISLAND
-state: NSW
-postcode: 2898
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.55247
-longitude: 159.081217
-url: /nsw/lord-howe-island/
 layout: suburb
+longitude: 159.081217
+postcode: '2898'
+state: NSW
+title: LORD HOWE ISLAND
+url: /nsw/lord-howe-island/
 ---

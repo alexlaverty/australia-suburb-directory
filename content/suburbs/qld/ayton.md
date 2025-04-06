@@ -1,9 +1,10 @@
 ---
-title: AYTON
-state: QLD
-postcode: 4895
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.7061005
-longitude: 145.7740021
-url: /qld/ayton/
 layout: suburb
+longitude: 145.7740021
+postcode: '4895'
+state: QLD
+title: AYTON
+url: /qld/ayton/
 ---

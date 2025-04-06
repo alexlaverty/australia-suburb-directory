@@ -1,9 +1,10 @@
 ---
-title: TARRAYOUKYAN
-state: VIC
-postcode: 3315
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.408371
-longitude: 141.687516
-url: /vic/tarrayoukyan/
 layout: suburb
+longitude: 141.687516
+postcode: '3315'
+state: VIC
+title: TARRAYOUKYAN
+url: /vic/tarrayoukyan/
 ---

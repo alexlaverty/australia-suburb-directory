@@ -1,9 +1,10 @@
 ---
-title: BONDI
-state: NSW
-postcode: 2026
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.891041
-longitude: 151.268968
-url: /nsw/bondi/
 layout: suburb
+longitude: 151.268968
+postcode: '2026'
+state: NSW
+title: BONDI
+url: /nsw/bondi/
 ---

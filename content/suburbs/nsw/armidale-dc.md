@@ -1,9 +1,10 @@
 ---
-title: ARMIDALE DC
-state: NSW
-postcode: 2350
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.49
-longitude: 151.641
-url: /nsw/armidale-dc/
 layout: suburb
+longitude: 151.641
+postcode: '2350'
+state: NSW
+title: ARMIDALE DC
+url: /nsw/armidale-dc/
 ---

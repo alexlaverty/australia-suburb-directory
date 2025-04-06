@@ -1,9 +1,10 @@
 ---
-title: WEST WALLSEND
-state: NSW
-postcode: 2286
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.923321
-longitude: 151.532669
-url: /nsw/west-wallsend/
 layout: suburb
+longitude: 151.532669
+postcode: '2286'
+state: NSW
+title: WEST WALLSEND
+url: /nsw/west-wallsend/
 ---

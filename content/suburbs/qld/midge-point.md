@@ -1,9 +1,10 @@
 ---
-title: MIDGE POINT
-state: QLD
-postcode: 4799
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -20.720423
-longitude: 148.622011
-url: /qld/midge-point/
 layout: suburb
+longitude: 148.622011
+postcode: '4799'
+state: QLD
+title: MIDGE POINT
+url: /qld/midge-point/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BALINGUP
-state: WA
-postcode: 6253
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.773937
-longitude: 116.03654
-url: /wa/balingup/
 layout: suburb
+longitude: 116.03654
+postcode: '6253'
+state: WA
+title: BALINGUP
+url: /wa/balingup/
 ---

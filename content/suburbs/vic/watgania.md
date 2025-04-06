@@ -1,9 +1,10 @@
 ---
-title: WATGANIA
-state: VIC
-postcode: 3379
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.534037
-longitude: 142.521439
-url: /vic/watgania/
 layout: suburb
+longitude: 142.521439
+postcode: '3379'
+state: VIC
+title: WATGANIA
+url: /vic/watgania/
 ---

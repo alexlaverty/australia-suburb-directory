@@ -1,9 +1,10 @@
 ---
-title: CHATSWOOD
-state: NSW
-postcode: 2067
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.798378
-longitude: 151.17711
-url: /nsw/chatswood/
 layout: suburb
+longitude: 151.17711
+postcode: '2067'
+state: NSW
+title: CHATSWOOD
+url: /nsw/chatswood/
 ---

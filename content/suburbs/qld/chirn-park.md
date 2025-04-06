@@ -1,9 +1,10 @@
 ---
-title: CHIRN PARK
-state: QLD
-postcode: 4215
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.967134
-longitude: 153.397952
-url: /qld/chirn-park/
 layout: suburb
+longitude: 153.397952
+postcode: '4215'
+state: QLD
+title: CHIRN PARK
+url: /qld/chirn-park/
 ---

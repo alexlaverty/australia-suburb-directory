@@ -1,9 +1,10 @@
 ---
-title: MULLALYUP
-state: WA
-postcode: 6252
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.748279
-longitude: 115.956731
-url: /wa/mullalyup/
 layout: suburb
+longitude: 115.956731
+postcode: '6252'
+state: WA
+title: MULLALYUP
+url: /wa/mullalyup/
 ---

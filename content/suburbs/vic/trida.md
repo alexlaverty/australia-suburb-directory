@@ -1,9 +1,10 @@
 ---
-title: TRIDA
-state: VIC
-postcode: 3953
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.460127
-longitude: 145.995174
-url: /vic/trida/
 layout: suburb
+longitude: 145.995174
+postcode: '3953'
+state: VIC
+title: TRIDA
+url: /vic/trida/
 ---

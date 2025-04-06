@@ -1,9 +1,10 @@
 ---
-title: ALEXANDRIA MC
-state: NSW
-postcode: 2004
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.908
-longitude: 151.19
-url: /nsw/alexandria-mc/
 layout: suburb
+longitude: 151.19
+postcode: '2004'
+state: NSW
+title: ALEXANDRIA MC
+url: /nsw/alexandria-mc/
 ---

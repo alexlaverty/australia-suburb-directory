@@ -1,9 +1,10 @@
 ---
-title: GOWER
-state: VIC
-postcode: 3463
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.02851213
-longitude: 144.0988962
-url: /vic/gower/
 layout: suburb
+longitude: 144.0988962
+postcode: '3463'
+state: VIC
+title: GOWER
+url: /vic/gower/
 ---

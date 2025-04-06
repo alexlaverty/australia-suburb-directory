@@ -1,9 +1,10 @@
 ---
-title: VISTA
-state: SA
-postcode: 5091
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.822615
-longitude: 138.735572
-url: /sa/vista/
 layout: suburb
+longitude: 138.735572
+postcode: '5091'
+state: SA
+title: VISTA
+url: /sa/vista/
 ---

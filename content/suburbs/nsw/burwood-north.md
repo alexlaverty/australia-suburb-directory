@@ -1,9 +1,10 @@
 ---
-title: BURWOOD NORTH
-state: NSW
-postcode: 2134
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.880049
-longitude: 151.101757
-url: /nsw/burwood-north/
 layout: suburb
+longitude: 151.101757
+postcode: '2134'
+state: NSW
+title: BURWOOD NORTH
+url: /nsw/burwood-north/
 ---

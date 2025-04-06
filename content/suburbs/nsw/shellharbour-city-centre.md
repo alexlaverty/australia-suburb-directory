@@ -1,9 +1,10 @@
 ---
-title: SHELLHARBOUR CITY CENTRE
-state: NSW
-postcode: 2529
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.592433
-longitude: 150.84584
-url: /nsw/shellharbour-city-centre/
 layout: suburb
+longitude: 150.84584
+postcode: '2529'
+state: NSW
+title: SHELLHARBOUR CITY CENTRE
+url: /nsw/shellharbour-city-centre/
 ---

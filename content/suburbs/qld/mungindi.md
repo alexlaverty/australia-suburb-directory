@@ -1,9 +1,10 @@
 ---
-title: MUNGINDI
-state: QLD
-postcode: 2406
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.95352658
-longitude: 148.7670014
-url: /qld/mungindi/
 layout: suburb
+longitude: 148.7670014
+postcode: '2406'
+state: QLD
+title: MUNGINDI
+url: /qld/mungindi/
 ---

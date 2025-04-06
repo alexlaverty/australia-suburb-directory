@@ -1,9 +1,10 @@
 ---
-title: POINT STURT
-state: SA
-postcode: 5256
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.492114
-longitude: 139.0336
-url: /sa/point-sturt/
 layout: suburb
+longitude: 139.0336
+postcode: '5256'
+state: SA
+title: POINT STURT
+url: /sa/point-sturt/
 ---

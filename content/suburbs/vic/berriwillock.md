@@ -1,9 +1,10 @@
 ---
-title: BERRIWILLOCK
-state: VIC
-postcode: 3531
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.616408
-longitude: 142.943814
-url: /vic/berriwillock/
 layout: suburb
+longitude: 142.943814
+postcode: '3531'
+state: VIC
+title: BERRIWILLOCK
+url: /vic/berriwillock/
 ---

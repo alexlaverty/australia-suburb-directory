@@ -1,9 +1,10 @@
 ---
-title: HIGHFIELDS
-state: NSW
-postcode: 2289
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.948567
-longitude: 151.71008
-url: /nsw/highfields/
 layout: suburb
+longitude: 151.71008
+postcode: '2289'
+state: NSW
+title: HIGHFIELDS
+url: /nsw/highfields/
 ---

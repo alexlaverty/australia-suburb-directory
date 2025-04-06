@@ -1,9 +1,10 @@
 ---
-title: HOTSPUR
-state: VIC
-postcode: 3303
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.980868
-longitude: 141.789606
-url: /vic/hotspur/
 layout: suburb
+longitude: 141.789606
+postcode: '3303'
+state: VIC
+title: HOTSPUR
+url: /vic/hotspur/
 ---

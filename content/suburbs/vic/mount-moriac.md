@@ -1,9 +1,10 @@
 ---
-title: MOUNT MORIAC
-state: VIC
-postcode: 3240
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.263005
-longitude: 144.174411
-url: /vic/mount-moriac/
 layout: suburb
+longitude: 144.174411
+postcode: '3240'
+state: VIC
+title: MOUNT MORIAC
+url: /vic/mount-moriac/
 ---

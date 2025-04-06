@@ -1,9 +1,10 @@
 ---
-title: DARLINGHURST
-state: NSW
-postcode: 2010
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.884119
-longitude: 151.212262
-url: /nsw/darlinghurst/
 layout: suburb
+longitude: 151.212262
+postcode: '2010'
+state: NSW
+title: DARLINGHURST
+url: /nsw/darlinghurst/
 ---

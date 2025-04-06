@@ -1,9 +1,10 @@
 ---
-title: CANLEY HEIGHTS
-state: NSW
-postcode: 2166
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.892738
-longitude: 150.92937
-url: /nsw/canley-heights/
 layout: suburb
+longitude: 150.92937
+postcode: '2166'
+state: NSW
+title: CANLEY HEIGHTS
+url: /nsw/canley-heights/
 ---

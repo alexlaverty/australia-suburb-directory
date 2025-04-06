@@ -1,9 +1,10 @@
 ---
-title: YARRAVILLE
-state: VIC
-postcode: 3013
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.814183
-longitude: 144.888686
-url: /vic/yarraville/
 layout: suburb
+longitude: 144.888686
+postcode: '3013'
+state: VIC
+title: YARRAVILLE
+url: /vic/yarraville/
 ---

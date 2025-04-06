@@ -1,9 +1,10 @@
 ---
-title: CARROLUP
-state: WA
-postcode: 6317
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.647362
-longitude: 117.738912
-url: /wa/carrolup/
 layout: suburb
+longitude: 117.738912
+postcode: '6317'
+state: WA
+title: CARROLUP
+url: /wa/carrolup/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BARROW ISLAND
-state: WA
-postcode: 6712
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -20.785813
-longitude: 115.407335
-url: /wa/barrow-island/
 layout: suburb
+longitude: 115.407335
+postcode: '6712'
+state: WA
+title: BARROW ISLAND
+url: /wa/barrow-island/
 ---

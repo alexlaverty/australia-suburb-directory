@@ -1,9 +1,10 @@
 ---
-title: MOUNT MERCER
-state: VIC
-postcode: 3352
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.482132
-longitude: 143.662387
-url: /vic/mount-mercer/
 layout: suburb
+longitude: 143.662387
+postcode: '3352'
+state: VIC
+title: MOUNT MERCER
+url: /vic/mount-mercer/
 ---

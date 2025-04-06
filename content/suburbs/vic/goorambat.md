@@ -1,9 +1,10 @@
 ---
-title: GOORAMBAT
-state: VIC
-postcode: 3725
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.414359
-longitude: 145.937326
-url: /vic/goorambat/
 layout: suburb
+longitude: 145.937326
+postcode: '3725'
+state: VIC
+title: GOORAMBAT
+url: /vic/goorambat/
 ---

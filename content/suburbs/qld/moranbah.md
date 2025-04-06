@@ -1,9 +1,10 @@
 ---
-title: MORANBAH
-state: QLD
-postcode: 4744
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -22.018392
-longitude: 148.045134
-url: /qld/moranbah/
 layout: suburb
+longitude: 148.045134
+postcode: '4744'
+state: QLD
+title: MORANBAH
+url: /qld/moranbah/
 ---

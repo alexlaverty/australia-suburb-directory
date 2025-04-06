@@ -1,9 +1,10 @@
 ---
-title: MAYA
-state: WA
-postcode: 6614
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -29.888797
-longitude: 116.551869
-url: /wa/maya/
 layout: suburb
+longitude: 116.551869
+postcode: '6614'
+state: WA
+title: MAYA
+url: /wa/maya/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MARSHALL
-state: VIC
-postcode: 3216
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.215906
-longitude: 144.334005
-url: /vic/marshall/
 layout: suburb
+longitude: 144.334005
+postcode: '3216'
+state: VIC
+title: MARSHALL
+url: /vic/marshall/
 ---

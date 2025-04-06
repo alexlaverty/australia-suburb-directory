@@ -1,9 +1,10 @@
 ---
-title: DISMAL SWAMP
-state: SA
-postcode: 5291
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.927953
-longitude: 140.719634
-url: /sa/dismal-swamp/
 layout: suburb
+longitude: 140.719634
+postcode: '5291'
+state: SA
+title: DISMAL SWAMP
+url: /sa/dismal-swamp/
 ---

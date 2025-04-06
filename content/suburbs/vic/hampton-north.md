@@ -1,9 +1,10 @@
 ---
-title: HAMPTON NORTH
-state: VIC
-postcode: 3188
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.938889
-longitude: 145.007238
-url: /vic/hampton-north/
 layout: suburb
+longitude: 145.007238
+postcode: '3188'
+state: VIC
+title: HAMPTON NORTH
+url: /vic/hampton-north/
 ---

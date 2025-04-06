@@ -1,9 +1,10 @@
 ---
-title: ROXBURGH PARK
-state: VIC
-postcode: 3064
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.546522
-longitude: 144.942199
-url: /vic/roxburgh-park/
 layout: suburb
+longitude: 144.942199
+postcode: '3064'
+state: VIC
+title: ROXBURGH PARK
+url: /vic/roxburgh-park/
 ---

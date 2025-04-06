@@ -1,9 +1,10 @@
 ---
-title: TENANDRA
-state: NSW
-postcode: 2824
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.373201
-longitude: 147.785831
-url: /nsw/tenandra/
 layout: suburb
+longitude: 147.785831
+postcode: '2824'
+state: NSW
+title: TENANDRA
+url: /nsw/tenandra/
 ---

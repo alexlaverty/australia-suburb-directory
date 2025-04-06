@@ -1,9 +1,10 @@
 ---
-title: ST JAMES
-state: VIC
-postcode: 3727
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.242443
-longitude: 145.957776
-url: /vic/st-james/
 layout: suburb
+longitude: 145.957776
+postcode: '3727'
+state: VIC
+title: ST JAMES
+url: /vic/st-james/
 ---

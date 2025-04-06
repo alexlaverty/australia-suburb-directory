@@ -1,9 +1,10 @@
 ---
-title: MOUNT VIEW
-state: NSW
-postcode: 2325
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.977861
-longitude: 151.317476
-url: /nsw/mount-view/
 layout: suburb
+longitude: 151.317476
+postcode: '2325'
+state: NSW
+title: MOUNT VIEW
+url: /nsw/mount-view/
 ---

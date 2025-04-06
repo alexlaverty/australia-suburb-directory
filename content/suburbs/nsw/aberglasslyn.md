@@ -1,9 +1,10 @@
 ---
-title: ABERGLASSLYN
-state: NSW
-postcode: 2320
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.741737
-longitude: 151.543675
-url: /nsw/aberglasslyn/
 layout: suburb
+longitude: 151.543675
+postcode: '2320'
+state: NSW
+title: ABERGLASSLYN
+url: /nsw/aberglasslyn/
 ---

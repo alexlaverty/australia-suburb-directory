@@ -1,9 +1,10 @@
 ---
-title: LAKE MARGARETTE
-state: WA
-postcode: 6475
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.613981
-longitude: 117.440487
-url: /wa/lake-margarette/
 layout: suburb
+longitude: 117.440487
+postcode: '6475'
+state: WA
+title: LAKE MARGARETTE
+url: /wa/lake-margarette/
 ---

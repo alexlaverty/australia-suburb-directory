@@ -1,9 +1,10 @@
 ---
-title: MINBURRA STATION
-state: SA
-postcode: 5431
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.31377677
-longitude: 139.0215366
-url: /sa/minburra-station/
 layout: suburb
+longitude: 139.0215366
+postcode: '5431'
+state: SA
+title: MINBURRA STATION
+url: /sa/minburra-station/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NORTH LILYDALE
-state: TAS
-postcode: 7268
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.333887
-longitude: 147.152757
-url: /tas/north-lilydale/
 layout: suburb
+longitude: 147.152757
+postcode: '7268'
+state: TAS
+title: NORTH LILYDALE
+url: /tas/north-lilydale/
 ---

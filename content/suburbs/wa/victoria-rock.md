@@ -1,9 +1,10 @@
 ---
-title: VICTORIA ROCK
-state: WA
-postcode: 6429
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.949795
-longitude: 120.898892
-url: /wa/victoria-rock/
 layout: suburb
+longitude: 120.898892
+postcode: '6429'
+state: WA
+title: VICTORIA ROCK
+url: /wa/victoria-rock/
 ---

@@ -1,9 +1,10 @@
 ---
-title: IRONSIDE
-state: QLD
-postcode: 4067
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.500518
-longitude: 153.005045
-url: /qld/ironside/
 layout: suburb
+longitude: 153.005045
+postcode: '4067'
+state: QLD
+title: IRONSIDE
+url: /qld/ironside/
 ---

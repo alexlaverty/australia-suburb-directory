@@ -1,9 +1,10 @@
 ---
-title: BLACKWOOD FOREST
-state: VIC
-postcode: 3992
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.569135
-longitude: 145.534315
-url: /vic/blackwood-forest/
 layout: suburb
+longitude: 145.534315
+postcode: '3992'
+state: VIC
+title: BLACKWOOD FOREST
+url: /vic/blackwood-forest/
 ---

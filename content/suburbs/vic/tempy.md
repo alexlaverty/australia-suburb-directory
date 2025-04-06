@@ -1,9 +1,10 @@
 ---
-title: TEMPY
-state: VIC
-postcode: 3489
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.332477
-longitude: 142.425302
-url: /vic/tempy/
 layout: suburb
+longitude: 142.425302
+postcode: '3489'
+state: VIC
+title: TEMPY
+url: /vic/tempy/
 ---

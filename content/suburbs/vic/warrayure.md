@@ -1,9 +1,10 @@
 ---
-title: WARRAYURE
-state: VIC
-postcode: 3301
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.118855
-longitude: 142.034141
-url: /vic/warrayure/
 layout: suburb
+longitude: 142.034141
+postcode: '3301'
+state: VIC
+title: WARRAYURE
+url: /vic/warrayure/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NADIA
-state: SA
-postcode: 5690
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.282716
-longitude: 133.582274
-url: /sa/nadia/
 layout: suburb
+longitude: 133.582274
+postcode: '5690'
+state: SA
+title: NADIA
+url: /sa/nadia/
 ---

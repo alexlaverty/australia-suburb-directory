@@ -1,9 +1,10 @@
 ---
-title: BRUIE PLAINS
-state: NSW
-postcode: 2875
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.915604
-longitude: 147.603587
-url: /nsw/bruie-plains/
 layout: suburb
+longitude: 147.603587
+postcode: '2875'
+state: NSW
+title: BRUIE PLAINS
+url: /nsw/bruie-plains/
 ---

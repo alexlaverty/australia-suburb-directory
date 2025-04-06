@@ -1,9 +1,10 @@
 ---
-title: SMITHS CREEK
-state: NSW
-postcode: 2484
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.38059
-longitude: 153.31648
-url: /nsw/smiths-creek/
 layout: suburb
+longitude: 153.31648
+postcode: '2484'
+state: NSW
+title: SMITHS CREEK
+url: /nsw/smiths-creek/
 ---

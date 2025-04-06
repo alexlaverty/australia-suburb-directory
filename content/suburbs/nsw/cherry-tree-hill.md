@@ -1,9 +1,10 @@
 ---
-title: CHERRY TREE HILL
-state: NSW
-postcode: 2360
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.630052
-longitude: 151.162025
-url: /nsw/cherry-tree-hill/
 layout: suburb
+longitude: 151.162025
+postcode: '2360'
+state: NSW
+title: CHERRY TREE HILL
+url: /nsw/cherry-tree-hill/
 ---

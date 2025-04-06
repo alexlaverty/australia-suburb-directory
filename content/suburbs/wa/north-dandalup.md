@@ -1,9 +1,10 @@
 ---
-title: NORTH DANDALUP
-state: WA
-postcode: 6207
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.514294
-longitude: 115.959595
-url: /wa/north-dandalup/
 layout: suburb
+longitude: 115.959595
+postcode: '6207'
+state: WA
+title: NORTH DANDALUP
+url: /wa/north-dandalup/
 ---

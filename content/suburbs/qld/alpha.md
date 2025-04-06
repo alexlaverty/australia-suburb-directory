@@ -1,9 +1,10 @@
 ---
-title: ALPHA
-state: QLD
-postcode: 4724
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.642723
-longitude: 146.840497
-url: /qld/alpha/
 layout: suburb
+longitude: 146.840497
+postcode: '4724'
+state: QLD
+title: ALPHA
+url: /qld/alpha/
 ---

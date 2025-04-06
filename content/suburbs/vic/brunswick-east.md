@@ -1,9 +1,10 @@
 ---
-title: BRUNSWICK EAST
-state: VIC
-postcode: 3057
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.770012
-longitude: 144.97728
-url: /vic/brunswick-east/
 layout: suburb
+longitude: 144.97728
+postcode: '3057'
+state: VIC
+title: BRUNSWICK EAST
+url: /vic/brunswick-east/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WOOLNERS ARM
-state: NSW
-postcode: 2470
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.92786
-longitude: 152.749759
-url: /nsw/woolners-arm/
 layout: suburb
+longitude: 152.749759
+postcode: '2470'
+state: NSW
+title: WOOLNERS ARM
+url: /nsw/woolners-arm/
 ---

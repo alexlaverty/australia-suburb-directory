@@ -1,9 +1,10 @@
 ---
-title: LANGLEY
-state: VIC
-postcode: 3444
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.171788
-longitude: 144.544716
-url: /vic/langley/
 layout: suburb
+longitude: 144.544716
+postcode: '3444'
+state: VIC
+title: LANGLEY
+url: /vic/langley/
 ---

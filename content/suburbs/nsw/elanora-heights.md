@@ -1,9 +1,10 @@
 ---
-title: ELANORA HEIGHTS
-state: NSW
-postcode: 2101
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.707117
-longitude: 151.27114
-url: /nsw/elanora-heights/
 layout: suburb
+longitude: 151.27114
+postcode: '2101'
+state: NSW
+title: ELANORA HEIGHTS
+url: /nsw/elanora-heights/
 ---

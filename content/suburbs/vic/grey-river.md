@@ -1,9 +1,10 @@
 ---
-title: GREY RIVER
-state: VIC
-postcode: 3234
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.6791182
-longitude: 143.832394
-url: /vic/grey-river/
 layout: suburb
+longitude: 143.832394
+postcode: '3234'
+state: VIC
+title: GREY RIVER
+url: /vic/grey-river/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PASCOE VALE SOUTH
-state: VIC
-postcode: 3044
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.731138
-longitude: 144.936356
-url: /vic/pascoe-vale-south/
 layout: suburb
+longitude: 144.936356
+postcode: '3044'
+state: VIC
+title: PASCOE VALE SOUTH
+url: /vic/pascoe-vale-south/
 ---

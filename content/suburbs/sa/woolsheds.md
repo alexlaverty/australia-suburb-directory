@@ -1,9 +1,10 @@
 ---
-title: WOOLSHEDS
-state: SA
-postcode: 5400
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.48615107
-longitude: 138.6448171
-url: /sa/woolsheds/
 layout: suburb
+longitude: 138.6448171
+postcode: '5400'
+state: SA
+title: WOOLSHEDS
+url: /sa/woolsheds/
 ---

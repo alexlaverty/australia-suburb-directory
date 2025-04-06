@@ -1,9 +1,10 @@
 ---
-title: FORTITUDE VALLEY BC
-state: QLD
-postcode: 4006
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.36618
-longitude: 153.175242
-url: /qld/fortitude-valley-bc/
 layout: suburb
+longitude: 153.175242
+postcode: '4006'
+state: QLD
+title: FORTITUDE VALLEY BC
+url: /qld/fortitude-valley-bc/
 ---

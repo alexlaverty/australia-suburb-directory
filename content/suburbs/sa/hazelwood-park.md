@@ -1,9 +1,10 @@
 ---
-title: HAZELWOOD PARK
-state: SA
-postcode: 5066
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.940962
-longitude: 138.66029
-url: /sa/hazelwood-park/
 layout: suburb
+longitude: 138.66029
+postcode: '5066'
+state: SA
+title: HAZELWOOD PARK
+url: /sa/hazelwood-park/
 ---

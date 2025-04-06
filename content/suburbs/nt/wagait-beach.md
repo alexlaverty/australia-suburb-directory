@@ -1,9 +1,10 @@
 ---
-title: WAGAIT BEACH
-state: NT
-postcode: 0822
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.43399126
-longitude: 130.7459083
-url: /nt/wagait-beach/
 layout: suburb
+longitude: 130.7459083
+postcode: 0822
+state: NT
+title: WAGAIT BEACH
+url: /nt/wagait-beach/
 ---

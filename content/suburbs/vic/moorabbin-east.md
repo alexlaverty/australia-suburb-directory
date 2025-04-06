@@ -1,9 +1,10 @@
 ---
-title: MOORABBIN EAST
-state: VIC
-postcode: 3189
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.942021
-longitude: 145.047802
-url: /vic/moorabbin-east/
 layout: suburb
+longitude: 145.047802
+postcode: '3189'
+state: VIC
+title: MOORABBIN EAST
+url: /vic/moorabbin-east/
 ---

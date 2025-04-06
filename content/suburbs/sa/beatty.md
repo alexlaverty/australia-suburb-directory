@@ -1,9 +1,10 @@
 ---
-title: BEATTY
-state: SA
-postcode: 5320
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.01813129
-longitude: 139.4416527
-url: /sa/beatty/
 layout: suburb
+longitude: 139.4416527
+postcode: '5320'
+state: SA
+title: BEATTY
+url: /sa/beatty/
 ---

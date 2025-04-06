@@ -1,9 +1,10 @@
 ---
-title: GYMEA
-state: NSW
-postcode: 2227
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.04984
-longitude: 151.085005
-url: /nsw/gymea/
 layout: suburb
+longitude: 151.085005
+postcode: '2227'
+state: NSW
+title: GYMEA
+url: /nsw/gymea/
 ---

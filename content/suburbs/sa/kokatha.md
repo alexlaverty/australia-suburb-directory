@@ -1,9 +1,10 @@
 ---
-title: KOKATHA
-state: SA
-postcode: 5717
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.3292
-longitude: 135.3315
-url: /sa/kokatha/
 layout: suburb
+longitude: 135.3315
+postcode: '5717'
+state: SA
+title: KOKATHA
+url: /sa/kokatha/
 ---

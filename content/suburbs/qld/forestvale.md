@@ -1,9 +1,10 @@
 ---
-title: FORESTVALE
-state: QLD
-postcode: 4465
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.99758942
-longitude: 147.8868881
-url: /qld/forestvale/
 layout: suburb
+longitude: 147.8868881
+postcode: '4465'
+state: QLD
+title: FORESTVALE
+url: /qld/forestvale/
 ---

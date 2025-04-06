@@ -1,9 +1,10 @@
 ---
-title: MURRAWOMBIE
-state: NSW
-postcode: 2825
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.18095255
-longitude: 147.224189
-url: /nsw/murrawombie/
 layout: suburb
+longitude: 147.224189
+postcode: '2825'
+state: NSW
+title: MURRAWOMBIE
+url: /nsw/murrawombie/
 ---

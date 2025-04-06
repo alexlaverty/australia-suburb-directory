@@ -1,9 +1,10 @@
 ---
-title: LODDON VALE
-state: VIC
-postcode: 3575
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.055725
-longitude: 144.159028
-url: /vic/loddon-vale/
 layout: suburb
+longitude: 144.159028
+postcode: '3575'
+state: VIC
+title: LODDON VALE
+url: /vic/loddon-vale/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MEERLIEU
-state: VIC
-postcode: 3862
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.597551
-longitude: 147.228456
-url: /vic/meerlieu/
 layout: suburb
+longitude: 147.228456
+postcode: '3862'
+state: VIC
+title: MEERLIEU
+url: /vic/meerlieu/
 ---

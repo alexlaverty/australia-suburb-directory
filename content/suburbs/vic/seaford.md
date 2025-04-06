@@ -1,9 +1,10 @@
 ---
-title: SEAFORD
-state: VIC
-postcode: 3198
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.103194
-longitude: 145.137811
-url: /vic/seaford/
 layout: suburb
+longitude: 145.137811
+postcode: '3198'
+state: VIC
+title: SEAFORD
+url: /vic/seaford/
 ---

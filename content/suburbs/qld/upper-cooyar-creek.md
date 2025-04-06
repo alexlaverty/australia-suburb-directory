@@ -1,9 +1,10 @@
 ---
-title: UPPER COOYAR CREEK
-state: QLD
-postcode: 4402
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.978981
-longitude: 151.803967
-url: /qld/upper-cooyar-creek/
 layout: suburb
+longitude: 151.803967
+postcode: '4402'
+state: QLD
+title: UPPER COOYAR CREEK
+url: /qld/upper-cooyar-creek/
 ---

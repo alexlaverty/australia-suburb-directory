@@ -1,9 +1,10 @@
 ---
-title: JAMISON CENTRE
-state: ACT
-postcode: 2614
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.257315
-longitude: 149.049796
-url: /act/jamison-centre/
 layout: suburb
+longitude: 149.049796
+postcode: '2614'
+state: ACT
+title: JAMISON CENTRE
+url: /act/jamison-centre/
 ---

@@ -1,9 +1,10 @@
 ---
-title: COWELL
-state: SA
-postcode: 5602
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.530464
-longitude: 136.860876
-url: /sa/cowell/
 layout: suburb
+longitude: 136.860876
+postcode: '5602'
+state: SA
+title: COWELL
+url: /sa/cowell/
 ---

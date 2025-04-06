@@ -1,9 +1,10 @@
 ---
-title: MOUNT STUART
-state: TAS
-postcode: 7000
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.878355
-longitude: 147.308002
-url: /tas/mount-stuart/
 layout: suburb
+longitude: 147.308002
+postcode: '7000'
+state: TAS
+title: MOUNT STUART
+url: /tas/mount-stuart/
 ---

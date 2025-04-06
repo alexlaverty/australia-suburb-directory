@@ -1,9 +1,10 @@
 ---
-title: WOODEND
-state: VIC
-postcode: 3442
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.330661
-longitude: 144.548846
-url: /vic/woodend/
 layout: suburb
+longitude: 144.548846
+postcode: '3442'
+state: VIC
+title: WOODEND
+url: /vic/woodend/
 ---

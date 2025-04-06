@@ -1,9 +1,10 @@
 ---
-title: NORTHBRIDGE
-state: WA
-postcode: 6865
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -31.939272
-longitude: 115.869136
-url: /wa/northbridge/
 layout: suburb
+longitude: 115.869136
+postcode: '6865'
+state: WA
+title: NORTHBRIDGE
+url: /wa/northbridge/
 ---

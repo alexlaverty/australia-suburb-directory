@@ -1,9 +1,10 @@
 ---
-title: WIMBLEDON HEIGHTS
-state: VIC
-postcode: 3922
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.482182
-longitude: 145.231974
-url: /vic/wimbledon-heights/
 layout: suburb
+longitude: 145.231974
+postcode: '3922'
+state: VIC
+title: WIMBLEDON HEIGHTS
+url: /vic/wimbledon-heights/
 ---

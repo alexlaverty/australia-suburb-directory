@@ -1,9 +1,10 @@
 ---
-title: EMERTON
-state: NSW
-postcode: 2770
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.756443
-longitude: 150.810246
-url: /nsw/emerton/
 layout: suburb
+longitude: 150.810246
+postcode: '2770'
+state: NSW
+title: EMERTON
+url: /nsw/emerton/
 ---

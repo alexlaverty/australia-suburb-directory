@@ -1,9 +1,10 @@
 ---
-title: COOYERDOO
-state: SA
-postcode: 5611
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.1001
-longitude: 136.9795
-url: /sa/cooyerdoo/
 layout: suburb
+longitude: 136.9795
+postcode: '5611'
+state: SA
+title: COOYERDOO
+url: /sa/cooyerdoo/
 ---

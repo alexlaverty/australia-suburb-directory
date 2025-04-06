@@ -1,9 +1,10 @@
 ---
-title: EAGLE HEIGHTS
-state: QLD
-postcode: 4271
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.91838
-longitude: 153.201472
-url: /qld/eagle-heights/
 layout: suburb
+longitude: 153.201472
+postcode: '4271'
+state: QLD
+title: EAGLE HEIGHTS
+url: /qld/eagle-heights/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DURI
-state: NSW
-postcode: 2344
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.17375
-longitude: 150.729574
-url: /nsw/duri/
 layout: suburb
+longitude: 150.729574
+postcode: '2344'
+state: NSW
+title: DURI
+url: /nsw/duri/
 ---

@@ -1,9 +1,10 @@
 ---
-title: QUINDANNING
-state: WA
-postcode: 6391
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.0633
-longitude: 116.773204
-url: /wa/quindanning/
 layout: suburb
+longitude: 116.773204
+postcode: '6391'
+state: WA
+title: QUINDANNING
+url: /wa/quindanning/
 ---

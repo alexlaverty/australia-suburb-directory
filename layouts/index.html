@@ -1,0 +1,39 @@
+{{ define "title" }}Homepage - {{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+    <h1>Welcome - Linking Correctly</h1>
+    <p>Displaying recent suburbs with correct links and titles.</p>
+
+    <section class="recent-updates">
+        <h2>Recently Updated Suburbs</h2>
+
+        {{ $pages := where .Site.RegularPages "Kind" "page" }}
+        {{ $sortedPages := sort $pages ".Lastmod" "desc" }}
+        {{ $recentPages := first 50 $sortedPages }}
+
+        {{ if $recentPages }}
+            <ul>
+                {{/* Loop through the pages */}}
+                {{ range $recentPages }}
+                    {{ $currentPage := . }} {{/* Assign current page object to a variable */}}
+                <li>
+                    {{/* Use 'with' on the page's permalink */}}
+                    {{ with $currentPage.RelPermalink }}
+                        {{/* Inside 'with', '.' is the permalink, use $currentPage for page properties */}}
+                        <a href="{{ . }}">{{ $currentPage.Title }}</a>
+                    {{ else }}
+                        {{/* Fallback if permalink fails (unlikely now, but safe) */}}
+                        {{ $currentPage.Title }} <strong style="color:red;">(Permalink Error)</strong>
+                    {{ end }}
+
+                    {{/* Use the variable to access Lastmod outside the 'with' block */}}
+                    <span class="update-date">(Updated: {{ $currentPage.Lastmod.Format "Jan 2, 2006" }})</span>
+                </li>
+                {{ end }} {{/* End range */}}
+            </ul>
+        {{ else }}
+            <p>No recently updated pages found.</p>
+        {{ end }}
+    </section>
+
+{{ end }} {{/* End main block */}}

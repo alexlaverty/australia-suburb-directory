@@ -1,9 +1,10 @@
 ---
-title: CUDAL
-state: NSW
-postcode: 2864
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.340269
-longitude: 148.731814
-url: /nsw/cudal/
 layout: suburb
+longitude: 148.731814
+postcode: '2864'
+state: NSW
+title: CUDAL
+url: /nsw/cudal/
 ---

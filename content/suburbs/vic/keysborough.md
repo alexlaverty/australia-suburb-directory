@@ -1,9 +1,10 @@
 ---
-title: KEYSBOROUGH
-state: VIC
-postcode: 3173
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.006771
-longitude: 145.164863
-url: /vic/keysborough/
 layout: suburb
+longitude: 145.164863
+postcode: '3173'
+state: VIC
+title: KEYSBOROUGH
+url: /vic/keysborough/
 ---

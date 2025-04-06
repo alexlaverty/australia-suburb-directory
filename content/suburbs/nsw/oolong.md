@@ -1,9 +1,10 @@
 ---
-title: OOLONG
-state: NSW
-postcode: 2581
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.764484
-longitude: 149.286631
-url: /nsw/oolong/
 layout: suburb
+longitude: 149.286631
+postcode: '2581'
+state: NSW
+title: OOLONG
+url: /nsw/oolong/
 ---

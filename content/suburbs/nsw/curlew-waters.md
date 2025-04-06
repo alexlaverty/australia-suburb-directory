@@ -1,9 +1,10 @@
 ---
-title: CURLEW WATERS
-state: NSW
-postcode: 2672
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.26188202
-longitude: 146.4337705
-url: /nsw/curlew-waters/
 layout: suburb
+longitude: 146.4337705
+postcode: '2672'
+state: NSW
+title: CURLEW WATERS
+url: /nsw/curlew-waters/
 ---

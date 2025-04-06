@@ -1,9 +1,10 @@
 ---
-title: CARLTON SOUTH
-state: VIC
-postcode: 3053
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.803569
-longitude: 144.966112
-url: /vic/carlton-south/
 layout: suburb
+longitude: 144.966112
+postcode: '3053'
+state: VIC
+title: CARLTON SOUTH
+url: /vic/carlton-south/
 ---

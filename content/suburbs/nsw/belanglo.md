@@ -1,9 +1,10 @@
 ---
-title: BELANGLO
-state: NSW
-postcode: 2577
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.51311499
-longitude: 150.2216722
-url: /nsw/belanglo/
 layout: suburb
+longitude: 150.2216722
+postcode: '2577'
+state: NSW
+title: BELANGLO
+url: /nsw/belanglo/
 ---

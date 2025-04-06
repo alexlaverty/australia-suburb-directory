@@ -1,9 +1,10 @@
 ---
-title: NORTH BEACH
-state: SA
-postcode: 5556
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.950853
-longitude: 137.610828
-url: /sa/north-beach/
 layout: suburb
+longitude: 137.610828
+postcode: '5556'
+state: SA
+title: NORTH BEACH
+url: /sa/north-beach/
 ---

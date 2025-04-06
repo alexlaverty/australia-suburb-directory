@@ -1,9 +1,10 @@
 ---
-title: BATHURST WEST
-state: NSW
-postcode: 2795
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.4087
-longitude: 149.561
-url: /nsw/bathurst-west/
 layout: suburb
+longitude: 149.561
+postcode: '2795'
+state: NSW
+title: BATHURST WEST
+url: /nsw/bathurst-west/
 ---

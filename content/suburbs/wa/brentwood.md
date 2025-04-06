@@ -1,9 +1,10 @@
 ---
-title: BRENTWOOD
-state: WA
-postcode: 6153
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.024363
-longitude: 115.837525
-url: /wa/brentwood/
 layout: suburb
+longitude: 115.837525
+postcode: '6153'
+state: WA
+title: BRENTWOOD
+url: /wa/brentwood/
 ---

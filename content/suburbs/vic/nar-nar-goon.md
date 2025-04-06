@@ -1,9 +1,10 @@
 ---
-title: NAR NAR GOON
-state: VIC
-postcode: 3812
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.070135
-longitude: 145.565304
-url: /vic/nar-nar-goon/
 layout: suburb
+longitude: 145.565304
+postcode: '3812'
+state: VIC
+title: NAR NAR GOON
+url: /vic/nar-nar-goon/
 ---

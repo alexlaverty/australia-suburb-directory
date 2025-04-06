@@ -1,9 +1,10 @@
 ---
-title: WHEENY CREEK
-state: NSW
-postcode: 2758
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.483614
-longitude: 150.601824
-url: /nsw/wheeny-creek/
 layout: suburb
+longitude: 150.601824
+postcode: '2758'
+state: NSW
+title: WHEENY CREEK
+url: /nsw/wheeny-creek/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HATTAH
-state: VIC
-postcode: 3501
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.243279
-longitude: 142.100896
-url: /vic/hattah/
 layout: suburb
+longitude: 142.100896
+postcode: '3501'
+state: VIC
+title: HATTAH
+url: /vic/hattah/
 ---

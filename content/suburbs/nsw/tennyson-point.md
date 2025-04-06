@@ -1,9 +1,10 @@
 ---
-title: TENNYSON POINT
-state: NSW
-postcode: 2111
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.829953
-longitude: 151.124488
-url: /nsw/tennyson-point/
 layout: suburb
+longitude: 151.124488
+postcode: '2111'
+state: NSW
+title: TENNYSON POINT
+url: /nsw/tennyson-point/
 ---

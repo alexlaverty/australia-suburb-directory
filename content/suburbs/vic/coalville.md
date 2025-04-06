@@ -1,9 +1,10 @@
 ---
-title: COALVILLE
-state: VIC
-postcode: 3825
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.978862
-longitude: 146.342932
-url: /vic/coalville/
 layout: suburb
+longitude: 146.342932
+postcode: '3825'
+state: VIC
+title: COALVILLE
+url: /vic/coalville/
 ---

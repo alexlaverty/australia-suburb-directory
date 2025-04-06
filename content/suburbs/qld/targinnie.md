@@ -1,9 +1,10 @@
 ---
-title: TARGINNIE
-state: QLD
-postcode: 4694
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.72951593
-longitude: 151.0984104
-url: /qld/targinnie/
 layout: suburb
+longitude: 151.0984104
+postcode: '4694'
+state: QLD
+title: TARGINNIE
+url: /qld/targinnie/
 ---

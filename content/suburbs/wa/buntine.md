@@ -1,9 +1,10 @@
 ---
-title: BUNTINE
-state: WA
-postcode: 6613
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -29.962626
-longitude: 116.523551
-url: /wa/buntine/
 layout: suburb
+longitude: 116.523551
+postcode: '6613'
+state: WA
+title: BUNTINE
+url: /wa/buntine/
 ---

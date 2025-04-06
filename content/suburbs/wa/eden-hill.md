@@ -1,9 +1,10 @@
 ---
-title: EDEN HILL
-state: WA
-postcode: 6054
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.901801
-longitude: 115.942572
-url: /wa/eden-hill/
 layout: suburb
+longitude: 115.942572
+postcode: '6054'
+state: WA
+title: EDEN HILL
+url: /wa/eden-hill/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WINDY HARBOUR
-state: WA
-postcode: 6262
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.706106
-longitude: 116.141244
-url: /wa/windy-harbour/
 layout: suburb
+longitude: 116.141244
+postcode: '6262'
+state: WA
+title: WINDY HARBOUR
+url: /wa/windy-harbour/
 ---

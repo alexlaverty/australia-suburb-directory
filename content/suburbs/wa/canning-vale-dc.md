@@ -1,9 +1,10 @@
 ---
-title: CANNING VALE DC
-state: WA
-postcode: 6970
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.061501
-longitude: 115.890779
-url: /wa/canning-vale-dc/
 layout: suburb
+longitude: 115.890779
+postcode: '6970'
+state: WA
+title: CANNING VALE DC
+url: /wa/canning-vale-dc/
 ---

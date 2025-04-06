@@ -1,9 +1,10 @@
 ---
-title: CLARINDA
-state: VIC
-postcode: 3169
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.945149
-longitude: 145.115271
-url: /vic/clarinda/
 layout: suburb
+longitude: 145.115271
+postcode: '3169'
+state: VIC
+title: CLARINDA
+url: /vic/clarinda/
 ---

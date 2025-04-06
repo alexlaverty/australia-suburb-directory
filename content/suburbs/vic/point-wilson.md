@@ -1,9 +1,10 @@
 ---
-title: POINT WILSON
-state: VIC
-postcode: 3212
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.039958
-longitude: 144.422666
-url: /vic/point-wilson/
 layout: suburb
+longitude: 144.422666
+postcode: '3212'
+state: VIC
+title: POINT WILSON
+url: /vic/point-wilson/
 ---

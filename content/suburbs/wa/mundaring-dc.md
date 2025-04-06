@@ -1,9 +1,10 @@
 ---
-title: MUNDARING DC
-state: WA
-postcode: 6073
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.949349
-longitude: 116.28143
-url: /wa/mundaring-dc/
 layout: suburb
+longitude: 116.28143
+postcode: '6073'
+state: WA
+title: MUNDARING DC
+url: /wa/mundaring-dc/
 ---

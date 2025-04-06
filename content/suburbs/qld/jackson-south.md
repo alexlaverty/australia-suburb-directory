@@ -1,9 +1,10 @@
 ---
-title: JACKSON SOUTH
-state: QLD
-postcode: 4426
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.539914
-longitude: 149.590426
-url: /qld/jackson-south/
 layout: suburb
+longitude: 149.590426
+postcode: '4426'
+state: QLD
+title: JACKSON SOUTH
+url: /qld/jackson-south/
 ---

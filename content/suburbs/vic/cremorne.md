@@ -1,9 +1,10 @@
 ---
-title: CREMORNE
-state: VIC
-postcode: 3121
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.823303
-longitude: 145.001788
-url: /vic/cremorne/
 layout: suburb
+longitude: 145.001788
+postcode: '3121'
+state: VIC
+title: CREMORNE
+url: /vic/cremorne/
 ---

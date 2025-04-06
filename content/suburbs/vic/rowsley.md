@@ -1,9 +1,10 @@
 ---
-title: ROWSLEY
-state: VIC
-postcode: 3340
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.787135
-longitude: 144.394442
-url: /vic/rowsley/
 layout: suburb
+longitude: 144.394442
+postcode: '3340'
+state: VIC
+title: ROWSLEY
+url: /vic/rowsley/
 ---

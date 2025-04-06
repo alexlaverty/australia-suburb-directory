@@ -1,9 +1,10 @@
 ---
-title: NATHAN
-state: QLD
-postcode: 4111
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.550643
-longitude: 153.052226
-url: /qld/nathan/
 layout: suburb
+longitude: 153.052226
+postcode: '4111'
+state: QLD
+title: NATHAN
+url: /qld/nathan/
 ---

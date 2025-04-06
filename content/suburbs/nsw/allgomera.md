@@ -1,9 +1,10 @@
 ---
-title: ALLGOMERA
-state: NSW
-postcode: 2441
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.81816175
-longitude: 152.7955009
-url: /nsw/allgomera/
 layout: suburb
+longitude: 152.7955009
+postcode: '2441'
+state: NSW
+title: ALLGOMERA
+url: /nsw/allgomera/
 ---

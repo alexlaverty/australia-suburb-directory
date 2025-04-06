@@ -1,9 +1,10 @@
 ---
-title: MORTLAKE
-state: VIC
-postcode: 3272
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.982186
-longitude: 142.853634
-url: /vic/mortlake/
 layout: suburb
+longitude: 142.853634
+postcode: '3272'
+state: VIC
+title: MORTLAKE
+url: /vic/mortlake/
 ---

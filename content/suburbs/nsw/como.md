@@ -1,9 +1,10 @@
 ---
-title: COMO
-state: NSW
-postcode: 2226
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.009345
-longitude: 151.063808
-url: /nsw/como/
 layout: suburb
+longitude: 151.063808
+postcode: '2226'
+state: NSW
+title: COMO
+url: /nsw/como/
 ---

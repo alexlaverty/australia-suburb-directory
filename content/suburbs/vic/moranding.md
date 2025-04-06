@@ -1,9 +1,10 @@
 ---
-title: MORANDING
-state: VIC
-postcode: 3764
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.263736
-longitude: 144.900644
-url: /vic/moranding/
 layout: suburb
+longitude: 144.900644
+postcode: '3764'
+state: VIC
+title: MORANDING
+url: /vic/moranding/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SOMERTON PARK
-state: SA
-postcode: 5044
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.001213
-longitude: 138.516314
-url: /sa/somerton-park/
 layout: suburb
+longitude: 138.516314
+postcode: '5044'
+state: SA
+title: SOMERTON PARK
+url: /sa/somerton-park/
 ---

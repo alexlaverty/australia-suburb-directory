@@ -1,9 +1,10 @@
 ---
-title: CENTRAL MACDONALD
-state: NSW
-postcode: 2775
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.305478
-longitude: 150.918639
-url: /nsw/central-macdonald/
 layout: suburb
+longitude: 150.918639
+postcode: '2775'
+state: NSW
+title: CENTRAL MACDONALD
+url: /nsw/central-macdonald/
 ---

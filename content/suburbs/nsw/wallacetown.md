@@ -1,9 +1,10 @@
 ---
-title: WALLACETOWN
-state: NSW
-postcode: 2650
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.07459
-longitude: 147.376202
-url: /nsw/wallacetown/
 layout: suburb
+longitude: 147.376202
+postcode: '2650'
+state: NSW
+title: WALLACETOWN
+url: /nsw/wallacetown/
 ---

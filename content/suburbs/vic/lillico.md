@@ -1,9 +1,10 @@
 ---
-title: LILLICO
-state: VIC
-postcode: 3820
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.207476
-longitude: 145.922212
-url: /vic/lillico/
 layout: suburb
+longitude: 145.922212
+postcode: '3820'
+state: VIC
+title: LILLICO
+url: /vic/lillico/
 ---

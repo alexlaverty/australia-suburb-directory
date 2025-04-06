@@ -1,9 +1,10 @@
 ---
-title: GRAYS BRIDGE
-state: VIC
-postcode: 3477
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.61840529
-longitude: 142.8997503
-url: /vic/grays-bridge/
 layout: suburb
+longitude: 142.8997503
+postcode: '3477'
+state: VIC
+title: GRAYS BRIDGE
+url: /vic/grays-bridge/
 ---

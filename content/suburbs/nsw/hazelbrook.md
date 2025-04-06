@@ -1,9 +1,10 @@
 ---
-title: HAZELBROOK
-state: NSW
-postcode: 2779
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.7237
-longitude: 150.45933
-url: /nsw/hazelbrook/
 layout: suburb
+longitude: 150.45933
+postcode: '2779'
+state: NSW
+title: HAZELBROOK
+url: /nsw/hazelbrook/
 ---

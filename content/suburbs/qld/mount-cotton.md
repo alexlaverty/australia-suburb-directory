@@ -1,9 +1,10 @@
 ---
-title: MOUNT COTTON
-state: QLD
-postcode: 4165
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.623975
-longitude: 153.263801
-url: /qld/mount-cotton/
 layout: suburb
+longitude: 153.263801
+postcode: '4165'
+state: QLD
+title: MOUNT COTTON
+url: /qld/mount-cotton/
 ---

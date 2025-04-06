@@ -1,9 +1,10 @@
 ---
-title: CASTLEMAINE
-state: VIC
-postcode: 3450
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.061635
-longitude: 144.214903
-url: /vic/castlemaine/
 layout: suburb
+longitude: 144.214903
+postcode: '3450'
+state: VIC
+title: CASTLEMAINE
+url: /vic/castlemaine/
 ---

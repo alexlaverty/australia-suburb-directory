@@ -1,9 +1,10 @@
 ---
-title: HYDE PARK
-state: SA
-postcode: 5061
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.957195
-longitude: 138.60648
-url: /sa/hyde-park/
 layout: suburb
+longitude: 138.60648
+postcode: '5061'
+state: SA
+title: HYDE PARK
+url: /sa/hyde-park/
 ---

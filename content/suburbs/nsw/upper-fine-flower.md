@@ -1,9 +1,10 @@
 ---
-title: UPPER FINE FLOWER
-state: NSW
-postcode: 2460
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.320772
-longitude: 153.271074
-url: /nsw/upper-fine-flower/
 layout: suburb
+longitude: 153.271074
+postcode: '2460'
+state: NSW
+title: UPPER FINE FLOWER
+url: /nsw/upper-fine-flower/
 ---

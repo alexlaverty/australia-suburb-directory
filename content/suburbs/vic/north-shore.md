@@ -1,9 +1,10 @@
 ---
-title: NORTH SHORE
-state: VIC
-postcode: 3214
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.084781
-longitude: 144.352385
-url: /vic/north-shore/
 layout: suburb
+longitude: 144.352385
+postcode: '3214'
+state: VIC
+title: NORTH SHORE
+url: /vic/north-shore/
 ---

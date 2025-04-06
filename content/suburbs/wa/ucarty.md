@@ -1,9 +1,10 @@
 ---
-title: UCARTY
-state: WA
-postcode: 6462
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.125288
-longitude: 117.204349
-url: /wa/ucarty/
 layout: suburb
+longitude: 117.204349
+postcode: '6462'
+state: WA
+title: UCARTY
+url: /wa/ucarty/
 ---

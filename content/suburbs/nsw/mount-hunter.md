@@ -1,9 +1,10 @@
 ---
-title: MOUNT HUNTER
-state: NSW
-postcode: 2570
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.042913
-longitude: 150.525292
-url: /nsw/mount-hunter/
 layout: suburb
+longitude: 150.525292
+postcode: '2570'
+state: NSW
+title: MOUNT HUNTER
+url: /nsw/mount-hunter/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EAST BRISBANE
-state: QLD
-postcode: 4169
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.484177
-longitude: 153.040982
-url: /qld/east-brisbane/
 layout: suburb
+longitude: 153.040982
+postcode: '4169'
+state: QLD
+title: EAST BRISBANE
+url: /qld/east-brisbane/
 ---

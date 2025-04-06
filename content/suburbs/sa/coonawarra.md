@@ -1,9 +1,10 @@
 ---
-title: COONAWARRA
-state: SA
-postcode: 5263
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.307042
-longitude: 140.838441
-url: /sa/coonawarra/
 layout: suburb
+longitude: 140.838441
+postcode: '5263'
+state: SA
+title: COONAWARRA
+url: /sa/coonawarra/
 ---

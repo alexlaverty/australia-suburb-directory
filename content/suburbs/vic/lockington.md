@@ -1,9 +1,10 @@
 ---
-title: LOCKINGTON
-state: VIC
-postcode: 3563
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.256251
-longitude: 144.515589
-url: /vic/lockington/
 layout: suburb
+longitude: 144.515589
+postcode: '3563'
+state: VIC
+title: LOCKINGTON
+url: /vic/lockington/
 ---

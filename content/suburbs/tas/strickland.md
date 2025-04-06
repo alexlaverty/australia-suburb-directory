@@ -1,9 +1,10 @@
 ---
-title: STRICKLAND
-state: TAS
-postcode: 7140
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.544215
-longitude: 146.45502
-url: /tas/strickland/
 layout: suburb
+longitude: 146.45502
+postcode: '7140'
+state: TAS
+title: STRICKLAND
+url: /tas/strickland/
 ---

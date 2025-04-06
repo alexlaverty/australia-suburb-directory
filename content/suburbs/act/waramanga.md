@@ -1,9 +1,10 @@
 ---
-title: WARAMANGA
-state: ACT
-postcode: 2611
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.322291
-longitude: 148.784415
-url: /act/waramanga/
 layout: suburb
+longitude: 148.784415
+postcode: '2611'
+state: ACT
+title: WARAMANGA
+url: /act/waramanga/
 ---

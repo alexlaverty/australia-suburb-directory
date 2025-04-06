@@ -1,9 +1,10 @@
 ---
-title: MIRRABOOKA
-state: WA
-postcode: 6941
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -31.842045
-longitude: 115.855186
-url: /wa/mirrabooka/
 layout: suburb
+longitude: 115.855186
+postcode: '6941'
+state: WA
+title: MIRRABOOKA
+url: /wa/mirrabooka/
 ---

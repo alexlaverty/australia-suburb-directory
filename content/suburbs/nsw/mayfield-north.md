@@ -1,9 +1,10 @@
 ---
-title: MAYFIELD NORTH
-state: NSW
-postcode: 2304
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.880319
-longitude: 151.73862
-url: /nsw/mayfield-north/
 layout: suburb
+longitude: 151.73862
+postcode: '2304'
+state: NSW
+title: MAYFIELD NORTH
+url: /nsw/mayfield-north/
 ---

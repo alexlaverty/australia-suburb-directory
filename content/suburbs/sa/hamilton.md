@@ -1,9 +1,10 @@
 ---
-title: HAMILTON
-state: SA
-postcode: 5373
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.303007
-longitude: 138.930335
-url: /sa/hamilton/
 layout: suburb
+longitude: 138.930335
+postcode: '5373'
+state: SA
+title: HAMILTON
+url: /sa/hamilton/
 ---

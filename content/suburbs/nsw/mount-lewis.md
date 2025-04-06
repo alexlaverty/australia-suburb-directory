@@ -1,9 +1,10 @@
 ---
-title: MOUNT LEWIS
-state: NSW
-postcode: 2200
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.926559
-longitude: 151.014937
-url: /nsw/mount-lewis/
 layout: suburb
+longitude: 151.014937
+postcode: '2200'
+state: NSW
+title: MOUNT LEWIS
+url: /nsw/mount-lewis/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NEW HARBOURLINE
-state: QLD
-postcode: 4858
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -17.622583
-longitude: 146.078807
-url: /qld/new-harbourline/
 layout: suburb
+longitude: 146.078807
+postcode: '4858'
+state: QLD
+title: NEW HARBOURLINE
+url: /qld/new-harbourline/
 ---

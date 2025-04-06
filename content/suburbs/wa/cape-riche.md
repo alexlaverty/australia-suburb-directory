@@ -1,9 +1,10 @@
 ---
-title: CAPE RICHE
-state: WA
-postcode: 6328
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.919086
-longitude: 118.462801
-url: /wa/cape-riche/
 layout: suburb
+longitude: 118.462801
+postcode: '6328'
+state: WA
+title: CAPE RICHE
+url: /wa/cape-riche/
 ---

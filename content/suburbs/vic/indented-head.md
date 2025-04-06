@@ -1,9 +1,10 @@
 ---
-title: INDENTED HEAD
-state: VIC
-postcode: 3223
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.147989
-longitude: 144.668477
-url: /vic/indented-head/
 layout: suburb
+longitude: 144.668477
+postcode: '3223'
+state: VIC
+title: INDENTED HEAD
+url: /vic/indented-head/
 ---

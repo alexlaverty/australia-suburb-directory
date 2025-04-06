@@ -1,9 +1,10 @@
 ---
-title: BURONGA
-state: NSW
-postcode: 2739
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.171443
-longitude: 142.182794
-url: /nsw/buronga/
 layout: suburb
+longitude: 142.182794
+postcode: '2739'
+state: NSW
+title: BURONGA
+url: /nsw/buronga/
 ---

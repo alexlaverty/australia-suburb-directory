@@ -1,9 +1,10 @@
 ---
-title: TENTERDEN
-state: WA
-postcode: 6322
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.411973
-longitude: 117.491623
-url: /wa/tenterden/
 layout: suburb
+longitude: 117.491623
+postcode: '6322'
+state: WA
+title: TENTERDEN
+url: /wa/tenterden/
 ---

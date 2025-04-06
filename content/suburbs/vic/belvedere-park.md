@@ -1,9 +1,10 @@
 ---
-title: BELVEDERE PARK
-state: VIC
-postcode: 3198
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.103194
-longitude: 145.137811
-url: /vic/belvedere-park/
 layout: suburb
+longitude: 145.137811
+postcode: '3198'
+state: VIC
+title: BELVEDERE PARK
+url: /vic/belvedere-park/
 ---

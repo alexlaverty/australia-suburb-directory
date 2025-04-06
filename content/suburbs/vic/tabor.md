@@ -1,9 +1,10 @@
 ---
-title: TABOR
-state: VIC
-postcode: 3289
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.893196
-longitude: 142.227754
-url: /vic/tabor/
 layout: suburb
+longitude: 142.227754
+postcode: '3289'
+state: VIC
+title: TABOR
+url: /vic/tabor/
 ---

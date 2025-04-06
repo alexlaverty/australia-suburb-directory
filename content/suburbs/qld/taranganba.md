@@ -1,9 +1,10 @@
 ---
-title: TARANGANBA
-state: QLD
-postcode: 4703
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.074563
-longitude: 150.894331
-url: /qld/taranganba/
 layout: suburb
+longitude: 150.894331
+postcode: '4703'
+state: QLD
+title: TARANGANBA
+url: /qld/taranganba/
 ---

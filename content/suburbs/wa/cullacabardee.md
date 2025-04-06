@@ -1,9 +1,10 @@
 ---
-title: CULLACABARDEE
-state: WA
-postcode: 6067
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.816059
-longitude: 115.899644
-url: /wa/cullacabardee/
 layout: suburb
+longitude: 115.899644
+postcode: '6067'
+state: WA
+title: CULLACABARDEE
+url: /wa/cullacabardee/
 ---

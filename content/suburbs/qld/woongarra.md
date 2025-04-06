@@ -1,9 +1,10 @@
 ---
-title: WOONGARRA
-state: QLD
-postcode: 4670
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.88776
-longitude: 152.297855
-url: /qld/woongarra/
 layout: suburb
+longitude: 152.297855
+postcode: '4670'
+state: QLD
+title: WOONGARRA
+url: /qld/woongarra/
 ---

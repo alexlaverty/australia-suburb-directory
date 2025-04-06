@@ -1,9 +1,10 @@
 ---
-title: RICHMOND HILL
-state: QLD
-postcode: 4820
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -20.428447
-longitude: 146.275575
-url: /qld/richmond-hill/
 layout: suburb
+longitude: 146.275575
+postcode: '4820'
+state: QLD
+title: RICHMOND HILL
+url: /qld/richmond-hill/
 ---

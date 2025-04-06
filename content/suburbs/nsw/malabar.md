@@ -1,9 +1,10 @@
 ---
-title: MALABAR
-state: NSW
-postcode: 2036
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.969624
-longitude: 151.237844
-url: /nsw/malabar/
 layout: suburb
+longitude: 151.237844
+postcode: '2036'
+state: NSW
+title: MALABAR
+url: /nsw/malabar/
 ---

@@ -1,9 +1,10 @@
 ---
-title: THURINGOWA CENTRAL
-state: QLD
-postcode: 4817
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.310498
-longitude: 146.652307
-url: /qld/thuringowa-central/
 layout: suburb
+longitude: 146.652307
+postcode: '4817'
+state: QLD
+title: THURINGOWA CENTRAL
+url: /qld/thuringowa-central/
 ---

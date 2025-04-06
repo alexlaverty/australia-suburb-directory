@@ -1,9 +1,10 @@
 ---
-title: LILLIAN ROCK
-state: NSW
-postcode: 2480
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.706486
-longitude: 153.25943
-url: /nsw/lillian-rock/
 layout: suburb
+longitude: 153.25943
+postcode: '2480'
+state: NSW
+title: LILLIAN ROCK
+url: /nsw/lillian-rock/
 ---

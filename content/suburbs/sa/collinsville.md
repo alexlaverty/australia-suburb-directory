@@ -1,9 +1,10 @@
 ---
-title: COLLINSVILLE
-state: SA
-postcode: 5418
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.357329
-longitude: 139.143828
-url: /sa/collinsville/
 layout: suburb
+longitude: 139.143828
+postcode: '5418'
+state: SA
+title: COLLINSVILLE
+url: /sa/collinsville/
 ---

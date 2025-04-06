@@ -1,9 +1,10 @@
 ---
-title: MARAGLE
-state: NSW
-postcode: 2653
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.776209
-longitude: 148.041339
-url: /nsw/maragle/
 layout: suburb
+longitude: 148.041339
+postcode: '2653'
+state: NSW
+title: MARAGLE
+url: /nsw/maragle/
 ---

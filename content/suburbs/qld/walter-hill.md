@@ -1,9 +1,10 @@
 ---
-title: WALTER HILL
-state: QLD
-postcode: 4854
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -18.020178
-longitude: 145.842063
-url: /qld/walter-hill/
 layout: suburb
+longitude: 145.842063
+postcode: '4854'
+state: QLD
+title: WALTER HILL
+url: /qld/walter-hill/
 ---

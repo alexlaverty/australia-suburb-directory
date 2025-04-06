@@ -1,9 +1,10 @@
 ---
-title: CELLS RIVER
-state: NSW
-postcode: 2424
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.56699059
-longitude: 152.1167381
-url: /nsw/cells-river/
 layout: suburb
+longitude: 152.1167381
+postcode: '2424'
+state: NSW
+title: CELLS RIVER
+url: /nsw/cells-river/
 ---

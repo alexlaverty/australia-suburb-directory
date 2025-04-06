@@ -1,9 +1,10 @@
 ---
-title: ROSEBERY
-state: VIC
-postcode: 3395
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.83347402
-longitude: 142.4214713
-url: /vic/rosebery/
 layout: suburb
+longitude: 142.4214713
+postcode: '3395'
+state: VIC
+title: ROSEBERY
+url: /vic/rosebery/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ROCKLEIGH
-state: SA
-postcode: 5254
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.097045
-longitude: 139.475946
-url: /sa/rockleigh/
 layout: suburb
+longitude: 139.475946
+postcode: '5254'
+state: SA
+title: ROCKLEIGH
+url: /sa/rockleigh/
 ---

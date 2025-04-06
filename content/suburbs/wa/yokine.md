@@ -1,9 +1,10 @@
 ---
-title: YOKINE
-state: WA
-postcode: 6060
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.903241
-longitude: 115.840879
-url: /wa/yokine/
 layout: suburb
+longitude: 115.840879
+postcode: '6060'
+state: WA
+title: YOKINE
+url: /wa/yokine/
 ---

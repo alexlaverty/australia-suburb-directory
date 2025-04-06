@@ -1,9 +1,10 @@
 ---
-title: MANOBALAI
-state: NSW
-postcode: 2333
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.248568
-longitude: 150.701949
-url: /nsw/manobalai/
 layout: suburb
+longitude: 150.701949
+postcode: '2333'
+state: NSW
+title: MANOBALAI
+url: /nsw/manobalai/
 ---

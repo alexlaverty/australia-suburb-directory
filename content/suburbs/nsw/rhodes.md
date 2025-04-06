@@ -1,9 +1,10 @@
 ---
-title: RHODES
-state: NSW
-postcode: 2138
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.846098
-longitude: 151.086036
-url: /nsw/rhodes/
 layout: suburb
+longitude: 151.086036
+postcode: '2138'
+state: NSW
+title: RHODES
+url: /nsw/rhodes/
 ---

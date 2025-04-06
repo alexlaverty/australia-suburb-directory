@@ -1,9 +1,10 @@
 ---
-title: HARPER CREEK
-state: QLD
-postcode: 4552
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.734305
-longitude: 152.766898
-url: /qld/harper-creek/
 layout: suburb
+longitude: 152.766898
+postcode: '4552'
+state: QLD
+title: HARPER CREEK
+url: /qld/harper-creek/
 ---

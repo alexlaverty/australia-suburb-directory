@@ -1,9 +1,10 @@
 ---
-title: THALLON
-state: QLD
-postcode: 4497
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.645485
-longitude: 148.753584
-url: /qld/thallon/
 layout: suburb
+longitude: 148.753584
+postcode: '4497'
+state: QLD
+title: THALLON
+url: /qld/thallon/
 ---

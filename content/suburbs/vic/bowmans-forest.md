@@ -1,9 +1,10 @@
 ---
-title: BOWMANS FOREST
-state: VIC
-postcode: 3735
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.515712
-longitude: 146.603574
-url: /vic/bowmans-forest/
 layout: suburb
+longitude: 146.603574
+postcode: '3735'
+state: VIC
+title: BOWMANS FOREST
+url: /vic/bowmans-forest/
 ---

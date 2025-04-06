@@ -1,9 +1,10 @@
 ---
-title: PEAK CROSSING
-state: QLD
-postcode: 4306
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.480898
-longitude: 152.725408
-url: /qld/peak-crossing/
 layout: suburb
+longitude: 152.725408
+postcode: '4306'
+state: QLD
+title: PEAK CROSSING
+url: /qld/peak-crossing/
 ---

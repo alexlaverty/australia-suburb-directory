@@ -1,9 +1,10 @@
 ---
-title: SANDHILL
-state: TAS
-postcode: 7249
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.472435
-longitude: 147.157786
-url: /tas/sandhill/
 layout: suburb
+longitude: 147.157786
+postcode: '7249'
+state: TAS
+title: SANDHILL
+url: /tas/sandhill/
 ---

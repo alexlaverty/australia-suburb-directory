@@ -1,9 +1,10 @@
 ---
-title: EULO
-state: QLD
-postcode: 4491
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.91583
-longitude: 145.083656
-url: /qld/eulo/
 layout: suburb
+longitude: 145.083656
+postcode: '4491'
+state: QLD
+title: EULO
+url: /qld/eulo/
 ---

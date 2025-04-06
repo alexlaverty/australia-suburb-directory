@@ -1,9 +1,10 @@
 ---
-title: LARGS NORTH
-state: SA
-postcode: 5016
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.824516
-longitude: 138.493796
-url: /sa/largs-north/
 layout: suburb
+longitude: 138.493796
+postcode: '5016'
+state: SA
+title: LARGS NORTH
+url: /sa/largs-north/
 ---

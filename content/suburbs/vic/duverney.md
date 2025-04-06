@@ -1,9 +1,10 @@
 ---
-title: DUVERNEY
-state: VIC
-postcode: 3323
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.026314
-longitude: 143.520934
-url: /vic/duverney/
 layout: suburb
+longitude: 143.520934
+postcode: '3323'
+state: VIC
+title: DUVERNEY
+url: /vic/duverney/
 ---

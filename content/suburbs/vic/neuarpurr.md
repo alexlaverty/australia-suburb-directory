@@ -1,9 +1,10 @@
 ---
-title: NEUARPURR
-state: VIC
-postcode: 3413
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.699331
-longitude: 141.201068
-url: /vic/neuarpurr/
 layout: suburb
+longitude: 141.201068
+postcode: '3413'
+state: VIC
+title: NEUARPURR
+url: /vic/neuarpurr/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SALISBURY NORTH
-state: SA
-postcode: 5108
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.761553
-longitude: 138.61884
-url: /sa/salisbury-north/
 layout: suburb
+longitude: 138.61884
+postcode: '5108'
+state: SA
+title: SALISBURY NORTH
+url: /sa/salisbury-north/
 ---

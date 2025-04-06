@@ -1,9 +1,10 @@
 ---
-title: LYNCHS CREEK
-state: NSW
-postcode: 2474
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.499375
-longitude: 152.88504
-url: /nsw/lynchs-creek/
 layout: suburb
+longitude: 152.88504
+postcode: '2474'
+state: NSW
+title: LYNCHS CREEK
+url: /nsw/lynchs-creek/
 ---

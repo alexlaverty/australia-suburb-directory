@@ -1,9 +1,10 @@
 ---
-title: DARLING DOWNS
-state: WA
-postcode: 6122
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.221725
-longitude: 116.0072
-url: /wa/darling-downs/
 layout: suburb
+longitude: 116.0072
+postcode: '6122'
+state: WA
+title: DARLING DOWNS
+url: /wa/darling-downs/
 ---

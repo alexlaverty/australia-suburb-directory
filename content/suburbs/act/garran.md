@@ -1,9 +1,10 @@
 ---
-title: GARRAN
-state: ACT
-postcode: 2605
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.335821
-longitude: 149.093455
-url: /act/garran/
 layout: suburb
+longitude: 149.093455
+postcode: '2605'
+state: ACT
+title: GARRAN
+url: /act/garran/
 ---

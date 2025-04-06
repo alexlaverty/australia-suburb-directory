@@ -1,9 +1,10 @@
 ---
-title: AUBURN
-state: VIC
-postcode: 3123
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.829752
-longitude: 145.049415
-url: /vic/auburn/
 layout: suburb
+longitude: 145.049415
+postcode: '3123'
+state: VIC
+title: AUBURN
+url: /vic/auburn/
 ---

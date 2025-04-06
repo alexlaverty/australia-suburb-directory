@@ -1,9 +1,10 @@
 ---
-title: TRIHI
-state: SA
-postcode: 5279
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.574691
-longitude: 140.462487
-url: /sa/trihi/
 layout: suburb
+longitude: 140.462487
+postcode: '5279'
+state: SA
+title: TRIHI
+url: /sa/trihi/
 ---

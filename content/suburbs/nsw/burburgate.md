@@ -1,9 +1,10 @@
 ---
-title: BURBURGATE
-state: NSW
-postcode: 2380
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.046117
-longitude: 150.199154
-url: /nsw/burburgate/
 layout: suburb
+longitude: 150.199154
+postcode: '2380'
+state: NSW
+title: BURBURGATE
+url: /nsw/burburgate/
 ---

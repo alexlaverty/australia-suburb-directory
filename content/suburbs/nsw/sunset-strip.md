@@ -1,9 +1,10 @@
 ---
-title: SUNSET STRIP
-state: NSW
-postcode: 2879
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.27503624
-longitude: 142.3328819
-url: /nsw/sunset-strip/
 layout: suburb
+longitude: 142.3328819
+postcode: '2879'
+state: NSW
+title: SUNSET STRIP
+url: /nsw/sunset-strip/
 ---

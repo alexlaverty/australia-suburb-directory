@@ -1,9 +1,10 @@
 ---
-title: KOAH
-state: QLD
-postcode: 4881
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.91252285
-longitude: 145.5578365
-url: /qld/koah/
 layout: suburb
+longitude: 145.5578365
+postcode: '4881'
+state: QLD
+title: KOAH
+url: /qld/koah/
 ---

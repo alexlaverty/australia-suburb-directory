@@ -1,9 +1,10 @@
 ---
-title: AMERICAN RIVER
-state: SA
-postcode: 5221
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.793776
-longitude: 137.72022
-url: /sa/american-river/
 layout: suburb
+longitude: 137.72022
+postcode: '5221'
+state: SA
+title: AMERICAN RIVER
+url: /sa/american-river/
 ---

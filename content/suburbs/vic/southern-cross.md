@@ -1,9 +1,10 @@
 ---
-title: SOUTHERN CROSS
-state: VIC
-postcode: 3283
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.313434
-longitude: 142.328761
-url: /vic/southern-cross/
 layout: suburb
+longitude: 142.328761
+postcode: '3283'
+state: VIC
+title: SOUTHERN CROSS
+url: /vic/southern-cross/
 ---

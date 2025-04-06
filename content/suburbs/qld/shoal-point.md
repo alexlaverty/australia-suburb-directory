@@ -1,9 +1,10 @@
 ---
-title: SHOAL POINT
-state: QLD
-postcode: 4750
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -21.042567
-longitude: 149.152281
-url: /qld/shoal-point/
 layout: suburb
+longitude: 149.152281
+postcode: '4750'
+state: QLD
+title: SHOAL POINT
+url: /qld/shoal-point/
 ---

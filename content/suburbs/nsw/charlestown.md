@@ -1,9 +1,10 @@
 ---
-title: CHARLESTOWN
-state: NSW
-postcode: 2290
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.983963
-longitude: 151.707801
-url: /nsw/charlestown/
 layout: suburb
+longitude: 151.707801
+postcode: '2290'
+state: NSW
+title: CHARLESTOWN
+url: /nsw/charlestown/
 ---

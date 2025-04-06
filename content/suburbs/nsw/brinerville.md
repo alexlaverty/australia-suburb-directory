@@ -1,9 +1,10 @@
 ---
-title: BRINERVILLE
-state: NSW
-postcode: 2454
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.46794079
-longitude: 152.4954151
-url: /nsw/brinerville/
 layout: suburb
+longitude: 152.4954151
+postcode: '2454'
+state: NSW
+title: BRINERVILLE
+url: /nsw/brinerville/
 ---

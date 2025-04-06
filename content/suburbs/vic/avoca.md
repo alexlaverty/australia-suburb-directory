@@ -1,9 +1,10 @@
 ---
-title: AVOCA
-state: VIC
-postcode: 3467
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.105993
-longitude: 143.412675
-url: /vic/avoca/
 layout: suburb
+longitude: 143.412675
+postcode: '3467'
+state: VIC
+title: AVOCA
+url: /vic/avoca/
 ---

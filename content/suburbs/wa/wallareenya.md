@@ -1,9 +1,10 @@
 ---
-title: WALLAREENYA
-state: WA
-postcode: 6721
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -20.710799
-longitude: 118.441716
-url: /wa/wallareenya/
 layout: suburb
+longitude: 118.441716
+postcode: '6721'
+state: WA
+title: WALLAREENYA
+url: /wa/wallareenya/
 ---

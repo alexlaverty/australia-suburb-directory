@@ -1,9 +1,10 @@
 ---
-title: KENNAICLE CREEK
-state: NSW
-postcode: 2449
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.62816
-longitude: 152.737629
-url: /nsw/kennaicle-creek/
 layout: suburb
+longitude: 152.737629
+postcode: '2449'
+state: NSW
+title: KENNAICLE CREEK
+url: /nsw/kennaicle-creek/
 ---

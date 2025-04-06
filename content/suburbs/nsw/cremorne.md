@@ -1,9 +1,10 @@
 ---
-title: CREMORNE
-state: NSW
-postcode: 2090
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.828949
-longitude: 151.223094
-url: /nsw/cremorne/
 layout: suburb
+longitude: 151.223094
+postcode: '2090'
+state: NSW
+title: CREMORNE
+url: /nsw/cremorne/
 ---

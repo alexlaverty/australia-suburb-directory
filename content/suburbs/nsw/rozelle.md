@@ -1,9 +1,10 @@
 ---
-title: ROZELLE
-state: NSW
-postcode: 2039
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.867187
-longitude: 151.171915
-url: /nsw/rozelle/
 layout: suburb
+longitude: 151.171915
+postcode: '2039'
+state: NSW
+title: ROZELLE
+url: /nsw/rozelle/
 ---

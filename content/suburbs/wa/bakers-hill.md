@@ -1,9 +1,10 @@
 ---
-title: BAKERS HILL
-state: WA
-postcode: 6562
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.746189
-longitude: 116.473434
-url: /wa/bakers-hill/
 layout: suburb
+longitude: 116.473434
+postcode: '6562'
+state: WA
+title: BAKERS HILL
+url: /wa/bakers-hill/
 ---

@@ -1,9 +1,10 @@
 ---
-title: UNIVERSITY OF NEW ENGLAND
-state: NSW
-postcode: 2351
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.489129
-longitude: 151.639627
-url: /nsw/university-of-new-england/
 layout: suburb
+longitude: 151.639627
+postcode: '2351'
+state: NSW
+title: UNIVERSITY OF NEW ENGLAND
+url: /nsw/university-of-new-england/
 ---

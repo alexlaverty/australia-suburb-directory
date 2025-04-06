@@ -1,9 +1,10 @@
 ---
-title: PARA
-state: NSW
-postcode: 2648
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.65296503
-longitude: 142.0926084
-url: /nsw/para/
 layout: suburb
+longitude: 142.0926084
+postcode: '2648'
+state: NSW
+title: PARA
+url: /nsw/para/
 ---

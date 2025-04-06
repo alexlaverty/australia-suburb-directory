@@ -1,9 +1,10 @@
 ---
-title: DEEP LEAD
-state: VIC
-postcode: 3385
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.99999967
-longitude: 142.7110642
-url: /vic/deep-lead/
 layout: suburb
+longitude: 142.7110642
+postcode: '3385'
+state: VIC
+title: DEEP LEAD
+url: /vic/deep-lead/
 ---

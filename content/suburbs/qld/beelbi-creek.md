@@ -1,9 +1,10 @@
 ---
-title: BEELBI CREEK
-state: QLD
-postcode: 4659
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.266279
-longitude: 152.568678
-url: /qld/beelbi-creek/
 layout: suburb
+longitude: 152.568678
+postcode: '4659'
+state: QLD
+title: BEELBI CREEK
+url: /qld/beelbi-creek/
 ---

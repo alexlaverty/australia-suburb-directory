@@ -1,9 +1,10 @@
 ---
-title: INDIGO VALLEY
-state: VIC
-postcode: 3688
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.119195
-longitude: 146.717193
-url: /vic/indigo-valley/
 layout: suburb
+longitude: 146.717193
+postcode: '3688'
+state: VIC
+title: INDIGO VALLEY
+url: /vic/indigo-valley/
 ---

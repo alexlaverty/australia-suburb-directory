@@ -1,9 +1,10 @@
 ---
-title: REEDY CREEK
-state: QLD
-postcode: 4227
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.101892
-longitude: 153.410392
-url: /qld/reedy-creek/
 layout: suburb
+longitude: 153.410392
+postcode: '4227'
+state: QLD
+title: REEDY CREEK
+url: /qld/reedy-creek/
 ---

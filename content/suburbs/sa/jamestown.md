@@ -1,9 +1,10 @@
 ---
-title: JAMESTOWN
-state: SA
-postcode: 5491
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.194457
-longitude: 138.643794
-url: /sa/jamestown/
 layout: suburb
+longitude: 138.643794
+postcode: '5491'
+state: SA
+title: JAMESTOWN
+url: /sa/jamestown/
 ---

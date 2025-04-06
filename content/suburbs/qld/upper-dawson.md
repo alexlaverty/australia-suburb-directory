@@ -1,9 +1,10 @@
 ---
-title: UPPER DAWSON
-state: QLD
-postcode: 4454
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.55725
-longitude: 148.589834
-url: /qld/upper-dawson/
 layout: suburb
+longitude: 148.589834
+postcode: '4454'
+state: QLD
+title: UPPER DAWSON
+url: /qld/upper-dawson/
 ---

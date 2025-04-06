@@ -1,9 +1,10 @@
 ---
-title: YALLAMBIE
-state: VIC
-postcode: 3085
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.724398
-longitude: 145.06988
-url: /vic/yallambie/
 layout: suburb
+longitude: 145.06988
+postcode: '3085'
+state: VIC
+title: YALLAMBIE
+url: /vic/yallambie/
 ---

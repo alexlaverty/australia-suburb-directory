@@ -1,9 +1,10 @@
 ---
-title: PINE VIEW
-state: VIC
-postcode: 3579
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.767974
-longitude: 143.769445
-url: /vic/pine-view/
 layout: suburb
+longitude: 143.769445
+postcode: '3579'
+state: VIC
+title: PINE VIEW
+url: /vic/pine-view/
 ---

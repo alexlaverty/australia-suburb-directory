@@ -1,9 +1,10 @@
 ---
-title: SOUTH HOBART
-state: TAS
-postcode: 7004
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.890148
-longitude: 147.328928
-url: /tas/south-hobart/
 layout: suburb
+longitude: 147.328928
+postcode: '7004'
+state: TAS
+title: SOUTH HOBART
+url: /tas/south-hobart/
 ---

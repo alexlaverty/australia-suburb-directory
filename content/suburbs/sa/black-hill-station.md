@@ -1,9 +1,10 @@
 ---
-title: BLACK HILL STATION
-state: SA
-postcode: 5434
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.80130489
-longitude: 138.8317862
-url: /sa/black-hill-station/
 layout: suburb
+longitude: 138.8317862
+postcode: '5434'
+state: SA
+title: BLACK HILL STATION
+url: /sa/black-hill-station/
 ---

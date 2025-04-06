@@ -1,9 +1,10 @@
 ---
-title: KINGSBURY
-state: VIC
-postcode: 3083
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.701346
-longitude: 145.056223
-url: /vic/kingsbury/
 layout: suburb
+longitude: 145.056223
+postcode: '3083'
+state: VIC
+title: KINGSBURY
+url: /vic/kingsbury/
 ---

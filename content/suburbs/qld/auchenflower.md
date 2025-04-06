@@ -1,9 +1,10 @@
 ---
-title: AUCHENFLOWER
-state: QLD
-postcode: 4066
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.479866
-longitude: 152.964146
-url: /qld/auchenflower/
 layout: suburb
+longitude: 152.964146
+postcode: '4066'
+state: QLD
+title: AUCHENFLOWER
+url: /qld/auchenflower/
 ---

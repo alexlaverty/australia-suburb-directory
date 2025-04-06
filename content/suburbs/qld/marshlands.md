@@ -1,9 +1,10 @@
 ---
-title: MARSHLANDS
-state: QLD
-postcode: 4611
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.176717
-longitude: 151.776012
-url: /qld/marshlands/
 layout: suburb
+longitude: 151.776012
+postcode: '4611'
+state: QLD
+title: MARSHLANDS
+url: /qld/marshlands/
 ---

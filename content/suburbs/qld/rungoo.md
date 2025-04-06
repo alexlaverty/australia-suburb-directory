@@ -1,9 +1,10 @@
 ---
-title: RUNGOO
-state: QLD
-postcode: 4849
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -18.265652
-longitude: 146.027929
-url: /qld/rungoo/
 layout: suburb
+longitude: 146.027929
+postcode: '4849'
+state: QLD
+title: RUNGOO
+url: /qld/rungoo/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NIDDRIE NORTH
-state: VIC
-postcode: 3042
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.7393
-longitude: 144.886
-url: /vic/niddrie-north/
 layout: suburb
+longitude: 144.886
+postcode: '3042'
+state: VIC
+title: NIDDRIE NORTH
+url: /vic/niddrie-north/
 ---

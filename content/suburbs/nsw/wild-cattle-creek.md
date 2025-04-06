@@ -1,9 +1,10 @@
 ---
-title: WILD CATTLE CREEK
-state: NSW
-postcode: 2453
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.14637427
-longitude: 152.7468709
-url: /nsw/wild-cattle-creek/
 layout: suburb
+longitude: 152.7468709
+postcode: '2453'
+state: NSW
+title: WILD CATTLE CREEK
+url: /nsw/wild-cattle-creek/
 ---

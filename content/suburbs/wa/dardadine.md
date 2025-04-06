@@ -1,9 +1,10 @@
 ---
-title: DARDADINE
-state: WA
-postcode: 6392
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.2326994
-longitude: 116.7708935
-url: /wa/dardadine/
 layout: suburb
+longitude: 116.7708935
+postcode: '6392'
+state: WA
+title: DARDADINE
+url: /wa/dardadine/
 ---

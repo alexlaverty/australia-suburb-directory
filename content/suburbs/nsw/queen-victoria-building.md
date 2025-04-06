@@ -1,9 +1,10 @@
 ---
-title: QUEEN VICTORIA BUILDING
-state: NSW
-postcode: 1230
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.871749
-longitude: 151.206708
-url: /nsw/queen-victoria-building/
 layout: suburb
+longitude: 151.206708
+postcode: '1230'
+state: NSW
+title: QUEEN VICTORIA BUILDING
+url: /nsw/queen-victoria-building/
 ---

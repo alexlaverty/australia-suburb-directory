@@ -1,9 +1,10 @@
 ---
-title: FRENCHMAN BAY
-state: WA
-postcode: 6330
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.905438
-longitude: 117.863286
-url: /wa/frenchman-bay/
 layout: suburb
+longitude: 117.863286
+postcode: '6330'
+state: WA
+title: FRENCHMAN BAY
+url: /wa/frenchman-bay/
 ---

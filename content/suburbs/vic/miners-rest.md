@@ -1,9 +1,10 @@
 ---
-title: MINERS REST
-state: VIC
-postcode: 3352
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.482132
-longitude: 143.662387
-url: /vic/miners-rest/
 layout: suburb
+longitude: 143.662387
+postcode: '3352'
+state: VIC
+title: MINERS REST
+url: /vic/miners-rest/
 ---

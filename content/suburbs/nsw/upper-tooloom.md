@@ -1,9 +1,10 @@
 ---
-title: UPPER TOOLOOM
-state: NSW
-postcode: 2475
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.56243606
-longitude: 152.3732005
-url: /nsw/upper-tooloom/
 layout: suburb
+longitude: 152.3732005
+postcode: '2475'
+state: NSW
+title: UPPER TOOLOOM
+url: /nsw/upper-tooloom/
 ---

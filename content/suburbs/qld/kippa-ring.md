@@ -1,9 +1,10 @@
 ---
-title: KIPPA-RING
-state: QLD
-postcode: 4021
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.220098
-longitude: 153.07529
-url: /qld/kippa-ring/
 layout: suburb
+longitude: 153.07529
+postcode: '4021'
+state: QLD
+title: KIPPA-RING
+url: /qld/kippa-ring/
 ---

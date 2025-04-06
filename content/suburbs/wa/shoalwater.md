@@ -1,9 +1,10 @@
 ---
-title: SHOALWATER
-state: WA
-postcode: 6169
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.338504
-longitude: 115.763949
-url: /wa/shoalwater/
 layout: suburb
+longitude: 115.763949
+postcode: '6169'
+state: WA
+title: SHOALWATER
+url: /wa/shoalwater/
 ---

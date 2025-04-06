@@ -1,9 +1,10 @@
 ---
-title: WESTDALE
-state: NSW
-postcode: 2653
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.56985611
-longitude: 147.8837054
-url: /nsw/westdale/
 layout: suburb
+longitude: 147.8837054
+postcode: '2653'
+state: NSW
+title: WESTDALE
+url: /nsw/westdale/
 ---

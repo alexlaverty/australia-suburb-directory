@@ -1,9 +1,10 @@
 ---
-title: WATTLE HILL
-state: TAS
-postcode: 7172
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.730285
-longitude: 147.631695
-url: /tas/wattle-hill/
 layout: suburb
+longitude: 147.631695
+postcode: '7172'
+state: TAS
+title: WATTLE HILL
+url: /tas/wattle-hill/
 ---

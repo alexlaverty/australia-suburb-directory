@@ -1,9 +1,10 @@
 ---
-title: RILEYS HILL
-state: NSW
-postcode: 2472
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.156771
-longitude: 153.303855
-url: /nsw/rileys-hill/
 layout: suburb
+longitude: 153.303855
+postcode: '2472'
+state: NSW
+title: RILEYS HILL
+url: /nsw/rileys-hill/
 ---

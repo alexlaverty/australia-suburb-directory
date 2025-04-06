@@ -1,9 +1,10 @@
 ---
-title: WHITFIELD
-state: VIC
-postcode: 3733
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.812087
-longitude: 146.316338
-url: /vic/whitfield/
 layout: suburb
+longitude: 146.316338
+postcode: '3733'
+state: VIC
+title: WHITFIELD
+url: /vic/whitfield/
 ---

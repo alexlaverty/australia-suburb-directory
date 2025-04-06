@@ -1,9 +1,10 @@
 ---
-title: TYAAK
-state: VIC
-postcode: 3658
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.241401
-longitude: 145.111854
-url: /vic/tyaak/
 layout: suburb
+longitude: 145.111854
+postcode: '3658'
+state: VIC
+title: TYAAK
+url: /vic/tyaak/
 ---

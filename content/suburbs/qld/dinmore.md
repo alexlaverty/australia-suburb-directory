@@ -1,9 +1,10 @@
 ---
-title: DINMORE
-state: QLD
-postcode: 4303
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.604588
-longitude: 152.840187
-url: /qld/dinmore/
 layout: suburb
+longitude: 152.840187
+postcode: '4303'
+state: QLD
+title: DINMORE
+url: /qld/dinmore/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CARLTON
-state: TAS
-postcode: 7173
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.823649
-longitude: 147.630737
-url: /tas/carlton/
 layout: suburb
+longitude: 147.630737
+postcode: '7173'
+state: TAS
+title: CARLTON
+url: /tas/carlton/
 ---

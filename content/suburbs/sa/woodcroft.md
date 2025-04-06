@@ -1,9 +1,10 @@
 ---
-title: WOODCROFT
-state: SA
-postcode: 5162
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.112119
-longitude: 138.565224
-url: /sa/woodcroft/
 layout: suburb
+longitude: 138.565224
+postcode: '5162'
+state: SA
+title: WOODCROFT
+url: /sa/woodcroft/
 ---

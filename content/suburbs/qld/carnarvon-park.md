@@ -1,9 +1,10 @@
 ---
-title: CARNARVON PARK
-state: QLD
-postcode: 4702
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.325475
-longitude: 149.782526
-url: /qld/carnarvon-park/
 layout: suburb
+longitude: 149.782526
+postcode: '4702'
+state: QLD
+title: CARNARVON PARK
+url: /qld/carnarvon-park/
 ---

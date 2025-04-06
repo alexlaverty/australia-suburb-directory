@@ -1,9 +1,10 @@
 ---
-title: PENRITH
-state: NSW
-postcode: 2751
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.732127
-longitude: 151.280352
-url: /nsw/penrith/
 layout: suburb
+longitude: 151.280352
+postcode: '2751'
+state: NSW
+title: PENRITH
+url: /nsw/penrith/
 ---

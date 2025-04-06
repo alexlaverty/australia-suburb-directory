@@ -1,9 +1,10 @@
 ---
-title: MALLACOOTA
-state: VIC
-postcode: 3892
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.563775
-longitude: 149.909868
-url: /vic/mallacoota/
 layout: suburb
+longitude: 149.909868
+postcode: '3892'
+state: VIC
+title: MALLACOOTA
+url: /vic/mallacoota/
 ---

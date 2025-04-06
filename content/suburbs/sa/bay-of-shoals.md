@@ -1,9 +1,10 @@
 ---
-title: BAY OF SHOALS
-state: SA
-postcode: 5223
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.811358
-longitude: 137.541715
-url: /sa/bay-of-shoals/
 layout: suburb
+longitude: 137.541715
+postcode: '5223'
+state: SA
+title: BAY OF SHOALS
+url: /sa/bay-of-shoals/
 ---

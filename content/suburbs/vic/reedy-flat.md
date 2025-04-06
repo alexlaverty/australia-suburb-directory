@@ -1,9 +1,10 @@
 ---
-title: REEDY FLAT
-state: VIC
-postcode: 3895
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.40606605
-longitude: 147.916566
-url: /vic/reedy-flat/
 layout: suburb
+longitude: 147.916566
+postcode: '3895'
+state: VIC
+title: REEDY FLAT
+url: /vic/reedy-flat/
 ---

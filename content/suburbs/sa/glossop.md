@@ -1,9 +1,10 @@
 ---
-title: GLOSSOP
-state: SA
-postcode: 5344
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.285345
-longitude: 140.51443
-url: /sa/glossop/
 layout: suburb
+longitude: 140.51443
+postcode: '5344'
+state: SA
+title: GLOSSOP
+url: /sa/glossop/
 ---

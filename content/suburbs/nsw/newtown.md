@@ -1,9 +1,10 @@
 ---
-title: NEWTOWN
-state: NSW
-postcode: 2042
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.900649
-longitude: 151.175354
-url: /nsw/newtown/
 layout: suburb
+longitude: 151.175354
+postcode: '2042'
+state: NSW
+title: NEWTOWN
+url: /nsw/newtown/
 ---

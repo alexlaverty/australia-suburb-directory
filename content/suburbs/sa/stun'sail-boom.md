@@ -1,9 +1,10 @@
 ---
-title: STUN'SAIL BOOM
-state: SA
-postcode: 5223
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.811358
-longitude: 137.541715
-url: /sa/stun'sail-boom/
 layout: suburb
+longitude: 137.541715
+postcode: '5223'
+state: SA
+title: STUN'SAIL BOOM
+url: /sa/stun'sail-boom/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GLENGOWER
-state: VIC
-postcode: 3370
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.252718
-longitude: 143.815613
-url: /vic/glengower/
 layout: suburb
+longitude: 143.815613
+postcode: '3370'
+state: VIC
+title: GLENGOWER
+url: /vic/glengower/
 ---

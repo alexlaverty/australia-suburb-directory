@@ -1,9 +1,10 @@
 ---
-title: VERMONT SOUTH
-state: VIC
-postcode: 3133
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.848786
-longitude: 145.192303
-url: /vic/vermont-south/
 layout: suburb
+longitude: 145.192303
+postcode: '3133'
+state: VIC
+title: VERMONT SOUTH
+url: /vic/vermont-south/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BECTRIC
-state: NSW
-postcode: 2665
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.313241
-longitude: 146.841533
-url: /nsw/bectric/
 layout: suburb
+longitude: 146.841533
+postcode: '2665'
+state: NSW
+title: BECTRIC
+url: /nsw/bectric/
 ---

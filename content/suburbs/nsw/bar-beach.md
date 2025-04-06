@@ -1,9 +1,10 @@
 ---
-title: BAR BEACH
-state: NSW
-postcode: 2300
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.931635
-longitude: 151.778021
-url: /nsw/bar-beach/
 layout: suburb
+longitude: 151.778021
+postcode: '2300'
+state: NSW
+title: BAR BEACH
+url: /nsw/bar-beach/
 ---

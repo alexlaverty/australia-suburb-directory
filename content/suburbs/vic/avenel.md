@@ -1,9 +1,10 @@
 ---
-title: AVENEL
-state: VIC
-postcode: 3664
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.927251
-longitude: 145.298203
-url: /vic/avenel/
 layout: suburb
+longitude: 145.298203
+postcode: '3664'
+state: VIC
+title: AVENEL
+url: /vic/avenel/
 ---

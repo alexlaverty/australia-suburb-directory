@@ -1,9 +1,10 @@
 ---
-title: PICNIC BAY
-state: QLD
-postcode: 4819
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.143944
-longitude: 146.831766
-url: /qld/picnic-bay/
 layout: suburb
+longitude: 146.831766
+postcode: '4819'
+state: QLD
+title: PICNIC BAY
+url: /qld/picnic-bay/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CRAWNEY
-state: NSW
-postcode: 2338
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.735174
-longitude: 151.029159
-url: /nsw/crawney/
 layout: suburb
+longitude: 151.029159
+postcode: '2338'
+state: NSW
+title: CRAWNEY
+url: /nsw/crawney/
 ---

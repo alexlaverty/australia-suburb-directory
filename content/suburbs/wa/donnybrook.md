@@ -1,9 +1,10 @@
 ---
-title: DONNYBROOK
-state: WA
-postcode: 6239
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.564872
-longitude: 115.923933
-url: /wa/donnybrook/
 layout: suburb
+longitude: 115.923933
+postcode: '6239'
+state: WA
+title: DONNYBROOK
+url: /wa/donnybrook/
 ---

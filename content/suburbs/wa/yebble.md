@@ -1,9 +1,10 @@
 ---
-title: YEBBLE
-state: WA
-postcode: 6285
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.9261
-longitude: 114.9968
-url: /wa/yebble/
 layout: suburb
+longitude: 114.9968
+postcode: '6285'
+state: WA
+title: YEBBLE
+url: /wa/yebble/
 ---

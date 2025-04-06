@@ -1,9 +1,10 @@
 ---
-title: NORTH TAMMIN
-state: WA
-postcode: 6409
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.51550125
-longitude: 117.4978218
-url: /wa/north-tammin/
 layout: suburb
+longitude: 117.4978218
+postcode: '6409'
+state: WA
+title: NORTH TAMMIN
+url: /wa/north-tammin/
 ---

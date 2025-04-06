@@ -1,9 +1,10 @@
 ---
-title: GLENGARRY NORTH
-state: VIC
-postcode: 3854
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.12413
-longitude: 146.596877
-url: /vic/glengarry-north/
 layout: suburb
+longitude: 146.596877
+postcode: '3854'
+state: VIC
+title: GLENGARRY NORTH
+url: /vic/glengarry-north/
 ---

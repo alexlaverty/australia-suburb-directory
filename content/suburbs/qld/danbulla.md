@@ -1,9 +1,10 @@
 ---
-title: DANBULLA
-state: QLD
-postcode: 4872
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -18.028128
-longitude: 145.157257
-url: /qld/danbulla/
 layout: suburb
+longitude: 145.157257
+postcode: '4872'
+state: QLD
+title: DANBULLA
+url: /qld/danbulla/
 ---

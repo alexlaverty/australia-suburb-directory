@@ -1,9 +1,10 @@
 ---
-title: GLENBROOK
-state: NSW
-postcode: 2773
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.768837
-longitude: 150.626788
-url: /nsw/glenbrook/
 layout: suburb
+longitude: 150.626788
+postcode: '2773'
+state: NSW
+title: GLENBROOK
+url: /nsw/glenbrook/
 ---

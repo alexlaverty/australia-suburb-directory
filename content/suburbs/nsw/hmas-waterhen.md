@@ -1,9 +1,10 @@
 ---
-title: HMAS WATERHEN
-state: NSW
-postcode: 2060
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.839863
-longitude: 151.204557
-url: /nsw/hmas-waterhen/
 layout: suburb
+longitude: 151.204557
+postcode: '2060'
+state: NSW
+title: HMAS WATERHEN
+url: /nsw/hmas-waterhen/
 ---

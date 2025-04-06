@@ -1,9 +1,10 @@
 ---
-title: AIREYS INLET
-state: VIC
-postcode: 3231
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.459435
-longitude: 144.106892
-url: /vic/aireys-inlet/
 layout: suburb
+longitude: 144.106892
+postcode: '3231'
+state: VIC
+title: AIREYS INLET
+url: /vic/aireys-inlet/
 ---

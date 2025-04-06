@@ -1,9 +1,10 @@
 ---
-title: HUDDLESTON
-state: SA
-postcode: 5523
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.401829
-longitude: 138.165325
-url: /sa/huddleston/
 layout: suburb
+longitude: 138.165325
+postcode: '5523'
+state: SA
+title: HUDDLESTON
+url: /sa/huddleston/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WUNGHNU
-state: VIC
-postcode: 3635
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.142596
-longitude: 145.30827
-url: /vic/wunghnu/
 layout: suburb
+longitude: 145.30827
+postcode: '3635'
+state: VIC
+title: WUNGHNU
+url: /vic/wunghnu/
 ---

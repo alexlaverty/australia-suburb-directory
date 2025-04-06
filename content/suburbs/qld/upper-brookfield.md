@@ -1,9 +1,10 @@
 ---
-title: UPPER BROOKFIELD
-state: QLD
-postcode: 4069
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.502784
-longitude: 152.898911
-url: /qld/upper-brookfield/
 layout: suburb
+longitude: 152.898911
+postcode: '4069'
+state: QLD
+title: UPPER BROOKFIELD
+url: /qld/upper-brookfield/
 ---

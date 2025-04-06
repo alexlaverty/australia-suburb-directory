@@ -1,9 +1,10 @@
 ---
-title: WINDERA
-state: NSW
-postcode: 2800
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.20831682
-longitude: 149.0191144
-url: /nsw/windera/
 layout: suburb
+longitude: 149.0191144
+postcode: '2800'
+state: NSW
+title: WINDERA
+url: /nsw/windera/
 ---

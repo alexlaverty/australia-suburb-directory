@@ -1,9 +1,10 @@
 ---
-title: MOUNT MURRAY
-state: NSW
-postcode: 2577
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.5497728
-longitude: 150.6350962
-url: /nsw/mount-murray/
 layout: suburb
+longitude: 150.6350962
+postcode: '2577'
+state: NSW
+title: MOUNT MURRAY
+url: /nsw/mount-murray/
 ---

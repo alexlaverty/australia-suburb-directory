@@ -1,9 +1,10 @@
 ---
-title: YAMBA
-state: SA
-postcode: 5341
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.739084
-longitude: 140.753178
-url: /sa/yamba/
 layout: suburb
+longitude: 140.753178
+postcode: '5341'
+state: SA
+title: YAMBA
+url: /sa/yamba/
 ---

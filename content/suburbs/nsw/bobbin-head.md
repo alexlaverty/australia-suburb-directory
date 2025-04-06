@@ -1,9 +1,10 @@
 ---
-title: BOBBIN HEAD
-state: NSW
-postcode: 2074
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.735222
-longitude: 151.123716
-url: /nsw/bobbin-head/
 layout: suburb
+longitude: 151.123716
+postcode: '2074'
+state: NSW
+title: BOBBIN HEAD
+url: /nsw/bobbin-head/
 ---

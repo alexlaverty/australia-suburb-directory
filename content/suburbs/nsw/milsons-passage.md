@@ -1,9 +1,10 @@
 ---
-title: MILSONS PASSAGE
-state: NSW
-postcode: 2083
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.525322
-longitude: 151.194452
-url: /nsw/milsons-passage/
 layout: suburb
+longitude: 151.194452
+postcode: '2083'
+state: NSW
+title: MILSONS PASSAGE
+url: /nsw/milsons-passage/
 ---

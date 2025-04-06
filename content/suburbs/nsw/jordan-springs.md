@@ -1,9 +1,10 @@
 ---
-title: JORDAN SPRINGS
-state: NSW
-postcode: 2747
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.721863
-longitude: 150.727449
-url: /nsw/jordan-springs/
 layout: suburb
+longitude: 150.727449
+postcode: '2747'
+state: NSW
+title: JORDAN SPRINGS
+url: /nsw/jordan-springs/
 ---

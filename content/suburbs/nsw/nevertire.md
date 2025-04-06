@@ -1,9 +1,10 @@
 ---
-title: NEVERTIRE
-state: NSW
-postcode: 2831
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.927892
-longitude: 146.615174
-url: /nsw/nevertire/
 layout: suburb
+longitude: 146.615174
+postcode: '2831'
+state: NSW
+title: NEVERTIRE
+url: /nsw/nevertire/
 ---

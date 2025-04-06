@@ -1,9 +1,10 @@
 ---
-title: WUULUMAN
-state: NSW
-postcode: 2820
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.553282
-longitude: 148.989227
-url: /nsw/wuuluman/
 layout: suburb
+longitude: 148.989227
+postcode: '2820'
+state: NSW
+title: WUULUMAN
+url: /nsw/wuuluman/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WAY WAY
-state: NSW
-postcode: 2447
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.77067
-longitude: 152.751629
-url: /nsw/way-way/
 layout: suburb
+longitude: 152.751629
+postcode: '2447'
+state: NSW
+title: WAY WAY
+url: /nsw/way-way/
 ---

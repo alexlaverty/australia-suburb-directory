@@ -1,9 +1,10 @@
 ---
-title: JEWELLS
-state: NSW
-postcode: 2280
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.019715
-longitude: 151.663175
-url: /nsw/jewells/
 layout: suburb
+longitude: 151.663175
+postcode: '2280'
+state: NSW
+title: JEWELLS
+url: /nsw/jewells/
 ---

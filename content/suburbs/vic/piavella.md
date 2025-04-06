@@ -1,9 +1,10 @@
 ---
-title: PIAVELLA
-state: VIC
-postcode: 3572
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.266642
-longitude: 144.257135
-url: /vic/piavella/
 layout: suburb
+longitude: 144.257135
+postcode: '3572'
+state: VIC
+title: PIAVELLA
+url: /vic/piavella/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ARBUCKLE
-state: VIC
-postcode: 3858
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.3690401
-longitude: 146.8291658
-url: /vic/arbuckle/
 layout: suburb
+longitude: 146.8291658
+postcode: '3858'
+state: VIC
+title: ARBUCKLE
+url: /vic/arbuckle/
 ---

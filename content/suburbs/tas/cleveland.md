@@ -1,9 +1,10 @@
 ---
-title: CLEVELAND
-state: TAS
-postcode: 7211
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.788619
-longitude: 147.317089
-url: /tas/cleveland/
 layout: suburb
+longitude: 147.317089
+postcode: '7211'
+state: TAS
+title: CLEVELAND
+url: /tas/cleveland/
 ---

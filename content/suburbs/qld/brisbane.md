@@ -1,9 +1,10 @@
 ---
-title: BRISBANE
-state: QLD
-postcode: 9015
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -27.603479
-longitude: 152.823141
-url: /qld/brisbane/
 layout: suburb
+longitude: 152.823141
+postcode: '9015'
+state: QLD
+title: BRISBANE
+url: /qld/brisbane/
 ---

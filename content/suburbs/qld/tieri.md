@@ -1,9 +1,10 @@
 ---
-title: TIERI
-state: QLD
-postcode: 4709
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.059653
-longitude: 148.429161
-url: /qld/tieri/
 layout: suburb
+longitude: 148.429161
+postcode: '4709'
+state: QLD
+title: TIERI
+url: /qld/tieri/
 ---

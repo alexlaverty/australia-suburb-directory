@@ -1,9 +1,10 @@
 ---
-title: ELIZABETH BEACH
-state: NSW
-postcode: 2428
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.196739
-longitude: 152.454216
-url: /nsw/elizabeth-beach/
 layout: suburb
+longitude: 152.454216
+postcode: '2428'
+state: NSW
+title: ELIZABETH BEACH
+url: /nsw/elizabeth-beach/
 ---

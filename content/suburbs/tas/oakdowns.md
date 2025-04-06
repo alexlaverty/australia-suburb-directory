@@ -1,9 +1,10 @@
 ---
-title: OAKDOWNS
-state: TAS
-postcode: 7019
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.898778
-longitude: 147.433337
-url: /tas/oakdowns/
 layout: suburb
+longitude: 147.433337
+postcode: '7019'
+state: TAS
+title: OAKDOWNS
+url: /tas/oakdowns/
 ---

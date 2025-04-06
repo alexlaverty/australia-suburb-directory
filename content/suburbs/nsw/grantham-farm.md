@@ -1,9 +1,10 @@
 ---
-title: GRANTHAM FARM
-state: NSW
-postcode: 2765
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.672237
-longitude: 150.79576
-url: /nsw/grantham-farm/
 layout: suburb
+longitude: 150.79576
+postcode: '2765'
+state: NSW
+title: GRANTHAM FARM
+url: /nsw/grantham-farm/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WAUGORAH
-state: NSW
-postcode: 2711
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.50934045
-longitude: 143.8100099
-url: /nsw/waugorah/
 layout: suburb
+longitude: 143.8100099
+postcode: '2711'
+state: NSW
+title: WAUGORAH
+url: /nsw/waugorah/
 ---

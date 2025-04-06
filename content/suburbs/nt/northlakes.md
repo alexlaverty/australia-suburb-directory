@@ -1,9 +1,10 @@
 ---
-title: NORTHLAKES
-state: NT
-postcode: 0812
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.404778
-longitude: 130.916098
-url: /nt/northlakes/
 layout: suburb
+longitude: 130.916098
+postcode: 0812
+state: NT
+title: NORTHLAKES
+url: /nt/northlakes/
 ---

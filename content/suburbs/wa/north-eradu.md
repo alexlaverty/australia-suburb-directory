@@ -1,9 +1,10 @@
 ---
-title: NORTH ERADU
-state: WA
-postcode: 6532
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.440886
-longitude: 115.004595
-url: /wa/north-eradu/
 layout: suburb
+longitude: 115.004595
+postcode: '6532'
+state: WA
+title: NORTH ERADU
+url: /wa/north-eradu/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BOOLAROO
-state: NSW
-postcode: 2284
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.953236
-longitude: 151.621183
-url: /nsw/boolaroo/
 layout: suburb
+longitude: 151.621183
+postcode: '2284'
+state: NSW
+title: BOOLAROO
+url: /nsw/boolaroo/
 ---

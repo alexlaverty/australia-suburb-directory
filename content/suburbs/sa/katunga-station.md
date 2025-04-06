@@ -1,9 +1,10 @@
 ---
-title: KATUNGA STATION
-state: SA
-postcode: 5611
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.7829063
-longitude: 137.1002334
-url: /sa/katunga-station/
 layout: suburb
+longitude: 137.1002334
+postcode: '5611'
+state: SA
+title: KATUNGA STATION
+url: /sa/katunga-station/
 ---

@@ -1,9 +1,10 @@
 ---
-title: RANDWICK
-state: NSW
-postcode: 2031
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.914832
-longitude: 151.239167
-url: /nsw/randwick/
 layout: suburb
+longitude: 151.239167
+postcode: '2031'
+state: NSW
+title: RANDWICK
+url: /nsw/randwick/
 ---

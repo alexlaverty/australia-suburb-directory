@@ -1,9 +1,10 @@
 ---
-title: DORSET VALE
-state: SA
-postcode: 5157
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.143492
-longitude: 138.633118
-url: /sa/dorset-vale/
 layout: suburb
+longitude: 138.633118
+postcode: '5157'
+state: SA
+title: DORSET VALE
+url: /sa/dorset-vale/
 ---

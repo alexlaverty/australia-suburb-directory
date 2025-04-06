@@ -1,9 +1,10 @@
 ---
-title: YATTE YATTAH
-state: NSW
-postcode: 2539
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.522387
-longitude: 150.393202
-url: /nsw/yatte-yattah/
 layout: suburb
+longitude: 150.393202
+postcode: '2539'
+state: NSW
+title: YATTE YATTAH
+url: /nsw/yatte-yattah/
 ---

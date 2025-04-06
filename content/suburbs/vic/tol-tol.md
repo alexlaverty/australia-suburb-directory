@@ -1,9 +1,10 @@
 ---
-title: TOL TOL
-state: VIC
-postcode: 3549
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.766049
-longitude: 142.820973
-url: /vic/tol-tol/
 layout: suburb
+longitude: 142.820973
+postcode: '3549'
+state: VIC
+title: TOL TOL
+url: /vic/tol-tol/
 ---

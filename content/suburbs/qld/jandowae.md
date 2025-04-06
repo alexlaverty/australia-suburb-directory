@@ -1,9 +1,10 @@
 ---
-title: JANDOWAE
-state: QLD
-postcode: 4410
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.731753
-longitude: 151.083543
-url: /qld/jandowae/
 layout: suburb
+longitude: 151.083543
+postcode: '4410'
+state: QLD
+title: JANDOWAE
+url: /qld/jandowae/
 ---

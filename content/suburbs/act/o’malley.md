@@ -1,9 +1,10 @@
 ---
-title: O’MALLEY
-state: ACT
-postcode: 2606
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.353521
-longitude: 149.079546
-url: /act/o’malley/
 layout: suburb
+longitude: 149.079546
+postcode: '2606'
+state: ACT
+title: O’MALLEY
+url: /act/o’malley/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ALLAWAH
-state: NSW
-postcode: 2218
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.973161
-longitude: 151.117453
-url: /nsw/allawah/
 layout: suburb
+longitude: 151.117453
+postcode: '2218'
+state: NSW
+title: ALLAWAH
+url: /nsw/allawah/
 ---

@@ -1,9 +1,10 @@
 ---
-title: AUGUSTINE HEIGHTS
-state: QLD
-postcode: 4300
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.682273
-longitude: 152.884999
-url: /qld/augustine-heights/
 layout: suburb
+longitude: 152.884999
+postcode: '4300'
+state: QLD
+title: AUGUSTINE HEIGHTS
+url: /qld/augustine-heights/
 ---

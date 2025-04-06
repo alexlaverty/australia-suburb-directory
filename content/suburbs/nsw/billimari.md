@@ -1,9 +1,10 @@
 ---
-title: BILLIMARI
-state: NSW
-postcode: 2804
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.539564
-longitude: 148.633991
-url: /nsw/billimari/
 layout: suburb
+longitude: 148.633991
+postcode: '2804'
+state: NSW
+title: BILLIMARI
+url: /nsw/billimari/
 ---

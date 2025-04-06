@@ -1,9 +1,10 @@
 ---
-title: FIMISTON
-state: WA
-postcode: 6432
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.871011
-longitude: 121.541783
-url: /wa/fimiston/
 layout: suburb
+longitude: 121.541783
+postcode: '6432'
+state: WA
+title: FIMISTON
+url: /wa/fimiston/
 ---

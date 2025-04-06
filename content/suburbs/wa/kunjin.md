@@ -1,9 +1,10 @@
 ---
-title: KUNJIN
-state: WA
-postcode: 6375
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.286284
-longitude: 117.879836
-url: /wa/kunjin/
 layout: suburb
+longitude: 117.879836
+postcode: '6375'
+state: WA
+title: KUNJIN
+url: /wa/kunjin/
 ---

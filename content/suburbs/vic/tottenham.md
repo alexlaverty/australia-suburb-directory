@@ -1,9 +1,10 @@
 ---
-title: TOTTENHAM
-state: VIC
-postcode: 3012
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.807135
-longitude: 144.861162
-url: /vic/tottenham/
 layout: suburb
+longitude: 144.861162
+postcode: '3012'
+state: VIC
+title: TOTTENHAM
+url: /vic/tottenham/
 ---

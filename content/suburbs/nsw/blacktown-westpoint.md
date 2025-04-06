@@ -1,9 +1,10 @@
 ---
-title: BLACKTOWN WESTPOINT
-state: NSW
-postcode: 2148
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.783751
-longitude: 150.900547
-url: /nsw/blacktown-westpoint/
 layout: suburb
+longitude: 150.900547
+postcode: '2148'
+state: NSW
+title: BLACKTOWN WESTPOINT
+url: /nsw/blacktown-westpoint/
 ---

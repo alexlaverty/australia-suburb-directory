@@ -1,9 +1,10 @@
 ---
-title: ARMIDALE EAST
-state: NSW
-postcode: 2350
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.5016
-longitude: 151.666
-url: /nsw/armidale-east/
 layout: suburb
+longitude: 151.666
+postcode: '2350'
+state: NSW
+title: ARMIDALE EAST
+url: /nsw/armidale-east/
 ---

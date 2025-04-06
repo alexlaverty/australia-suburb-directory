@@ -1,9 +1,10 @@
 ---
-title: HAMPTON PARK
-state: VIC
-postcode: 3976
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.043995
-longitude: 145.264296
-url: /vic/hampton-park/
 layout: suburb
+longitude: 145.264296
+postcode: '3976'
+state: VIC
+title: HAMPTON PARK
+url: /vic/hampton-park/
 ---

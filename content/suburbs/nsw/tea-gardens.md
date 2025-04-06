@@ -1,9 +1,10 @@
 ---
-title: TEA GARDENS
-state: NSW
-postcode: 2324
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.623108
-longitude: 152.332617
-url: /nsw/tea-gardens/
 layout: suburb
+longitude: 152.332617
+postcode: '2324'
+state: NSW
+title: TEA GARDENS
+url: /nsw/tea-gardens/
 ---

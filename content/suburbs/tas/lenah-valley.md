@@ -1,9 +1,10 @@
 ---
-title: LENAH VALLEY
-state: TAS
-postcode: 7008
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.861932
-longitude: 147.293268
-url: /tas/lenah-valley/
 layout: suburb
+longitude: 147.293268
+postcode: '7008'
+state: TAS
+title: LENAH VALLEY
+url: /tas/lenah-valley/
 ---

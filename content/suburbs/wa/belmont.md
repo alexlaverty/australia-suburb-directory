@@ -1,9 +1,10 @@
 ---
-title: BELMONT
-state: WA
-postcode: 6984
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -31.965766
-longitude: 115.933458
-url: /wa/belmont/
 layout: suburb
+longitude: 115.933458
+postcode: '6984'
+state: WA
+title: BELMONT
+url: /wa/belmont/
 ---

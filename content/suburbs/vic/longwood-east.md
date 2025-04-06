@@ -1,9 +1,10 @@
 ---
-title: LONGWOOD EAST
-state: VIC
-postcode: 3666
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.8382328
-longitude: 145.4559546
-url: /vic/longwood-east/
 layout: suburb
+longitude: 145.4559546
+postcode: '3666'
+state: VIC
+title: LONGWOOD EAST
+url: /vic/longwood-east/
 ---

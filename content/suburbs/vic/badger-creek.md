@@ -1,9 +1,10 @@
 ---
-title: BADGER CREEK
-state: VIC
-postcode: 3777
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.606088
-longitude: 145.513804
-url: /vic/badger-creek/
 layout: suburb
+longitude: 145.513804
+postcode: '3777'
+state: VIC
+title: BADGER CREEK
+url: /vic/badger-creek/
 ---

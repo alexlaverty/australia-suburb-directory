@@ -1,9 +1,10 @@
 ---
-title: BELLMERE
-state: QLD
-postcode: 4510
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.070177
-longitude: 152.960273
-url: /qld/bellmere/
 layout: suburb
+longitude: 152.960273
+postcode: '4510'
+state: QLD
+title: BELLMERE
+url: /qld/bellmere/
 ---

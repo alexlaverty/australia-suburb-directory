@@ -1,9 +1,10 @@
 ---
-title: UPSALLS CREEK
-state: NSW
-postcode: 2439
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.654722
-longitude: 152.652155
-url: /nsw/upsalls-creek/
 layout: suburb
+longitude: 152.652155
+postcode: '2439'
+state: NSW
+title: UPSALLS CREEK
+url: /nsw/upsalls-creek/
 ---

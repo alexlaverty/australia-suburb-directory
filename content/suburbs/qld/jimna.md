@@ -1,9 +1,10 @@
 ---
-title: JIMNA
-state: QLD
-postcode: 4515
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.87578
-longitude: 152.503797
-url: /qld/jimna/
 layout: suburb
+longitude: 152.503797
+postcode: '4515'
+state: QLD
+title: JIMNA
+url: /qld/jimna/
 ---

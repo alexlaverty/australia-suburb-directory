@@ -1,9 +1,10 @@
 ---
-title: FLOWERPOT
-state: TAS
-postcode: 7163
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.209774
-longitude: 147.227479
-url: /tas/flowerpot/
 layout: suburb
+longitude: 147.227479
+postcode: '7163'
+state: TAS
+title: FLOWERPOT
+url: /tas/flowerpot/
 ---

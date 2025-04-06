@@ -1,9 +1,10 @@
 ---
-title: MOAMA
-state: NSW
-postcode: 2731
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.893394
-longitude: 144.641831
-url: /nsw/moama/
 layout: suburb
+longitude: 144.641831
+postcode: '2731'
+state: NSW
+title: MOAMA
+url: /nsw/moama/
 ---

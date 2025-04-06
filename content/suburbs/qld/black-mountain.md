@@ -1,9 +1,10 @@
 ---
-title: BLACK MOUNTAIN
-state: QLD
-postcode: 4563
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.425754
-longitude: 152.909206
-url: /qld/black-mountain/
 layout: suburb
+longitude: 152.909206
+postcode: '4563'
+state: QLD
+title: BLACK MOUNTAIN
+url: /qld/black-mountain/
 ---

@@ -1,9 +1,10 @@
 ---
-title: OAKDEN HILLS
-state: SA
-postcode: 5713
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.58214231
-longitude: 136.9229605
-url: /sa/oakden-hills/
 layout: suburb
+longitude: 136.9229605
+postcode: '5713'
+state: SA
+title: OAKDEN HILLS
+url: /sa/oakden-hills/
 ---

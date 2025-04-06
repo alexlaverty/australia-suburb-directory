@@ -1,9 +1,10 @@
 ---
-title: KOSCIUSZKO
-state: NSW
-postcode: 2627
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.49033032
-longitude: 148.2032728
-url: /nsw/kosciuszko/
 layout: suburb
+longitude: 148.2032728
+postcode: '2627'
+state: NSW
+title: KOSCIUSZKO
+url: /nsw/kosciuszko/
 ---

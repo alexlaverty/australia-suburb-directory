@@ -1,9 +1,10 @@
 ---
-title: BUDGONG
-state: NSW
-postcode: 2577
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.81032086
-longitude: 150.4631128
-url: /nsw/budgong/
 layout: suburb
+longitude: 150.4631128
+postcode: '2577'
+state: NSW
+title: BUDGONG
+url: /nsw/budgong/
 ---

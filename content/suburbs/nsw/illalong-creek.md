@@ -1,9 +1,10 @@
 ---
-title: ILLALONG CREEK
-state: NSW
-postcode: 2584
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.711018
-longitude: 148.555243
-url: /nsw/illalong-creek/
 layout: suburb
+longitude: 148.555243
+postcode: '2584'
+state: NSW
+title: ILLALONG CREEK
+url: /nsw/illalong-creek/
 ---

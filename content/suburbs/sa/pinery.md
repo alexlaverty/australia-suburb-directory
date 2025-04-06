@@ -1,9 +1,10 @@
 ---
-title: PINERY
-state: SA
-postcode: 5460
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.312427
-longitude: 138.517968
-url: /sa/pinery/
 layout: suburb
+longitude: 138.517968
+postcode: '5460'
+state: SA
+title: PINERY
+url: /sa/pinery/
 ---

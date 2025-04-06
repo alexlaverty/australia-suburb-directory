@@ -1,9 +1,10 @@
 ---
-title: ROCKHAMPTON CITY
-state: QLD
-postcode: 4700
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.180174
-longitude: 150.958111
-url: /qld/rockhampton-city/
 layout: suburb
+longitude: 150.958111
+postcode: '4700'
+state: QLD
+title: ROCKHAMPTON CITY
+url: /qld/rockhampton-city/
 ---

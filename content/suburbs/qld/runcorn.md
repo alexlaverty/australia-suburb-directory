@@ -1,9 +1,10 @@
 ---
-title: RUNCORN
-state: QLD
-postcode: 4113
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.590722
-longitude: 153.077926
-url: /qld/runcorn/
 layout: suburb
+longitude: 153.077926
+postcode: '4113'
+state: QLD
+title: RUNCORN
+url: /qld/runcorn/
 ---

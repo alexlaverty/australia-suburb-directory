@@ -1,9 +1,10 @@
 ---
-title: MOONTA BAY
-state: SA
-postcode: 5558
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.105205
-longitude: 137.598449
-url: /sa/moonta-bay/
 layout: suburb
+longitude: 137.598449
+postcode: '5558'
+state: SA
+title: MOONTA BAY
+url: /sa/moonta-bay/
 ---

@@ -1,9 +1,10 @@
 ---
-title: COALFALLS
-state: QLD
-postcode: 4305
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.627522
-longitude: 152.753696
-url: /qld/coalfalls/
 layout: suburb
+longitude: 152.753696
+postcode: '4305'
+state: QLD
+title: COALFALLS
+url: /qld/coalfalls/
 ---

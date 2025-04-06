@@ -1,9 +1,10 @@
 ---
-title: KOOLEWONG
-state: NSW
-postcode: 2256
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.482123
-longitude: 151.331154
-url: /nsw/koolewong/
 layout: suburb
+longitude: 151.331154
+postcode: '2256'
+state: NSW
+title: KOOLEWONG
+url: /nsw/koolewong/
 ---

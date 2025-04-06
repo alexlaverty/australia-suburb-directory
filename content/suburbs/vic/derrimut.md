@@ -1,9 +1,10 @@
 ---
-title: DERRIMUT
-state: VIC
-postcode: 3026
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.91624
-longitude: 144.64209
-url: /vic/derrimut/
 layout: suburb
+longitude: 144.64209
+postcode: '3026'
+state: VIC
+title: DERRIMUT
+url: /vic/derrimut/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GONN CROSSING
-state: VIC
-postcode: 3579
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.767974
-longitude: 143.769445
-url: /vic/gonn-crossing/
 layout: suburb
+longitude: 143.769445
+postcode: '3579'
+state: VIC
+title: GONN CROSSING
+url: /vic/gonn-crossing/
 ---

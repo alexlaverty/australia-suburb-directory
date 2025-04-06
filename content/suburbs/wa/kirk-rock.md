@@ -1,9 +1,10 @@
 ---
-title: KIRK ROCK
-state: WA
-postcode: 6372
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.6418
-longitude: 117.7634
-url: /wa/kirk-rock/
 layout: suburb
+longitude: 117.7634
+postcode: '6372'
+state: WA
+title: KIRK ROCK
+url: /wa/kirk-rock/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ALDERSYDE
-state: WA
-postcode: 6306
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.296524
-longitude: 117.140629
-url: /wa/aldersyde/
 layout: suburb
+longitude: 117.140629
+postcode: '6306'
+state: WA
+title: ALDERSYDE
+url: /wa/aldersyde/
 ---

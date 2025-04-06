@@ -1,9 +1,10 @@
 ---
-title: BLANCHE HARBOR
-state: SA
-postcode: 5700
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.69008918
-longitude: 137.7541107
-url: /sa/blanche-harbor/
 layout: suburb
+longitude: 137.7541107
+postcode: '5700'
+state: SA
+title: BLANCHE HARBOR
+url: /sa/blanche-harbor/
 ---

@@ -1,9 +1,10 @@
 ---
-title: YARWUN
-state: QLD
-postcode: 4694
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.832434
-longitude: 151.121567
-url: /qld/yarwun/
 layout: suburb
+longitude: 151.121567
+postcode: '4694'
+state: QLD
+title: YARWUN
+url: /qld/yarwun/
 ---

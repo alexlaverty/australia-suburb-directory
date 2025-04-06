@@ -1,9 +1,10 @@
 ---
-title: BLUFF BEACH
-state: SA
-postcode: 5575
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.823141
-longitude: 137.544605
-url: /sa/bluff-beach/
 layout: suburb
+longitude: 137.544605
+postcode: '5575'
+state: SA
+title: BLUFF BEACH
+url: /sa/bluff-beach/
 ---

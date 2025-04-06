@@ -1,9 +1,10 @@
 ---
-title: KENLEY
-state: VIC
-postcode: 3597
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.965359
-longitude: 143.189786
-url: /vic/kenley/
 layout: suburb
+longitude: 143.189786
+postcode: '3597'
+state: VIC
+title: KENLEY
+url: /vic/kenley/
 ---

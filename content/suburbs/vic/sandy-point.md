@@ -1,9 +1,10 @@
 ---
-title: SANDY POINT
-state: VIC
-postcode: 3959
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.734636
-longitude: 146.066529
-url: /vic/sandy-point/
 layout: suburb
+longitude: 146.066529
+postcode: '3959'
+state: VIC
+title: SANDY POINT
+url: /vic/sandy-point/
 ---

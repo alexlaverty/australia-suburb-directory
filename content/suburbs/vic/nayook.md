@@ -1,9 +1,10 @@
 ---
-title: NAYOOK
-state: VIC
-postcode: 3832
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.919937
-longitude: 145.945214
-url: /vic/nayook/
 layout: suburb
+longitude: 145.945214
+postcode: '3832'
+state: VIC
+title: NAYOOK
+url: /vic/nayook/
 ---

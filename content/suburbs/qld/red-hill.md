@@ -1,9 +1,10 @@
 ---
-title: RED HILL
-state: QLD
-postcode: 4413
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.6451
-longitude: 150.6479
-url: /qld/red-hill/
 layout: suburb
+longitude: 150.6479
+postcode: '4413'
+state: QLD
+title: RED HILL
+url: /qld/red-hill/
 ---

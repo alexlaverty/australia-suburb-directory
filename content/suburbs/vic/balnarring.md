@@ -1,9 +1,10 @@
 ---
-title: BALNARRING
-state: VIC
-postcode: 3926
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.355231
-longitude: 145.094502
-url: /vic/balnarring/
 layout: suburb
+longitude: 145.094502
+postcode: '3926'
+state: VIC
+title: BALNARRING
+url: /vic/balnarring/
 ---

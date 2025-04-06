@@ -1,9 +1,10 @@
 ---
-title: BOLTON
-state: VIC
-postcode: 3546
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.060163
-longitude: 142.850456
-url: /vic/bolton/
 layout: suburb
+longitude: 142.850456
+postcode: '3546'
+state: VIC
+title: BOLTON
+url: /vic/bolton/
 ---

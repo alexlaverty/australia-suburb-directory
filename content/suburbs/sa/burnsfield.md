@@ -1,9 +1,10 @@
 ---
-title: BURNSFIELD
-state: SA
-postcode: 5520
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.769107
-longitude: 138.12018
-url: /sa/burnsfield/
 layout: suburb
+longitude: 138.12018
+postcode: '5520'
+state: SA
+title: BURNSFIELD
+url: /sa/burnsfield/
 ---

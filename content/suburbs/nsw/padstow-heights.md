@@ -1,9 +1,10 @@
 ---
-title: PADSTOW HEIGHTS
-state: NSW
-postcode: 2211
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.961366
-longitude: 151.03221
-url: /nsw/padstow-heights/
 layout: suburb
+longitude: 151.03221
+postcode: '2211'
+state: NSW
+title: PADSTOW HEIGHTS
+url: /nsw/padstow-heights/
 ---

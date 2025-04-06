@@ -1,9 +1,10 @@
 ---
-title: BAYSWATER
-state: VIC
-postcode: 3153
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.845116
-longitude: 145.270141
-url: /vic/bayswater/
 layout: suburb
+longitude: 145.270141
+postcode: '3153'
+state: VIC
+title: BAYSWATER
+url: /vic/bayswater/
 ---

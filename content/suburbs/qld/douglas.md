@@ -1,9 +1,10 @@
 ---
-title: DOUGLAS
-state: QLD
-postcode: 4814
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.285821
-longitude: 146.754745
-url: /qld/douglas/
 layout: suburb
+longitude: 146.754745
+postcode: '4814'
+state: QLD
+title: DOUGLAS
+url: /qld/douglas/
 ---

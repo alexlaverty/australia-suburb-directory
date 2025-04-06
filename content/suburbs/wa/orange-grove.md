@@ -1,9 +1,10 @@
 ---
-title: ORANGE GROVE
-state: WA
-postcode: 6109
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.039897
-longitude: 116.013165
-url: /wa/orange-grove/
 layout: suburb
+longitude: 116.013165
+postcode: '6109'
+state: WA
+title: ORANGE GROVE
+url: /wa/orange-grove/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NEWNES PLATEAU
-state: NSW
-postcode: 2790
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.32536303
-longitude: 150.2724338
-url: /nsw/newnes-plateau/
 layout: suburb
+longitude: 150.2724338
+postcode: '2790'
+state: NSW
+title: NEWNES PLATEAU
+url: /nsw/newnes-plateau/
 ---

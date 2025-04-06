@@ -1,9 +1,10 @@
 ---
-title: BEELA
-state: WA
-postcode: 6224
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.245138
-longitude: 115.846788
-url: /wa/beela/
 layout: suburb
+longitude: 115.846788
+postcode: '6224'
+state: WA
+title: BEELA
+url: /wa/beela/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MATRAVILLE
-state: NSW
-postcode: 2036
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.969624
-longitude: 151.237844
-url: /nsw/matraville/
 layout: suburb
+longitude: 151.237844
+postcode: '2036'
+state: NSW
+title: MATRAVILLE
+url: /nsw/matraville/
 ---

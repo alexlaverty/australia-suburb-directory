@@ -1,9 +1,10 @@
 ---
-title: MOONBI
-state: NSW
-postcode: 2353
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.973619
-longitude: 151.095609
-url: /nsw/moonbi/
 layout: suburb
+longitude: 151.095609
+postcode: '2353'
+state: NSW
+title: MOONBI
+url: /nsw/moonbi/
 ---

@@ -1,9 +1,10 @@
 ---
-title: THE GAP
-state: SA
-postcode: 5271
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.70252045
-longitude: 140.7063031
-url: /sa/the-gap/
 layout: suburb
+longitude: 140.7063031
+postcode: '5271'
+state: SA
+title: THE GAP
+url: /sa/the-gap/
 ---

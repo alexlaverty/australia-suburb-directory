@@ -1,9 +1,10 @@
 ---
-title: HORSHAM WEST
-state: VIC
-postcode: 3400
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.725245
-longitude: 142.203729
-url: /vic/horsham-west/
 layout: suburb
+longitude: 142.203729
+postcode: '3400'
+state: VIC
+title: HORSHAM WEST
+url: /vic/horsham-west/
 ---

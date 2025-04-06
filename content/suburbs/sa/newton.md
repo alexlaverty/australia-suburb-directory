@@ -1,9 +1,10 @@
 ---
-title: NEWTON
-state: SA
-postcode: 5074
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.884233
-longitude: 138.669275
-url: /sa/newton/
 layout: suburb
+longitude: 138.669275
+postcode: '5074'
+state: SA
+title: NEWTON
+url: /sa/newton/
 ---

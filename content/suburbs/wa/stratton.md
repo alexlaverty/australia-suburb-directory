@@ -1,9 +1,10 @@
 ---
-title: STRATTON
-state: WA
-postcode: 6056
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.838398
-longitude: 116.0261
-url: /wa/stratton/
 layout: suburb
+longitude: 116.0261
+postcode: '6056'
+state: WA
+title: STRATTON
+url: /wa/stratton/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HANLEYS CREEK
-state: NSW
-postcode: 2420
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.41767413
-longitude: 151.6835195
-url: /nsw/hanleys-creek/
 layout: suburb
+longitude: 151.6835195
+postcode: '2420'
+state: NSW
+title: HANLEYS CREEK
+url: /nsw/hanleys-creek/
 ---

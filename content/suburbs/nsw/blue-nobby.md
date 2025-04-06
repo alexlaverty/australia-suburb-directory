@@ -1,9 +1,10 @@
 ---
-title: BLUE NOBBY
-state: NSW
-postcode: 2408
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.02809007
-longitude: 150.5788791
-url: /nsw/blue-nobby/
 layout: suburb
+longitude: 150.5788791
+postcode: '2408'
+state: NSW
+title: BLUE NOBBY
+url: /nsw/blue-nobby/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GONN
-state: NSW
-postcode: 2732
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.47505701
-longitude: 143.9975836
-url: /nsw/gonn/
 layout: suburb
+longitude: 143.9975836
+postcode: '2732'
+state: NSW
+title: GONN
+url: /nsw/gonn/
 ---

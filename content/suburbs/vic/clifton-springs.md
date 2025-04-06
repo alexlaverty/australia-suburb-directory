@@ -1,9 +1,10 @@
 ---
-title: CLIFTON SPRINGS
-state: VIC
-postcode: 3222
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.209921
-longitude: 144.572989
-url: /vic/clifton-springs/
 layout: suburb
+longitude: 144.572989
+postcode: '3222'
+state: VIC
+title: CLIFTON SPRINGS
+url: /vic/clifton-springs/
 ---

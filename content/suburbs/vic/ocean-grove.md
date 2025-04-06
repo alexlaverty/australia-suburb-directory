@@ -1,9 +1,10 @@
 ---
-title: OCEAN GROVE
-state: VIC
-postcode: 3226
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.263811
-longitude: 144.523761
-url: /vic/ocean-grove/
 layout: suburb
+longitude: 144.523761
+postcode: '3226'
+state: VIC
+title: OCEAN GROVE
+url: /vic/ocean-grove/
 ---

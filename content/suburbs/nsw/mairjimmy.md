@@ -1,9 +1,10 @@
 ---
-title: MAIRJIMMY
-state: NSW
-postcode: 2716
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.48197899
-longitude: 145.7454551
-url: /nsw/mairjimmy/
 layout: suburb
+longitude: 145.7454551
+postcode: '2716'
+state: NSW
+title: MAIRJIMMY
+url: /nsw/mairjimmy/
 ---

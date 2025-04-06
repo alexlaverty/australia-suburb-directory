@@ -1,9 +1,10 @@
 ---
-title: FISHERMAN BAY
-state: SA
-postcode: 5522
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.578188
-longitude: 138.003325
-url: /sa/fisherman-bay/
 layout: suburb
+longitude: 138.003325
+postcode: '5522'
+state: SA
+title: FISHERMAN BAY
+url: /sa/fisherman-bay/
 ---

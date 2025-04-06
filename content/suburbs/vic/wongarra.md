@@ -1,9 +1,10 @@
 ---
-title: WONGARRA
-state: VIC
-postcode: 3234
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.6747
-longitude: 143.7986
-url: /vic/wongarra/
 layout: suburb
+longitude: 143.7986
+postcode: '3234'
+state: VIC
+title: WONGARRA
+url: /vic/wongarra/
 ---

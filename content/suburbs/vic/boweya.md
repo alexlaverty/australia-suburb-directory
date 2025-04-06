@@ -1,9 +1,10 @@
 ---
-title: BOWEYA
-state: VIC
-postcode: 3675
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.565078
-longitude: 146.266835
-url: /vic/boweya/
 layout: suburb
+longitude: 146.266835
+postcode: '3675'
+state: VIC
+title: BOWEYA
+url: /vic/boweya/
 ---

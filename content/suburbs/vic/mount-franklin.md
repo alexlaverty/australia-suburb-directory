@@ -1,9 +1,10 @@
 ---
-title: MOUNT FRANKLIN
-state: VIC
-postcode: 3461
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.287848
-longitude: 144.170995
-url: /vic/mount-franklin/
 layout: suburb
+longitude: 144.170995
+postcode: '3461'
+state: VIC
+title: MOUNT FRANKLIN
+url: /vic/mount-franklin/
 ---

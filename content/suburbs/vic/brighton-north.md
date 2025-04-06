@@ -1,9 +1,10 @@
 ---
-title: BRIGHTON NORTH
-state: VIC
-postcode: 3186
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.915066
-longitude: 144.996329
-url: /vic/brighton-north/
 layout: suburb
+longitude: 144.996329
+postcode: '3186'
+state: VIC
+title: BRIGHTON NORTH
+url: /vic/brighton-north/
 ---

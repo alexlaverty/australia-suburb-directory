@@ -1,9 +1,10 @@
 ---
-title: MAIN RIDGE
-state: VIC
-postcode: 3928
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.407828
-longitude: 144.975131
-url: /vic/main-ridge/
 layout: suburb
+longitude: 144.975131
+postcode: '3928'
+state: VIC
+title: MAIN RIDGE
+url: /vic/main-ridge/
 ---

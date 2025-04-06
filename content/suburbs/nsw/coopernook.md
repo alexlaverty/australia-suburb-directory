@@ -1,9 +1,10 @@
 ---
-title: COOPERNOOK
-state: NSW
-postcode: 2426
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.817926
-longitude: 152.595335
-url: /nsw/coopernook/
 layout: suburb
+longitude: 152.595335
+postcode: '2426'
+state: NSW
+title: COOPERNOOK
+url: /nsw/coopernook/
 ---

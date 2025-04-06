@@ -1,9 +1,10 @@
 ---
-title: Australian National University
-state: ACT
-postcode: 0200
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -35.2777
-longitude: 149.1189
-url: /act/australian-national-university/
 layout: suburb
+longitude: 149.1189
+postcode: '0200'
+state: ACT
+title: AUSTRALIAN NATIONAL UNIVERSITY
+url: /act/australian-national-university/
 ---

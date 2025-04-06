@@ -1,9 +1,10 @@
 ---
-title: NORTH BOURKE
-state: NSW
-postcode: 2840
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.74530244
-longitude: 146.0753866
-url: /nsw/north-bourke/
 layout: suburb
+longitude: 146.0753866
+postcode: '2840'
+state: NSW
+title: NORTH BOURKE
+url: /nsw/north-bourke/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BAR POINT
-state: NSW
-postcode: 2083
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.525322
-longitude: 151.194452
-url: /nsw/bar-point/
 layout: suburb
+longitude: 151.194452
+postcode: '2083'
+state: NSW
+title: BAR POINT
+url: /nsw/bar-point/
 ---

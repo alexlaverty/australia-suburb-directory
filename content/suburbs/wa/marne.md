@@ -1,9 +1,10 @@
 ---
-title: MARNE
-state: WA
-postcode: 6608
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -30.429334
-longitude: 116.826594
-url: /wa/marne/
 layout: suburb
+longitude: 116.826594
+postcode: '6608'
+state: WA
+title: MARNE
+url: /wa/marne/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BEVERLY HILLS
-state: NSW
-postcode: 2209
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.94913
-longitude: 151.075304
-url: /nsw/beverly-hills/
 layout: suburb
+longitude: 151.075304
+postcode: '2209'
+state: NSW
+title: BEVERLY HILLS
+url: /nsw/beverly-hills/
 ---

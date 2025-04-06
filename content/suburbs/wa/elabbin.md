@@ -1,9 +1,10 @@
 ---
-title: ELABBIN
-state: WA
-postcode: 6490
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.161835
-longitude: 118.107061
-url: /wa/elabbin/
 layout: suburb
+longitude: 118.107061
+postcode: '6490'
+state: WA
+title: ELABBIN
+url: /wa/elabbin/
 ---

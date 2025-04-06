@@ -1,9 +1,10 @@
 ---
-title: PORT KEMBLA
-state: NSW
-postcode: 2505
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.466406
-longitude: 150.943899
-url: /nsw/port-kembla/
 layout: suburb
+longitude: 150.943899
+postcode: '2505'
+state: NSW
+title: PORT KEMBLA
+url: /nsw/port-kembla/
 ---

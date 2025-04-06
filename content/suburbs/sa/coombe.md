@@ -1,9 +1,10 @@
 ---
-title: COOMBE
-state: SA
-postcode: 5267
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.98212175
-longitude: 140.272691
-url: /sa/coombe/
 layout: suburb
+longitude: 140.272691
+postcode: '5267'
+state: SA
+title: COOMBE
+url: /sa/coombe/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NEPABUNNA
-state: SA
-postcode: 5732
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.770199
-longitude: 139.076342
-url: /sa/nepabunna/
 layout: suburb
+longitude: 139.076342
+postcode: '5732'
+state: SA
+title: NEPABUNNA
+url: /sa/nepabunna/
 ---

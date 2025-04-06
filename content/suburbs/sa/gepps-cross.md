@@ -1,9 +1,10 @@
 ---
-title: GEPPS CROSS
-state: SA
-postcode: 5094
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.802736
-longitude: 138.581513
-url: /sa/gepps-cross/
 layout: suburb
+longitude: 138.581513
+postcode: '5094'
+state: SA
+title: GEPPS CROSS
+url: /sa/gepps-cross/
 ---

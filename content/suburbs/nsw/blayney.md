@@ -1,9 +1,10 @@
 ---
-title: BLAYNEY
-state: NSW
-postcode: 2799
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.571335
-longitude: 149.267666
-url: /nsw/blayney/
 layout: suburb
+longitude: 149.267666
+postcode: '2799'
+state: NSW
+title: BLAYNEY
+url: /nsw/blayney/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CHILCOTTS CREEK
-state: NSW
-postcode: 2339
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.735738
-longitude: 150.603274
-url: /nsw/chilcotts-creek/
 layout: suburb
+longitude: 150.603274
+postcode: '2339'
+state: NSW
+title: CHILCOTTS CREEK
+url: /nsw/chilcotts-creek/
 ---

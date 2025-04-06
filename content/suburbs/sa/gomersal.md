@@ -1,9 +1,10 @@
 ---
-title: GOMERSAL
-state: SA
-postcode: 5352
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.549295
-longitude: 138.939049
-url: /sa/gomersal/
 layout: suburb
+longitude: 138.939049
+postcode: '5352'
+state: SA
+title: GOMERSAL
+url: /sa/gomersal/
 ---

@@ -1,9 +1,10 @@
 ---
-title: TRUNKEY CREEK
-state: NSW
-postcode: 2795
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.8005985
-longitude: 149.3375583
-url: /nsw/trunkey-creek/
 layout: suburb
+longitude: 149.3375583
+postcode: '2795'
+state: NSW
+title: TRUNKEY CREEK
+url: /nsw/trunkey-creek/
 ---

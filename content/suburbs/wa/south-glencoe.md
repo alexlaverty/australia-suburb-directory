@@ -1,9 +1,10 @@
 ---
-title: SOUTH GLENCOE
-state: WA
-postcode: 6317
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.647362
-longitude: 117.738912
-url: /wa/south-glencoe/
 layout: suburb
+longitude: 117.738912
+postcode: '6317'
+state: WA
+title: SOUTH GLENCOE
+url: /wa/south-glencoe/
 ---

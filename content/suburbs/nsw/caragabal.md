@@ -1,9 +1,10 @@
 ---
-title: CARAGABAL
-state: NSW
-postcode: 2810
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.902869
-longitude: 148.054607
-url: /nsw/caragabal/
 layout: suburb
+longitude: 148.054607
+postcode: '2810'
+state: NSW
+title: CARAGABAL
+url: /nsw/caragabal/
 ---

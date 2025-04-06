@@ -1,9 +1,10 @@
 ---
-title: BLANCHETOWN
-state: SA
-postcode: 5357
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.343393
-longitude: 139.525937
-url: /sa/blanchetown/
 layout: suburb
+longitude: 139.525937
+postcode: '5357'
+state: SA
+title: BLANCHETOWN
+url: /sa/blanchetown/
 ---

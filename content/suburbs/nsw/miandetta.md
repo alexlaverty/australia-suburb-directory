@@ -1,9 +1,10 @@
 ---
-title: MIANDETTA
-state: NSW
-postcode: 2825
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.934883
-longitude: 147.30573
-url: /nsw/miandetta/
 layout: suburb
+longitude: 147.30573
+postcode: '2825'
+state: NSW
+title: MIANDETTA
+url: /nsw/miandetta/
 ---

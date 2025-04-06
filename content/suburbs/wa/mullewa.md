@@ -1,9 +1,10 @@
 ---
-title: MULLEWA
-state: WA
-postcode: 6630
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -27.569679
-longitude: 115.72384
-url: /wa/mullewa/
 layout: suburb
+longitude: 115.72384
+postcode: '6630'
+state: WA
+title: MULLEWA
+url: /wa/mullewa/
 ---

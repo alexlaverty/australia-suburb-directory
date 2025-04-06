@@ -1,9 +1,10 @@
 ---
-title: PEARCES CREEK
-state: NSW
-postcode: 2477
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.907675
-longitude: 153.427314
-url: /nsw/pearces-creek/
 layout: suburb
+longitude: 153.427314
+postcode: '2477'
+state: NSW
+title: PEARCES CREEK
+url: /nsw/pearces-creek/
 ---

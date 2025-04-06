@@ -1,9 +1,10 @@
 ---
-title: DRAPER
-state: QLD
-postcode: 4520
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.322775
-longitude: 152.814527
-url: /qld/draper/
 layout: suburb
+longitude: 152.814527
+postcode: '4520'
+state: QLD
+title: DRAPER
+url: /qld/draper/
 ---

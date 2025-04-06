@@ -1,9 +1,10 @@
 ---
-title: MICKLEHAM
-state: VIC
-postcode: 3064
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.546522
-longitude: 144.942199
-url: /vic/mickleham/
 layout: suburb
+longitude: 144.942199
+postcode: '3064'
+state: VIC
+title: MICKLEHAM
+url: /vic/mickleham/
 ---

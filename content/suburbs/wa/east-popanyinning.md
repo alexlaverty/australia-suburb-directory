@@ -1,9 +1,10 @@
 ---
-title: EAST POPANYINNING
-state: WA
-postcode: 6309
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.668322
-longitude: 117.129227
-url: /wa/east-popanyinning/
 layout: suburb
+longitude: 117.129227
+postcode: '6309'
+state: WA
+title: EAST POPANYINNING
+url: /wa/east-popanyinning/
 ---

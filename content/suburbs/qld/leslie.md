@@ -1,9 +1,10 @@
 ---
-title: LESLIE
-state: QLD
-postcode: 4370
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.17681515
-longitude: 151.9287826
-url: /qld/leslie/
 layout: suburb
+longitude: 151.9287826
+postcode: '4370'
+state: QLD
+title: LESLIE
+url: /qld/leslie/
 ---

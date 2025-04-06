@@ -1,9 +1,10 @@
 ---
-title: BELLEVUE HILL
-state: NSW
-postcode: 2023
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.884685
-longitude: 151.25591
-url: /nsw/bellevue-hill/
 layout: suburb
+longitude: 151.25591
+postcode: '2023'
+state: NSW
+title: BELLEVUE HILL
+url: /nsw/bellevue-hill/
 ---

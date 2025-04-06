@@ -1,9 +1,10 @@
 ---
-title: ANSONS BAY
-state: TAS
-postcode: 7264
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.08241309
-longitude: 148.1887585
-url: /tas/ansons-bay/
 layout: suburb
+longitude: 148.1887585
+postcode: '7264'
+state: TAS
+title: ANSONS BAY
+url: /tas/ansons-bay/
 ---

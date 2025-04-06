@@ -1,9 +1,10 @@
 ---
-title: GAPSTED
-state: VIC
-postcode: 3737
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.554037
-longitude: 146.82759
-url: /vic/gapsted/
 layout: suburb
+longitude: 146.82759
+postcode: '3737'
+state: VIC
+title: GAPSTED
+url: /vic/gapsted/
 ---

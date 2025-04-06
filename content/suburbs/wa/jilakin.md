@@ -1,9 +1,10 @@
 ---
-title: JILAKIN
-state: WA
-postcode: 6365
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.723142
-longitude: 118.288784
-url: /wa/jilakin/
 layout: suburb
+longitude: 118.288784
+postcode: '6365'
+state: WA
+title: JILAKIN
+url: /wa/jilakin/
 ---

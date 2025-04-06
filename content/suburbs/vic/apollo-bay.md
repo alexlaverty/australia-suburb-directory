@@ -1,9 +1,10 @@
 ---
-title: APOLLO BAY
-state: VIC
-postcode: 3233
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.679417
-longitude: 143.671777
-url: /vic/apollo-bay/
 layout: suburb
+longitude: 143.671777
+postcode: '3233'
+state: VIC
+title: APOLLO BAY
+url: /vic/apollo-bay/
 ---

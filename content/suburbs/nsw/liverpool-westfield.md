@@ -1,9 +1,10 @@
 ---
-title: LIVERPOOL WESTFIELD
-state: NSW
-postcode: 2170
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.928392
-longitude: 150.921448
-url: /nsw/liverpool-westfield/
 layout: suburb
+longitude: 150.921448
+postcode: '2170'
+state: NSW
+title: LIVERPOOL WESTFIELD
+url: /nsw/liverpool-westfield/
 ---

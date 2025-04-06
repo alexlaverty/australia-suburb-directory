@@ -1,9 +1,10 @@
 ---
-title: BOUNDARY BEND
-state: VIC
-postcode: 3599
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.729742
-longitude: 143.143231
-url: /vic/boundary-bend/
 layout: suburb
+longitude: 143.143231
+postcode: '3599'
+state: VIC
+title: BOUNDARY BEND
+url: /vic/boundary-bend/
 ---

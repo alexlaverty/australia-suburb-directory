@@ -1,9 +1,10 @@
 ---
-title: BARRAPORT WEST
-state: VIC
-postcode: 3537
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.079335
-longitude: 143.744455
-url: /vic/barraport-west/
 layout: suburb
+longitude: 143.744455
+postcode: '3537'
+state: VIC
+title: BARRAPORT WEST
+url: /vic/barraport-west/
 ---

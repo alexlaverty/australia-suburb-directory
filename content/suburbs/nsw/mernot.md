@@ -1,9 +1,10 @@
 ---
-title: MERNOT
-state: NSW
-postcode: 2422
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.68852751
-longitude: 151.572082
-url: /nsw/mernot/
 layout: suburb
+longitude: 151.572082
+postcode: '2422'
+state: NSW
+title: MERNOT
+url: /nsw/mernot/
 ---

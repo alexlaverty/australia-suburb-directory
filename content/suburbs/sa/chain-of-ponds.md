@@ -1,9 +1,10 @@
 ---
-title: CHAIN OF PONDS
-state: SA
-postcode: 5231
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.81588636
-longitude: 138.839512
-url: /sa/chain-of-ponds/
 layout: suburb
+longitude: 138.839512
+postcode: '5231'
+state: SA
+title: CHAIN OF PONDS
+url: /sa/chain-of-ponds/
 ---

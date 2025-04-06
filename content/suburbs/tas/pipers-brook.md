@@ -1,9 +1,10 @@
 ---
-title: PIPERS BROOK
-state: TAS
-postcode: 7254
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.13407
-longitude: 147.198018
-url: /tas/pipers-brook/
 layout: suburb
+longitude: 147.198018
+postcode: '7254'
+state: TAS
+title: PIPERS BROOK
+url: /tas/pipers-brook/
 ---

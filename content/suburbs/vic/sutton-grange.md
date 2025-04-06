@@ -1,9 +1,10 @@
 ---
-title: SUTTON GRANGE
-state: VIC
-postcode: 3448
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.075364
-longitude: 144.387629
-url: /vic/sutton-grange/
 layout: suburb
+longitude: 144.387629
+postcode: '3448'
+state: VIC
+title: SUTTON GRANGE
+url: /vic/sutton-grange/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BILLEROO WEST
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.078008
-longitude: 140.997812
-url: /sa/billeroo-west/
 layout: suburb
+longitude: 140.997812
+postcode: '5440'
+state: SA
+title: BILLEROO WEST
+url: /sa/billeroo-west/
 ---

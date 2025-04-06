@@ -1,9 +1,10 @@
 ---
-title: DALYELLUP
-state: WA
-postcode: 6230
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.341076
-longitude: 115.649205
-url: /wa/dalyellup/
 layout: suburb
+longitude: 115.649205
+postcode: '6230'
+state: WA
+title: DALYELLUP
+url: /wa/dalyellup/
 ---

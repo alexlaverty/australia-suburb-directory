@@ -1,9 +1,10 @@
 ---
-title: REGENTVILLE
-state: NSW
-postcode: 2745
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.871341
-longitude: 150.671487
-url: /nsw/regentville/
 layout: suburb
+longitude: 150.671487
+postcode: '2745'
+state: NSW
+title: REGENTVILLE
+url: /nsw/regentville/
 ---

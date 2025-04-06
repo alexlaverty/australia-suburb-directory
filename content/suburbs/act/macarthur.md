@@ -1,9 +1,10 @@
 ---
-title: MACARTHUR
-state: ACT
-postcode: 2904
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.410206
-longitude: 149.111402
-url: /act/macarthur/
 layout: suburb
+longitude: 149.111402
+postcode: '2904'
+state: ACT
+title: MACARTHUR
+url: /act/macarthur/
 ---

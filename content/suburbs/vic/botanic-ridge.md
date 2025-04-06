@@ -1,9 +1,10 @@
 ---
-title: BOTANIC RIDGE
-state: VIC
-postcode: 3977
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.1466398
-longitude: 145.2695101
-url: /vic/botanic-ridge/
 layout: suburb
+longitude: 145.2695101
+postcode: '3977'
+state: VIC
+title: BOTANIC RIDGE
+url: /vic/botanic-ridge/
 ---

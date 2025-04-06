@@ -1,9 +1,10 @@
 ---
-title: SOLDIERS POINT
-state: NSW
-postcode: 2317
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.720937
-longitude: 152.076399
-url: /nsw/soldiers-point/
 layout: suburb
+longitude: 152.076399
+postcode: '2317'
+state: NSW
+title: SOLDIERS POINT
+url: /nsw/soldiers-point/
 ---

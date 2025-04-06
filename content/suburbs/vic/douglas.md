@@ -1,9 +1,10 @@
 ---
-title: DOUGLAS
-state: VIC
-postcode: 3409
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.03897482
-longitude: 141.7107285
-url: /vic/douglas/
 layout: suburb
+longitude: 141.7107285
+postcode: '3409'
+state: VIC
+title: DOUGLAS
+url: /vic/douglas/
 ---

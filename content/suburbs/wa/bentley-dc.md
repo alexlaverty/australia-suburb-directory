@@ -1,9 +1,10 @@
 ---
-title: BENTLEY DC
-state: WA
-postcode: 6983
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.005644
-longitude: 115.904425
-url: /wa/bentley-dc/
 layout: suburb
+longitude: 115.904425
+postcode: '6983'
+state: WA
+title: BENTLEY DC
+url: /wa/bentley-dc/
 ---

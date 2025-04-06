@@ -1,9 +1,10 @@
 ---
-title: FAIRBAIRN RAAF
-state: ACT
-postcode: 2600
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.302911
-longitude: 149.201072
-url: /act/fairbairn-raaf/
 layout: suburb
+longitude: 149.201072
+postcode: '2600'
+state: ACT
+title: FAIRBAIRN RAAF
+url: /act/fairbairn-raaf/
 ---

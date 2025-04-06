@@ -1,9 +1,10 @@
 ---
-title: DAISY HILL
-state: VIC
-postcode: 3465
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.021478
-longitude: 143.611335
-url: /vic/daisy-hill/
 layout: suburb
+longitude: 143.611335
+postcode: '3465'
+state: VIC
+title: DAISY HILL
+url: /vic/daisy-hill/
 ---

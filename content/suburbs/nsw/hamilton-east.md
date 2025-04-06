@@ -1,9 +1,10 @@
 ---
-title: HAMILTON EAST
-state: NSW
-postcode: 2303
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.924571
-longitude: 151.743325
-url: /nsw/hamilton-east/
 layout: suburb
+longitude: 151.743325
+postcode: '2303'
+state: NSW
+title: HAMILTON EAST
+url: /nsw/hamilton-east/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BURPENGARY EAST
-state: QLD
-postcode: 4505
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.14126334
-longitude: 153.0042078
-url: /qld/burpengary-east/
 layout: suburb
+longitude: 153.0042078
+postcode: '4505'
+state: QLD
+title: BURPENGARY EAST
+url: /qld/burpengary-east/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BENOLONG
-state: NSW
-postcode: 2818
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.5009
-longitude: 148.6686
-url: /nsw/benolong/
 layout: suburb
+longitude: 148.6686
+postcode: '2818'
+state: NSW
+title: BENOLONG
+url: /nsw/benolong/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DULCOT
-state: TAS
-postcode: 7025
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.730264
-longitude: 147.439671
-url: /tas/dulcot/
 layout: suburb
+longitude: 147.439671
+postcode: '7025'
+state: TAS
+title: DULCOT
+url: /tas/dulcot/
 ---

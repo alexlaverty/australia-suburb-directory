@@ -1,9 +1,10 @@
 ---
-title: BLOOMSBURY
-state: QLD
-postcode: 4799
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -20.720423
-longitude: 148.622011
-url: /qld/bloomsbury/
 layout: suburb
+longitude: 148.622011
+postcode: '4799'
+state: QLD
+title: BLOOMSBURY
+url: /qld/bloomsbury/
 ---

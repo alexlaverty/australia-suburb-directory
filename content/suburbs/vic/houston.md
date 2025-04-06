@@ -1,9 +1,10 @@
 ---
-title: HOUSTON
-state: VIC
-postcode: 3128
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.828866
-longitude: 145.122393
-url: /vic/houston/
 layout: suburb
+longitude: 145.122393
+postcode: '3128'
+state: VIC
+title: HOUSTON
+url: /vic/houston/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CROWS NEST DC
-state: NSW
-postcode: 2065
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.8261
-longitude: 151.205
-url: /nsw/crows-nest-dc/
 layout: suburb
+longitude: 151.205
+postcode: '2065'
+state: NSW
+title: CROWS NEST DC
+url: /nsw/crows-nest-dc/
 ---

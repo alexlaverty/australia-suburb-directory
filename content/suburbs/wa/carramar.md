@@ -1,9 +1,10 @@
 ---
-title: CARRAMAR
-state: WA
-postcode: 6031
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.692538
-longitude: 115.772138
-url: /wa/carramar/
 layout: suburb
+longitude: 115.772138
+postcode: '6031'
+state: WA
+title: CARRAMAR
+url: /wa/carramar/
 ---

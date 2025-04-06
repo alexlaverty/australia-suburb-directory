@@ -1,9 +1,10 @@
 ---
-title: GLENNIE HEIGHTS
-state: QLD
-postcode: 4370
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.259764
-longitude: 152.055174
-url: /qld/glennie-heights/
 layout: suburb
+longitude: 152.055174
+postcode: '4370'
+state: QLD
+title: GLENNIE HEIGHTS
+url: /qld/glennie-heights/
 ---

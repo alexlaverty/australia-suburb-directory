@@ -1,9 +1,10 @@
 ---
-title: WALYUNGA NATIONAL PARK
-state: WA
-postcode: 6084
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.622021
-longitude: 116.072828
-url: /wa/walyunga-national-park/
 layout: suburb
+longitude: 116.072828
+postcode: '6084'
+state: WA
+title: WALYUNGA NATIONAL PARK
+url: /wa/walyunga-national-park/
 ---

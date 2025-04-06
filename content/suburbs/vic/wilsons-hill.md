@@ -1,9 +1,10 @@
 ---
-title: WILSONS HILL
-state: VIC
-postcode: 3515
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.729444
-longitude: 144.062915
-url: /vic/wilsons-hill/
 layout: suburb
+longitude: 144.062915
+postcode: '3515'
+state: VIC
+title: WILSONS HILL
+url: /vic/wilsons-hill/
 ---

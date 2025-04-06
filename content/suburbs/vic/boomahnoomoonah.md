@@ -1,9 +1,10 @@
 ---
-title: BOOMAHNOOMOONAH
-state: VIC
-postcode: 3728
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.148922
-longitude: 145.959015
-url: /vic/boomahnoomoonah/
 layout: suburb
+longitude: 145.959015
+postcode: '3728'
+state: VIC
+title: BOOMAHNOOMOONAH
+url: /vic/boomahnoomoonah/
 ---

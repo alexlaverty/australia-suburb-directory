@@ -1,9 +1,10 @@
 ---
-title: YELLOW ROCK
-state: NSW
-postcode: 2777
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.692534
-longitude: 150.587962
-url: /nsw/yellow-rock/
 layout: suburb
+longitude: 150.587962
+postcode: '2777'
+state: NSW
+title: YELLOW ROCK
+url: /nsw/yellow-rock/
 ---

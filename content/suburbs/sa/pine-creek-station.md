@@ -1,9 +1,10 @@
 ---
-title: PINE CREEK STATION
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.17685964
-longitude: 140.95232
-url: /sa/pine-creek-station/
 layout: suburb
+longitude: 140.95232
+postcode: '5440'
+state: SA
+title: PINE CREEK STATION
+url: /sa/pine-creek-station/
 ---

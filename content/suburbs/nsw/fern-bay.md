@@ -1,9 +1,10 @@
 ---
-title: FERN BAY
-state: NSW
-postcode: 2295
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.879469
-longitude: 151.80174
-url: /nsw/fern-bay/
 layout: suburb
+longitude: 151.80174
+postcode: '2295'
+state: NSW
+title: FERN BAY
+url: /nsw/fern-bay/
 ---

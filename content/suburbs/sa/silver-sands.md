@@ -1,9 +1,10 @@
 ---
-title: SILVER SANDS
-state: SA
-postcode: 5173
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.290568
-longitude: 138.470002
-url: /sa/silver-sands/
 layout: suburb
+longitude: 138.470002
+postcode: '5173'
+state: SA
+title: SILVER SANDS
+url: /sa/silver-sands/
 ---

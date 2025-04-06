@@ -1,9 +1,10 @@
 ---
-title: COWANDILLA
-state: SA
-postcode: 5033
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.938858
-longitude: 138.558451
-url: /sa/cowandilla/
 layout: suburb
+longitude: 138.558451
+postcode: '5033'
+state: SA
+title: COWANDILLA
+url: /sa/cowandilla/
 ---

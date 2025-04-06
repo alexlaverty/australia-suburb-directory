@@ -1,9 +1,10 @@
 ---
-title: HUNTLEYS COVE
-state: NSW
-postcode: 2111
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.829953
-longitude: 151.124488
-url: /nsw/huntleys-cove/
 layout: suburb
+longitude: 151.124488
+postcode: '2111'
+state: NSW
+title: HUNTLEYS COVE
+url: /nsw/huntleys-cove/
 ---

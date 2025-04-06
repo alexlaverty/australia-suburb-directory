@@ -1,9 +1,10 @@
 ---
-title: TABBIL CREEK
-state: NSW
-postcode: 2420
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.42249509
-longitude: 151.7323463
-url: /nsw/tabbil-creek/
 layout: suburb
+longitude: 151.7323463
+postcode: '2420'
+state: NSW
+title: TABBIL CREEK
+url: /nsw/tabbil-creek/
 ---

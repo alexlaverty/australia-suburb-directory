@@ -1,9 +1,10 @@
 ---
-title: EPPING FOREST
-state: TAS
-postcode: 7211
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.788619
-longitude: 147.317089
-url: /tas/epping-forest/
 layout: suburb
+longitude: 147.317089
+postcode: '7211'
+state: TAS
+title: EPPING FOREST
+url: /tas/epping-forest/
 ---

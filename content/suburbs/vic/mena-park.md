@@ -1,9 +1,10 @@
 ---
-title: MENA PARK
-state: VIC
-postcode: 3373
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.457785
-longitude: 143.343429
-url: /vic/mena-park/
 layout: suburb
+longitude: 143.343429
+postcode: '3373'
+state: VIC
+title: MENA PARK
+url: /vic/mena-park/
 ---

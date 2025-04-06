@@ -1,9 +1,10 @@
 ---
-title: MANIFOLD HEIGHTS
-state: VIC
-postcode: 3218
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.138728
-longitude: 144.330986
-url: /vic/manifold-heights/
 layout: suburb
+longitude: 144.330986
+postcode: '3218'
+state: VIC
+title: MANIFOLD HEIGHTS
+url: /vic/manifold-heights/
 ---

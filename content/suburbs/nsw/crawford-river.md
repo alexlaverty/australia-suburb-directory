@@ -1,9 +1,10 @@
 ---
-title: CRAWFORD RIVER
-state: NSW
-postcode: 2423
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.364861
-longitude: 152.270901
-url: /nsw/crawford-river/
 layout: suburb
+longitude: 152.270901
+postcode: '2423'
+state: NSW
+title: CRAWFORD RIVER
+url: /nsw/crawford-river/
 ---

@@ -1,9 +1,10 @@
 ---
-title: FITZGERALD RIVER NATIONAL PARK
-state: WA
-postcode: 6346
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.319068
-longitude: 120.349013
-url: /wa/fitzgerald-river-national-park/
 layout: suburb
+longitude: 120.349013
+postcode: '6346'
+state: WA
+title: FITZGERALD RIVER NATIONAL PARK
+url: /wa/fitzgerald-river-national-park/
 ---

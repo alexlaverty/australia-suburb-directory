@@ -1,9 +1,10 @@
 ---
-title: MOOKIMA WYBRA
-state: NSW
-postcode: 2469
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.338403
-longitude: 153.002402
-url: /nsw/mookima-wybra/
 layout: suburb
+longitude: 153.002402
+postcode: '2469'
+state: NSW
+title: MOOKIMA WYBRA
+url: /nsw/mookima-wybra/
 ---

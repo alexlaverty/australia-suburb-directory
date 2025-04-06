@@ -1,9 +1,10 @@
 ---
-title: BENDICK MURRELL
-state: NSW
-postcode: 2803
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.176731
-longitude: 148.523704
-url: /nsw/bendick-murrell/
 layout: suburb
+longitude: 148.523704
+postcode: '2803'
+state: NSW
+title: BENDICK MURRELL
+url: /nsw/bendick-murrell/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HATTER HILL
-state: WA
-postcode: 6356
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.88527809
-longitude: 120.1323996
-url: /wa/hatter-hill/
 layout: suburb
+longitude: 120.1323996
+postcode: '6356'
+state: WA
+title: HATTER HILL
+url: /wa/hatter-hill/
 ---

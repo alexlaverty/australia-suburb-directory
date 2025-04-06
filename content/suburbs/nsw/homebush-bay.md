@@ -1,9 +1,10 @@
 ---
-title: HOMEBUSH BAY
-state: NSW
-postcode: 2127
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.85283
-longitude: 151.076186
-url: /nsw/homebush-bay/
 layout: suburb
+longitude: 151.076186
+postcode: '2127'
+state: NSW
+title: HOMEBUSH BAY
+url: /nsw/homebush-bay/
 ---

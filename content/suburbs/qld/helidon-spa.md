@@ -1,9 +1,10 @@
 ---
-title: HELIDON SPA
-state: QLD
-postcode: 4344
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.572999
-longitude: 152.060385
-url: /qld/helidon-spa/
 layout: suburb
+longitude: 152.060385
+postcode: '4344'
+state: QLD
+title: HELIDON SPA
+url: /qld/helidon-spa/
 ---

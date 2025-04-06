@@ -1,9 +1,10 @@
 ---
-title: KAMBALDA
-state: WA
-postcode: 6442
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.318648
-longitude: 121.997641
-url: /wa/kambalda/
 layout: suburb
+longitude: 121.997641
+postcode: '6442'
+state: WA
+title: KAMBALDA
+url: /wa/kambalda/
 ---

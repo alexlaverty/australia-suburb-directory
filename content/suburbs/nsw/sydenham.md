@@ -1,9 +1,10 @@
 ---
-title: SYDENHAM
-state: NSW
-postcode: 2044
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.920698
-longitude: 151.17074
-url: /nsw/sydenham/
 layout: suburb
+longitude: 151.17074
+postcode: '2044'
+state: NSW
+title: SYDENHAM
+url: /nsw/sydenham/
 ---

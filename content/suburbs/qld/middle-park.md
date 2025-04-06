@@ -1,9 +1,10 @@
 ---
-title: MIDDLE PARK
-state: QLD
-postcode: 4074
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.554082
-longitude: 152.921521
-url: /qld/middle-park/
 layout: suburb
+longitude: 152.921521
+postcode: '4074'
+state: QLD
+title: MIDDLE PARK
+url: /qld/middle-park/
 ---

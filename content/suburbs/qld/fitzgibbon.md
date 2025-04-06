@@ -1,9 +1,10 @@
 ---
-title: FITZGIBBON
-state: QLD
-postcode: 4018
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.349074
-longitude: 153.031804
-url: /qld/fitzgibbon/
 layout: suburb
+longitude: 153.031804
+postcode: '4018'
+state: QLD
+title: FITZGIBBON
+url: /qld/fitzgibbon/
 ---

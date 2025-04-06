@@ -1,9 +1,10 @@
 ---
-title: LAKE GAIRDNER
-state: SA
-postcode: 5717
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.64820962
-longitude: 135.9438958
-url: /sa/lake-gairdner/
 layout: suburb
+longitude: 135.9438958
+postcode: '5717'
+state: SA
+title: LAKE GAIRDNER
+url: /sa/lake-gairdner/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WETHERILL PARK BC
-state: NSW
-postcode: 2164
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.847
-longitude: 150.903
-url: /nsw/wetherill-park-bc/
 layout: suburb
+longitude: 150.903
+postcode: '2164'
+state: NSW
+title: WETHERILL PARK BC
+url: /nsw/wetherill-park-bc/
 ---

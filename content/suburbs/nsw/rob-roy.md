@@ -1,9 +1,10 @@
 ---
-title: ROB ROY
-state: NSW
-postcode: 2360
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.630052
-longitude: 151.162025
-url: /nsw/rob-roy/
 layout: suburb
+longitude: 151.162025
+postcode: '2360'
+state: NSW
+title: ROB ROY
+url: /nsw/rob-roy/
 ---

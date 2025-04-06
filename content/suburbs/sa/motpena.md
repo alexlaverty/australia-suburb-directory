@@ -1,9 +1,10 @@
 ---
-title: MOTPENA
-state: SA
-postcode: 5730
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.21692425
-longitude: 138.1991767
-url: /sa/motpena/
 layout: suburb
+longitude: 138.1991767
+postcode: '5730'
+state: SA
+title: MOTPENA
+url: /sa/motpena/
 ---

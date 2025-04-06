@@ -1,9 +1,10 @@
 ---
-title: BLACK RANGE
-state: VIC
-postcode: 3381
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.1348818
-longitude: 142.7641486
-url: /vic/black-range/
 layout: suburb
+longitude: 142.7641486
+postcode: '3381'
+state: VIC
+title: BLACK RANGE
+url: /vic/black-range/
 ---

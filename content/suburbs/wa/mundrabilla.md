@@ -1,9 +1,10 @@
 ---
-title: MUNDRABILLA
-state: WA
-postcode: 6443
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.39502
-longitude: 123.744186
-url: /wa/mundrabilla/
 layout: suburb
+longitude: 123.744186
+postcode: '6443'
+state: WA
+title: MUNDRABILLA
+url: /wa/mundrabilla/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PINES FOREST
-state: VIC
-postcode: 3200
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.126458
-longitude: 145.157574
-url: /vic/pines-forest/
 layout: suburb
+longitude: 145.157574
+postcode: '3200'
+state: VIC
+title: PINES FOREST
+url: /vic/pines-forest/
 ---

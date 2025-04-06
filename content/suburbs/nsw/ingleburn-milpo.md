@@ -1,9 +1,10 @@
 ---
-title: INGLEBURN MILPO
-state: NSW
-postcode: 2174
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.977497
-longitude: 150.856709
-url: /nsw/ingleburn-milpo/
 layout: suburb
+longitude: 150.856709
+postcode: '2174'
+state: NSW
+title: INGLEBURN MILPO
+url: /nsw/ingleburn-milpo/
 ---

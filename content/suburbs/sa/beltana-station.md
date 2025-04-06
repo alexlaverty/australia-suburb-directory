@@ -1,9 +1,10 @@
 ---
-title: BELTANA STATION
-state: SA
-postcode: 5730
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.68566779
-longitude: 138.1570736
-url: /sa/beltana-station/
 layout: suburb
+longitude: 138.1570736
+postcode: '5730'
+state: SA
+title: BELTANA STATION
+url: /sa/beltana-station/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WEST BEACH
-state: SA
-postcode: 5024
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.948827
-longitude: 138.506052
-url: /sa/west-beach/
 layout: suburb
+longitude: 138.506052
+postcode: '5024'
+state: SA
+title: WEST BEACH
+url: /sa/west-beach/
 ---

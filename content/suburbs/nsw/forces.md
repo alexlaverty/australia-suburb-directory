@@ -1,9 +1,10 @@
 ---
-title: FORCES
-state: NSW
-postcode: 2890
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.8310013
-longitude: 150.1390075
-url: /nsw/forces/
 layout: suburb
+longitude: 150.1390075
+postcode: '2890'
+state: NSW
+title: FORCES
+url: /nsw/forces/
 ---

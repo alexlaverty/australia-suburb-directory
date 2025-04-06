@@ -1,9 +1,10 @@
 ---
-title: REID
-state: SA
-postcode: 5118
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.59765003
-longitude: 138.7333188
-url: /sa/reid/
 layout: suburb
+longitude: 138.7333188
+postcode: '5118'
+state: SA
+title: REID
+url: /sa/reid/
 ---

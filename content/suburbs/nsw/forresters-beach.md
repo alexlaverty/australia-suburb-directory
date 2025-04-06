@@ -1,9 +1,10 @@
 ---
-title: FORRESTERS BEACH
-state: NSW
-postcode: 2260
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.42537
-longitude: 151.436939
-url: /nsw/forresters-beach/
 layout: suburb
+longitude: 151.436939
+postcode: '2260'
+state: NSW
+title: FORRESTERS BEACH
+url: /nsw/forresters-beach/
 ---

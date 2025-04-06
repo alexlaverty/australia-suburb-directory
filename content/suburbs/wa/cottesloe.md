@@ -1,9 +1,10 @@
 ---
-title: COTTESLOE
-state: WA
-postcode: 6911
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.403407
-longitude: 115.761982
-url: /wa/cottesloe/
 layout: suburb
+longitude: 115.761982
+postcode: '6911'
+state: WA
+title: COTTESLOE
+url: /wa/cottesloe/
 ---

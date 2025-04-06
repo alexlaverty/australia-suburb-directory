@@ -1,9 +1,10 @@
 ---
-title: EDINBURGH RAAF
-state: SA
-postcode: 5111
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.716548
-longitude: 138.645293
-url: /sa/edinburgh-raaf/
 layout: suburb
+longitude: 138.645293
+postcode: '5111'
+state: SA
+title: EDINBURGH RAAF
+url: /sa/edinburgh-raaf/
 ---

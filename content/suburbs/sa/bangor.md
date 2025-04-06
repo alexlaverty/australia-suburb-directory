@@ -1,9 +1,10 @@
 ---
-title: BANGOR
-state: SA
-postcode: 5481
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.012446
-longitude: 138.239719
-url: /sa/bangor/
 layout: suburb
+longitude: 138.239719
+postcode: '5481'
+state: SA
+title: BANGOR
+url: /sa/bangor/
 ---

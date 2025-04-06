@@ -1,9 +1,10 @@
 ---
-title: SUTTON
-state: VIC
-postcode: 3530
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.73285433
-longitude: 142.9735632
-url: /vic/sutton/
 layout: suburb
+longitude: 142.9735632
+postcode: '3530'
+state: VIC
+title: SUTTON
+url: /vic/sutton/
 ---

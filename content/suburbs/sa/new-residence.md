@@ -1,9 +1,10 @@
 ---
-title: NEW RESIDENCE
-state: SA
-postcode: 5333
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.485635
-longitude: 140.63513
-url: /sa/new-residence/
 layout: suburb
+longitude: 140.63513
+postcode: '5333'
+state: SA
+title: NEW RESIDENCE
+url: /sa/new-residence/
 ---

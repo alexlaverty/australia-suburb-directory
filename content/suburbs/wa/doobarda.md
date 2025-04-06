@@ -1,9 +1,10 @@
 ---
-title: DOOBARDA
-state: WA
-postcode: 6112
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.1738
-longitude: 115.9473
-url: /wa/doobarda/
 layout: suburb
+longitude: 115.9473
+postcode: '6112'
+state: WA
+title: DOOBARDA
+url: /wa/doobarda/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ALBERT
-state: NSW
-postcode: 2873
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.269414
-longitude: 147.260419
-url: /nsw/albert/
 layout: suburb
+longitude: 147.260419
+postcode: '2873'
+state: NSW
+title: ALBERT
+url: /nsw/albert/
 ---

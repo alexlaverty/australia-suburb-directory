@@ -1,9 +1,10 @@
 ---
-title: ELLIMINYT
-state: VIC
-postcode: 3250
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.311513
-longitude: 143.584742
-url: /vic/elliminyt/
 layout: suburb
+longitude: 143.584742
+postcode: '3250'
+state: VIC
+title: ELLIMINYT
+url: /vic/elliminyt/
 ---

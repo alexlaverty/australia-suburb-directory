@@ -1,9 +1,10 @@
 ---
-title: CREEL BAY
-state: NSW
-postcode: 2627
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.441153
-longitude: 148.511421
-url: /nsw/creel-bay/
 layout: suburb
+longitude: 148.511421
+postcode: '2627'
+state: NSW
+title: CREEL BAY
+url: /nsw/creel-bay/
 ---

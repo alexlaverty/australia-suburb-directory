@@ -1,9 +1,10 @@
 ---
-title: COLAC EAST
-state: VIC
-postcode: 3250
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.311513
-longitude: 143.584742
-url: /vic/colac-east/
 layout: suburb
+longitude: 143.584742
+postcode: '3250'
+state: VIC
+title: COLAC EAST
+url: /vic/colac-east/
 ---

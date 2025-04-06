@@ -1,9 +1,10 @@
 ---
-title: HUNGERFORD
-state: NSW
-postcode: 2840
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.1707458
-longitude: 144.6153754
-url: /nsw/hungerford/
 layout: suburb
+longitude: 144.6153754
+postcode: '2840'
+state: NSW
+title: HUNGERFORD
+url: /nsw/hungerford/
 ---

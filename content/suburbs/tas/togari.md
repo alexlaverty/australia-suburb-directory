@@ -1,9 +1,10 @@
 ---
-title: TOGARI
-state: TAS
-postcode: 7330
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -40.782341
-longitude: 145.057623
-url: /tas/togari/
 layout: suburb
+longitude: 145.057623
+postcode: '7330'
+state: TAS
+title: TOGARI
+url: /tas/togari/
 ---

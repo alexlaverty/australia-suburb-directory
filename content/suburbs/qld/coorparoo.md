@@ -1,9 +1,10 @@
 ---
-title: COORPAROO
-state: QLD
-postcode: 4151
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.500807
-longitude: 153.058605
-url: /qld/coorparoo/
 layout: suburb
+longitude: 153.058605
+postcode: '4151'
+state: QLD
+title: COORPAROO
+url: /qld/coorparoo/
 ---

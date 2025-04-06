@@ -1,9 +1,10 @@
 ---
-title: LEAWOOD GARDENS
-state: SA
-postcode: 5150
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.010886
-longitude: 138.654942
-url: /sa/leawood-gardens/
 layout: suburb
+longitude: 138.654942
+postcode: '5150'
+state: SA
+title: LEAWOOD GARDENS
+url: /sa/leawood-gardens/
 ---

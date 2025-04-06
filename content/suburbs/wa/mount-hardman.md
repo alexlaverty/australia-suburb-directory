@@ -1,9 +1,10 @@
 ---
-title: MOUNT HARDMAN
-state: WA
-postcode: 6765
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -18.752827
-longitude: 125.282055
-url: /wa/mount-hardman/
 layout: suburb
+longitude: 125.282055
+postcode: '6765'
+state: WA
+title: MOUNT HARDMAN
+url: /wa/mount-hardman/
 ---

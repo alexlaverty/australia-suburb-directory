@@ -1,9 +1,10 @@
 ---
-title: WONGAN HILLS
-state: WA
-postcode: 6603
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -30.874243
-longitude: 116.725982
-url: /wa/wongan-hills/
 layout: suburb
+longitude: 116.725982
+postcode: '6603'
+state: WA
+title: WONGAN HILLS
+url: /wa/wongan-hills/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CAROONA
-state: NSW
-postcode: 2343
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.66545698
-longitude: 150.1491418
-url: /nsw/caroona/
 layout: suburb
+longitude: 150.1491418
+postcode: '2343'
+state: NSW
+title: CAROONA
+url: /nsw/caroona/
 ---

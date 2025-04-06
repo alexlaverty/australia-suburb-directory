@@ -1,9 +1,10 @@
 ---
-title: ALLWORTH
-state: NSW
-postcode: 2425
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.417598
-longitude: 152.002451
-url: /nsw/allworth/
 layout: suburb
+longitude: 152.002451
+postcode: '2425'
+state: NSW
+title: ALLWORTH
+url: /nsw/allworth/
 ---

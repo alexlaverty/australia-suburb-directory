@@ -1,9 +1,10 @@
 ---
-title: RED HILL
-state: ACT
-postcode: 2603
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.330382
-longitude: 149.125739
-url: /act/red-hill/
 layout: suburb
+longitude: 149.125739
+postcode: '2603'
+state: ACT
+title: RED HILL
+url: /act/red-hill/
 ---

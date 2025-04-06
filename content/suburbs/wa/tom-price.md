@@ -1,9 +1,10 @@
 ---
-title: TOM PRICE
-state: WA
-postcode: 6751
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -22.141251
-longitude: 117.057776
-url: /wa/tom-price/
 layout: suburb
+longitude: 117.057776
+postcode: '6751'
+state: WA
+title: TOM PRICE
+url: /wa/tom-price/
 ---

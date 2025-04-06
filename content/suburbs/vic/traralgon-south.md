@@ -1,9 +1,10 @@
 ---
-title: TRARALGON SOUTH
-state: VIC
-postcode: 3844
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.316869
-longitude: 146.607101
-url: /vic/traralgon-south/
 layout: suburb
+longitude: 146.607101
+postcode: '3844'
+state: VIC
+title: TRARALGON SOUTH
+url: /vic/traralgon-south/
 ---

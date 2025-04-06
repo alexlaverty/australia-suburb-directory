@@ -1,9 +1,10 @@
 ---
-title: NYORA
-state: VIC
-postcode: 3987
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.309048
-longitude: 145.689142
-url: /vic/nyora/
 layout: suburb
+longitude: 145.689142
+postcode: '3987'
+state: VIC
+title: NYORA
+url: /vic/nyora/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WIRREGA
-state: SA
-postcode: 5267
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.093534
-longitude: 140.348707
-url: /sa/wirrega/
 layout: suburb
+longitude: 140.348707
+postcode: '5267'
+state: SA
+title: WIRREGA
+url: /sa/wirrega/
 ---

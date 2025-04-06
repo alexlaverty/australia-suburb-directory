@@ -1,9 +1,10 @@
 ---
-title: MUKINBUDIN
-state: WA
-postcode: 6479
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.748419
-longitude: 118.448501
-url: /wa/mukinbudin/
 layout: suburb
+longitude: 118.448501
+postcode: '6479'
+state: WA
+title: MUKINBUDIN
+url: /wa/mukinbudin/
 ---

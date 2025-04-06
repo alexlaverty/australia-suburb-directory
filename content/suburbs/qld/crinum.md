@@ -1,9 +1,10 @@
 ---
-title: CRINUM
-state: QLD
-postcode: 4723
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.22707928
-longitude: 148.2703852
-url: /qld/crinum/
 layout: suburb
+longitude: 148.2703852
+postcode: '4723'
+state: QLD
+title: CRINUM
+url: /qld/crinum/
 ---

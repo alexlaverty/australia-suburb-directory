@@ -1,9 +1,10 @@
 ---
-title: REDCLIFFE NORTH
-state: QLD
-postcode: 4020
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.214362
-longitude: 153.106378
-url: /qld/redcliffe-north/
 layout: suburb
+longitude: 153.106378
+postcode: '4020'
+state: QLD
+title: REDCLIFFE NORTH
+url: /qld/redcliffe-north/
 ---

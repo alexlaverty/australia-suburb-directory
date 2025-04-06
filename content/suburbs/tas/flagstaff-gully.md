@@ -1,9 +1,10 @@
 ---
-title: FLAGSTAFF GULLY
-state: TAS
-postcode: 7015
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.83903
-longitude: 147.360174
-url: /tas/flagstaff-gully/
 layout: suburb
+longitude: 147.360174
+postcode: '7015'
+state: TAS
+title: FLAGSTAFF GULLY
+url: /tas/flagstaff-gully/
 ---

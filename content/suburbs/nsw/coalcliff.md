@@ -1,9 +1,10 @@
 ---
-title: COALCLIFF
-state: NSW
-postcode: 2508
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.230944
-longitude: 150.969679
-url: /nsw/coalcliff/
 layout: suburb
+longitude: 150.969679
+postcode: '2508'
+state: NSW
+title: COALCLIFF
+url: /nsw/coalcliff/
 ---

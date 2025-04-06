@@ -1,9 +1,10 @@
 ---
-title: BINDOOK
-state: NSW
-postcode: 2787
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.1992
-longitude: 150.1014
-url: /nsw/bindook/
 layout: suburb
+longitude: 150.1014
+postcode: '2787'
+state: NSW
+title: BINDOOK
+url: /nsw/bindook/
 ---

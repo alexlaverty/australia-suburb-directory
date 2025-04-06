@@ -1,9 +1,10 @@
 ---
-title: PADDYS RIVER
-state: ACT
-postcode: 2620
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.381752
-longitude: 149.176445
-url: /act/paddys-river/
 layout: suburb
+longitude: 149.176445
+postcode: '2620'
+state: ACT
+title: PADDYS RIVER
+url: /act/paddys-river/
 ---

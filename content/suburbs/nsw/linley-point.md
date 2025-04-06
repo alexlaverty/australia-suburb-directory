@@ -1,9 +1,10 @@
 ---
-title: LINLEY POINT
-state: NSW
-postcode: 2066
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.818641
-longitude: 151.160912
-url: /nsw/linley-point/
 layout: suburb
+longitude: 151.160912
+postcode: '2066'
+state: NSW
+title: LINLEY POINT
+url: /nsw/linley-point/
 ---

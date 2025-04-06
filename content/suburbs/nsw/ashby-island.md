@@ -1,9 +1,10 @@
 ---
-title: ASHBY ISLAND
-state: NSW
-postcode: 2463
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.42423996
-longitude: 153.2036054
-url: /nsw/ashby-island/
 layout: suburb
+longitude: 153.2036054
+postcode: '2463'
+state: NSW
+title: ASHBY ISLAND
+url: /nsw/ashby-island/
 ---

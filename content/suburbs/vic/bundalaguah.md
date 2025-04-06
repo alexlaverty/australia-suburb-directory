@@ -1,9 +1,10 @@
 ---
-title: BUNDALAGUAH
-state: VIC
-postcode: 3851
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.035548
-longitude: 147.084398
-url: /vic/bundalaguah/
 layout: suburb
+longitude: 147.084398
+postcode: '3851'
+state: VIC
+title: BUNDALAGUAH
+url: /vic/bundalaguah/
 ---

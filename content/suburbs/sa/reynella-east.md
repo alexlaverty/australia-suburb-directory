@@ -1,9 +1,10 @@
 ---
-title: REYNELLA EAST
-state: SA
-postcode: 5161
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.096383
-longitude: 138.515652
-url: /sa/reynella-east/
 layout: suburb
+longitude: 138.515652
+postcode: '5161'
+state: SA
+title: REYNELLA EAST
+url: /sa/reynella-east/
 ---

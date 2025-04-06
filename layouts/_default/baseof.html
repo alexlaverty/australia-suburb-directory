@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    {{ block "head" . }}{{ end }} <!-- Extra head stuff -->
+</head>
+<body>
+    <header>
+         <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+         <!-- Navigation -->
+    </header>
+    <main>
+        {{ block "main" . }}
+            <!-- Default main content -->
+        {{ end }}
+    </main>
+    <footer>
+        <p>© {{ now.Format "2006" }} {{ .Site.Title }}</p>
+    </footer>
+</body>
+</html>

@@ -1,9 +1,10 @@
 ---
-title: LACEYS CREEK
-state: QLD
-postcode: 4521
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.169774
-longitude: 152.786172
-url: /qld/laceys-creek/
 layout: suburb
+longitude: 152.786172
+postcode: '4521'
+state: QLD
+title: LACEYS CREEK
+url: /qld/laceys-creek/
 ---

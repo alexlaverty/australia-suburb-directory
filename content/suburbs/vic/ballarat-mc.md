@@ -1,9 +1,10 @@
 ---
-title: BALLARAT MC
-state: VIC
-postcode: 3354
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.560917
-longitude: 143.867158
-url: /vic/ballarat-mc/
 layout: suburb
+longitude: 143.867158
+postcode: '3354'
+state: VIC
+title: BALLARAT MC
+url: /vic/ballarat-mc/
 ---

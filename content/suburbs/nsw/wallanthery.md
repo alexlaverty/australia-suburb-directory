@@ -1,9 +1,10 @@
 ---
-title: WALLANTHERY
-state: NSW
-postcode: 2675
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.459192
-longitude: 145.479249
-url: /nsw/wallanthery/
 layout: suburb
+longitude: 145.479249
+postcode: '2675'
+state: NSW
+title: WALLANTHERY
+url: /nsw/wallanthery/
 ---

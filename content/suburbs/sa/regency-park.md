@@ -1,9 +1,10 @@
 ---
-title: REGENCY PARK
-state: SA
-postcode: 5942
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.860017
-longitude: 138.565906
-url: /sa/regency-park/
 layout: suburb
+longitude: 138.565906
+postcode: '5942'
+state: SA
+title: REGENCY PARK
+url: /sa/regency-park/
 ---

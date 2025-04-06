@@ -1,9 +1,10 @@
 ---
-title: ASHTON
-state: SA
-postcode: 5137
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.945777
-longitude: 138.735962
-url: /sa/ashton/
 layout: suburb
+longitude: 138.735962
+postcode: '5137'
+state: SA
+title: ASHTON
+url: /sa/ashton/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NHULUNBUY
-state: NT
-postcode: 0881
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -11.670366
-longitude: 136.824863
-url: /nt/nhulunbuy/
 layout: suburb
+longitude: 136.824863
+postcode: 0881
+state: NT
+title: NHULUNBUY
+url: /nt/nhulunbuy/
 ---

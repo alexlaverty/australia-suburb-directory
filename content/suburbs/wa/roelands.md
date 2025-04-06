@@ -1,9 +1,10 @@
 ---
-title: ROELANDS
-state: WA
-postcode: 6226
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.291834
-longitude: 115.847234
-url: /wa/roelands/
 layout: suburb
+longitude: 115.847234
+postcode: '6226'
+state: WA
+title: ROELANDS
+url: /wa/roelands/
 ---

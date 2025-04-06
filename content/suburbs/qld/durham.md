@@ -1,9 +1,10 @@
 ---
-title: DURHAM
-state: QLD
-postcode: 4492
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.29940596
-longitude: 141.7722425
-url: /qld/durham/
 layout: suburb
+longitude: 141.7722425
+postcode: '4492'
+state: QLD
+title: DURHAM
+url: /qld/durham/
 ---

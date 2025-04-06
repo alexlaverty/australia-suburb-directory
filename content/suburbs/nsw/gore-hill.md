@@ -1,9 +1,10 @@
 ---
-title: GORE HILL
-state: NSW
-postcode: 2065
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.828361
-longitude: 151.192212
-url: /nsw/gore-hill/
 layout: suburb
+longitude: 151.192212
+postcode: '2065'
+state: NSW
+title: GORE HILL
+url: /nsw/gore-hill/
 ---

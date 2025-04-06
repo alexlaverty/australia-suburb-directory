@@ -1,9 +1,10 @@
 ---
-title: MOUNT LINDESAY
-state: WA
-postcode: 6333
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.81843275
-longitude: 117.3739645
-url: /wa/mount-lindesay/
 layout: suburb
+longitude: 117.3739645
+postcode: '6333'
+state: WA
+title: MOUNT LINDESAY
+url: /wa/mount-lindesay/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WIRREALPA
-state: SA
-postcode: 5730
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.20746884
-longitude: 139.1395749
-url: /sa/wirrealpa/
 layout: suburb
+longitude: 139.1395749
+postcode: '5730'
+state: SA
+title: WIRREALPA
+url: /sa/wirrealpa/
 ---

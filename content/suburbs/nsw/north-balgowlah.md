@@ -1,9 +1,10 @@
 ---
-title: NORTH BALGOWLAH
-state: NSW
-postcode: 2093
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.79315
-longitude: 151.258069
-url: /nsw/north-balgowlah/
 layout: suburb
+longitude: 151.258069
+postcode: '2093'
+state: NSW
+title: NORTH BALGOWLAH
+url: /nsw/north-balgowlah/
 ---

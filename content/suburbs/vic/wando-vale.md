@@ -1,9 +1,10 @@
 ---
-title: WANDO VALE
-state: VIC
-postcode: 3312
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.6391
-longitude: 141.365747
-url: /vic/wando-vale/
 layout: suburb
+longitude: 141.365747
+postcode: '3312'
+state: VIC
+title: WANDO VALE
+url: /vic/wando-vale/
 ---

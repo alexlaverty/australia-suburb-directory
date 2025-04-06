@@ -1,9 +1,10 @@
 ---
-title: MOORE RIVER NATIONAL PARK
-state: WA
-postcode: 6503
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.237406
-longitude: 115.82111
-url: /wa/moore-river-national-park/
 layout: suburb
+longitude: 115.82111
+postcode: '6503'
+state: WA
+title: MOORE RIVER NATIONAL PARK
+url: /wa/moore-river-national-park/
 ---

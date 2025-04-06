@@ -1,9 +1,10 @@
 ---
-title: AUBURN SOUTH
-state: VIC
-postcode: 3122
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.822725
-longitude: 145.030602
-url: /vic/auburn-south/
 layout: suburb
+longitude: 145.030602
+postcode: '3122'
+state: VIC
+title: AUBURN SOUTH
+url: /vic/auburn-south/
 ---

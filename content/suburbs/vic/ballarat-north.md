@@ -1,9 +1,10 @@
 ---
-title: BALLARAT NORTH
-state: VIC
-postcode: 3350
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.571941
-longitude: 143.864505
-url: /vic/ballarat-north/
 layout: suburb
+longitude: 143.864505
+postcode: '3350'
+state: VIC
+title: BALLARAT NORTH
+url: /vic/ballarat-north/
 ---

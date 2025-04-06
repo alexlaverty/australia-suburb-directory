@@ -1,9 +1,10 @@
 ---
-title: KONGOLIA
-state: SA
-postcode: 5353
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.577328
-longitude: 139.326979
-url: /sa/kongolia/
 layout: suburb
+longitude: 139.326979
+postcode: '5353'
+state: SA
+title: KONGOLIA
+url: /sa/kongolia/
 ---

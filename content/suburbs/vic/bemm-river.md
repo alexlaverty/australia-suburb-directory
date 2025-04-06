@@ -1,9 +1,10 @@
 ---
-title: BEMM RIVER
-state: VIC
-postcode: 3889
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.610841
-longitude: 148.873952
-url: /vic/bemm-river/
 layout: suburb
+longitude: 148.873952
+postcode: '3889'
+state: VIC
+title: BEMM RIVER
+url: /vic/bemm-river/
 ---

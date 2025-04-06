@@ -1,9 +1,10 @@
 ---
-title: FLINDERS PARK
-state: SA
-postcode: 5025
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.912384
-longitude: 138.529573
-url: /sa/flinders-park/
 layout: suburb
+longitude: 138.529573
+postcode: '5025'
+state: SA
+title: FLINDERS PARK
+url: /sa/flinders-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GRUYERE
-state: VIC
-postcode: 3770
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.708784
-longitude: 145.416004
-url: /vic/gruyere/
 layout: suburb
+longitude: 145.416004
+postcode: '3770'
+state: VIC
+title: GRUYERE
+url: /vic/gruyere/
 ---

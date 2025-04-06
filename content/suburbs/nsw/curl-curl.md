@@ -1,9 +1,10 @@
 ---
-title: CURL CURL
-state: NSW
-postcode: 2096
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.776781
-longitude: 151.28494
-url: /nsw/curl-curl/
 layout: suburb
+longitude: 151.28494
+postcode: '2096'
+state: NSW
+title: CURL CURL
+url: /nsw/curl-curl/
 ---

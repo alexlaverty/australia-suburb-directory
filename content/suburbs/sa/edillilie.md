@@ -1,9 +1,10 @@
 ---
-title: EDILLILIE
-state: SA
-postcode: 5630
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.41994907
-longitude: 135.6694704
-url: /sa/edillilie/
 layout: suburb
+longitude: 135.6694704
+postcode: '5630'
+state: SA
+title: EDILLILIE
+url: /sa/edillilie/
 ---

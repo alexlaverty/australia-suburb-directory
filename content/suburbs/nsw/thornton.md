@@ -1,9 +1,10 @@
 ---
-title: THORNTON
-state: NSW
-postcode: 2322
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.819819
-longitude: 151.65415
-url: /nsw/thornton/
 layout: suburb
+longitude: 151.65415
+postcode: '2322'
+state: NSW
+title: THORNTON
+url: /nsw/thornton/
 ---

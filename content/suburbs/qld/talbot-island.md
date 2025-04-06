@@ -1,9 +1,10 @@
 ---
-title: TALBOT ISLAND
-state: QLD
-postcode: 4875
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -9.584901
-longitude: 143.769211
-url: /qld/talbot-island/
 layout: suburb
+longitude: 143.769211
+postcode: '4875'
+state: QLD
+title: TALBOT ISLAND
+url: /qld/talbot-island/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NORTH FREMANTLE
-state: WA
-postcode: 6159
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.035224
-longitude: 115.750311
-url: /wa/north-fremantle/
 layout: suburb
+longitude: 115.750311
+postcode: '6159'
+state: WA
+title: NORTH FREMANTLE
+url: /wa/north-fremantle/
 ---

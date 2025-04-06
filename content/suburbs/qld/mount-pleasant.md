@@ -1,9 +1,10 @@
 ---
-title: MOUNT PLEASANT
-state: QLD
-postcode: 4740
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -21.33763
-longitude: 149.059737
-url: /qld/mount-pleasant/
 layout: suburb
+longitude: 149.059737
+postcode: '4740'
+state: QLD
+title: MOUNT PLEASANT
+url: /qld/mount-pleasant/
 ---

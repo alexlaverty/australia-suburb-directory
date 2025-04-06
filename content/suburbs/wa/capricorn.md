@@ -1,9 +1,10 @@
 ---
-title: CAPRICORN
-state: WA
-postcode: 6642
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -25.639378
-longitude: 118.554936
-url: /wa/capricorn/
 layout: suburb
+longitude: 118.554936
+postcode: '6642'
+state: WA
+title: CAPRICORN
+url: /wa/capricorn/
 ---

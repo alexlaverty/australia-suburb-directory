@@ -1,9 +1,10 @@
 ---
-title: BOMERA
-state: NSW
-postcode: 2357
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.51588428
-longitude: 149.781025
-url: /nsw/bomera/
 layout: suburb
+longitude: 149.781025
+postcode: '2357'
+state: NSW
+title: BOMERA
+url: /nsw/bomera/
 ---

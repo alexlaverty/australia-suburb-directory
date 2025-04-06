@@ -1,9 +1,10 @@
 ---
-title: MIRBOO EAST
-state: VIC
-postcode: 3870
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.437946
-longitude: 146.319351
-url: /vic/mirboo-east/
 layout: suburb
+longitude: 146.319351
+postcode: '3870'
+state: VIC
+title: MIRBOO EAST
+url: /vic/mirboo-east/
 ---

@@ -1,9 +1,10 @@
 ---
-title: RAVENSWOOD
-state: NSW
-postcode: 2824
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.373201
-longitude: 147.785831
-url: /nsw/ravenswood/
 layout: suburb
+longitude: 147.785831
+postcode: '2824'
+state: NSW
+title: RAVENSWOOD
+url: /nsw/ravenswood/
 ---

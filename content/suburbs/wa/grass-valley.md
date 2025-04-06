@@ -1,9 +1,10 @@
 ---
-title: GRASS VALLEY
-state: WA
-postcode: 6403
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.643902
-longitude: 116.797476
-url: /wa/grass-valley/
 layout: suburb
+longitude: 116.797476
+postcode: '6403'
+state: WA
+title: GRASS VALLEY
+url: /wa/grass-valley/
 ---

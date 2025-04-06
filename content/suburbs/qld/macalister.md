@@ -1,9 +1,10 @@
 ---
-title: MACALISTER
-state: QLD
-postcode: 4406
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.064207
-longitude: 151.433657
-url: /qld/macalister/
 layout: suburb
+longitude: 151.433657
+postcode: '4406'
+state: QLD
+title: MACALISTER
+url: /qld/macalister/
 ---

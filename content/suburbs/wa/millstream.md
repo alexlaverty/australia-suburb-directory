@@ -1,9 +1,10 @@
 ---
-title: MILLSTREAM
-state: WA
-postcode: 6716
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -21.605319
-longitude: 116.311985
-url: /wa/millstream/
 layout: suburb
+longitude: 116.311985
+postcode: '6716'
+state: WA
+title: MILLSTREAM
+url: /wa/millstream/
 ---

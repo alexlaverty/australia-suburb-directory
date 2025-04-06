@@ -1,9 +1,10 @@
 ---
-title: PORT ARTHUR
-state: SA
-postcode: 5572
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.237139
-longitude: 137.812526
-url: /sa/port-arthur/
 layout: suburb
+longitude: 137.812526
+postcode: '5572'
+state: SA
+title: PORT ARTHUR
+url: /sa/port-arthur/
 ---

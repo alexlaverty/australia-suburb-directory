@@ -1,9 +1,10 @@
 ---
-title: HERRON
-state: WA
-postcode: 6211
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.557981
-longitude: 115.728286
-url: /wa/herron/
 layout: suburb
+longitude: 115.728286
+postcode: '6211'
+state: WA
+title: HERRON
+url: /wa/herron/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WAUKARINGA
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.28568626
-longitude: 139.4413172
-url: /sa/waukaringa/
 layout: suburb
+longitude: 139.4413172
+postcode: '5440'
+state: SA
+title: WAUKARINGA
+url: /sa/waukaringa/
 ---

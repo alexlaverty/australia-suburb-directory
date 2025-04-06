@@ -1,9 +1,10 @@
 ---
-title: WYAGA
-state: QLD
-postcode: 4390
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.228906
-longitude: 150.321016
-url: /qld/wyaga/
 layout: suburb
+longitude: 150.321016
+postcode: '4390'
+state: QLD
+title: WYAGA
+url: /qld/wyaga/
 ---

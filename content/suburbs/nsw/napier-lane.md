@@ -1,9 +1,10 @@
 ---
-title: NAPIER LANE
-state: NSW
-postcode: 2379
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.22948628
-longitude: 149.5378325
-url: /nsw/napier-lane/
 layout: suburb
+longitude: 149.5378325
+postcode: '2379'
+state: NSW
+title: NAPIER LANE
+url: /nsw/napier-lane/
 ---

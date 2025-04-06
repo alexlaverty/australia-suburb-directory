@@ -1,9 +1,10 @@
 ---
-title: YAMALA
-state: QLD
-postcode: 4720
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.68492
-longitude: 148.187851
-url: /qld/yamala/
 layout: suburb
+longitude: 148.187851
+postcode: '4720'
+state: QLD
+title: YAMALA
+url: /qld/yamala/
 ---

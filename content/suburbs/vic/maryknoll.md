@@ -1,9 +1,10 @@
 ---
-title: MARYKNOLL
-state: VIC
-postcode: 3812
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.070135
-longitude: 145.565304
-url: /vic/maryknoll/
 layout: suburb
+longitude: 145.565304
+postcode: '3812'
+state: VIC
+title: MARYKNOLL
+url: /vic/maryknoll/
 ---

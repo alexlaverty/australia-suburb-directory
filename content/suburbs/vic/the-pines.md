@@ -1,9 +1,10 @@
 ---
-title: THE PINES
-state: VIC
-postcode: 3109
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.784786
-longitude: 145.161649
-url: /vic/the-pines/
 layout: suburb
+longitude: 145.161649
+postcode: '3109'
+state: VIC
+title: THE PINES
+url: /vic/the-pines/
 ---

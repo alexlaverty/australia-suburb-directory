@@ -1,9 +1,10 @@
 ---
-title: WAMENUSKING
-state: WA
-postcode: 6383
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.951084
-longitude: 117.406271
-url: /wa/wamenusking/
 layout: suburb
+longitude: 117.406271
+postcode: '6383'
+state: WA
+title: WAMENUSKING
+url: /wa/wamenusking/
 ---

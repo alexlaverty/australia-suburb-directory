@@ -1,9 +1,10 @@
 ---
-title: MCLEANS RIDGES
-state: NSW
-postcode: 2480
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.706486
-longitude: 153.25943
-url: /nsw/mcleans-ridges/
 layout: suburb
+longitude: 153.25943
+postcode: '2480'
+state: NSW
+title: MCLEANS RIDGES
+url: /nsw/mcleans-ridges/
 ---

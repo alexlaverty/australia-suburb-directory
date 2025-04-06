@@ -1,9 +1,10 @@
 ---
-title: O’CONNOR
-state: ACT
-postcode: 2602
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.262153
-longitude: 149.145893
-url: /act/o’connor/
 layout: suburb
+longitude: 149.145893
+postcode: '2602'
+state: ACT
+title: O’CONNOR
+url: /act/o’connor/
 ---

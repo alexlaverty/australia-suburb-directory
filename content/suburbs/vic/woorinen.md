@@ -1,9 +1,10 @@
 ---
-title: WOORINEN
-state: VIC
-postcode: 3589
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.228436
-longitude: 143.441248
-url: /vic/woorinen/
 layout: suburb
+longitude: 143.441248
+postcode: '3589'
+state: VIC
+title: WOORINEN
+url: /vic/woorinen/
 ---

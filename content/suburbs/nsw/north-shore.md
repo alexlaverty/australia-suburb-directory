@@ -1,9 +1,10 @@
 ---
-title: NORTH SHORE
-state: NSW
-postcode: 2444
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.439614
-longitude: 152.87253
-url: /nsw/north-shore/
 layout: suburb
+longitude: 152.87253
+postcode: '2444'
+state: NSW
+title: NORTH SHORE
+url: /nsw/north-shore/
 ---

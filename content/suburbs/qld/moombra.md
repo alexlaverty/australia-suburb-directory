@@ -1,9 +1,10 @@
 ---
-title: MOOMBRA
-state: QLD
-postcode: 4312
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.256065
-longitude: 152.482636
-url: /qld/moombra/
 layout: suburb
+longitude: 152.482636
+postcode: '4312'
+state: QLD
+title: MOOMBRA
+url: /qld/moombra/
 ---

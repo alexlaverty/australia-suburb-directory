@@ -1,9 +1,10 @@
 ---
-title: GLEN DAVIS
-state: NSW
-postcode: 2846
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.071806
-longitude: 150.118609
-url: /nsw/glen-davis/
 layout: suburb
+longitude: 150.118609
+postcode: '2846'
+state: NSW
+title: GLEN DAVIS
+url: /nsw/glen-davis/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CORNELIAN BAY
-state: TAS
-postcode: 7008
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.861932
-longitude: 147.293268
-url: /tas/cornelian-bay/
 layout: suburb
+longitude: 147.293268
+postcode: '7008'
+state: TAS
+title: CORNELIAN BAY
+url: /tas/cornelian-bay/
 ---

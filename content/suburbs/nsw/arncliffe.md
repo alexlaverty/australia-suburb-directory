@@ -1,9 +1,10 @@
 ---
-title: ARNCLIFFE
-state: NSW
-postcode: 2205
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.937551
-longitude: 151.147956
-url: /nsw/arncliffe/
 layout: suburb
+longitude: 151.147956
+postcode: '2205'
+state: NSW
+title: ARNCLIFFE
+url: /nsw/arncliffe/
 ---

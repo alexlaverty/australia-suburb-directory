@@ -1,9 +1,10 @@
 ---
-title: GREENETHORPE
-state: NSW
-postcode: 2809
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.972859
-longitude: 148.432316
-url: /nsw/greenethorpe/
 layout: suburb
+longitude: 148.432316
+postcode: '2809'
+state: NSW
+title: GREENETHORPE
+url: /nsw/greenethorpe/
 ---

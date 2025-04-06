@@ -1,9 +1,10 @@
 ---
-title: PERLUBIE
-state: SA
-postcode: 5680
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.61082632
-longitude: 134.3473346
-url: /sa/perlubie/
 layout: suburb
+longitude: 134.3473346
+postcode: '5680'
+state: SA
+title: PERLUBIE
+url: /sa/perlubie/
 ---

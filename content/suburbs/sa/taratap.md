@@ -1,9 +1,10 @@
 ---
-title: TARATAP
-state: SA
-postcode: 5275
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.61323
-longitude: 139.937126
-url: /sa/taratap/
 layout: suburb
+longitude: 139.937126
+postcode: '5275'
+state: SA
+title: TARATAP
+url: /sa/taratap/
 ---

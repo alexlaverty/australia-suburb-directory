@@ -1,9 +1,10 @@
 ---
-title: FLORIDA GARDENS
-state: QLD
-postcode: 4218
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.037627
-longitude: 153.41692
-url: /qld/florida-gardens/
 layout: suburb
+longitude: 153.41692
+postcode: '4218'
+state: QLD
+title: FLORIDA GARDENS
+url: /qld/florida-gardens/
 ---

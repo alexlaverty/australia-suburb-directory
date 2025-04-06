@@ -1,9 +1,10 @@
 ---
-title: WEBBERS CREEK
-state: NSW
-postcode: 2421
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.58240999
-longitude: 151.5127294
-url: /nsw/webbers-creek/
 layout: suburb
+longitude: 151.5127294
+postcode: '2421'
+state: NSW
+title: WEBBERS CREEK
+url: /nsw/webbers-creek/
 ---

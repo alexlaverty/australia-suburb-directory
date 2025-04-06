@@ -1,9 +1,10 @@
 ---
-title: NORTH YALGOGRIN
-state: NSW
-postcode: 2671
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.83024143
-longitude: 146.8481059
-url: /nsw/north-yalgogrin/
 layout: suburb
+longitude: 146.8481059
+postcode: '2671'
+state: NSW
+title: NORTH YALGOGRIN
+url: /nsw/north-yalgogrin/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ST HELENA
-state: NSW
-postcode: 2479
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.709545
-longitude: 153.514963
-url: /nsw/st-helena/
 layout: suburb
+longitude: 153.514963
+postcode: '2479'
+state: NSW
+title: ST HELENA
+url: /nsw/st-helena/
 ---

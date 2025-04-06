@@ -1,9 +1,10 @@
 ---
-title: WILD DOG VALLEY
-state: SA
-postcode: 5271
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.87202872
-longitude: 140.7668084
-url: /sa/wild-dog-valley/
 layout: suburb
+longitude: 140.7668084
+postcode: '5271'
+state: SA
+title: WILD DOG VALLEY
+url: /sa/wild-dog-valley/
 ---

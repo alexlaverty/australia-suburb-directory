@@ -1,9 +1,10 @@
 ---
-title: CARINA
-state: VIC
-postcode: 3512
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.39199
-longitude: 141.121226
-url: /vic/carina/
 layout: suburb
+longitude: 141.121226
+postcode: '3512'
+state: VIC
+title: CARINA
+url: /vic/carina/
 ---

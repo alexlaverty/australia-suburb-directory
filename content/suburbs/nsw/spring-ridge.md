@@ -1,9 +1,10 @@
 ---
-title: SPRING RIDGE
-state: NSW
-postcode: 2343
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.66545698
-longitude: 150.1491418
-url: /nsw/spring-ridge/
 layout: suburb
+longitude: 150.1491418
+postcode: '2343'
+state: NSW
+title: SPRING RIDGE
+url: /nsw/spring-ridge/
 ---

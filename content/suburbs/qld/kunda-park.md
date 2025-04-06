@@ -1,9 +1,10 @@
 ---
-title: KUNDA PARK
-state: QLD
-postcode: 4556
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.700379
-longitude: 153.049784
-url: /qld/kunda-park/
 layout: suburb
+longitude: 153.049784
+postcode: '4556'
+state: QLD
+title: KUNDA PARK
+url: /qld/kunda-park/
 ---

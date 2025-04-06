@@ -1,9 +1,10 @@
 ---
-title: BINDOON TRAINING AREA
-state: WA
-postcode: 6502
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.297561
-longitude: 116.184272
-url: /wa/bindoon-training-area/
 layout: suburb
+longitude: 116.184272
+postcode: '6502'
+state: WA
+title: BINDOON TRAINING AREA
+url: /wa/bindoon-training-area/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EAGLE FARM BC
-state: QLD
-postcode: 4009
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.405747
-longitude: 153.105247
-url: /qld/eagle-farm-bc/
 layout: suburb
+longitude: 153.105247
+postcode: '4009'
+state: QLD
+title: EAGLE FARM BC
+url: /qld/eagle-farm-bc/
 ---

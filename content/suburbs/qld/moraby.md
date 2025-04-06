@@ -1,9 +1,10 @@
 ---
-title: MORABY
-state: QLD
-postcode: 4416
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.995752
-longitude: 149.798038
-url: /qld/moraby/
 layout: suburb
+longitude: 149.798038
+postcode: '4416'
+state: QLD
+title: MORABY
+url: /qld/moraby/
 ---

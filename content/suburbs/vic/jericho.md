@@ -1,9 +1,10 @@
 ---
-title: JERICHO
-state: VIC
-postcode: 3825
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.66622391
-longitude: 146.2288747
-url: /vic/jericho/
 layout: suburb
+longitude: 146.2288747
+postcode: '3825'
+state: VIC
+title: JERICHO
+url: /vic/jericho/
 ---

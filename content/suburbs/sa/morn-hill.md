@@ -1,9 +1,10 @@
 ---
-title: MORN HILL
-state: SA
-postcode: 5371
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.41538531
-longitude: 138.7560699
-url: /sa/morn-hill/
 layout: suburb
+longitude: 138.7560699
+postcode: '5371'
+state: SA
+title: MORN HILL
+url: /sa/morn-hill/
 ---

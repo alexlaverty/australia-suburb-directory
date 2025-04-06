@@ -1,9 +1,10 @@
 ---
-title: CAIRNS BAY
-state: TAS
-postcode: 7116
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.262123
-longitude: 147.03435
-url: /tas/cairns-bay/
 layout: suburb
+longitude: 147.03435
+postcode: '7116'
+state: TAS
+title: CAIRNS BAY
+url: /tas/cairns-bay/
 ---

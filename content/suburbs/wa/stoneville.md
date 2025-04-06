@@ -1,9 +1,10 @@
 ---
-title: STONEVILLE
-state: WA
-postcode: 6081
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.876046
-longitude: 116.146074
-url: /wa/stoneville/
 layout: suburb
+longitude: 116.146074
+postcode: '6081'
+state: WA
+title: STONEVILLE
+url: /wa/stoneville/
 ---

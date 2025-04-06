@@ -1,9 +1,10 @@
 ---
-title: GEELONG NORTH
-state: VIC
-postcode: 3215
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.111002
-longitude: 144.33452
-url: /vic/geelong-north/
 layout: suburb
+longitude: 144.33452
+postcode: '3215'
+state: VIC
+title: GEELONG NORTH
+url: /vic/geelong-north/
 ---

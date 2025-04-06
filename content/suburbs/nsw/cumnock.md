@@ -1,9 +1,10 @@
 ---
-title: CUMNOCK
-state: NSW
-postcode: 2867
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.965877
-longitude: 148.611239
-url: /nsw/cumnock/
 layout: suburb
+longitude: 148.611239
+postcode: '2867'
+state: NSW
+title: CUMNOCK
+url: /nsw/cumnock/
 ---

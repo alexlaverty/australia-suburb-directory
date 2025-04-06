@@ -1,9 +1,10 @@
 ---
-title: BORA RIDGE
-state: NSW
-postcode: 2471
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.018999
-longitude: 153.243213
-url: /nsw/bora-ridge/
 layout: suburb
+longitude: 153.243213
+postcode: '2471'
+state: NSW
+title: BORA RIDGE
+url: /nsw/bora-ridge/
 ---

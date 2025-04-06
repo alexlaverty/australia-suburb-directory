@@ -1,9 +1,10 @@
 ---
-title: ST GEORGE
-state: QLD
-postcode: 4487
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.931188
-longitude: 148.408512
-url: /qld/st-george/
 layout: suburb
+longitude: 148.408512
+postcode: '4487'
+state: QLD
+title: ST GEORGE
+url: /qld/st-george/
 ---

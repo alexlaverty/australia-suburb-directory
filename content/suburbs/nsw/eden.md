@@ -1,9 +1,10 @@
 ---
-title: EDEN
-state: NSW
-postcode: 2551
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.267687
-longitude: 149.792364
-url: /nsw/eden/
 layout: suburb
+longitude: 149.792364
+postcode: '2551'
+state: NSW
+title: EDEN
+url: /nsw/eden/
 ---

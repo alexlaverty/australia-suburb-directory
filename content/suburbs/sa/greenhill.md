@@ -1,9 +1,10 @@
 ---
-title: GREENHILL
-state: SA
-postcode: 5140
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.939245
-longitude: 138.710203
-url: /sa/greenhill/
 layout: suburb
+longitude: 138.710203
+postcode: '5140'
+state: SA
+title: GREENHILL
+url: /sa/greenhill/
 ---

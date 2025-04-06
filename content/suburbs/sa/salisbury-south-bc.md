@@ -1,9 +1,10 @@
 ---
-title: SALISBURY SOUTH BC
-state: SA
-postcode: 5106
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.793169
-longitude: 138.629463
-url: /sa/salisbury-south-bc/
 layout: suburb
+longitude: 138.629463
+postcode: '5106'
+state: SA
+title: SALISBURY SOUTH BC
+url: /sa/salisbury-south-bc/
 ---

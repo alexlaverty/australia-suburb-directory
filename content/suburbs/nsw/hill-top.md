@@ -1,9 +1,10 @@
 ---
-title: HILL TOP
-state: NSW
-postcode: 2628
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.3291
-longitude: 148.6941
-url: /nsw/hill-top/
 layout: suburb
+longitude: 148.6941
+postcode: '2628'
+state: NSW
+title: HILL TOP
+url: /nsw/hill-top/
 ---

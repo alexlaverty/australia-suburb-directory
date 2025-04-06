@@ -1,9 +1,10 @@
 ---
-title: FERNANCES CROSSING
-state: NSW
-postcode: 2325
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.06159524
-longitude: 151.1218262
-url: /nsw/fernances-crossing/
 layout: suburb
+longitude: 151.1218262
+postcode: '2325'
+state: NSW
+title: FERNANCES CROSSING
+url: /nsw/fernances-crossing/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BUNGULLA
-state: WA
-postcode: 6410
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.579991
-longitude: 117.679993
-url: /wa/bungulla/
 layout: suburb
+longitude: 117.679993
+postcode: '6410'
+state: WA
+title: BUNGULLA
+url: /wa/bungulla/
 ---

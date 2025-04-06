@@ -1,9 +1,10 @@
 ---
-title: BAYVIEW
-state: NSW
-postcode: 2104
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.664921
-longitude: 151.290921
-url: /nsw/bayview/
 layout: suburb
+longitude: 151.290921
+postcode: '2104'
+state: NSW
+title: BAYVIEW
+url: /nsw/bayview/
 ---

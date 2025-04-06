@@ -1,9 +1,10 @@
 ---
-title: LONG REEF
-state: NSW
-postcode: 2097
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.739577
-longitude: 151.297895
-url: /nsw/long-reef/
 layout: suburb
+longitude: 151.297895
+postcode: '2097'
+state: NSW
+title: LONG REEF
+url: /nsw/long-reef/
 ---

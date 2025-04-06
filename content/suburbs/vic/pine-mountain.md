@@ -1,9 +1,10 @@
 ---
-title: PINE MOUNTAIN
-state: VIC
-postcode: 3709
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.01189247
-longitude: 147.8327575
-url: /vic/pine-mountain/
 layout: suburb
+longitude: 147.8327575
+postcode: '3709'
+state: VIC
+title: PINE MOUNTAIN
+url: /vic/pine-mountain/
 ---

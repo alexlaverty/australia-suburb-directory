@@ -1,9 +1,10 @@
 ---
-title: DICKY BEACH
-state: QLD
-postcode: 4551
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.828067
-longitude: 153.088435
-url: /qld/dicky-beach/
 layout: suburb
+longitude: 153.088435
+postcode: '4551'
+state: QLD
+title: DICKY BEACH
+url: /qld/dicky-beach/
 ---

@@ -1,9 +1,10 @@
 ---
-title: KONGAL
-state: SA
-postcode: 5270
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.404918
-longitude: 140.601672
-url: /sa/kongal/
 layout: suburb
+longitude: 140.601672
+postcode: '5270'
+state: SA
+title: KONGAL
+url: /sa/kongal/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CULBURRA
-state: SA
-postcode: 5261
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.59601
-longitude: 139.935161
-url: /sa/culburra/
 layout: suburb
+longitude: 139.935161
+postcode: '5261'
+state: SA
+title: CULBURRA
+url: /sa/culburra/
 ---

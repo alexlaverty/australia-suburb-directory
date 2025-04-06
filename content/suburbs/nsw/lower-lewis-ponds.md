@@ -1,9 +1,10 @@
 ---
-title: LOWER LEWIS PONDS
-state: NSW
-postcode: 2800
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.233929
-longitude: 149.116263
-url: /nsw/lower-lewis-ponds/
 layout: suburb
+longitude: 149.116263
+postcode: '2800'
+state: NSW
+title: LOWER LEWIS PONDS
+url: /nsw/lower-lewis-ponds/
 ---

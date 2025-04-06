@@ -1,9 +1,10 @@
 ---
-title: LOCK
-state: SA
-postcode: 5633
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.448521
-longitude: 135.581933
-url: /sa/lock/
 layout: suburb
+longitude: 135.581933
+postcode: '5633'
+state: SA
+title: LOCK
+url: /sa/lock/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GOOSEBERRY HILL
-state: WA
-postcode: 6076
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.108961
-longitude: 116.208263
-url: /wa/gooseberry-hill/
 layout: suburb
+longitude: 116.208263
+postcode: '6076'
+state: WA
+title: GOOSEBERRY HILL
+url: /wa/gooseberry-hill/
 ---

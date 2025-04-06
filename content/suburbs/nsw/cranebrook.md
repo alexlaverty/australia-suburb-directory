@@ -1,9 +1,10 @@
 ---
-title: CRANEBROOK
-state: NSW
-postcode: 2749
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.702167
-longitude: 150.686816
-url: /nsw/cranebrook/
 layout: suburb
+longitude: 150.686816
+postcode: '2749'
+state: NSW
+title: CRANEBROOK
+url: /nsw/cranebrook/
 ---

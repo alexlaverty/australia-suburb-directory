@@ -1,9 +1,10 @@
 ---
-title: MOUNT LOW
-state: QLD
-postcode: 4818
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.23794
-longitude: 146.540275
-url: /qld/mount-low/
 layout: suburb
+longitude: 146.540275
+postcode: '4818'
+state: QLD
+title: MOUNT LOW
+url: /qld/mount-low/
 ---

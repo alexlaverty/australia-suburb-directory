@@ -1,9 +1,10 @@
 ---
-title: NEERIM
-state: VIC
-postcode: 3831
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.993258
-longitude: 146.013136
-url: /vic/neerim/
 layout: suburb
+longitude: 146.013136
+postcode: '3831'
+state: VIC
+title: NEERIM
+url: /vic/neerim/
 ---

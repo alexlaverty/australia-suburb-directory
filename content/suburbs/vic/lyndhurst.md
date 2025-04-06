@@ -1,9 +1,10 @@
 ---
-title: LYNDHURST
-state: VIC
-postcode: 3975
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.05354
-longitude: 145.231114
-url: /vic/lyndhurst/
 layout: suburb
+longitude: 145.231114
+postcode: '3975'
+state: VIC
+title: LYNDHURST
+url: /vic/lyndhurst/
 ---

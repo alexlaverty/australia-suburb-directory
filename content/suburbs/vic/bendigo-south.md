@@ -1,9 +1,10 @@
 ---
-title: BENDIGO SOUTH
-state: VIC
-postcode: 3550
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.764269
-longitude: 144.285267
-url: /vic/bendigo-south/
 layout: suburb
+longitude: 144.285267
+postcode: '3550'
+state: VIC
+title: BENDIGO SOUTH
+url: /vic/bendigo-south/
 ---

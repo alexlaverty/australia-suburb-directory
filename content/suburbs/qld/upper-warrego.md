@@ -1,9 +1,10 @@
 ---
-title: UPPER WARREGO
-state: QLD
-postcode: 4477
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.15423668
-longitude: 147.3189625
-url: /qld/upper-warrego/
 layout: suburb
+longitude: 147.3189625
+postcode: '4477'
+state: QLD
+title: UPPER WARREGO
+url: /qld/upper-warrego/
 ---

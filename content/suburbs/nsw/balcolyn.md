@@ -1,9 +1,10 @@
 ---
-title: BALCOLYN
-state: NSW
-postcode: 2264
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.106675
-longitude: 151.533807
-url: /nsw/balcolyn/
 layout: suburb
+longitude: 151.533807
+postcode: '2264'
+state: NSW
+title: BALCOLYN
+url: /nsw/balcolyn/
 ---

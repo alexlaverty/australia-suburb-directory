@@ -1,9 +1,10 @@
 ---
-title: CHERRYBROOK
-state: NSW
-postcode: 2126
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.724898
-longitude: 151.043941
-url: /nsw/cherrybrook/
 layout: suburb
+longitude: 151.043941
+postcode: '2126'
+state: NSW
+title: CHERRYBROOK
+url: /nsw/cherrybrook/
 ---

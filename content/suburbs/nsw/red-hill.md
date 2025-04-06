@@ -1,9 +1,10 @@
 ---
-title: RED HILL
-state: NSW
-postcode: 2824
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.73454528
-longitude: 147.7943646
-url: /nsw/red-hill/
 layout: suburb
+longitude: 147.7943646
+postcode: '2824'
+state: NSW
+title: RED HILL
+url: /nsw/red-hill/
 ---

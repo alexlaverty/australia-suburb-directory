@@ -1,9 +1,10 @@
 ---
-title: MIDDLE PARK
-state: VIC
-postcode: 3206
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.846534
-longitude: 144.95086
-url: /vic/middle-park/
 layout: suburb
+longitude: 144.95086
+postcode: '3206'
+state: VIC
+title: MIDDLE PARK
+url: /vic/middle-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SUNNYCLIFFS
-state: VIC
-postcode: 3496
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.286644
-longitude: 142.186246
-url: /vic/sunnycliffs/
 layout: suburb
+longitude: 142.186246
+postcode: '3496'
+state: VIC
+title: SUNNYCLIFFS
+url: /vic/sunnycliffs/
 ---

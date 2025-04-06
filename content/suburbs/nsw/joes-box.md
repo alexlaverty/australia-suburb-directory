@@ -1,9 +1,10 @@
 ---
-title: JOES BOX
-state: NSW
-postcode: 2469
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.67786734
-longitude: 152.5933444
-url: /nsw/joes-box/
 layout: suburb
+longitude: 152.5933444
+postcode: '2469'
+state: NSW
+title: JOES BOX
+url: /nsw/joes-box/
 ---

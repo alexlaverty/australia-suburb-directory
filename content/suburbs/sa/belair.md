@@ -1,9 +1,10 @@
 ---
-title: BELAIR
-state: SA
-postcode: 5052
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.003888
-longitude: 138.618684
-url: /sa/belair/
 layout: suburb
+longitude: 138.618684
+postcode: '5052'
+state: SA
+title: BELAIR
+url: /sa/belair/
 ---

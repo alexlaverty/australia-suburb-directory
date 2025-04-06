@@ -1,9 +1,10 @@
 ---
-title: NORTH WIALKI
-state: WA
-postcode: 6473
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.488998
-longitude: 118.13352
-url: /wa/north-wialki/
 layout: suburb
+longitude: 118.13352
+postcode: '6473'
+state: WA
+title: NORTH WIALKI
+url: /wa/north-wialki/
 ---

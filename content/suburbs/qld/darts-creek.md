@@ -1,9 +1,10 @@
 ---
-title: DARTS CREEK
-state: QLD
-postcode: 4695
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.807115
-longitude: 150.965859
-url: /qld/darts-creek/
 layout: suburb
+longitude: 150.965859
+postcode: '4695'
+state: QLD
+title: DARTS CREEK
+url: /qld/darts-creek/
 ---

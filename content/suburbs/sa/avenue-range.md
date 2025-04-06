@@ -1,9 +1,10 @@
 ---
-title: AVENUE RANGE
-state: SA
-postcode: 5273
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.942586
-longitude: 140.246064
-url: /sa/avenue-range/
 layout: suburb
+longitude: 140.246064
+postcode: '5273'
+state: SA
+title: AVENUE RANGE
+url: /sa/avenue-range/
 ---

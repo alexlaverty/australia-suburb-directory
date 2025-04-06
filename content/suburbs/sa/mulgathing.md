@@ -1,9 +1,10 @@
 ---
-title: MULGATHING
-state: SA
-postcode: 5719
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.4167
-longitude: 134.049
-url: /sa/mulgathing/
 layout: suburb
+longitude: 134.049
+postcode: '5719'
+state: SA
+title: MULGATHING
+url: /sa/mulgathing/
 ---

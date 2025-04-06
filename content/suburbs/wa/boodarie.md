@@ -1,9 +1,10 @@
 ---
-title: BOODARIE
-state: WA
-postcode: 6722
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -20.407853
-longitude: 118.606673
-url: /wa/boodarie/
 layout: suburb
+longitude: 118.606673
+postcode: '6722'
+state: WA
+title: BOODARIE
+url: /wa/boodarie/
 ---

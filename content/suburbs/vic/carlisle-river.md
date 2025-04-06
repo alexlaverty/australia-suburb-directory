@@ -1,9 +1,10 @@
 ---
-title: CARLISLE RIVER
-state: VIC
-postcode: 3239
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.564014
-longitude: 143.448102
-url: /vic/carlisle-river/
 layout: suburb
+longitude: 143.448102
+postcode: '3239'
+state: VIC
+title: CARLISLE RIVER
+url: /vic/carlisle-river/
 ---

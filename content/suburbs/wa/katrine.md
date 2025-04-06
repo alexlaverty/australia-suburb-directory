@@ -1,9 +1,10 @@
 ---
-title: KATRINE
-state: WA
-postcode: 6401
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.6279
-longitude: 116.5635
-url: /wa/katrine/
 layout: suburb
+longitude: 116.5635
+postcode: '6401'
+state: WA
+title: KATRINE
+url: /wa/katrine/
 ---

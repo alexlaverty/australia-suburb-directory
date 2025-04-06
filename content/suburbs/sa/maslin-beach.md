@@ -1,9 +1,10 @@
 ---
-title: MASLIN BEACH
-state: SA
-postcode: 5170
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.237265
-longitude: 138.478943
-url: /sa/maslin-beach/
 layout: suburb
+longitude: 138.478943
+postcode: '5170'
+state: SA
+title: MASLIN BEACH
+url: /sa/maslin-beach/
 ---

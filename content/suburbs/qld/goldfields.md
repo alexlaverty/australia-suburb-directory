@@ -1,9 +1,10 @@
 ---
-title: GOLDFIELDS
-state: QLD
-postcode: 4380
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.48651883
-longitude: 151.7143861
-url: /qld/goldfields/
 layout: suburb
+longitude: 151.7143861
+postcode: '4380'
+state: QLD
+title: GOLDFIELDS
+url: /qld/goldfields/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MEREWETHER
-state: NSW
-postcode: 2291
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.951039
-longitude: 151.742882
-url: /nsw/merewether/
 layout: suburb
+longitude: 151.742882
+postcode: '2291'
+state: NSW
+title: MEREWETHER
+url: /nsw/merewether/
 ---

@@ -1,9 +1,10 @@
 ---
-title: THEVENARD ISLAND
-state: WA
-postcode: 6711
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -21.461934
-longitude: 115.001086
-url: /wa/thevenard-island/
 layout: suburb
+longitude: 115.001086
+postcode: '6711'
+state: WA
+title: THEVENARD ISLAND
+url: /wa/thevenard-island/
 ---

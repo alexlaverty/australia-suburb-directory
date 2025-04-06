@@ -1,9 +1,10 @@
 ---
-title: CORRABARE
-state: NSW
-postcode: 2325
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.95034059
-longitude: 151.2187761
-url: /nsw/corrabare/
 layout: suburb
+longitude: 151.2187761
+postcode: '2325'
+state: NSW
+title: CORRABARE
+url: /nsw/corrabare/
 ---

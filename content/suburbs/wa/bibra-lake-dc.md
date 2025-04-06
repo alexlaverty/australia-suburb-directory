@@ -1,9 +1,10 @@
 ---
-title: BIBRA LAKE DC
-state: WA
-postcode: 6965
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.084784
-longitude: 115.798722
-url: /wa/bibra-lake-dc/
 layout: suburb
+longitude: 115.798722
+postcode: '6965'
+state: WA
+title: BIBRA LAKE DC
+url: /wa/bibra-lake-dc/
 ---

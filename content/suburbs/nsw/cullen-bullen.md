@@ -1,9 +1,10 @@
 ---
-title: CULLEN BULLEN
-state: NSW
-postcode: 2790
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.310653
-longitude: 150.356874
-url: /nsw/cullen-bullen/
 layout: suburb
+longitude: 150.356874
+postcode: '2790'
+state: NSW
+title: CULLEN BULLEN
+url: /nsw/cullen-bullen/
 ---

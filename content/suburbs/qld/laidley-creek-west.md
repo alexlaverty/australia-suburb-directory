@@ -1,9 +1,10 @@
 ---
-title: LAIDLEY CREEK WEST
-state: QLD
-postcode: 4341
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.68768
-longitude: 152.396656
-url: /qld/laidley-creek-west/
 layout: suburb
+longitude: 152.396656
+postcode: '4341'
+state: QLD
+title: LAIDLEY CREEK WEST
+url: /qld/laidley-creek-west/
 ---

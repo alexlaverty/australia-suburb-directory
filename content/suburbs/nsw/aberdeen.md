@@ -1,9 +1,10 @@
 ---
-title: ABERDEEN
-state: NSW
-postcode: 2336
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.14622
-longitude: 151.102917
-url: /nsw/aberdeen/
 layout: suburb
+longitude: 151.102917
+postcode: '2336'
+state: NSW
+title: ABERDEEN
+url: /nsw/aberdeen/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ROOKWOOD
-state: NSW
-postcode: 2141
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.872483
-longitude: 151.044768
-url: /nsw/rookwood/
 layout: suburb
+longitude: 151.044768
+postcode: '2141'
+state: NSW
+title: ROOKWOOD
+url: /nsw/rookwood/
 ---

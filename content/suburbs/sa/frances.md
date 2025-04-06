@@ -1,9 +1,10 @@
 ---
-title: FRANCES
-state: SA
-postcode: 5262
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.780524
-longitude: 140.904543
-url: /sa/frances/
 layout: suburb
+longitude: 140.904543
+postcode: '5262'
+state: SA
+title: FRANCES
+url: /sa/frances/
 ---

@@ -1,9 +1,10 @@
 ---
-title: LANE COVE DC
-state: NSW
-postcode: 1602
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.8148
-longitude: 151.166
-url: /nsw/lane-cove-dc/
 layout: suburb
+longitude: 151.166
+postcode: '1602'
+state: NSW
+title: LANE COVE DC
+url: /nsw/lane-cove-dc/
 ---

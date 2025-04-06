@@ -1,9 +1,10 @@
 ---
-title: BONDI JUNCTION
-state: NSW
-postcode: 2022
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.896401
-longitude: 151.245049
-url: /nsw/bondi-junction/
 layout: suburb
+longitude: 151.245049
+postcode: '2022'
+state: NSW
+title: BONDI JUNCTION
+url: /nsw/bondi-junction/
 ---

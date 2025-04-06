@@ -1,9 +1,10 @@
 ---
-title: MCCRACKEN
-state: SA
-postcode: 5211
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.566153
-longitude: 138.627975
-url: /sa/mccracken/
 layout: suburb
+longitude: 138.627975
+postcode: '5211'
+state: SA
+title: MCCRACKEN
+url: /sa/mccracken/
 ---

@@ -1,9 +1,10 @@
 ---
-title: TURKEY HILL
-state: WA
-postcode: 6426
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.361305
-longitude: 119.311267
-url: /wa/turkey-hill/
 layout: suburb
+longitude: 119.311267
+postcode: '6426'
+state: WA
+title: TURKEY HILL
+url: /wa/turkey-hill/
 ---

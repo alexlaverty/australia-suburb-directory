@@ -1,9 +1,10 @@
 ---
-title: MELROSE
-state: QLD
-postcode: 4613
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.279772
-longitude: 151.338904
-url: /qld/melrose/
 layout: suburb
+longitude: 151.338904
+postcode: '4613'
+state: QLD
+title: MELROSE
+url: /qld/melrose/
 ---

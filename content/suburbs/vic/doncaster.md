@@ -1,9 +1,10 @@
 ---
-title: DONCASTER
-state: VIC
-postcode: 3108
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.786429
-longitude: 145.125797
-url: /vic/doncaster/
 layout: suburb
+longitude: 145.125797
+postcode: '3108'
+state: VIC
+title: DONCASTER
+url: /vic/doncaster/
 ---

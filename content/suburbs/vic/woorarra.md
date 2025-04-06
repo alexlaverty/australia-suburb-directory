@@ -1,9 +1,10 @@
 ---
-title: WOORARRA
-state: VIC
-postcode: 3962
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.60357
-longitude: 146.359804
-url: /vic/woorarra/
 layout: suburb
+longitude: 146.359804
+postcode: '3962'
+state: VIC
+title: WOORARRA
+url: /vic/woorarra/
 ---

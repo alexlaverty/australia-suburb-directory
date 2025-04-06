@@ -1,9 +1,10 @@
 ---
-title: ST ANDREWS BEACH
-state: VIC
-postcode: 3941
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.396077
-longitude: 144.827203
-url: /vic/st-andrews-beach/
 layout: suburb
+longitude: 144.827203
+postcode: '3941'
+state: VIC
+title: ST ANDREWS BEACH
+url: /vic/st-andrews-beach/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BAMAWM EXTENSION
-state: VIC
-postcode: 3564
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.18096611
-longitude: 144.6014151
-url: /vic/bamawm-extension/
 layout: suburb
+longitude: 144.6014151
+postcode: '3564'
+state: VIC
+title: BAMAWM EXTENSION
+url: /vic/bamawm-extension/
 ---

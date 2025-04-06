@@ -1,9 +1,10 @@
 ---
-title: SCOTTS CREEK
-state: VIC
-postcode: 3267
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.466647
-longitude: 143.06073
-url: /vic/scotts-creek/
 layout: suburb
+longitude: 143.06073
+postcode: '3267'
+state: VIC
+title: SCOTTS CREEK
+url: /vic/scotts-creek/
 ---

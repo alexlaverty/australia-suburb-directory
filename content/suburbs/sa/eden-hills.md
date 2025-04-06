@@ -1,9 +1,10 @@
 ---
-title: EDEN HILLS
-state: SA
-postcode: 5050
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.026307
-longitude: 138.601272
-url: /sa/eden-hills/
 layout: suburb
+longitude: 138.601272
+postcode: '5050'
+state: SA
+title: EDEN HILLS
+url: /sa/eden-hills/
 ---

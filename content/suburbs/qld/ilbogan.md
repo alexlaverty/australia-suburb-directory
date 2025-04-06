@@ -1,9 +1,10 @@
 ---
-title: ILBOGAN
-state: QLD
-postcode: 4285
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.056979
-longitude: 152.975131
-url: /qld/ilbogan/
 layout: suburb
+longitude: 152.975131
+postcode: '4285'
+state: QLD
+title: ILBOGAN
+url: /qld/ilbogan/
 ---

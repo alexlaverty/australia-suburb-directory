@@ -1,9 +1,10 @@
 ---
-title: GRANGEFIELDS
-state: VIC
-postcode: 3335
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.7069003
-longitude: 144.6393305
-url: /vic/grangefields/
 layout: suburb
+longitude: 144.6393305
+postcode: '3335'
+state: VIC
+title: GRANGEFIELDS
+url: /vic/grangefields/
 ---

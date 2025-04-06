@@ -1,9 +1,10 @@
 ---
-title: GREENWALD
-state: VIC
-postcode: 3304
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.182084
-longitude: 141.952156
-url: /vic/greenwald/
 layout: suburb
+longitude: 141.952156
+postcode: '3304'
+state: VIC
+title: GREENWALD
+url: /vic/greenwald/
 ---

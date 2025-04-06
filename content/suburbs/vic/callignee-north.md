@@ -1,9 +1,10 @@
 ---
-title: CALLIGNEE NORTH
-state: VIC
-postcode: 3844
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.316869
-longitude: 146.607101
-url: /vic/callignee-north/
 layout: suburb
+longitude: 146.607101
+postcode: '3844'
+state: VIC
+title: CALLIGNEE NORTH
+url: /vic/callignee-north/
 ---

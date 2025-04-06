@@ -1,9 +1,10 @@
 ---
-title: UNO
-state: SA
-postcode: 5717
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.8007
-longitude: 136.6126
-url: /sa/uno/
 layout: suburb
+longitude: 136.6126
+postcode: '5717'
+state: SA
+title: UNO
+url: /sa/uno/
 ---

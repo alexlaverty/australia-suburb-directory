@@ -1,9 +1,10 @@
 ---
-title: MOUNT CRAWFORD
-state: SA
-postcode: 5351
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.638218
-longitude: 138.897802
-url: /sa/mount-crawford/
 layout: suburb
+longitude: 138.897802
+postcode: '5351'
+state: SA
+title: MOUNT CRAWFORD
+url: /sa/mount-crawford/
 ---

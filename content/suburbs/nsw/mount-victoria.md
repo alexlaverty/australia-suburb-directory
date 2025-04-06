@@ -1,9 +1,10 @@
 ---
-title: MOUNT VICTORIA
-state: NSW
-postcode: 2786
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.533055
-longitude: 150.317795
-url: /nsw/mount-victoria/
 layout: suburb
+longitude: 150.317795
+postcode: '2786'
+state: NSW
+title: MOUNT VICTORIA
+url: /nsw/mount-victoria/
 ---

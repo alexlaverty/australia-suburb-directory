@@ -1,9 +1,10 @@
 ---
-title: MELTON SOUTH
-state: VIC
-postcode: 3338
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.705529
-longitude: 144.571033
-url: /vic/melton-south/
 layout: suburb
+longitude: 144.571033
+postcode: '3338'
+state: VIC
+title: MELTON SOUTH
+url: /vic/melton-south/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WAL WAL
-state: VIC
-postcode: 3385
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.81909176
-longitude: 142.616484
-url: /vic/wal-wal/
 layout: suburb
+longitude: 142.616484
+postcode: '3385'
+state: VIC
+title: WAL WAL
+url: /vic/wal-wal/
 ---

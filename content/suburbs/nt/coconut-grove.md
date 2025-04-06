@@ -1,9 +1,10 @@
 ---
-title: COCONUT GROVE
-state: NT
-postcode: 0810
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.39614166
-longitude: 130.8502369
-url: /nt/coconut-grove/
 layout: suburb
+longitude: 130.8502369
+postcode: 0810
+state: NT
+title: COCONUT GROVE
+url: /nt/coconut-grove/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PINE CREEK
-state: NT
-postcode: 0847
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -14.012122
-longitude: 131.759154
-url: /nt/pine-creek/
 layout: suburb
+longitude: 131.759154
+postcode: 0847
+state: NT
+title: PINE CREEK
+url: /nt/pine-creek/
 ---

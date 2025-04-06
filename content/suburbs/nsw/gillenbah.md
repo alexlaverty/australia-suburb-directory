@@ -1,9 +1,10 @@
 ---
-title: GILLENBAH
-state: NSW
-postcode: 2700
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.77821612
-longitude: 146.444884
-url: /nsw/gillenbah/
 layout: suburb
+longitude: 146.444884
+postcode: '2700'
+state: NSW
+title: GILLENBAH
+url: /nsw/gillenbah/
 ---

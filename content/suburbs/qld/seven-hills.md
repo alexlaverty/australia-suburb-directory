@@ -1,9 +1,10 @@
 ---
-title: SEVEN HILLS
-state: QLD
-postcode: 4170
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.470778
-longitude: 153.074231
-url: /qld/seven-hills/
 layout: suburb
+longitude: 153.074231
+postcode: '4170'
+state: QLD
+title: SEVEN HILLS
+url: /qld/seven-hills/
 ---

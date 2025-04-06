@@ -1,9 +1,10 @@
 ---
-title: WELLINGTON EAST
-state: SA
-postcode: 5259
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.3937685
-longitude: 139.3821462
-url: /sa/wellington-east/
 layout: suburb
+longitude: 139.3821462
+postcode: '5259'
+state: SA
+title: WELLINGTON EAST
+url: /sa/wellington-east/
 ---

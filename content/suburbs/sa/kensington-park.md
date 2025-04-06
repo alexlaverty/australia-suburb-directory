@@ -1,9 +1,10 @@
 ---
-title: KENSINGTON PARK
-state: SA
-postcode: 5068
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.922605
-longitude: 138.654999
-url: /sa/kensington-park/
 layout: suburb
+longitude: 138.654999
+postcode: '5068'
+state: SA
+title: KENSINGTON PARK
+url: /sa/kensington-park/
 ---

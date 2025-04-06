@@ -1,9 +1,10 @@
 ---
-title: TABLEDERRY
-state: QLD
-postcode: 4732
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -22.39476733
-longitude: 144.5105389
-url: /qld/tablederry/
 layout: suburb
+longitude: 144.5105389
+postcode: '4732'
+state: QLD
+title: TABLEDERRY
+url: /qld/tablederry/
 ---

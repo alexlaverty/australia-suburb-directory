@@ -1,9 +1,10 @@
 ---
-title: RICHLANDS DC
-state: QLD
-postcode: 4077
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.605551
-longitude: 152.967822
-url: /qld/richlands-dc/
 layout: suburb
+longitude: 152.967822
+postcode: '4077'
+state: QLD
+title: RICHLANDS DC
+url: /qld/richlands-dc/
 ---

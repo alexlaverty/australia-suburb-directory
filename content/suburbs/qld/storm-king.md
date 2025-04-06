@@ -1,9 +1,10 @@
 ---
-title: STORM KING
-state: QLD
-postcode: 4380
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.72705422
-longitude: 151.9796679
-url: /qld/storm-king/
 layout: suburb
+longitude: 151.9796679
+postcode: '4380'
+state: QLD
+title: STORM KING
+url: /qld/storm-king/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HAZEL PARK
-state: VIC
-postcode: 3966
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.630568
-longitude: 146.436583
-url: /vic/hazel-park/
 layout: suburb
+longitude: 146.436583
+postcode: '3966'
+state: VIC
+title: HAZEL PARK
+url: /vic/hazel-park/
 ---

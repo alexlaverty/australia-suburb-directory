@@ -1,9 +1,10 @@
 ---
-title: KALGOORLIE PO
-state: WA
-postcode: 6433
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.749
-longitude: 121.466
-url: /wa/kalgoorlie-po/
 layout: suburb
+longitude: 121.466
+postcode: '6433'
+state: WA
+title: KALGOORLIE PO
+url: /wa/kalgoorlie-po/
 ---

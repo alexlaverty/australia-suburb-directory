@@ -1,9 +1,10 @@
 ---
-title: TRESCO
-state: VIC
-postcode: 3583
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.509635
-longitude: 143.66458
-url: /vic/tresco/
 layout: suburb
+longitude: 143.66458
+postcode: '3583'
+state: VIC
+title: TRESCO
+url: /vic/tresco/
 ---

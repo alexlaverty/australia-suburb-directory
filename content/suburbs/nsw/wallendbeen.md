@@ -1,9 +1,10 @@
 ---
-title: WALLENDBEEN
-state: NSW
-postcode: 2588
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.599488
-longitude: 148.255601
-url: /nsw/wallendbeen/
 layout: suburb
+longitude: 148.255601
+postcode: '2588'
+state: NSW
+title: WALLENDBEEN
+url: /nsw/wallendbeen/
 ---

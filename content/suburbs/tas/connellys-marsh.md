@@ -1,9 +1,10 @@
 ---
-title: CONNELLYS MARSH
-state: TAS
-postcode: 7173
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.823649
-longitude: 147.630737
-url: /tas/connellys-marsh/
 layout: suburb
+longitude: 147.630737
+postcode: '7173'
+state: TAS
+title: CONNELLYS MARSH
+url: /tas/connellys-marsh/
 ---

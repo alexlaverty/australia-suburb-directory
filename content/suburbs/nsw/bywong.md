@@ -1,9 +1,10 @@
 ---
-title: BYWONG
-state: NSW
-postcode: 2621
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.4698
-longitude: 149.484038
-url: /nsw/bywong/
 layout: suburb
+longitude: 149.484038
+postcode: '2621'
+state: NSW
+title: BYWONG
+url: /nsw/bywong/
 ---

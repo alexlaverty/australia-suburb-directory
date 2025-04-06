@@ -1,9 +1,10 @@
 ---
-title: RODD POINT
-state: NSW
-postcode: 2046
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.866044
-longitude: 151.133865
-url: /nsw/rodd-point/
 layout: suburb
+longitude: 151.133865
+postcode: '2046'
+state: NSW
+title: RODD POINT
+url: /nsw/rodd-point/
 ---

@@ -1,9 +1,10 @@
 ---
-title: THE PALMS
-state: QLD
-postcode: 4570
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.153831
-longitude: 152.616943
-url: /qld/the-palms/
 layout: suburb
+longitude: 152.616943
+postcode: '4570'
+state: QLD
+title: THE PALMS
+url: /qld/the-palms/
 ---

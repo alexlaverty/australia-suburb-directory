@@ -1,9 +1,10 @@
 ---
-title: DUNKIRK
-state: VIC
-postcode: 3630
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.380853
-longitude: 145.403176
-url: /vic/dunkirk/
 layout: suburb
+longitude: 145.403176
+postcode: '3630'
+state: VIC
+title: DUNKIRK
+url: /vic/dunkirk/
 ---

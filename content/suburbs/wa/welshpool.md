@@ -1,9 +1,10 @@
 ---
-title: WELSHPOOL
-state: WA
-postcode: 6106
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.992082
-longitude: 115.945564
-url: /wa/welshpool/
 layout: suburb
+longitude: 115.945564
+postcode: '6106'
+state: WA
+title: WELSHPOOL
+url: /wa/welshpool/
 ---

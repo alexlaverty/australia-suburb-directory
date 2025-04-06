@@ -1,9 +1,10 @@
 ---
-title: HAMLYN HEIGHTS
-state: VIC
-postcode: 3215
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.111002
-longitude: 144.33452
-url: /vic/hamlyn-heights/
 layout: suburb
+longitude: 144.33452
+postcode: '3215'
+state: VIC
+title: HAMLYN HEIGHTS
+url: /vic/hamlyn-heights/
 ---

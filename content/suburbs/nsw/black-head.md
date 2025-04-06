@@ -1,9 +1,10 @@
 ---
-title: BLACK HEAD
-state: NSW
-postcode: 2430
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.899311
-longitude: 152.503209
-url: /nsw/black-head/
 layout: suburb
+longitude: 152.503209
+postcode: '2430'
+state: NSW
+title: BLACK HEAD
+url: /nsw/black-head/
 ---

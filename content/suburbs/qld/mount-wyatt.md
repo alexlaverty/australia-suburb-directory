@@ -1,9 +1,10 @@
 ---
-title: MOUNT WYATT
-state: QLD
-postcode: 4804
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -20.867952
-longitude: 147.518462
-url: /qld/mount-wyatt/
 layout: suburb
+longitude: 147.518462
+postcode: '4804'
+state: QLD
+title: MOUNT WYATT
+url: /qld/mount-wyatt/
 ---

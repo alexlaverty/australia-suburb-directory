@@ -1,9 +1,10 @@
 ---
-title: NEUTRAL BAY
-state: NSW
-postcode: 2089
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.838021
-longitude: 151.216869
-url: /nsw/neutral-bay/
 layout: suburb
+longitude: 151.216869
+postcode: '2089'
+state: NSW
+title: NEUTRAL BAY
+url: /nsw/neutral-bay/
 ---

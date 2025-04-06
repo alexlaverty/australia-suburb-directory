@@ -1,9 +1,10 @@
 ---
-title: CABRAMURRA
-state: NSW
-postcode: 2629
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.997349
-longitude: 148.769744
-url: /nsw/cabramurra/
 layout: suburb
+longitude: 148.769744
+postcode: '2629'
+state: NSW
+title: CABRAMURRA
+url: /nsw/cabramurra/
 ---

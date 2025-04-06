@@ -1,9 +1,10 @@
 ---
-title: DOOMBEN
-state: QLD
-postcode: 4007
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.436088
-longitude: 153.061914
-url: /qld/doomben/
 layout: suburb
+longitude: 153.061914
+postcode: '4007'
+state: QLD
+title: DOOMBEN
+url: /qld/doomben/
 ---

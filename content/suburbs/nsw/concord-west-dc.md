@@ -1,9 +1,10 @@
 ---
-title: CONCORD WEST DC
-state: NSW
-postcode: 2138
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.8397
-longitude: 151.088
-url: /nsw/concord-west-dc/
 layout: suburb
+longitude: 151.088
+postcode: '2138'
+state: NSW
+title: CONCORD WEST DC
+url: /nsw/concord-west-dc/
 ---

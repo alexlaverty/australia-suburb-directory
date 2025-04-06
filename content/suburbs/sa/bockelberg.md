@@ -1,9 +1,10 @@
 ---
-title: BOCKELBERG
-state: SA
-postcode: 5655
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.58529275
-longitude: 135.0485689
-url: /sa/bockelberg/
 layout: suburb
+longitude: 135.0485689
+postcode: '5655'
+state: SA
+title: BOCKELBERG
+url: /sa/bockelberg/
 ---

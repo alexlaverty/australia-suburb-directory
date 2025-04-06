@@ -1,9 +1,10 @@
 ---
-title: MOULAMEIN
-state: NSW
-postcode: 2733
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.013711
-longitude: 144.206139
-url: /nsw/moulamein/
 layout: suburb
+longitude: 144.206139
+postcode: '2733'
+state: NSW
+title: MOULAMEIN
+url: /nsw/moulamein/
 ---

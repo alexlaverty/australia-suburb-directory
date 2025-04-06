@@ -1,9 +1,10 @@
 ---
-title: MARYSVILLE
-state: VIC
-postcode: 3779
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.539267
-longitude: 145.784751
-url: /vic/marysville/
 layout: suburb
+longitude: 145.784751
+postcode: '3779'
+state: VIC
+title: MARYSVILLE
+url: /vic/marysville/
 ---

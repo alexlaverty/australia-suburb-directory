@@ -1,9 +1,10 @@
 ---
-title: NASHVILLE
-state: QLD
-postcode: 4017
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.318074
-longitude: 153.047339
-url: /qld/nashville/
 layout: suburb
+longitude: 153.047339
+postcode: '4017'
+state: QLD
+title: NASHVILLE
+url: /qld/nashville/
 ---

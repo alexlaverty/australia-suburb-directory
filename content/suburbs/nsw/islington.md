@@ -1,9 +1,10 @@
 ---
-title: ISLINGTON
-state: NSW
-postcode: 2296
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.915698
-longitude: 151.746237
-url: /nsw/islington/
 layout: suburb
+longitude: 151.746237
+postcode: '2296'
+state: NSW
+title: ISLINGTON
+url: /nsw/islington/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DELUNGRA
-state: NSW
-postcode: 2403
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.620234
-longitude: 150.787333
-url: /nsw/delungra/
 layout: suburb
+longitude: 150.787333
+postcode: '2403'
+state: NSW
+title: DELUNGRA
+url: /nsw/delungra/
 ---

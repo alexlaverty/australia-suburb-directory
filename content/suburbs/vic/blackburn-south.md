@@ -1,9 +1,10 @@
 ---
-title: BLACKBURN SOUTH
-state: VIC
-postcode: 3130
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.81805
-longitude: 145.149653
-url: /vic/blackburn-south/
 layout: suburb
+longitude: 145.149653
+postcode: '3130'
+state: VIC
+title: BLACKBURN SOUTH
+url: /vic/blackburn-south/
 ---

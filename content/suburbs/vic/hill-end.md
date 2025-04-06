@@ -1,9 +1,10 @@
 ---
-title: HILL END
-state: VIC
-postcode: 3825
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.978862
-longitude: 146.342932
-url: /vic/hill-end/
 layout: suburb
+longitude: 146.342932
+postcode: '3825'
+state: VIC
+title: HILL END
+url: /vic/hill-end/
 ---

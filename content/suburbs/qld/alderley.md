@@ -1,9 +1,10 @@
 ---
-title: ALDERLEY
-state: QLD
-postcode: 4051
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.427508
-longitude: 153.000297
-url: /qld/alderley/
 layout: suburb
+longitude: 153.000297
+postcode: '4051'
+state: QLD
+title: ALDERLEY
+url: /qld/alderley/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NOWA NOWA
-state: VIC
-postcode: 3887
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.757895
-longitude: 148.116641
-url: /vic/nowa-nowa/
 layout: suburb
+longitude: 148.116641
+postcode: '3887'
+state: VIC
+title: NOWA NOWA
+url: /vic/nowa-nowa/
 ---

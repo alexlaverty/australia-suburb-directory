@@ -1,9 +1,10 @@
 ---
-title: GLENQUARIE
-state: NSW
-postcode: 2564
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.998362
-longitude: 150.894916
-url: /nsw/glenquarie/
 layout: suburb
+longitude: 150.894916
+postcode: '2564'
+state: NSW
+title: GLENQUARIE
+url: /nsw/glenquarie/
 ---

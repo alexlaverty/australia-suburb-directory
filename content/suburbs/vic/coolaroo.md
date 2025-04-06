@@ -1,9 +1,10 @@
 ---
-title: COOLAROO
-state: VIC
-postcode: 3048
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.653917
-longitude: 144.923609
-url: /vic/coolaroo/
 layout: suburb
+longitude: 144.923609
+postcode: '3048'
+state: VIC
+title: COOLAROO
+url: /vic/coolaroo/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DORRIGO MOUNTAIN
-state: NSW
-postcode: 2453
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.37553037
-longitude: 152.7309701
-url: /nsw/dorrigo-mountain/
 layout: suburb
+longitude: 152.7309701
+postcode: '2453'
+state: NSW
+title: DORRIGO MOUNTAIN
+url: /nsw/dorrigo-mountain/
 ---

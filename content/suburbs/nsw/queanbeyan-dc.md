@@ -1,9 +1,10 @@
 ---
-title: QUEANBEYAN DC
-state: NSW
-postcode: 2620
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.317402
-longitude: 149.257101
-url: /nsw/queanbeyan-dc/
 layout: suburb
+longitude: 149.257101
+postcode: '2620'
+state: NSW
+title: QUEANBEYAN DC
+url: /nsw/queanbeyan-dc/
 ---

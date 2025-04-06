@@ -1,9 +1,10 @@
 ---
-title: CASULA
-state: NSW
-postcode: 2170
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.928392
-longitude: 150.921448
-url: /nsw/casula/
 layout: suburb
+longitude: 150.921448
+postcode: '2170'
+state: NSW
+title: CASULA
+url: /nsw/casula/
 ---

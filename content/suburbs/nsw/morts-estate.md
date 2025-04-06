@@ -1,9 +1,10 @@
 ---
-title: MORTS ESTATE
-state: NSW
-postcode: 2790
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.46774778
-longitude: 150.1677602
-url: /nsw/morts-estate/
 layout: suburb
+longitude: 150.1677602
+postcode: '2790'
+state: NSW
+title: MORTS ESTATE
+url: /nsw/morts-estate/
 ---

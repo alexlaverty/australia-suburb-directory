@@ -1,9 +1,10 @@
 ---
-title: NORTH STIRLINGS
-state: WA
-postcode: 6338
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.362864
-longitude: 118.657118
-url: /wa/north-stirlings/
 layout: suburb
+longitude: 118.657118
+postcode: '6338'
+state: WA
+title: NORTH STIRLINGS
+url: /wa/north-stirlings/
 ---

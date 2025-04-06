@@ -1,9 +1,10 @@
 ---
-title: BAXTER
-state: VIC
-postcode: 3911
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.196908
-longitude: 145.169556
-url: /vic/baxter/
 layout: suburb
+longitude: 145.169556
+postcode: '3911'
+state: VIC
+title: BAXTER
+url: /vic/baxter/
 ---

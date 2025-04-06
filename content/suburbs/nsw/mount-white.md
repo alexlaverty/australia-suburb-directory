@@ -1,9 +1,10 @@
 ---
-title: MOUNT WHITE
-state: NSW
-postcode: 2250
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.325373
-longitude: 151.189243
-url: /nsw/mount-white/
 layout: suburb
+longitude: 151.189243
+postcode: '2250'
+state: NSW
+title: MOUNT WHITE
+url: /nsw/mount-white/
 ---

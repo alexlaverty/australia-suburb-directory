@@ -1,9 +1,10 @@
 ---
-title: COLEVALE
-state: QLD
-postcode: 4808
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.510071
-longitude: 147.304401
-url: /qld/colevale/
 layout: suburb
+longitude: 147.304401
+postcode: '4808'
+state: QLD
+title: COLEVALE
+url: /qld/colevale/
 ---

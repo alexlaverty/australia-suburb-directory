@@ -1,9 +1,10 @@
 ---
-title: MANMANNING
-state: WA
-postcode: 6465
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.859977
-longitude: 117.071157
-url: /wa/manmanning/
 layout: suburb
+longitude: 117.071157
+postcode: '6465'
+state: WA
+title: MANMANNING
+url: /wa/manmanning/
 ---

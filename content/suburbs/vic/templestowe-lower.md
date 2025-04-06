@@ -1,9 +1,10 @@
 ---
-title: TEMPLESTOWE LOWER
-state: VIC
-postcode: 3107
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.765225
-longitude: 145.110677
-url: /vic/templestowe-lower/
 layout: suburb
+longitude: 145.110677
+postcode: '3107'
+state: VIC
+title: TEMPLESTOWE LOWER
+url: /vic/templestowe-lower/
 ---

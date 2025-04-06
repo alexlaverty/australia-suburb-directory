@@ -1,9 +1,10 @@
 ---
-title: ELWOOD
-state: VIC
-postcode: 3184
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.881414
-longitude: 144.984034
-url: /vic/elwood/
 layout: suburb
+longitude: 144.984034
+postcode: '3184'
+state: VIC
+title: ELWOOD
+url: /vic/elwood/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CASCADE
-state: WA
-postcode: 6450
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.401152
-longitude: 122.211127
-url: /wa/cascade/
 layout: suburb
+longitude: 122.211127
+postcode: '6450'
+state: WA
+title: CASCADE
+url: /wa/cascade/
 ---

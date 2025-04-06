@@ -1,9 +1,10 @@
 ---
-title: ELECTRONA
-state: TAS
-postcode: 7054
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.00658
-longitude: 147.256698
-url: /tas/electrona/
 layout: suburb
+longitude: 147.256698
+postcode: '7054'
+state: TAS
+title: ELECTRONA
+url: /tas/electrona/
 ---

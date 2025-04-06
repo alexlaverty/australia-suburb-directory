@@ -1,9 +1,10 @@
 ---
-title: NORA CREINA
-state: SA
-postcode: 5276
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.214147
-longitude: 139.917377
-url: /sa/nora-creina/
 layout: suburb
+longitude: 139.917377
+postcode: '5276'
+state: SA
+title: NORA CREINA
+url: /sa/nora-creina/
 ---

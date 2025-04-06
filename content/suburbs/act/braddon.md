@@ -1,9 +1,10 @@
 ---
-title: BRADDON
-state: ACT
-postcode: 2612
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.270615
-longitude: 149.133208
-url: /act/braddon/
 layout: suburb
+longitude: 149.133208
+postcode: '2612'
+state: ACT
+title: BRADDON
+url: /act/braddon/
 ---

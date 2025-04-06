@@ -1,9 +1,10 @@
 ---
-title: MOORINE ROCK
-state: WA
-postcode: 6425
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.398146
-longitude: 119.143202
-url: /wa/moorine-rock/
 layout: suburb
+longitude: 119.143202
+postcode: '6425'
+state: WA
+title: MOORINE ROCK
+url: /wa/moorine-rock/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GWELUP
-state: WA
-postcode: 6018
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.891957
-longitude: 115.786821
-url: /wa/gwelup/
 layout: suburb
+longitude: 115.786821
+postcode: '6018'
+state: WA
+title: GWELUP
+url: /wa/gwelup/
 ---

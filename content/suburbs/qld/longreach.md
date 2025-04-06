@@ -1,9 +1,10 @@
 ---
-title: LONGREACH
-state: QLD
-postcode: 4730
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.790711
-longitude: 143.402522
-url: /qld/longreach/
 layout: suburb
+longitude: 143.402522
+postcode: '4730'
+state: QLD
+title: LONGREACH
+url: /qld/longreach/
 ---

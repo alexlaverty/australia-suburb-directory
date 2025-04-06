@@ -1,9 +1,10 @@
 ---
-title: BAKERS CREEK
-state: QLD
-postcode: 4740
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -21.21401663
-longitude: 149.1581083
-url: /qld/bakers-creek/
 layout: suburb
+longitude: 149.1581083
+postcode: '4740'
+state: QLD
+title: BAKERS CREEK
+url: /qld/bakers-creek/
 ---

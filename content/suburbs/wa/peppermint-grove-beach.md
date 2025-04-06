@@ -1,9 +1,10 @@
 ---
-title: PEPPERMINT GROVE BEACH
-state: WA
-postcode: 6271
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.621176
-longitude: 115.615674
-url: /wa/peppermint-grove-beach/
 layout: suburb
+longitude: 115.615674
+postcode: '6271'
+state: WA
+title: PEPPERMINT GROVE BEACH
+url: /wa/peppermint-grove-beach/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SPECTACLE LAKE
-state: SA
-postcode: 5345
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.187027
-longitude: 140.454506
-url: /sa/spectacle-lake/
 layout: suburb
+longitude: 140.454506
+postcode: '5345'
+state: SA
+title: SPECTACLE LAKE
+url: /sa/spectacle-lake/
 ---

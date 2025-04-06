@@ -1,9 +1,10 @@
 ---
-title: SEAVIEW DOWNS
-state: SA
-postcode: 5049
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.045389
-longitude: 138.52272
-url: /sa/seaview-downs/
 layout: suburb
+longitude: 138.52272
+postcode: '5049'
+state: SA
+title: SEAVIEW DOWNS
+url: /sa/seaview-downs/
 ---

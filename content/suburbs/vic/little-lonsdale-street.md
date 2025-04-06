@@ -1,9 +1,10 @@
 ---
-title: LITTLE LONSDALE STREET
-state: VIC
-postcode: 8011
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -37.8113144
-longitude: 144.9617461
-url: /vic/little-lonsdale-street/
 layout: suburb
+longitude: 144.9617461
+postcode: '8011'
+state: VIC
+title: LITTLE LONSDALE STREET
+url: /vic/little-lonsdale-street/
 ---

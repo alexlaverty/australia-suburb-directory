@@ -1,9 +1,10 @@
 ---
-title: SEPARATION CREEK
-state: VIC
-postcode: 3234
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.58813123
-longitude: 143.8732037
-url: /vic/separation-creek/
 layout: suburb
+longitude: 143.8732037
+postcode: '3234'
+state: VIC
+title: SEPARATION CREEK
+url: /vic/separation-creek/
 ---

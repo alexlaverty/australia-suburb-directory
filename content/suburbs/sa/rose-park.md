@@ -1,9 +1,10 @@
 ---
-title: ROSE PARK
-state: SA
-postcode: 5067
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.919985
-longitude: 138.630575
-url: /sa/rose-park/
 layout: suburb
+longitude: 138.630575
+postcode: '5067'
+state: SA
+title: ROSE PARK
+url: /sa/rose-park/
 ---

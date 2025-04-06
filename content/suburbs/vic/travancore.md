@@ -1,9 +1,10 @@
 ---
-title: TRAVANCORE
-state: VIC
-postcode: 3032
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.774486
-longitude: 144.897221
-url: /vic/travancore/
 layout: suburb
+longitude: 144.897221
+postcode: '3032'
+state: VIC
+title: TRAVANCORE
+url: /vic/travancore/
 ---

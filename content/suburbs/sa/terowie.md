@@ -1,9 +1,10 @@
 ---
-title: TEROWIE
-state: SA
-postcode: 5421
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.13467
-longitude: 138.985832
-url: /sa/terowie/
 layout: suburb
+longitude: 138.985832
+postcode: '5421'
+state: SA
+title: TEROWIE
+url: /sa/terowie/
 ---

@@ -1,9 +1,10 @@
 ---
-title: POTTSVILLE
-state: NSW
-postcode: 2489
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.392183
-longitude: 153.541853
-url: /nsw/pottsville/
 layout: suburb
+longitude: 153.541853
+postcode: '2489'
+state: NSW
+title: POTTSVILLE
+url: /nsw/pottsville/
 ---

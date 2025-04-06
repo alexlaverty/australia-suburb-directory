@@ -1,9 +1,10 @@
 ---
-title: BOORGA
-state: NSW
-postcode: 2652
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.405064
-longitude: 147.64961
-url: /nsw/boorga/
 layout: suburb
+longitude: 147.64961
+postcode: '2652'
+state: NSW
+title: BOORGA
+url: /nsw/boorga/
 ---

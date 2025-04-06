@@ -1,9 +1,10 @@
 ---
-title: RICHMOND HILL
-state: NSW
-postcode: 2480
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.706486
-longitude: 153.25943
-url: /nsw/richmond-hill/
 layout: suburb
+longitude: 153.25943
+postcode: '2480'
+state: NSW
+title: RICHMOND HILL
+url: /nsw/richmond-hill/
 ---

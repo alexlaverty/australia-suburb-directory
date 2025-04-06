@@ -1,9 +1,10 @@
 ---
-title: MOUNT LINDESAY
-state: QLD
-postcode: 4287
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.259143
-longitude: 152.822971
-url: /qld/mount-lindesay/
 layout: suburb
+longitude: 152.822971
+postcode: '4287'
+state: QLD
+title: MOUNT LINDESAY
+url: /qld/mount-lindesay/
 ---

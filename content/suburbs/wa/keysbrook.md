@@ -1,9 +1,10 @@
 ---
-title: KEYSBROOK
-state: WA
-postcode: 6126
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.440033
-longitude: 115.977043
-url: /wa/keysbrook/
 layout: suburb
+longitude: 115.977043
+postcode: '6126'
+state: WA
+title: KEYSBROOK
+url: /wa/keysbrook/
 ---

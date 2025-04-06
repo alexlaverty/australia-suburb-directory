@@ -1,9 +1,10 @@
 ---
-title: ECHUCA WEST
-state: VIC
-postcode: 3564
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.168997
-longitude: 144.728806
-url: /vic/echuca-west/
 layout: suburb
+longitude: 144.728806
+postcode: '3564'
+state: VIC
+title: ECHUCA WEST
+url: /vic/echuca-west/
 ---

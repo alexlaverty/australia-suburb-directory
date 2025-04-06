@@ -1,9 +1,10 @@
 ---
-title: YARRAWONGA
-state: VIC
-postcode: 3730
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.051782
-longitude: 145.974755
-url: /vic/yarrawonga/
 layout: suburb
+longitude: 145.974755
+postcode: '3730'
+state: VIC
+title: YARRAWONGA
+url: /vic/yarrawonga/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WARMUN
-state: WA
-postcode: 6743
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -17.293532
-longitude: 129.662008
-url: /wa/warmun/
 layout: suburb
+longitude: 129.662008
+postcode: '6743'
+state: WA
+title: WARMUN
+url: /wa/warmun/
 ---

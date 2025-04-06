@@ -1,9 +1,10 @@
 ---
-title: SUGARLOAF
-state: VIC
-postcode: 3234
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.69
-longitude: 143.7961
-url: /vic/sugarloaf/
 layout: suburb
+longitude: 143.7961
+postcode: '3234'
+state: VIC
+title: SUGARLOAF
+url: /vic/sugarloaf/
 ---

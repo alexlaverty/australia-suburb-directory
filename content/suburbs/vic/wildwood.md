@@ -1,9 +1,10 @@
 ---
-title: WILDWOOD
-state: VIC
-postcode: 3429
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.56762
-longitude: 144.728973
-url: /vic/wildwood/
 layout: suburb
+longitude: 144.728973
+postcode: '3429'
+state: VIC
+title: WILDWOOD
+url: /vic/wildwood/
 ---

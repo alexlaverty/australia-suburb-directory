@@ -1,9 +1,10 @@
 ---
-title: VIRGINIA
-state: NT
-postcode: 0835
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.452568
-longitude: 131.013741
-url: /nt/virginia/
 layout: suburb
+longitude: 131.013741
+postcode: 0835
+state: NT
+title: VIRGINIA
+url: /nt/virginia/
 ---

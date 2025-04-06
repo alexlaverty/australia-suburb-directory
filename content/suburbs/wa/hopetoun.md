@@ -1,9 +1,10 @@
 ---
-title: HOPETOUN
-state: WA
-postcode: 6348
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.881306
-longitude: 120.145773
-url: /wa/hopetoun/
 layout: suburb
+longitude: 120.145773
+postcode: '6348'
+state: WA
+title: HOPETOUN
+url: /wa/hopetoun/
 ---

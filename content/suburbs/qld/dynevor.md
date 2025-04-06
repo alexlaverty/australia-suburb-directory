@@ -1,9 +1,10 @@
 ---
-title: DYNEVOR
-state: QLD
-postcode: 4492
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.2963544
-longitude: 144.1330121
-url: /qld/dynevor/
 layout: suburb
+longitude: 144.1330121
+postcode: '4492'
+state: QLD
+title: DYNEVOR
+url: /qld/dynevor/
 ---

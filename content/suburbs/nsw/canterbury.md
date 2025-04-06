@@ -1,9 +1,10 @@
 ---
-title: CANTERBURY
-state: NSW
-postcode: 2193
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.910308
-longitude: 151.12086
-url: /nsw/canterbury/
 layout: suburb
+longitude: 151.12086
+postcode: '2193'
+state: NSW
+title: CANTERBURY
+url: /nsw/canterbury/
 ---

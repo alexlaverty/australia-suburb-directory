@@ -1,9 +1,10 @@
 ---
-title: DOUBLE BAY
-state: NSW
-postcode: 2028
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.878413
-longitude: 151.240965
-url: /nsw/double-bay/
 layout: suburb
+longitude: 151.240965
+postcode: '2028'
+state: NSW
+title: DOUBLE BAY
+url: /nsw/double-bay/
 ---

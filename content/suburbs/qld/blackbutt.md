@@ -1,9 +1,10 @@
 ---
-title: BLACKBUTT
-state: QLD
-postcode: 4314
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.883
-longitude: 152.1011
-url: /qld/blackbutt/
 layout: suburb
+longitude: 152.1011
+postcode: '4314'
+state: QLD
+title: BLACKBUTT
+url: /qld/blackbutt/
 ---

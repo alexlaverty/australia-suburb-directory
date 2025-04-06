@@ -1,9 +1,10 @@
 ---
-title: BADGERYS CREEK
-state: NSW
-postcode: 2555
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.883376
-longitude: 150.741351
-url: /nsw/badgerys-creek/
 layout: suburb
+longitude: 150.741351
+postcode: '2555'
+state: NSW
+title: BADGERYS CREEK
+url: /nsw/badgerys-creek/
 ---

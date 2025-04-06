@@ -1,9 +1,10 @@
 ---
-title: DUNDEE DOWNS
-state: NT
-postcode: 0840
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.76554875
-longitude: 130.5109414
-url: /nt/dundee-downs/
 layout: suburb
+longitude: 130.5109414
+postcode: 0840
+state: NT
+title: DUNDEE DOWNS
+url: /nt/dundee-downs/
 ---

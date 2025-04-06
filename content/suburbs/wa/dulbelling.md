@@ -1,9 +1,10 @@
 ---
-title: DULBELLING
-state: WA
-postcode: 6383
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.99884844
-longitude: 117.2579917
-url: /wa/dulbelling/
 layout: suburb
+longitude: 117.2579917
+postcode: '6383'
+state: WA
+title: DULBELLING
+url: /wa/dulbelling/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GLENTHOMPSON
-state: VIC
-postcode: 3293
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.655945
-longitude: 142.527253
-url: /vic/glenthompson/
 layout: suburb
+longitude: 142.527253
+postcode: '3293'
+state: VIC
+title: GLENTHOMPSON
+url: /vic/glenthompson/
 ---

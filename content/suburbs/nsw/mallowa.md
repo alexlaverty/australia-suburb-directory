@@ -1,9 +1,10 @@
 ---
-title: MALLOWA
-state: NSW
-postcode: 2400
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.474921
-longitude: 149.462148
-url: /nsw/mallowa/
 layout: suburb
+longitude: 149.462148
+postcode: '2400'
+state: NSW
+title: MALLOWA
+url: /nsw/mallowa/
 ---

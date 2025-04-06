@@ -1,9 +1,10 @@
 ---
-title: SHEPPARTON
-state: VIC
-postcode: 3632
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.544462
-longitude: 145.603242
-url: /vic/shepparton/
 layout: suburb
+longitude: 145.603242
+postcode: '3632'
+state: VIC
+title: SHEPPARTON
+url: /vic/shepparton/
 ---

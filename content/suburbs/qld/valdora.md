@@ -1,9 +1,10 @@
 ---
-title: VALDORA
-state: QLD
-postcode: 4561
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.531487
-longitude: 152.964814
-url: /qld/valdora/
 layout: suburb
+longitude: 152.964814
+postcode: '4561'
+state: QLD
+title: VALDORA
+url: /qld/valdora/
 ---

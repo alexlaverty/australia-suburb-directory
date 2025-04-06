@@ -1,9 +1,10 @@
 ---
-title: COBDOGLA
-state: SA
-postcode: 5346
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.250013
-longitude: 140.397201
-url: /sa/cobdogla/
 layout: suburb
+longitude: 140.397201
+postcode: '5346'
+state: SA
+title: COBDOGLA
+url: /sa/cobdogla/
 ---

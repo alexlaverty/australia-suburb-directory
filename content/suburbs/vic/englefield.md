@@ -1,9 +1,10 @@
 ---
-title: ENGLEFIELD
-state: VIC
-postcode: 3407
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.298061
-longitude: 141.948371
-url: /vic/englefield/
 layout: suburb
+longitude: 141.948371
+postcode: '3407'
+state: VIC
+title: ENGLEFIELD
+url: /vic/englefield/
 ---

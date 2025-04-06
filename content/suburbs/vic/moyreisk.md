@@ -1,9 +1,10 @@
 ---
-title: MOYREISK
-state: VIC
-postcode: 3477
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.105993
-longitude: 143.412675
-url: /vic/moyreisk/
 layout: suburb
+longitude: 143.412675
+postcode: '3477'
+state: VIC
+title: MOYREISK
+url: /vic/moyreisk/
 ---

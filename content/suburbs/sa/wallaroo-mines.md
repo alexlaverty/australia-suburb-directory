@@ -1,9 +1,10 @@
 ---
-title: WALLAROO MINES
-state: SA
-postcode: 5554
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.928029
-longitude: 137.756193
-url: /sa/wallaroo-mines/
 layout: suburb
+longitude: 137.756193
+postcode: '5554'
+state: SA
+title: WALLAROO MINES
+url: /sa/wallaroo-mines/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WARDROP VALLEY
-state: NSW
-postcode: 2484
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.38059
-longitude: 153.31648
-url: /nsw/wardrop-valley/
 layout: suburb
+longitude: 153.31648
+postcode: '2484'
+state: NSW
+title: WARDROP VALLEY
+url: /nsw/wardrop-valley/
 ---

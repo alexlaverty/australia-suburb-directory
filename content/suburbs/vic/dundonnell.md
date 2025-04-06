@@ -1,9 +1,10 @@
 ---
-title: DUNDONNELL
-state: VIC
-postcode: 3271
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.888549
-longitude: 142.98753
-url: /vic/dundonnell/
 layout: suburb
+longitude: 142.98753
+postcode: '3271'
+state: VIC
+title: DUNDONNELL
+url: /vic/dundonnell/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HOPETOUN GARDENS
-state: VIC
-postcode: 3162
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.892139
-longitude: 145.023394
-url: /vic/hopetoun-gardens/
 layout: suburb
+longitude: 145.023394
+postcode: '3162'
+state: VIC
+title: HOPETOUN GARDENS
+url: /vic/hopetoun-gardens/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DIRTY CREEK
-state: NSW
-postcode: 2460
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.320772
-longitude: 153.271074
-url: /nsw/dirty-creek/
 layout: suburb
+longitude: 153.271074
+postcode: '2460'
+state: NSW
+title: DIRTY CREEK
+url: /nsw/dirty-creek/
 ---

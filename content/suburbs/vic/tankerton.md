@@ -1,9 +1,10 @@
 ---
-title: TANKERTON
-state: VIC
-postcode: 3921
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.419488
-longitude: 145.367079
-url: /vic/tankerton/
 layout: suburb
+longitude: 145.367079
+postcode: '3921'
+state: VIC
+title: TANKERTON
+url: /vic/tankerton/
 ---

@@ -1,9 +1,10 @@
 ---
-title: TAMLEUGH WEST
-state: VIC
-postcode: 3631
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.428694
-longitude: 145.526693
-url: /vic/tamleugh-west/
 layout: suburb
+longitude: 145.526693
+postcode: '3631'
+state: VIC
+title: TAMLEUGH WEST
+url: /vic/tamleugh-west/
 ---

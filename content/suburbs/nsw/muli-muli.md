@@ -1,9 +1,10 @@
 ---
-title: MULI MULI
-state: NSW
-postcode: 2476
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.41885533
-longitude: 152.5863114
-url: /nsw/muli-muli/
 layout: suburb
+longitude: 152.5863114
+postcode: '2476'
+state: NSW
+title: MULI MULI
+url: /nsw/muli-muli/
 ---

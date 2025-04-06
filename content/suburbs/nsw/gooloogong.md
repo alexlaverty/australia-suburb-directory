@@ -1,9 +1,10 @@
 ---
-title: GOOLOOGONG
-state: NSW
-postcode: 2805
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.64991
-longitude: 148.420031
-url: /nsw/gooloogong/
 layout: suburb
+longitude: 148.420031
+postcode: '2805'
+state: NSW
+title: GOOLOOGONG
+url: /nsw/gooloogong/
 ---

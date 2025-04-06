@@ -1,9 +1,10 @@
 ---
-title: WAGERUP
-state: WA
-postcode: 6215
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.853807
-longitude: 115.896715
-url: /wa/wagerup/
 layout: suburb
+longitude: 115.896715
+postcode: '6215'
+state: WA
+title: WAGERUP
+url: /wa/wagerup/
 ---

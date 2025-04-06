@@ -1,9 +1,10 @@
 ---
-title: KURRI KURRI
-state: NSW
-postcode: 2327
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.820688
-longitude: 151.486212
-url: /nsw/kurri-kurri/
 layout: suburb
+longitude: 151.486212
+postcode: '2327'
+state: NSW
+title: KURRI KURRI
+url: /nsw/kurri-kurri/
 ---

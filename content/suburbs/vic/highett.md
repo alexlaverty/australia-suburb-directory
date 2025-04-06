@@ -1,9 +1,10 @@
 ---
-title: HIGHETT
-state: VIC
-postcode: 3190
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.951394
-longitude: 145.038147
-url: /vic/highett/
 layout: suburb
+longitude: 145.038147
+postcode: '3190'
+state: VIC
+title: HIGHETT
+url: /vic/highett/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HYDEN
-state: WA
-postcode: 6359
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.42539
-longitude: 119.311209
-url: /wa/hyden/
 layout: suburb
+longitude: 119.311209
+postcode: '6359'
+state: WA
+title: HYDEN
+url: /wa/hyden/
 ---

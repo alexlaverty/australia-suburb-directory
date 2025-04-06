@@ -1,9 +1,10 @@
 ---
-title: LAMB RANGE
-state: QLD
-postcode: 4870
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -17.05547916
-longitude: 145.6820733
-url: /qld/lamb-range/
 layout: suburb
+longitude: 145.6820733
+postcode: '4870'
+state: QLD
+title: LAMB RANGE
+url: /qld/lamb-range/
 ---

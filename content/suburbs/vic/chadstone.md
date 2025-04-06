@@ -1,9 +1,10 @@
 ---
-title: CHADSTONE
-state: VIC
-postcode: 3148
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.882562
-longitude: 145.090149
-url: /vic/chadstone/
 layout: suburb
+longitude: 145.090149
+postcode: '3148'
+state: VIC
+title: CHADSTONE
+url: /vic/chadstone/
 ---

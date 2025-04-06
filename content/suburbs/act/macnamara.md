@@ -1,9 +1,10 @@
 ---
-title: MACNAMARA
-state: ACT
-postcode: 2615
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.2190829
-longitude: 148.9770644
-url: /act/macnamara/
 layout: suburb
+longitude: 148.9770644
+postcode: '2615'
+state: ACT
+title: MACNAMARA
+url: /act/macnamara/
 ---

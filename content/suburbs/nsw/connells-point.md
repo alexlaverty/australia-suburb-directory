@@ -1,9 +1,10 @@
 ---
-title: CONNELLS POINT
-state: NSW
-postcode: 2221
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.992159
-longitude: 151.10599
-url: /nsw/connells-point/
 layout: suburb
+longitude: 151.10599
+postcode: '2221'
+state: NSW
+title: CONNELLS POINT
+url: /nsw/connells-point/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BONGALONG
-state: NSW
-postcode: 2722
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.053523
-longitude: 148.102866
-url: /nsw/bongalong/
 layout: suburb
+longitude: 148.102866
+postcode: '2722'
+state: NSW
+title: BONGALONG
+url: /nsw/bongalong/
 ---

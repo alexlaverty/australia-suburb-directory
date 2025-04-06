@@ -1,9 +1,10 @@
 ---
-title: LOXFORD
-state: NSW
-postcode: 2326
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.785207
-longitude: 151.453148
-url: /nsw/loxford/
 layout: suburb
+longitude: 151.453148
+postcode: '2326'
+state: NSW
+title: LOXFORD
+url: /nsw/loxford/
 ---

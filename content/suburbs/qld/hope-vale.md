@@ -1,9 +1,10 @@
 ---
-title: HOPE VALE
-state: QLD
-postcode: 4895
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -15.15786303
-longitude: 145.247184
-url: /qld/hope-vale/
 layout: suburb
+longitude: 145.247184
+postcode: '4895'
+state: QLD
+title: HOPE VALE
+url: /qld/hope-vale/
 ---

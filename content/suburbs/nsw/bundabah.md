@@ -1,9 +1,10 @@
 ---
-title: BUNDABAH
-state: NSW
-postcode: 2324
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.623108
-longitude: 152.332617
-url: /nsw/bundabah/
 layout: suburb
+longitude: 152.332617
+postcode: '2324'
+state: NSW
+title: BUNDABAH
+url: /nsw/bundabah/
 ---

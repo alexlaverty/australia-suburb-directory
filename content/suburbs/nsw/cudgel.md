@@ -1,9 +1,10 @@
 ---
-title: CUDGEL
-state: NSW
-postcode: 2700
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.902108
-longitude: 146.303599
-url: /nsw/cudgel/
 layout: suburb
+longitude: 146.303599
+postcode: '2700'
+state: NSW
+title: CUDGEL
+url: /nsw/cudgel/
 ---

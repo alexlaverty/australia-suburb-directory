@@ -1,9 +1,10 @@
 ---
-title: MOUNT SURROUND
-state: QLD
-postcode: 4809
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.53085
-longitude: 147.139821
-url: /qld/mount-surround/
 layout: suburb
+longitude: 147.139821
+postcode: '4809'
+state: QLD
+title: MOUNT SURROUND
+url: /qld/mount-surround/
 ---

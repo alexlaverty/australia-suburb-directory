@@ -1,9 +1,10 @@
 ---
-title: TATONG
-state: VIC
-postcode: 3673
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.669929
-longitude: 146.062514
-url: /vic/tatong/
 layout: suburb
+longitude: 146.062514
+postcode: '3673'
+state: VIC
+title: TATONG
+url: /vic/tatong/
 ---

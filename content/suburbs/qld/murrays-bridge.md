@@ -1,9 +1,10 @@
 ---
-title: MURRAYS BRIDGE
-state: QLD
-postcode: 4370
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.259764
-longitude: 152.055174
-url: /qld/murrays-bridge/
 layout: suburb
+longitude: 152.055174
+postcode: '4370'
+state: QLD
+title: MURRAYS BRIDGE
+url: /qld/murrays-bridge/
 ---

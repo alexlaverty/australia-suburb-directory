@@ -1,9 +1,10 @@
 ---
-title: MELBOURNE UNIVERSITY
-state: VIC
-postcode: 3052
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.788996
-longitude: 144.948903
-url: /vic/melbourne-university/
 layout: suburb
+longitude: 144.948903
+postcode: '3052'
+state: VIC
+title: MELBOURNE UNIVERSITY
+url: /vic/melbourne-university/
 ---

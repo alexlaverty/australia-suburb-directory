@@ -1,9 +1,10 @@
 ---
-title: CHARING CROSS
-state: NSW
-postcode: 2024
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.904414
-longitude: 151.259392
-url: /nsw/charing-cross/
 layout: suburb
+longitude: 151.259392
+postcode: '2024'
+state: NSW
+title: CHARING CROSS
+url: /nsw/charing-cross/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ROLAND
-state: TAS
-postcode: 7306
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.465311
-longitude: 146.193428
-url: /tas/roland/
 layout: suburb
+longitude: 146.193428
+postcode: '7306'
+state: TAS
+title: ROLAND
+url: /tas/roland/
 ---

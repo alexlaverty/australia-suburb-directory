@@ -1,9 +1,10 @@
 ---
-title: SOUTH INNISFAIL
-state: QLD
-postcode: 4860
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -17.520343
-longitude: 145.888782
-url: /qld/south-innisfail/
 layout: suburb
+longitude: 145.888782
+postcode: '4860'
+state: QLD
+title: SOUTH INNISFAIL
+url: /qld/south-innisfail/
 ---

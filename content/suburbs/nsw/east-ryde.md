@@ -1,9 +1,10 @@
 ---
-title: EAST RYDE
-state: NSW
-postcode: 2113
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.79419
-longitude: 151.130233
-url: /nsw/east-ryde/
 layout: suburb
+longitude: 151.130233
+postcode: '2113'
+state: NSW
+title: EAST RYDE
+url: /nsw/east-ryde/
 ---

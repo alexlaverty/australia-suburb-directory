@@ -1,9 +1,10 @@
 ---
-title: STONYFELL
-state: SA
-postcode: 5066
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.940962
-longitude: 138.66029
-url: /sa/stonyfell/
 layout: suburb
+longitude: 138.66029
+postcode: '5066'
+state: SA
+title: STONYFELL
+url: /sa/stonyfell/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CLAYTON
-state: VIC
-postcode: 3168
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.91342
-longitude: 145.12665
-url: /vic/clayton/
 layout: suburb
+longitude: 145.12665
+postcode: '3168'
+state: VIC
+title: CLAYTON
+url: /vic/clayton/
 ---

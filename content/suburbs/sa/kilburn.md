@@ -1,9 +1,10 @@
 ---
-title: KILBURN
-state: SA
-postcode: 5084
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.864409
-longitude: 138.581605
-url: /sa/kilburn/
 layout: suburb
+longitude: 138.581605
+postcode: '5084'
+state: SA
+title: KILBURN
+url: /sa/kilburn/
 ---

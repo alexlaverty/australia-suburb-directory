@@ -1,9 +1,10 @@
 ---
-title: GRASSDALE
-state: VIC
-postcode: 3302
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.847981
-longitude: 141.706379
-url: /vic/grassdale/
 layout: suburb
+longitude: 141.706379
+postcode: '3302'
+state: VIC
+title: GRASSDALE
+url: /vic/grassdale/
 ---

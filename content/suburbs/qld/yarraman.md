@@ -1,9 +1,10 @@
 ---
-title: YARRAMAN
-state: QLD
-postcode: 4614
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.848329
-longitude: 151.964673
-url: /qld/yarraman/
 layout: suburb
+longitude: 151.964673
+postcode: '4614'
+state: QLD
+title: YARRAMAN
+url: /qld/yarraman/
 ---

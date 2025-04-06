@@ -1,9 +1,10 @@
 ---
-title: TAMPU
-state: WA
-postcode: 6472
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.19419562
-longitude: 117.8045997
-url: /wa/tampu/
 layout: suburb
+longitude: 117.8045997
+postcode: '6472'
+state: WA
+title: TAMPU
+url: /wa/tampu/
 ---

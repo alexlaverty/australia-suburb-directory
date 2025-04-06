@@ -1,9 +1,10 @@
 ---
-title: BURRAGORANG VALLEY
-state: NSW
-postcode: 2570
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.0586
-longitude: 150.3869
-url: /nsw/burragorang-valley/
 layout: suburb
+longitude: 150.3869
+postcode: '2570'
+state: NSW
+title: BURRAGORANG VALLEY
+url: /nsw/burragorang-valley/
 ---

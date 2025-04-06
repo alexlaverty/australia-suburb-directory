@@ -1,9 +1,10 @@
 ---
-title: PETCHEYS BAY
-state: TAS
-postcode: 7109
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.571087
-longitude: 146.524064
-url: /tas/petcheys-bay/
 layout: suburb
+longitude: 146.524064
+postcode: '7109'
+state: TAS
+title: PETCHEYS BAY
+url: /tas/petcheys-bay/
 ---

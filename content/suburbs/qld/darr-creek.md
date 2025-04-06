@@ -1,9 +1,10 @@
 ---
-title: DARR CREEK
-state: QLD
-postcode: 4410
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.781197
-longitude: 151.109816
-url: /qld/darr-creek/
 layout: suburb
+longitude: 151.109816
+postcode: '4410'
+state: QLD
+title: DARR CREEK
+url: /qld/darr-creek/
 ---

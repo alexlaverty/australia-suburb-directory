@@ -1,9 +1,10 @@
 ---
-title: SAWMILL SETTLEMENT
-state: VIC
-postcode: 3723
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.894465
-longitude: 146.256507
-url: /vic/sawmill-settlement/
 layout: suburb
+longitude: 146.256507
+postcode: '3723'
+state: VIC
+title: SAWMILL SETTLEMENT
+url: /vic/sawmill-settlement/
 ---

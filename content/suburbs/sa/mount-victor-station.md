@@ -1,9 +1,10 @@
 ---
-title: MOUNT VICTOR STATION
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.11807652
-longitude: 139.6153947
-url: /sa/mount-victor-station/
 layout: suburb
+longitude: 139.6153947
+postcode: '5440'
+state: SA
+title: MOUNT VICTOR STATION
+url: /sa/mount-victor-station/
 ---

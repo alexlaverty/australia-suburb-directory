@@ -1,9 +1,10 @@
 ---
-title: NORTH CURL CURL
-state: NSW
-postcode: 2099
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.748914
-longitude: 151.279999
-url: /nsw/north-curl-curl/
 layout: suburb
+longitude: 151.279999
+postcode: '2099'
+state: NSW
+title: NORTH CURL CURL
+url: /nsw/north-curl-curl/
 ---

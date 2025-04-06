@@ -1,9 +1,10 @@
 ---
-title: CURRUMBIN VALLEY
-state: QLD
-postcode: 4223
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.19076
-longitude: 153.415088
-url: /qld/currumbin-valley/
 layout: suburb
+longitude: 153.415088
+postcode: '4223'
+state: QLD
+title: CURRUMBIN VALLEY
+url: /qld/currumbin-valley/
 ---

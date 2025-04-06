@@ -1,9 +1,10 @@
 ---
-title: MOUNT MORGAN
-state: QLD
-postcode: 4714
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.66268
-longitude: 150.394906
-url: /qld/mount-morgan/
 layout: suburb
+longitude: 150.394906
+postcode: '4714'
+state: QLD
+title: MOUNT MORGAN
+url: /qld/mount-morgan/
 ---

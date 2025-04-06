@@ -1,9 +1,10 @@
 ---
-title: CHARAM
-state: VIC
-postcode: 3318
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.025316
-longitude: 141.269571
-url: /vic/charam/
 layout: suburb
+longitude: 141.269571
+postcode: '3318'
+state: VIC
+title: CHARAM
+url: /vic/charam/
 ---

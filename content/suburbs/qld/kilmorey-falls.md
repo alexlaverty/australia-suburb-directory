@@ -1,9 +1,10 @@
 ---
-title: KILMOREY FALLS
-state: QLD
-postcode: 4465
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.968591
-longitude: 148.062548
-url: /qld/kilmorey-falls/
 layout: suburb
+longitude: 148.062548
+postcode: '4465'
+state: QLD
+title: KILMOREY FALLS
+url: /qld/kilmorey-falls/
 ---

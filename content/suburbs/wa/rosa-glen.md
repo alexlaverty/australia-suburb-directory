@@ -1,9 +1,10 @@
 ---
-title: ROSA GLEN
-state: WA
-postcode: 6285
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.941351
-longitude: 115.280972
-url: /wa/rosa-glen/
 layout: suburb
+longitude: 115.280972
+postcode: '6285'
+state: WA
+title: ROSA GLEN
+url: /wa/rosa-glen/
 ---

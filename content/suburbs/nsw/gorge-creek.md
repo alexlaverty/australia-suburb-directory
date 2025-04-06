@@ -1,9 +1,10 @@
 ---
-title: GORGE CREEK
-state: NSW
-postcode: 2469
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.74667521
-longitude: 152.7107833
-url: /nsw/gorge-creek/
 layout: suburb
+longitude: 152.7107833
+postcode: '2469'
+state: NSW
+title: GORGE CREEK
+url: /nsw/gorge-creek/
 ---

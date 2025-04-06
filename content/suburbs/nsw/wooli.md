@@ -1,9 +1,10 @@
 ---
-title: WOOLI
-state: NSW
-postcode: 2462
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.829194
-longitude: 153.187047
-url: /nsw/wooli/
 layout: suburb
+longitude: 153.187047
+postcode: '2462'
+state: NSW
+title: WOOLI
+url: /nsw/wooli/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MAYFIELD WEST
-state: NSW
-postcode: 2304
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.880319
-longitude: 151.73862
-url: /nsw/mayfield-west/
 layout: suburb
+longitude: 151.73862
+postcode: '2304'
+state: NSW
+title: MAYFIELD WEST
+url: /nsw/mayfield-west/
 ---

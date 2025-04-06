@@ -1,9 +1,10 @@
 ---
-title: IRVINGDALE
-state: QLD
-postcode: 4404
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.33128
-longitude: 151.480666
-url: /qld/irvingdale/
 layout: suburb
+longitude: 151.480666
+postcode: '4404'
+state: QLD
+title: IRVINGDALE
+url: /qld/irvingdale/
 ---

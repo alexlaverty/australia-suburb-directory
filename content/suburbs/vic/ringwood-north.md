@@ -1,9 +1,10 @@
 ---
-title: RINGWOOD NORTH
-state: VIC
-postcode: 3134
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.796091
-longitude: 145.232557
-url: /vic/ringwood-north/
 layout: suburb
+longitude: 145.232557
+postcode: '3134'
+state: VIC
+title: RINGWOOD NORTH
+url: /vic/ringwood-north/
 ---

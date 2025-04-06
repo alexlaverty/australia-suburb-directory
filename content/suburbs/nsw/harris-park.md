@@ -1,9 +1,10 @@
 ---
-title: HARRIS PARK
-state: NSW
-postcode: 2150
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.814463
-longitude: 151.006506
-url: /nsw/harris-park/
 layout: suburb
+longitude: 151.006506
+postcode: '2150'
+state: NSW
+title: HARRIS PARK
+url: /nsw/harris-park/
 ---

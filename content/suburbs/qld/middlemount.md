@@ -1,9 +1,10 @@
 ---
-title: MIDDLEMOUNT
-state: QLD
-postcode: 4746
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -22.851944
-longitude: 148.850932
-url: /qld/middlemount/
 layout: suburb
+longitude: 148.850932
+postcode: '4746'
+state: QLD
+title: MIDDLEMOUNT
+url: /qld/middlemount/
 ---

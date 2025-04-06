@@ -1,9 +1,10 @@
 ---
-title: MELTON STATION
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.31913834
-longitude: 139.368492
-url: /sa/melton-station/
 layout: suburb
+longitude: 139.368492
+postcode: '5440'
+state: SA
+title: MELTON STATION
+url: /sa/melton-station/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WENDOUREE
-state: VIC
-postcode: 3355
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.530285
-longitude: 143.82561
-url: /vic/wendouree/
 layout: suburb
+longitude: 143.82561
+postcode: '3355'
+state: VIC
+title: WENDOUREE
+url: /vic/wendouree/
 ---

@@ -1,9 +1,10 @@
 ---
-title: STRAHAN
-state: TAS
-postcode: 7468
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.706031
-longitude: 145.537671
-url: /tas/strahan/
 layout: suburb
+longitude: 145.537671
+postcode: '7468'
+state: TAS
+title: STRAHAN
+url: /tas/strahan/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DAMPIER
-state: WA
-postcode: 6713
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -20.676313
-longitude: 116.709548
-url: /wa/dampier/
 layout: suburb
+longitude: 116.709548
+postcode: '6713'
+state: WA
+title: DAMPIER
+url: /wa/dampier/
 ---

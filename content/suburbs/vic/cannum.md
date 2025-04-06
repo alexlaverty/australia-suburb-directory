@@ -1,9 +1,10 @@
 ---
-title: CANNUM
-state: VIC
-postcode: 3393
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.257725
-longitude: 142.387341
-url: /vic/cannum/
 layout: suburb
+longitude: 142.387341
+postcode: '3393'
+state: VIC
+title: CANNUM
+url: /vic/cannum/
 ---

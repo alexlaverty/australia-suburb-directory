@@ -1,9 +1,10 @@
 ---
-title: GRANITE FLAT
-state: VIC
-postcode: 3701
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.638769
-longitude: 147.476819
-url: /vic/granite-flat/
 layout: suburb
+longitude: 147.476819
+postcode: '3701'
+state: VIC
+title: GRANITE FLAT
+url: /vic/granite-flat/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MYUNA BAY
-state: NSW
-postcode: 2264
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.106675
-longitude: 151.533807
-url: /nsw/myuna-bay/
 layout: suburb
+longitude: 151.533807
+postcode: '2264'
+state: NSW
+title: MYUNA BAY
+url: /nsw/myuna-bay/
 ---

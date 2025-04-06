@@ -1,9 +1,10 @@
 ---
-title: WARRADALE
-state: SA
-postcode: 5046
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.003794
-longitude: 138.535434
-url: /sa/warradale/
 layout: suburb
+longitude: 138.535434
+postcode: '5046'
+state: SA
+title: WARRADALE
+url: /sa/warradale/
 ---

@@ -1,9 +1,10 @@
 ---
-title: RAGLAN
-state: QLD
-postcode: 4697
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.711361
-longitude: 150.81952
-url: /qld/raglan/
 layout: suburb
+longitude: 150.81952
+postcode: '4697'
+state: QLD
+title: RAGLAN
+url: /qld/raglan/
 ---

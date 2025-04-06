@@ -1,9 +1,10 @@
 ---
-title: ROYAL MELBOURNE HOSPITAL
-state: VIC
-postcode: 3050
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.7989153
-longitude: 144.95617
-url: /vic/royal-melbourne-hospital/
 layout: suburb
+longitude: 144.95617
+postcode: '3050'
+state: VIC
+title: ROYAL MELBOURNE HOSPITAL
+url: /vic/royal-melbourne-hospital/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MOORA
-state: WA
-postcode: 6510
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.701145
-longitude: 116.090272
-url: /wa/moora/
 layout: suburb
+longitude: 116.090272
+postcode: '6510'
+state: WA
+title: MOORA
+url: /wa/moora/
 ---

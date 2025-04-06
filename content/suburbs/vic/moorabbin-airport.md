@@ -1,9 +1,10 @@
 ---
-title: MOORABBIN AIRPORT
-state: VIC
-postcode: 3194
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.985059
-longitude: 145.067356
-url: /vic/moorabbin-airport/
 layout: suburb
+longitude: 145.067356
+postcode: '3194'
+state: VIC
+title: MOORABBIN AIRPORT
+url: /vic/moorabbin-airport/
 ---

@@ -1,9 +1,10 @@
 ---
-title: FRENCHS FOREST
-state: QLD
-postcode: 4502
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.264974
-longitude: 152.966813
-url: /qld/frenchs-forest/
 layout: suburb
+longitude: 152.966813
+postcode: '4502'
+state: QLD
+title: FRENCHS FOREST
+url: /qld/frenchs-forest/
 ---

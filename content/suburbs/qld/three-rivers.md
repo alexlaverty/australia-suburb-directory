@@ -1,9 +1,10 @@
 ---
-title: THREE RIVERS
-state: QLD
-postcode: 4824
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -20.777471
-longitude: 140.652531
-url: /qld/three-rivers/
 layout: suburb
+longitude: 140.652531
+postcode: '4824'
+state: QLD
+title: THREE RIVERS
+url: /qld/three-rivers/
 ---

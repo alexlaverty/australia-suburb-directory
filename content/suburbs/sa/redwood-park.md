@@ -1,9 +1,10 @@
 ---
-title: REDWOOD PARK
-state: SA
-postcode: 5097
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.819614
-longitude: 138.707261
-url: /sa/redwood-park/
 layout: suburb
+longitude: 138.707261
+postcode: '5097'
+state: SA
+title: REDWOOD PARK
+url: /sa/redwood-park/
 ---

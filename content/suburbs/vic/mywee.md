@@ -1,9 +1,10 @@
 ---
-title: MYWEE
-state: VIC
-postcode: 3641
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.89718
-longitude: 145.428306
-url: /vic/mywee/
 layout: suburb
+longitude: 145.428306
+postcode: '3641'
+state: VIC
+title: MYWEE
+url: /vic/mywee/
 ---

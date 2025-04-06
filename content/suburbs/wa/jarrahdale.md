@@ -1,9 +1,10 @@
 ---
-title: JARRAHDALE
-state: WA
-postcode: 6124
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.338316
-longitude: 116.072494
-url: /wa/jarrahdale/
 layout: suburb
+longitude: 116.072494
+postcode: '6124'
+state: WA
+title: JARRAHDALE
+url: /wa/jarrahdale/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EGGS AND BACON BAY
-state: TAS
-postcode: 7112
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.291937
-longitude: 147.140014
-url: /tas/eggs-and-bacon-bay/
 layout: suburb
+longitude: 147.140014
+postcode: '7112'
+state: TAS
+title: EGGS AND BACON BAY
+url: /tas/eggs-and-bacon-bay/
 ---

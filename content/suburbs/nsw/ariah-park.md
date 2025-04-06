@@ -1,9 +1,10 @@
 ---
-title: ARIAH PARK
-state: NSW
-postcode: 2665
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.313241
-longitude: 146.841533
-url: /nsw/ariah-park/
 layout: suburb
+longitude: 146.841533
+postcode: '2665'
+state: NSW
+title: ARIAH PARK
+url: /nsw/ariah-park/
 ---

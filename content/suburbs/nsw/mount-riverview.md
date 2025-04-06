@@ -1,9 +1,10 @@
 ---
-title: MOUNT RIVERVIEW
-state: NSW
-postcode: 2774
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.732671
-longitude: 150.62902
-url: /nsw/mount-riverview/
 layout: suburb
+longitude: 150.62902
+postcode: '2774'
+state: NSW
+title: MOUNT RIVERVIEW
+url: /nsw/mount-riverview/
 ---

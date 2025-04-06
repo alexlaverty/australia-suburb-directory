@@ -1,9 +1,10 @@
 ---
-title: KILLARA
-state: VIC
-postcode: 3691
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.027154
-longitude: 147.880991
-url: /vic/killara/
 layout: suburb
+longitude: 147.880991
+postcode: '3691'
+state: VIC
+title: KILLARA
+url: /vic/killara/
 ---

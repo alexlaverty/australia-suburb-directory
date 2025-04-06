@@ -1,9 +1,10 @@
 ---
-title: KEDUMBA
-state: NSW
-postcode: 2787
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.865
-longitude: 150.4029
-url: /nsw/kedumba/
 layout: suburb
+longitude: 150.4029
+postcode: '2787'
+state: NSW
+title: KEDUMBA
+url: /nsw/kedumba/
 ---

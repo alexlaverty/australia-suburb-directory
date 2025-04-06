@@ -1,9 +1,10 @@
 ---
-title: GULNGAI
-state: QLD
-postcode: 4855
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -17.786658
-longitude: 146.021722
-url: /qld/gulngai/
 layout: suburb
+longitude: 146.021722
+postcode: '4855'
+state: QLD
+title: GULNGAI
+url: /qld/gulngai/
 ---

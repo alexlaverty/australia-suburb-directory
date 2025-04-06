@@ -1,9 +1,10 @@
 ---
-title: WANGI WANGI
-state: NSW
-postcode: 2267
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.086545
-longitude: 151.591728
-url: /nsw/wangi-wangi/
 layout: suburb
+longitude: 151.591728
+postcode: '2267'
+state: NSW
+title: WANGI WANGI
+url: /nsw/wangi-wangi/
 ---

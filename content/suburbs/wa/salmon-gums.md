@@ -1,9 +1,10 @@
 ---
-title: SALMON GUMS
-state: WA
-postcode: 6445
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.981696
-longitude: 121.638735
-url: /wa/salmon-gums/
 layout: suburb
+longitude: 121.638735
+postcode: '6445'
+state: WA
+title: SALMON GUMS
+url: /wa/salmon-gums/
 ---

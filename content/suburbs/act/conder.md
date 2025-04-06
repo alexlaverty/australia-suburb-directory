@@ -1,9 +1,10 @@
 ---
-title: CONDER
-state: ACT
-postcode: 2906
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.45676
-longitude: 149.08972
-url: /act/conder/
 layout: suburb
+longitude: 149.08972
+postcode: '2906'
+state: ACT
+title: CONDER
+url: /act/conder/
 ---

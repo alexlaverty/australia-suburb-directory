@@ -1,9 +1,10 @@
 ---
-title: BOX HILL NORTH
-state: VIC
-postcode: 3129
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.806965
-longitude: 145.125084
-url: /vic/box-hill-north/
 layout: suburb
+longitude: 145.125084
+postcode: '3129'
+state: VIC
+title: BOX HILL NORTH
+url: /vic/box-hill-north/
 ---

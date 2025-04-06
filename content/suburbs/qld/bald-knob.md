@@ -1,9 +1,10 @@
 ---
-title: BALD KNOB
-state: QLD
-postcode: 4552
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.734305
-longitude: 152.766898
-url: /qld/bald-knob/
 layout: suburb
+longitude: 152.766898
+postcode: '4552'
+state: QLD
+title: BALD KNOB
+url: /qld/bald-knob/
 ---

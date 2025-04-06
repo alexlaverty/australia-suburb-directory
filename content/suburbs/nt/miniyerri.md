@@ -1,9 +1,10 @@
 ---
-title: MINIYERRI
-state: NT
-postcode: 0852
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -15.2277
-longitude: 134.0832
-url: /nt/miniyerri/
 layout: suburb
+longitude: 134.0832
+postcode: 0852
+state: NT
+title: MINIYERRI
+url: /nt/miniyerri/
 ---

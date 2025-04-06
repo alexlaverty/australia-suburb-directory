@@ -1,9 +1,10 @@
 ---
-title: BEELBEE
-state: QLD
-postcode: 4405
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.192428
-longitude: 151.396625
-url: /qld/beelbee/
 layout: suburb
+longitude: 151.396625
+postcode: '4405'
+state: QLD
+title: BEELBEE
+url: /qld/beelbee/
 ---

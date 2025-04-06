@@ -1,9 +1,10 @@
 ---
-title: CRYSTAL CREEK
-state: QLD
-postcode: 4816
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.01715711
-longitude: 146.2744573
-url: /qld/crystal-creek/
 layout: suburb
+longitude: 146.2744573
+postcode: '4816'
+state: QLD
+title: CRYSTAL CREEK
+url: /qld/crystal-creek/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MID NORTH COAST MSC
-state: NSW
-postcode: 2442
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.4352
-longitude: 152.917
-url: /nsw/mid-north-coast-msc/
 layout: suburb
+longitude: 152.917
+postcode: '2442'
+state: NSW
+title: MID NORTH COAST MSC
+url: /nsw/mid-north-coast-msc/
 ---

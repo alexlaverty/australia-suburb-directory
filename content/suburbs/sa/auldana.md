@@ -1,9 +1,10 @@
 ---
-title: AULDANA
-state: SA
-postcode: 5072
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.912078
-longitude: 138.696113
-url: /sa/auldana/
 layout: suburb
+longitude: 138.696113
+postcode: '5072'
+state: SA
+title: AULDANA
+url: /sa/auldana/
 ---

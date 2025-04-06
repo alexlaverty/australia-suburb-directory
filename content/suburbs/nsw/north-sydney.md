@@ -1,9 +1,10 @@
 ---
-title: NORTH SYDNEY
-state: NSW
-postcode: 2060
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.839863
-longitude: 151.204557
-url: /nsw/north-sydney/
 layout: suburb
+longitude: 151.204557
+postcode: '2060'
+state: NSW
+title: NORTH SYDNEY
+url: /nsw/north-sydney/
 ---

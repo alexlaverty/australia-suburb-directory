@@ -1,9 +1,10 @@
 ---
-title: EURIOWIE
-state: NSW
-postcode: 2880
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.170441
-longitude: 142.203381
-url: /nsw/euriowie/
 layout: suburb
+longitude: 142.203381
+postcode: '2880'
+state: NSW
+title: EURIOWIE
+url: /nsw/euriowie/
 ---

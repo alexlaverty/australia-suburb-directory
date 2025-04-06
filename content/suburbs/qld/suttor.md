@@ -1,9 +1,10 @@
 ---
-title: SUTTOR
-state: QLD
-postcode: 4743
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -21.453727
-longitude: 147.906986
-url: /qld/suttor/
 layout: suburb
+longitude: 147.906986
+postcode: '4743'
+state: QLD
+title: SUTTOR
+url: /qld/suttor/
 ---

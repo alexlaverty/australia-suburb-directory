@@ -1,9 +1,10 @@
 ---
-title: LONG JETTY
-state: NSW
-postcode: 2261
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.315827
-longitude: 151.519708
-url: /nsw/long-jetty/
 layout: suburb
+longitude: 151.519708
+postcode: '2261'
+state: NSW
+title: LONG JETTY
+url: /nsw/long-jetty/
 ---

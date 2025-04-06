@@ -1,9 +1,10 @@
 ---
-title: ALEXANDRA HILLS
-state: QLD
-postcode: 4161
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.533407
-longitude: 153.226864
-url: /qld/alexandra-hills/
 layout: suburb
+longitude: 153.226864
+postcode: '4161'
+state: QLD
+title: ALEXANDRA HILLS
+url: /qld/alexandra-hills/
 ---

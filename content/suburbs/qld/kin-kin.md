@@ -1,9 +1,10 @@
 ---
-title: KIN KIN
-state: QLD
-postcode: 4571
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.219743
-longitude: 152.931885
-url: /qld/kin-kin/
 layout: suburb
+longitude: 152.931885
+postcode: '4571'
+state: QLD
+title: KIN KIN
+url: /qld/kin-kin/
 ---

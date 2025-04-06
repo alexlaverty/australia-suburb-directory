@@ -1,9 +1,10 @@
 ---
-title: TAYLOR SQUARE
-state: NSW
-postcode: 2010
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.884119
-longitude: 151.212262
-url: /nsw/taylor-square/
 layout: suburb
+longitude: 151.212262
+postcode: '2010'
+state: NSW
+title: TAYLOR SQUARE
+url: /nsw/taylor-square/
 ---

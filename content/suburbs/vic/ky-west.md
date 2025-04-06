@@ -1,9 +1,10 @@
 ---
-title: KY WEST
-state: VIC
-postcode: 3621
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.206055
-longitude: 144.961183
-url: /vic/ky-west/
 layout: suburb
+longitude: 144.961183
+postcode: '3621'
+state: VIC
+title: KY WEST
+url: /vic/ky-west/
 ---

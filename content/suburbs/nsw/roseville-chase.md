@@ -1,9 +1,10 @@
 ---
-title: ROSEVILLE CHASE
-state: NSW
-postcode: 2069
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.780246
-longitude: 151.195368
-url: /nsw/roseville-chase/
 layout: suburb
+longitude: 151.195368
+postcode: '2069'
+state: NSW
+title: ROSEVILLE CHASE
+url: /nsw/roseville-chase/
 ---

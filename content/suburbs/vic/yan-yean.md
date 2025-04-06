@@ -1,9 +1,10 @@
 ---
-title: YAN YEAN
-state: VIC
-postcode: 3755
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.563905
-longitude: 145.142035
-url: /vic/yan-yean/
 layout: suburb
+longitude: 145.142035
+postcode: '3755'
+state: VIC
+title: YAN YEAN
+url: /vic/yan-yean/
 ---

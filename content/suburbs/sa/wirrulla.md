@@ -1,9 +1,10 @@
 ---
-title: WIRRULLA
-state: SA
-postcode: 5661
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.360111
-longitude: 134.539431
-url: /sa/wirrulla/
 layout: suburb
+longitude: 134.539431
+postcode: '5661'
+state: SA
+title: WIRRULLA
+url: /sa/wirrulla/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NIRIMBA
-state: QLD
-postcode: 4551
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.775377
-longitude: 153.113173
-url: /qld/nirimba/
 layout: suburb
+longitude: 153.113173
+postcode: '4551'
+state: QLD
+title: NIRIMBA
+url: /qld/nirimba/
 ---

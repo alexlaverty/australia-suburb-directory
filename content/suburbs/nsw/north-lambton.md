@@ -1,9 +1,10 @@
 ---
-title: NORTH LAMBTON
-state: NSW
-postcode: 2299
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.909816
-longitude: 151.704581
-url: /nsw/north-lambton/
 layout: suburb
+longitude: 151.704581
+postcode: '2299'
+state: NSW
+title: NORTH LAMBTON
+url: /nsw/north-lambton/
 ---

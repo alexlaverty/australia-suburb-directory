@@ -1,9 +1,10 @@
 ---
-title: WORLDS END
-state: SA
-postcode: 5381
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.965473
-longitude: 139.140266
-url: /sa/worlds-end/
 layout: suburb
+longitude: 139.140266
+postcode: '5381'
+state: SA
+title: WORLDS END
+url: /sa/worlds-end/
 ---

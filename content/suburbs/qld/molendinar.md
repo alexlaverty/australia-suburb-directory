@@ -1,9 +1,10 @@
 ---
-title: MOLENDINAR
-state: QLD
-postcode: 4214
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.967005
-longitude: 153.365576
-url: /qld/molendinar/
 layout: suburb
+longitude: 153.365576
+postcode: '4214'
+state: QLD
+title: MOLENDINAR
+url: /qld/molendinar/
 ---

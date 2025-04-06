@@ -1,9 +1,10 @@
 ---
-title: ERNABELLA (PUKATJA)
-state: SA
-postcode: 0872
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -26.2796
-longitude: 132.134
-url: /sa/ernabella-(pukatja)/
 layout: suburb
+longitude: 132.134
+postcode: 0872
+state: SA
+title: ERNABELLA (PUKATJA)
+url: /sa/ernabella-(pukatja)/
 ---

@@ -1,9 +1,10 @@
 ---
-title: D'AGUILAR
-state: QLD
-postcode: 4514
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.91784
-longitude: 152.760081
-url: /qld/d'aguilar/
 layout: suburb
+longitude: 152.760081
+postcode: '4514'
+state: QLD
+title: D'AGUILAR
+url: /qld/d'aguilar/
 ---

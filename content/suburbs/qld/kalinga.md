@@ -1,9 +1,10 @@
 ---
-title: KALINGA
-state: QLD
-postcode: 4030
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.42687
-longitude: 153.029681
-url: /qld/kalinga/
 layout: suburb
+longitude: 153.029681
+postcode: '4030'
+state: QLD
+title: KALINGA
+url: /qld/kalinga/
 ---

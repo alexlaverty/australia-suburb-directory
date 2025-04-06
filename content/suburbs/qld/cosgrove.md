@@ -1,9 +1,10 @@
 ---
-title: COSGROVE
-state: QLD
-postcode: 4818
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.27139928
-longitude: 146.7141039
-url: /qld/cosgrove/
 layout: suburb
+longitude: 146.7141039
+postcode: '4818'
+state: QLD
+title: COSGROVE
+url: /qld/cosgrove/
 ---

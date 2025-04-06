@@ -1,9 +1,10 @@
 ---
-title: BRIDGENORTH
-state: TAS
-postcode: 7277
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.366416
-longitude: 146.996977
-url: /tas/bridgenorth/
 layout: suburb
+longitude: 146.996977
+postcode: '7277'
+state: TAS
+title: BRIDGENORTH
+url: /tas/bridgenorth/
 ---

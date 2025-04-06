@@ -1,9 +1,10 @@
 ---
-title: KIRRA
-state: QLD
-postcode: 4225
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.168787
-longitude: 153.517333
-url: /qld/kirra/
 layout: suburb
+longitude: 153.517333
+postcode: '4225'
+state: QLD
+title: KIRRA
+url: /qld/kirra/
 ---

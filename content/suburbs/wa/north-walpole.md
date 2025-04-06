@@ -1,9 +1,10 @@
 ---
-title: NORTH WALPOLE
-state: WA
-postcode: 6398
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.788611
-longitude: 116.604043
-url: /wa/north-walpole/
 layout: suburb
+longitude: 116.604043
+postcode: '6398'
+state: WA
+title: NORTH WALPOLE
+url: /wa/north-walpole/
 ---

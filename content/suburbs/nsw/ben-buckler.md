@@ -1,9 +1,10 @@
 ---
-title: BEN BUCKLER
-state: NSW
-postcode: 2026
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.891041
-longitude: 151.268968
-url: /nsw/ben-buckler/
 layout: suburb
+longitude: 151.268968
+postcode: '2026'
+state: NSW
+title: BEN BUCKLER
+url: /nsw/ben-buckler/
 ---

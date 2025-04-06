@@ -1,9 +1,10 @@
 ---
-title: PEAKHURST DC
-state: NSW
-postcode: 2210
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.9654
-longitude: 151.05
-url: /nsw/peakhurst-dc/
 layout: suburb
+longitude: 151.05
+postcode: '2210'
+state: NSW
+title: PEAKHURST DC
+url: /nsw/peakhurst-dc/
 ---

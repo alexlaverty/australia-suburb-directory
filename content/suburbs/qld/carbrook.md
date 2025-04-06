@@ -1,9 +1,10 @@
 ---
-title: CARBROOK
-state: QLD
-postcode: 4130
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.669244
-longitude: 153.24333
-url: /qld/carbrook/
 layout: suburb
+longitude: 153.24333
+postcode: '4130'
+state: QLD
+title: CARBROOK
+url: /qld/carbrook/
 ---

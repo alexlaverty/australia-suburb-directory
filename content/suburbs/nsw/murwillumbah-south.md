@@ -1,9 +1,10 @@
 ---
-title: MURWILLUMBAH SOUTH
-state: NSW
-postcode: 2484
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.38059
-longitude: 153.31648
-url: /nsw/murwillumbah-south/
 layout: suburb
+longitude: 153.31648
+postcode: '2484'
+state: NSW
+title: MURWILLUMBAH SOUTH
+url: /nsw/murwillumbah-south/
 ---

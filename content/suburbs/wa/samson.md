@@ -1,9 +1,10 @@
 ---
-title: SAMSON
-state: WA
-postcode: 6163
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.084784
-longitude: 115.798722
-url: /wa/samson/
 layout: suburb
+longitude: 115.798722
+postcode: '6163'
+state: WA
+title: SAMSON
+url: /wa/samson/
 ---

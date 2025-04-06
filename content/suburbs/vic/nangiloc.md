@@ -1,9 +1,10 @@
 ---
-title: NANGILOC
-state: VIC
-postcode: 3494
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.486406
-longitude: 142.348315
-url: /vic/nangiloc/
 layout: suburb
+longitude: 142.348315
+postcode: '3494'
+state: VIC
+title: NANGILOC
+url: /vic/nangiloc/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MOYARRA
-state: VIC
-postcode: 3951
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.47372
-longitude: 145.798419
-url: /vic/moyarra/
 layout: suburb
+longitude: 145.798419
+postcode: '3951'
+state: VIC
+title: MOYARRA
+url: /vic/moyarra/
 ---

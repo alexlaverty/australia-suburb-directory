@@ -1,9 +1,10 @@
 ---
-title: SANDLETON
-state: SA
-postcode: 5356
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.44405669
-longitude: 139.3924881
-url: /sa/sandleton/
 layout: suburb
+longitude: 139.3924881
+postcode: '5356'
+state: SA
+title: SANDLETON
+url: /sa/sandleton/
 ---

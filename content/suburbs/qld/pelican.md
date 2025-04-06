@@ -1,9 +1,10 @@
 ---
-title: PELICAN
-state: QLD
-postcode: 4413
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.6179
-longitude: 150.8514
-url: /qld/pelican/
 layout: suburb
+longitude: 150.8514
+postcode: '4413'
+state: QLD
+title: PELICAN
+url: /qld/pelican/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WOODSIDE NORTH
-state: VIC
-postcode: 3874
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.514438
-longitude: 146.836248
-url: /vic/woodside-north/
 layout: suburb
+longitude: 146.836248
+postcode: '3874'
+state: VIC
+title: WOODSIDE NORTH
+url: /vic/woodside-north/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DINGO FOREST
-state: NSW
-postcode: 2429
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.770375
-longitude: 152.292395
-url: /nsw/dingo-forest/
 layout: suburb
+longitude: 152.292395
+postcode: '2429'
+state: NSW
+title: DINGO FOREST
+url: /nsw/dingo-forest/
 ---

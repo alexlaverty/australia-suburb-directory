@@ -1,9 +1,10 @@
 ---
-title: BULLABURRA
-state: NSW
-postcode: 2784
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.729916
-longitude: 150.407048
-url: /nsw/bullaburra/
 layout: suburb
+longitude: 150.407048
+postcode: '2784'
+state: NSW
+title: BULLABURRA
+url: /nsw/bullaburra/
 ---

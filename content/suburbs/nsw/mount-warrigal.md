@@ -1,9 +1,10 @@
 ---
-title: MOUNT WARRIGAL
-state: NSW
-postcode: 2528
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.548722
-longitude: 150.855135
-url: /nsw/mount-warrigal/
 layout: suburb
+longitude: 150.855135
+postcode: '2528'
+state: NSW
+title: MOUNT WARRIGAL
+url: /nsw/mount-warrigal/
 ---

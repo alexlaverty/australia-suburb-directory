@@ -1,9 +1,10 @@
 ---
-title: MOGUMBER
-state: WA
-postcode: 6506
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.070282
-longitude: 116.110277
-url: /wa/mogumber/
 layout: suburb
+longitude: 116.110277
+postcode: '6506'
+state: WA
+title: MOGUMBER
+url: /wa/mogumber/
 ---

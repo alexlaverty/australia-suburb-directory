@@ -1,9 +1,10 @@
 ---
-title: GARDEN CITY
-state: VIC
-postcode: 3207
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.832179
-longitude: 144.918044
-url: /vic/garden-city/
 layout: suburb
+longitude: 144.918044
+postcode: '3207'
+state: VIC
+title: GARDEN CITY
+url: /vic/garden-city/
 ---

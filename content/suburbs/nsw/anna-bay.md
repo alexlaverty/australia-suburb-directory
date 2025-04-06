@@ -1,9 +1,10 @@
 ---
-title: ANNA BAY
-state: NSW
-postcode: 2316
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.776919
-longitude: 152.083274
-url: /nsw/anna-bay/
 layout: suburb
+longitude: 152.083274
+postcode: '2316'
+state: NSW
+title: ANNA BAY
+url: /nsw/anna-bay/
 ---

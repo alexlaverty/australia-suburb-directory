@@ -1,9 +1,10 @@
 ---
-title: DEVIOT
-state: TAS
-postcode: 7275
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.319891
-longitude: 146.835317
-url: /tas/deviot/
 layout: suburb
+longitude: 146.835317
+postcode: '7275'
+state: TAS
+title: DEVIOT
+url: /tas/deviot/
 ---

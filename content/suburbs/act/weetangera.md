@@ -1,9 +1,10 @@
 ---
-title: WEETANGERA
-state: ACT
-postcode: 2614
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.257315
-longitude: 149.049796
-url: /act/weetangera/
 layout: suburb
+longitude: 149.049796
+postcode: '2614'
+state: ACT
+title: WEETANGERA
+url: /act/weetangera/
 ---

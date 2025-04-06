@@ -1,9 +1,10 @@
 ---
-title: MCCRAE
-state: VIC
-postcode: 3938
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.354321
-longitude: 144.931834
-url: /vic/mccrae/
 layout: suburb
+longitude: 144.931834
+postcode: '3938'
+state: VIC
+title: MCCRAE
+url: /vic/mccrae/
 ---

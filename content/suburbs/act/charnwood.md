@@ -1,9 +1,10 @@
 ---
-title: CHARNWOOD
-state: ACT
-postcode: 2615
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.215386
-longitude: 149.029308
-url: /act/charnwood/
 layout: suburb
+longitude: 149.029308
+postcode: '2615'
+state: ACT
+title: CHARNWOOD
+url: /act/charnwood/
 ---

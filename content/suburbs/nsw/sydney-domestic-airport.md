@@ -1,9 +1,10 @@
 ---
-title: SYDNEY DOMESTIC AIRPORT
-state: NSW
-postcode: 2020
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.936179
-longitude: 151.176775
-url: /nsw/sydney-domestic-airport/
 layout: suburb
+longitude: 151.176775
+postcode: '2020'
+state: NSW
+title: SYDNEY DOMESTIC AIRPORT
+url: /nsw/sydney-domestic-airport/
 ---

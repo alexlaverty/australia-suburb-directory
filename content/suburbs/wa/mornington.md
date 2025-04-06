@@ -1,9 +1,10 @@
 ---
-title: MORNINGTON
-state: WA
-postcode: 6221
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.119332
-longitude: 115.907354
-url: /wa/mornington/
 layout: suburb
+longitude: 115.907354
+postcode: '6221'
+state: WA
+title: MORNINGTON
+url: /wa/mornington/
 ---

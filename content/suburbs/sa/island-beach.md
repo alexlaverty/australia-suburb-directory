@@ -1,9 +1,10 @@
 ---
-title: ISLAND BEACH
-state: SA
-postcode: 5222
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.803421
-longitude: 137.924659
-url: /sa/island-beach/
 layout: suburb
+longitude: 137.924659
+postcode: '5222'
+state: SA
+title: ISLAND BEACH
+url: /sa/island-beach/
 ---

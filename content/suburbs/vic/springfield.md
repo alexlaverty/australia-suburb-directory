@@ -1,9 +1,10 @@
 ---
-title: SPRINGFIELD
-state: VIC
-postcode: 3544
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.57476437
-longitude: 143.1143327
-url: /vic/springfield/
 layout: suburb
+longitude: 143.1143327
+postcode: '3544'
+state: VIC
+title: SPRINGFIELD
+url: /vic/springfield/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DOVER GARDENS
-state: SA
-postcode: 5048
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.017416
-longitude: 138.520459
-url: /sa/dover-gardens/
 layout: suburb
+longitude: 138.520459
+postcode: '5048'
+state: SA
+title: DOVER GARDENS
+url: /sa/dover-gardens/
 ---

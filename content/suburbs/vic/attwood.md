@@ -1,9 +1,10 @@
 ---
-title: ATTWOOD
-state: VIC
-postcode: 3049
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.673182
-longitude: 144.888492
-url: /vic/attwood/
 layout: suburb
+longitude: 144.888492
+postcode: '3049'
+state: VIC
+title: ATTWOOD
+url: /vic/attwood/
 ---

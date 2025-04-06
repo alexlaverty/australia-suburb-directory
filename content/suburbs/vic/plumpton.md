@@ -1,9 +1,10 @@
 ---
-title: PLUMPTON
-state: VIC
-postcode: 3427
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.643461
-longitude: 144.707974
-url: /vic/plumpton/
 layout: suburb
+longitude: 144.707974
+postcode: '3427'
+state: VIC
+title: PLUMPTON
+url: /vic/plumpton/
 ---

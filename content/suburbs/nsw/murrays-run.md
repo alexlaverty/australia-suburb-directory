@@ -1,9 +1,10 @@
 ---
-title: MURRAYS RUN
-state: NSW
-postcode: 2325
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.07063333
-longitude: 151.1527466
-url: /nsw/murrays-run/
 layout: suburb
+longitude: 151.1527466
+postcode: '2325'
+state: NSW
+title: MURRAYS RUN
+url: /nsw/murrays-run/
 ---

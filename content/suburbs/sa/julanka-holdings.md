@@ -1,9 +1,10 @@
 ---
-title: JULANKA HOLDINGS
-state: SA
-postcode: 5238
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.8731134
-longitude: 139.5452943
-url: /sa/julanka-holdings/
 layout: suburb
+longitude: 139.5452943
+postcode: '5238'
+state: SA
+title: JULANKA HOLDINGS
+url: /sa/julanka-holdings/
 ---

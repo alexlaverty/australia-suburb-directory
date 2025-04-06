@@ -1,9 +1,10 @@
 ---
-title: BELMONT SOUTH
-state: NSW
-postcode: 2280
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.019715
-longitude: 151.663175
-url: /nsw/belmont-south/
 layout: suburb
+longitude: 151.663175
+postcode: '2280'
+state: NSW
+title: BELMONT SOUTH
+url: /nsw/belmont-south/
 ---

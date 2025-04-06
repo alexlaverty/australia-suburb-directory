@@ -1,9 +1,10 @@
 ---
-title: RUPANYUP
-state: VIC
-postcode: 3388
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.597861
-longitude: 142.693946
-url: /vic/rupanyup/
 layout: suburb
+longitude: 142.693946
+postcode: '3388'
+state: VIC
+title: RUPANYUP
+url: /vic/rupanyup/
 ---

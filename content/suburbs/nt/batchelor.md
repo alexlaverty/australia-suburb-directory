@@ -1,9 +1,10 @@
 ---
-title: BATCHELOR
-state: NT
-postcode: 0845
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -13.045118
-longitude: 131.038475
-url: /nt/batchelor/
 layout: suburb
+longitude: 131.038475
+postcode: 0845
+state: NT
+title: BATCHELOR
+url: /nt/batchelor/
 ---

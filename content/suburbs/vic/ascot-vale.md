@@ -1,9 +1,10 @@
 ---
-title: ASCOT VALE
-state: VIC
-postcode: 3032
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.774486
-longitude: 144.897221
-url: /vic/ascot-vale/
 layout: suburb
+longitude: 144.897221
+postcode: '3032'
+state: VIC
+title: ASCOT VALE
+url: /vic/ascot-vale/
 ---

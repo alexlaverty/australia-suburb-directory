@@ -1,9 +1,10 @@
 ---
-title: YUMBARRA
-state: SA
-postcode: 5690
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.68926163
-longitude: 133.6102266
-url: /sa/yumbarra/
 layout: suburb
+longitude: 133.6102266
+postcode: '5690'
+state: SA
+title: YUMBARRA
+url: /sa/yumbarra/
 ---

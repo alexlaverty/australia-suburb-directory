@@ -1,9 +1,10 @@
 ---
-title: LAKELANDS
-state: NSW
-postcode: 2282
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.987279
-longitude: 151.651275
-url: /nsw/lakelands/
 layout: suburb
+longitude: 151.651275
+postcode: '2282'
+state: NSW
+title: LAKELANDS
+url: /nsw/lakelands/
 ---

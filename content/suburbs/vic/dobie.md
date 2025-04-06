@@ -1,9 +1,10 @@
 ---
-title: DOBIE
-state: VIC
-postcode: 3377
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.231524
-longitude: 142.956916
-url: /vic/dobie/
 layout: suburb
+longitude: 142.956916
+postcode: '3377'
+state: VIC
+title: DOBIE
+url: /vic/dobie/
 ---

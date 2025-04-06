@@ -1,9 +1,10 @@
 ---
-title: MOUNT NATHAN
-state: QLD
-postcode: 4211
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.035453
-longitude: 153.241258
-url: /qld/mount-nathan/
 layout: suburb
+longitude: 153.241258
+postcode: '4211'
+state: QLD
+title: MOUNT NATHAN
+url: /qld/mount-nathan/
 ---

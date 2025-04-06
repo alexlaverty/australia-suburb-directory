@@ -1,9 +1,10 @@
 ---
-title: LAVERTON RAAF
-state: VIC
-postcode: 3027
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.932419
-longitude: 144.754147
-url: /vic/laverton-raaf/
 layout: suburb
+longitude: 144.754147
+postcode: '3027'
+state: VIC
+title: LAVERTON RAAF
+url: /vic/laverton-raaf/
 ---

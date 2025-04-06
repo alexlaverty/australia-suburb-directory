@@ -1,9 +1,10 @@
 ---
-title: MITCHAM SHOPPING CENTRE
-state: SA
-postcode: 5062
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.004063
-longitude: 138.602387
-url: /sa/mitcham-shopping-centre/
 layout: suburb
+longitude: 138.602387
+postcode: '5062'
+state: SA
+title: MITCHAM SHOPPING CENTRE
+url: /sa/mitcham-shopping-centre/
 ---

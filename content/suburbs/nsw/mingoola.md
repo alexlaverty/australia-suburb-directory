@@ -1,9 +1,10 @@
 ---
-title: MINGOOLA
-state: NSW
-postcode: 4380
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.94099323
-longitude: 151.5292131
-url: /nsw/mingoola/
 layout: suburb
+longitude: 151.5292131
+postcode: '4380'
+state: NSW
+title: MINGOOLA
+url: /nsw/mingoola/
 ---

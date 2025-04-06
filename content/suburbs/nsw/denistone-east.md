@@ -1,9 +1,10 @@
 ---
-title: DENISTONE EAST
-state: NSW
-postcode: 2112
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.81658
-longitude: 151.108447
-url: /nsw/denistone-east/
 layout: suburb
+longitude: 151.108447
+postcode: '2112'
+state: NSW
+title: DENISTONE EAST
+url: /nsw/denistone-east/
 ---

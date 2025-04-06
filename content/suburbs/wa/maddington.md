@@ -1,9 +1,10 @@
 ---
-title: MADDINGTON
-state: WA
-postcode: 6989
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.039597
-longitude: 116.009575
-url: /wa/maddington/
 layout: suburb
+longitude: 116.009575
+postcode: '6989'
+state: WA
+title: MADDINGTON
+url: /wa/maddington/
 ---

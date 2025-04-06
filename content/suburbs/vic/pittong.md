@@ -1,9 +1,10 @@
 ---
-title: PITTONG
-state: VIC
-postcode: 3360
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.779677
-longitude: 143.51253
-url: /vic/pittong/
 layout: suburb
+longitude: 143.51253
+postcode: '3360'
+state: VIC
+title: PITTONG
+url: /vic/pittong/
 ---

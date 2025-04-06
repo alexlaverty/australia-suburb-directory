@@ -1,9 +1,10 @@
 ---
-title: LAPOINYA
-state: TAS
-postcode: 7325
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.100305
-longitude: 145.607556
-url: /tas/lapoinya/
 layout: suburb
+longitude: 145.607556
+postcode: '7325'
+state: TAS
+title: LAPOINYA
+url: /tas/lapoinya/
 ---

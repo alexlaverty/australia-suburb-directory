@@ -1,9 +1,10 @@
 ---
-title: OZENKADNOOK
-state: VIC
-postcode: 3413
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.699331
-longitude: 141.201068
-url: /vic/ozenkadnook/
 layout: suburb
+longitude: 141.201068
+postcode: '3413'
+state: VIC
+title: OZENKADNOOK
+url: /vic/ozenkadnook/
 ---

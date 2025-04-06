@@ -1,9 +1,10 @@
 ---
-title: KOOLUNGA
-state: SA
-postcode: 5464
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.676424
-longitude: 138.39411
-url: /sa/koolunga/
 layout: suburb
+longitude: 138.39411
+postcode: '5464'
+state: SA
+title: KOOLUNGA
+url: /sa/koolunga/
 ---

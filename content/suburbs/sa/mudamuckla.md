@@ -1,9 +1,10 @@
 ---
-title: MUDAMUCKLA
-state: SA
-postcode: 5680
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.672797
-longitude: 134.37909
-url: /sa/mudamuckla/
 layout: suburb
+longitude: 134.37909
+postcode: '5680'
+state: SA
+title: MUDAMUCKLA
+url: /sa/mudamuckla/
 ---

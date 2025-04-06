@@ -1,9 +1,10 @@
 ---
-title: LUTANA
-state: TAS
-postcode: 7009
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.842607
-longitude: 147.289682
-url: /tas/lutana/
 layout: suburb
+longitude: 147.289682
+postcode: '7009'
+state: TAS
+title: LUTANA
+url: /tas/lutana/
 ---

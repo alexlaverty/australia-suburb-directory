@@ -1,9 +1,10 @@
 ---
-title: WILD DOG VALLEY
-state: VIC
-postcode: 3953
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.460127
-longitude: 145.995174
-url: /vic/wild-dog-valley/
 layout: suburb
+longitude: 145.995174
+postcode: '3953'
+state: VIC
+title: WILD DOG VALLEY
+url: /vic/wild-dog-valley/
 ---

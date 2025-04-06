@@ -1,9 +1,10 @@
 ---
-title: LONSDALE
-state: SA
-postcode: 5160
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.110123
-longitude: 138.50172
-url: /sa/lonsdale/
 layout: suburb
+longitude: 138.50172
+postcode: '5160'
+state: SA
+title: LONSDALE
+url: /sa/lonsdale/
 ---

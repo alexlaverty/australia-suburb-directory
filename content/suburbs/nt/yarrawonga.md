@@ -1,9 +1,10 @@
 ---
-title: YARRAWONGA
-state: NT
-postcode: 0830
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.475071
-longitude: 130.974879
-url: /nt/yarrawonga/
 layout: suburb
+longitude: 130.974879
+postcode: 0830
+state: NT
+title: YARRAWONGA
+url: /nt/yarrawonga/
 ---

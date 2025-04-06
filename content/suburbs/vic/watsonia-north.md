@@ -1,9 +1,10 @@
 ---
-title: WATSONIA NORTH
-state: VIC
-postcode: 3087
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.711787
-longitude: 145.082426
-url: /vic/watsonia-north/
 layout: suburb
+longitude: 145.082426
+postcode: '3087'
+state: VIC
+title: WATSONIA NORTH
+url: /vic/watsonia-north/
 ---

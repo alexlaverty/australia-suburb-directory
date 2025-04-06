@@ -1,9 +1,10 @@
 ---
-title: CANTON BEACH
-state: NSW
-postcode: 2263
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.285097
-longitude: 151.556223
-url: /nsw/canton-beach/
 layout: suburb
+longitude: 151.556223
+postcode: '2263'
+state: NSW
+title: CANTON BEACH
+url: /nsw/canton-beach/
 ---

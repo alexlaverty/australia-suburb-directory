@@ -1,9 +1,10 @@
 ---
-title: TOOMBUL
-state: QLD
-postcode: 4012
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.399335
-longitude: 153.05355
-url: /qld/toombul/
 layout: suburb
+longitude: 153.05355
+postcode: '4012'
+state: QLD
+title: TOOMBUL
+url: /qld/toombul/
 ---

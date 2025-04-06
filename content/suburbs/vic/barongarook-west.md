@@ -1,9 +1,10 @@
 ---
-title: BARONGAROOK WEST
-state: VIC
-postcode: 3249
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.388291
-longitude: 143.557159
-url: /vic/barongarook-west/
 layout: suburb
+longitude: 143.557159
+postcode: '3249'
+state: VIC
+title: BARONGAROOK WEST
+url: /vic/barongarook-west/
 ---

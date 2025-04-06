@@ -1,9 +1,10 @@
 ---
-title: WUJAL WUJAL
-state: QLD
-postcode: 4895
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -15.9723604
-longitude: 145.3121238
-url: /qld/wujal-wujal/
 layout: suburb
+longitude: 145.3121238
+postcode: '4895'
+state: QLD
+title: WUJAL WUJAL
+url: /qld/wujal-wujal/
 ---

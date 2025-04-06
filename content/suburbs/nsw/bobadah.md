@@ -1,9 +1,10 @@
 ---
-title: BOBADAH
-state: NSW
-postcode: 2877
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.27339899
-longitude: 146.6853835
-url: /nsw/bobadah/
 layout: suburb
+longitude: 146.6853835
+postcode: '2877'
+state: NSW
+title: BOBADAH
+url: /nsw/bobadah/
 ---

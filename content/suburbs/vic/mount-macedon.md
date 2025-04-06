@@ -1,9 +1,10 @@
 ---
-title: MOUNT MACEDON
-state: VIC
-postcode: 3441
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.399224
-longitude: 144.603892
-url: /vic/mount-macedon/
 layout: suburb
+longitude: 144.603892
+postcode: '3441'
+state: VIC
+title: MOUNT MACEDON
+url: /vic/mount-macedon/
 ---

@@ -1,9 +1,10 @@
 ---
-title: JETSONVILLE
-state: TAS
-postcode: 7260
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.158791
-longitude: 147.502082
-url: /tas/jetsonville/
 layout: suburb
+longitude: 147.502082
+postcode: '7260'
+state: TAS
+title: JETSONVILLE
+url: /tas/jetsonville/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ROCKS CROSSING
-state: NSW
-postcode: 2424
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.6402
-longitude: 151.964845
-url: /nsw/rocks-crossing/
 layout: suburb
+longitude: 151.964845
+postcode: '2424'
+state: NSW
+title: ROCKS CROSSING
+url: /nsw/rocks-crossing/
 ---

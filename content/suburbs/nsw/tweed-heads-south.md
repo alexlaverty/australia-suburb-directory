@@ -1,9 +1,10 @@
 ---
-title: TWEED HEADS SOUTH
-state: NSW
-postcode: 2486
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.215215
-longitude: 153.479217
-url: /nsw/tweed-heads-south/
 layout: suburb
+longitude: 153.479217
+postcode: '2486'
+state: NSW
+title: TWEED HEADS SOUTH
+url: /nsw/tweed-heads-south/
 ---

@@ -1,9 +1,10 @@
 ---
-title: TRINITY GARDENS
-state: SA
-postcode: 5068
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.922605
-longitude: 138.654999
-url: /sa/trinity-gardens/
 layout: suburb
+longitude: 138.654999
+postcode: '5068'
+state: SA
+title: TRINITY GARDENS
+url: /sa/trinity-gardens/
 ---

@@ -1,9 +1,10 @@
 ---
-title: RURAL VIEW
-state: QLD
-postcode: 4740
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -21.33763
-longitude: 149.059737
-url: /qld/rural-view/
 layout: suburb
+longitude: 149.059737
+postcode: '4740'
+state: QLD
+title: RURAL VIEW
+url: /qld/rural-view/
 ---

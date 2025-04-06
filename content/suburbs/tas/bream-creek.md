@@ -1,9 +1,10 @@
 ---
-title: BREAM CREEK
-state: TAS
-postcode: 7175
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.818606
-longitude: 147.828594
-url: /tas/bream-creek/
 layout: suburb
+longitude: 147.828594
+postcode: '7175'
+state: TAS
+title: BREAM CREEK
+url: /tas/bream-creek/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ILBILBIE
-state: QLD
-postcode: 4738
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -21.622237
-longitude: 149.267446
-url: /qld/ilbilbie/
 layout: suburb
+longitude: 149.267446
+postcode: '4738'
+state: QLD
+title: ILBILBIE
+url: /qld/ilbilbie/
 ---

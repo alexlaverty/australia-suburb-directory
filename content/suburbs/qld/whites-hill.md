@@ -1,9 +1,10 @@
 ---
-title: WHITES HILL
-state: QLD
-postcode: 4152
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.501349
-longitude: 153.096812
-url: /qld/whites-hill/
 layout: suburb
+longitude: 153.096812
+postcode: '4152'
+state: QLD
+title: WHITES HILL
+url: /qld/whites-hill/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MOUNT RIVERS
-state: NSW
-postcode: 2311
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.3438
-longitude: 151.522527
-url: /nsw/mount-rivers/
 layout: suburb
+longitude: 151.522527
+postcode: '2311'
+state: NSW
+title: MOUNT RIVERS
+url: /nsw/mount-rivers/
 ---

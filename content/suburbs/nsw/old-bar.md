@@ -1,9 +1,10 @@
 ---
-title: OLD BAR
-state: NSW
-postcode: 2430
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.899311
-longitude: 152.503209
-url: /nsw/old-bar/
 layout: suburb
+longitude: 152.503209
+postcode: '2430'
+state: NSW
+title: OLD BAR
+url: /nsw/old-bar/
 ---

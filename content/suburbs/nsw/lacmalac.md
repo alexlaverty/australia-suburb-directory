@@ -1,9 +1,10 @@
 ---
-title: LACMALAC
-state: NSW
-postcode: 2720
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.379935
-longitude: 148.383619
-url: /nsw/lacmalac/
 layout: suburb
+longitude: 148.383619
+postcode: '2720'
+state: NSW
+title: LACMALAC
+url: /nsw/lacmalac/
 ---

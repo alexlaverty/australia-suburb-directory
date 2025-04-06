@@ -1,9 +1,10 @@
 ---
-title: DOMAIN ROAD PO
-state: VIC
-postcode: 3141
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.840679
-longitude: 144.991264
-url: /vic/domain-road-po/
 layout: suburb
+longitude: 144.991264
+postcode: '3141'
+state: VIC
+title: DOMAIN ROAD PO
+url: /vic/domain-road-po/
 ---

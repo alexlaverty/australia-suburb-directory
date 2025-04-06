@@ -1,9 +1,10 @@
 ---
-title: DERBY
-state: VIC
-postcode: 3516
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.607616
-longitude: 144.041722
-url: /vic/derby/
 layout: suburb
+longitude: 144.041722
+postcode: '3516'
+state: VIC
+title: DERBY
+url: /vic/derby/
 ---

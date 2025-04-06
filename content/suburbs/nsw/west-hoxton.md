@@ -1,9 +1,10 @@
 ---
-title: WEST HOXTON
-state: NSW
-postcode: 2171
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.959617
-longitude: 150.970931
-url: /nsw/west-hoxton/
 layout: suburb
+longitude: 150.970931
+postcode: '2171'
+state: NSW
+title: WEST HOXTON
+url: /nsw/west-hoxton/
 ---

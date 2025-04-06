@@ -1,9 +1,10 @@
 ---
-title: UNIVERSITY
-state: NT
-postcode: 0909
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.3718
-longitude: 130.869
-url: /nt/university/
 layout: suburb
+longitude: 130.869
+postcode: 0909
+state: NT
+title: UNIVERSITY
+url: /nt/university/
 ---

@@ -1,9 +1,10 @@
 ---
-title: QUANDONG
-state: VIC
-postcode: 3030
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.91624
-longitude: 144.64209
-url: /vic/quandong/
 layout: suburb
+longitude: 144.64209
+postcode: '3030'
+state: VIC
+title: QUANDONG
+url: /vic/quandong/
 ---

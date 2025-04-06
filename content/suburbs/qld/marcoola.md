@@ -1,9 +1,10 @@
 ---
-title: MARCOOLA
-state: QLD
-postcode: 4564
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.612359
-longitude: 153.079239
-url: /qld/marcoola/
 layout: suburb
+longitude: 153.079239
+postcode: '4564'
+state: QLD
+title: MARCOOLA
+url: /qld/marcoola/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HORSLEY PARK
-state: NSW
-postcode: 2175
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.845034
-longitude: 150.848192
-url: /nsw/horsley-park/
 layout: suburb
+longitude: 150.848192
+postcode: '2175'
+state: NSW
+title: HORSLEY PARK
+url: /nsw/horsley-park/
 ---

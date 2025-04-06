@@ -1,9 +1,10 @@
 ---
-title: REDCLIFFE
-state: WA
-postcode: 6104
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.965498
-longitude: 115.977633
-url: /wa/redcliffe/
 layout: suburb
+longitude: 115.977633
+postcode: '6104'
+state: WA
+title: REDCLIFFE
+url: /wa/redcliffe/
 ---

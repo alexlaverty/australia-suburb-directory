@@ -1,9 +1,10 @@
 ---
-title: MARANGAROO
-state: WA
-postcode: 6064
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.835333
-longitude: 115.849098
-url: /wa/marangaroo/
 layout: suburb
+longitude: 115.849098
+postcode: '6064'
+state: WA
+title: MARANGAROO
+url: /wa/marangaroo/
 ---

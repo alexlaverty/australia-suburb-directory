@@ -1,9 +1,10 @@
 ---
-title: GOSNELLS
-state: WA
-postcode: 6990
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.060407
-longitude: 116.008461
-url: /wa/gosnells/
 layout: suburb
+longitude: 116.008461
+postcode: '6990'
+state: WA
+title: GOSNELLS
+url: /wa/gosnells/
 ---

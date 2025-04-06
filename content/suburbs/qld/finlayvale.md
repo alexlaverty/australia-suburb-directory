@@ -1,9 +1,10 @@
 ---
-title: FINLAYVALE
-state: QLD
-postcode: 4873
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.45863225
-longitude: 145.3498794
-url: /qld/finlayvale/
 layout: suburb
+longitude: 145.3498794
+postcode: '4873'
+state: QLD
+title: FINLAYVALE
+url: /qld/finlayvale/
 ---

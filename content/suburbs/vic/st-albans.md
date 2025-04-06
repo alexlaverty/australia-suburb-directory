@@ -1,9 +1,10 @@
 ---
-title: ST ALBANS
-state: VIC
-postcode: 3021
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.743361
-longitude: 144.796693
-url: /vic/st-albans/
 layout: suburb
+longitude: 144.796693
+postcode: '3021'
+state: VIC
+title: ST ALBANS
+url: /vic/st-albans/
 ---

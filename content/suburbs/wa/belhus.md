@@ -1,9 +1,10 @@
 ---
-title: BELHUS
-state: WA
-postcode: 6069
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.771612
-longitude: 116.007663
-url: /wa/belhus/
 layout: suburb
+longitude: 116.007663
+postcode: '6069'
+state: WA
+title: BELHUS
+url: /wa/belhus/
 ---

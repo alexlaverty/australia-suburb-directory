@@ -1,9 +1,10 @@
 ---
-title: CAPELS CROSSING
-state: VIC
-postcode: 3579
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.767974
-longitude: 143.769445
-url: /vic/capels-crossing/
 layout: suburb
+longitude: 143.769445
+postcode: '3579'
+state: VIC
+title: CAPELS CROSSING
+url: /vic/capels-crossing/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WETHERILL PARK DC
-state: NSW
-postcode: 1851
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.8498
-longitude: 150.911
-url: /nsw/wetherill-park-dc/
 layout: suburb
+longitude: 150.911
+postcode: '1851'
+state: NSW
+title: WETHERILL PARK DC
+url: /nsw/wetherill-park-dc/
 ---

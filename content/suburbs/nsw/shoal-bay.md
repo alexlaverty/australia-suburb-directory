@@ -1,9 +1,10 @@
 ---
-title: SHOAL BAY
-state: NSW
-postcode: 2315
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.746224
-longitude: 152.193698
-url: /nsw/shoal-bay/
 layout: suburb
+longitude: 152.193698
+postcode: '2315'
+state: NSW
+title: SHOAL BAY
+url: /nsw/shoal-bay/
 ---

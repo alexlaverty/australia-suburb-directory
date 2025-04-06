@@ -1,9 +1,10 @@
 ---
-title: BEAUFORT RIVER
-state: WA
-postcode: 6394
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.83319
-longitude: 116.972036
-url: /wa/beaufort-river/
 layout: suburb
+longitude: 116.972036
+postcode: '6394'
+state: WA
+title: BEAUFORT RIVER
+url: /wa/beaufort-river/
 ---

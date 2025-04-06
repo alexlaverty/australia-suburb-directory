@@ -1,9 +1,10 @@
 ---
-title: SOUTH GAP
-state: SA
-postcode: 5713
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.68490138
-longitude: 137.5552272
-url: /sa/south-gap/
 layout: suburb
+longitude: 137.5552272
+postcode: '5713'
+state: SA
+title: SOUTH GAP
+url: /sa/south-gap/
 ---

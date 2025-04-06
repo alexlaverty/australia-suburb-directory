@@ -1,9 +1,10 @@
 ---
-title: MALLAN
-state: NSW
-postcode: 3586
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.114021
-longitude: 143.792594
-url: /nsw/mallan/
 layout: suburb
+longitude: 143.792594
+postcode: '3586'
+state: NSW
+title: MALLAN
+url: /nsw/mallan/
 ---

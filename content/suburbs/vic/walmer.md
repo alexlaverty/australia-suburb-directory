@@ -1,9 +1,10 @@
 ---
-title: WALMER
-state: VIC
-postcode: 3463
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.957983
-longitude: 144.05651
-url: /vic/walmer/
 layout: suburb
+longitude: 144.05651
+postcode: '3463'
+state: VIC
+title: WALMER
+url: /vic/walmer/
 ---

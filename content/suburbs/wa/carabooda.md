@@ -1,9 +1,10 @@
 ---
-title: CARABOODA
-state: WA
-postcode: 6033
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.609115
-longitude: 115.711357
-url: /wa/carabooda/
 layout: suburb
+longitude: 115.711357
+postcode: '6033'
+state: WA
+title: CARABOODA
+url: /wa/carabooda/
 ---

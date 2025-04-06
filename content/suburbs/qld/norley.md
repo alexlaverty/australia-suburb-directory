@@ -1,9 +1,10 @@
 ---
-title: NORLEY
-state: QLD
-postcode: 4492
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.68466532
-longitude: 143.7768376
-url: /qld/norley/
 layout: suburb
+longitude: 143.7768376
+postcode: '4492'
+state: QLD
+title: NORLEY
+url: /qld/norley/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CUNDARE NORTH
-state: VIC
-postcode: 3251
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.155186
-longitude: 143.648479
-url: /vic/cundare-north/
 layout: suburb
+longitude: 143.648479
+postcode: '3251'
+state: VIC
+title: CUNDARE NORTH
+url: /vic/cundare-north/
 ---

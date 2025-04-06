@@ -1,9 +1,10 @@
 ---
-title: ECHUNGA
-state: SA
-postcode: 5153
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.091002
-longitude: 138.757945
-url: /sa/echunga/
 layout: suburb
+longitude: 138.757945
+postcode: '5153'
+state: SA
+title: ECHUNGA
+url: /sa/echunga/
 ---

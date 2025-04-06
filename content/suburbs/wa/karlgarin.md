@@ -1,9 +1,10 @@
 ---
-title: KARLGARIN
-state: WA
-postcode: 6358
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.483917
-longitude: 118.671921
-url: /wa/karlgarin/
 layout: suburb
+longitude: 118.671921
+postcode: '6358'
+state: WA
+title: KARLGARIN
+url: /wa/karlgarin/
 ---

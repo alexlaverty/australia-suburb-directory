@@ -1,9 +1,10 @@
 ---
-title: KIATA
-state: VIC
-postcode: 3418
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.074144
-longitude: 141.538074
-url: /vic/kiata/
 layout: suburb
+longitude: 141.538074
+postcode: '3418'
+state: VIC
+title: KIATA
+url: /vic/kiata/
 ---

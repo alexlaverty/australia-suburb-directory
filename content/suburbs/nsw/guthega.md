@@ -1,9 +1,10 @@
 ---
-title: GUTHEGA
-state: NSW
-postcode: 2624
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.180818
-longitude: 148.441281
-url: /nsw/guthega/
 layout: suburb
+longitude: 148.441281
+postcode: '2624'
+state: NSW
+title: GUTHEGA
+url: /nsw/guthega/
 ---

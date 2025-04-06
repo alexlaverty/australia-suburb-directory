@@ -1,9 +1,10 @@
 ---
-title: PORTLAND WEST
-state: VIC
-postcode: 3305
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.235475
-longitude: 141.437227
-url: /vic/portland-west/
 layout: suburb
+longitude: 141.437227
+postcode: '3305'
+state: VIC
+title: PORTLAND WEST
+url: /vic/portland-west/
 ---

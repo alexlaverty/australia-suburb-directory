@@ -1,9 +1,10 @@
 ---
-title: TOGARA
-state: QLD
-postcode: 4702
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.9937449
-longitude: 148.653806
-url: /qld/togara/
 layout: suburb
+longitude: 148.653806
+postcode: '4702'
+state: QLD
+title: TOGARA
+url: /qld/togara/
 ---

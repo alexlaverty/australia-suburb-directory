@@ -1,9 +1,10 @@
 ---
-title: KOWMUNG
-state: NSW
-postcode: 2787
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.9477
-longitude: 150.2473
-url: /nsw/kowmung/
 layout: suburb
+longitude: 150.2473
+postcode: '2787'
+state: NSW
+title: KOWMUNG
+url: /nsw/kowmung/
 ---

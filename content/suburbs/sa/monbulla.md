@@ -1,9 +1,10 @@
 ---
-title: MONBULLA
-state: SA
-postcode: 5277
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.39668187
-longitude: 140.7368366
-url: /sa/monbulla/
 layout: suburb
+longitude: 140.7368366
+postcode: '5277'
+state: SA
+title: MONBULLA
+url: /sa/monbulla/
 ---

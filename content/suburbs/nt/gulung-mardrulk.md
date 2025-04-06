@@ -1,9 +1,10 @@
 ---
-title: GULUNG MARDRULK
-state: NT
-postcode: 0852
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -16.4525888
-longitude: 130.8418661
-url: /nt/gulung-mardrulk/
 layout: suburb
+longitude: 130.8418661
+postcode: 0852
+state: NT
+title: GULUNG MARDRULK
+url: /nt/gulung-mardrulk/
 ---

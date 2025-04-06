@@ -1,9 +1,10 @@
 ---
-title: CANGARA
-state: SA
-postcode: 5268
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.189376
-longitude: 140.788199
-url: /sa/cangara/
 layout: suburb
+longitude: 140.788199
+postcode: '5268'
+state: SA
+title: CANGARA
+url: /sa/cangara/
 ---

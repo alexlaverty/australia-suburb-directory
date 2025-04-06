@@ -1,9 +1,10 @@
 ---
-title: EAST KANGALOON
-state: NSW
-postcode: 2576
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.525612
-longitude: 150.503502
-url: /nsw/east-kangaloon/
 layout: suburb
+longitude: 150.503502
+postcode: '2576'
+state: NSW
+title: EAST KANGALOON
+url: /nsw/east-kangaloon/
 ---

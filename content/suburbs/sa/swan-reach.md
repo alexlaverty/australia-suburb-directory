@@ -1,9 +1,10 @@
 ---
-title: SWAN REACH
-state: SA
-postcode: 5354
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.538013
-longitude: 139.652642
-url: /sa/swan-reach/
 layout: suburb
+longitude: 139.652642
+postcode: '5354'
+state: SA
+title: SWAN REACH
+url: /sa/swan-reach/
 ---

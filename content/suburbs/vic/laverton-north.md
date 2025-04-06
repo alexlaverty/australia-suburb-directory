@@ -1,9 +1,10 @@
 ---
-title: LAVERTON NORTH
-state: VIC
-postcode: 3026
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.829923
-longitude: 144.774986
-url: /vic/laverton-north/
 layout: suburb
+longitude: 144.774986
+postcode: '3026'
+state: VIC
+title: LAVERTON NORTH
+url: /vic/laverton-north/
 ---

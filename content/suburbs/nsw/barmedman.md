@@ -1,9 +1,10 @@
 ---
-title: BARMEDMAN
-state: NSW
-postcode: 2668
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.121499
-longitude: 147.405434
-url: /nsw/barmedman/
 layout: suburb
+longitude: 147.405434
+postcode: '2668'
+state: NSW
+title: BARMEDMAN
+url: /nsw/barmedman/
 ---

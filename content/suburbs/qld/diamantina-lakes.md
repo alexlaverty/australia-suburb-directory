@@ -1,9 +1,10 @@
 ---
-title: DIAMANTINA LAKES
-state: QLD
-postcode: 4735
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -22.810583
-longitude: 141.861769
-url: /qld/diamantina-lakes/
 layout: suburb
+longitude: 141.861769
+postcode: '4735'
+state: QLD
+title: DIAMANTINA LAKES
+url: /qld/diamantina-lakes/
 ---

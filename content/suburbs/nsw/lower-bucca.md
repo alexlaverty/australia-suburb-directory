@@ -1,9 +1,10 @@
 ---
-title: LOWER BUCCA
-state: NSW
-postcode: 2450
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.097726
-longitude: 152.658268
-url: /nsw/lower-bucca/
 layout: suburb
+longitude: 152.658268
+postcode: '2450'
+state: NSW
+title: LOWER BUCCA
+url: /nsw/lower-bucca/
 ---

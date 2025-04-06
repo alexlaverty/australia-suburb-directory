@@ -1,9 +1,10 @@
 ---
-title: SCORESBY
-state: VIC
-postcode: 3179
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.897137
-longitude: 145.222634
-url: /vic/scoresby/
 layout: suburb
+longitude: 145.222634
+postcode: '3179'
+state: VIC
+title: SCORESBY
+url: /vic/scoresby/
 ---

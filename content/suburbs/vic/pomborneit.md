@@ -1,9 +1,10 @@
 ---
-title: POMBORNEIT
-state: VIC
-postcode: 3260
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.209584
-longitude: 143.244766
-url: /vic/pomborneit/
 layout: suburb
+longitude: 143.244766
+postcode: '3260'
+state: VIC
+title: POMBORNEIT
+url: /vic/pomborneit/
 ---

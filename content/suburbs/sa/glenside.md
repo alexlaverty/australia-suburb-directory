@@ -1,9 +1,10 @@
 ---
-title: GLENSIDE
-state: SA
-postcode: 5065
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.940362
-longitude: 138.633974
-url: /sa/glenside/
 layout: suburb
+longitude: 138.633974
+postcode: '5065'
+state: SA
+title: GLENSIDE
+url: /sa/glenside/
 ---

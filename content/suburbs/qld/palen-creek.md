@@ -1,9 +1,10 @@
 ---
-title: PALEN CREEK
-state: QLD
-postcode: 4287
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.259143
-longitude: 152.822971
-url: /qld/palen-creek/
 layout: suburb
+longitude: 152.822971
+postcode: '4287'
+state: QLD
+title: PALEN CREEK
+url: /qld/palen-creek/
 ---

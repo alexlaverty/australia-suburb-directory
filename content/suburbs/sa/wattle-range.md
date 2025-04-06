@@ -1,9 +1,10 @@
 ---
-title: WATTLE RANGE
-state: SA
-postcode: 5280
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.4273323
-longitude: 140.5070183
-url: /sa/wattle-range/
 layout: suburb
+longitude: 140.5070183
+postcode: '5280'
+state: SA
+title: WATTLE RANGE
+url: /sa/wattle-range/
 ---

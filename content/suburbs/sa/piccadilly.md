@@ -1,9 +1,10 @@
 ---
-title: PICCADILLY
-state: SA
-postcode: 5151
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.974283
-longitude: 138.723897
-url: /sa/piccadilly/
 layout: suburb
+longitude: 138.723897
+postcode: '5151'
+state: SA
+title: PICCADILLY
+url: /sa/piccadilly/
 ---

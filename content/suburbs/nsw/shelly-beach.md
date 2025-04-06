@@ -1,9 +1,10 @@
 ---
-title: SHELLY BEACH
-state: NSW
-postcode: 2261
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.315827
-longitude: 151.519708
-url: /nsw/shelly-beach/
 layout: suburb
+longitude: 151.519708
+postcode: '2261'
+state: NSW
+title: SHELLY BEACH
+url: /nsw/shelly-beach/
 ---

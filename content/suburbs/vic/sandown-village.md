@@ -1,9 +1,10 @@
 ---
-title: SANDOWN VILLAGE
-state: VIC
-postcode: 3171
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.944608
-longitude: 145.156783
-url: /vic/sandown-village/
 layout: suburb
+longitude: 145.156783
+postcode: '3171'
+state: VIC
+title: SANDOWN VILLAGE
+url: /vic/sandown-village/
 ---

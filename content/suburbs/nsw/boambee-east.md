@@ -1,9 +1,10 @@
 ---
-title: BOAMBEE EAST
-state: NSW
-postcode: 2452
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.357168
-longitude: 153.08188
-url: /nsw/boambee-east/
 layout: suburb
+longitude: 153.08188
+postcode: '2452'
+state: NSW
+title: BOAMBEE EAST
+url: /nsw/boambee-east/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CHITON
-state: SA
-postcode: 5211
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.534413
-longitude: 138.529512
-url: /sa/chiton/
 layout: suburb
+longitude: 138.529512
+postcode: '5211'
+state: SA
+title: CHITON
+url: /sa/chiton/
 ---

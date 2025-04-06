@@ -1,9 +1,10 @@
 ---
-title: NATTE YALLOCK
-state: VIC
-postcode: 3465
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.021478
-longitude: 143.611335
-url: /vic/natte-yallock/
 layout: suburb
+longitude: 143.611335
+postcode: '3465'
+state: VIC
+title: NATTE YALLOCK
+url: /vic/natte-yallock/
 ---

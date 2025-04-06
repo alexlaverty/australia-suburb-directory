@@ -1,9 +1,10 @@
 ---
-title: LAKE BUNGA
-state: VIC
-postcode: 3909
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.821921
-longitude: 147.970237
-url: /vic/lake-bunga/
 layout: suburb
+longitude: 147.970237
+postcode: '3909'
+state: VIC
+title: LAKE BUNGA
+url: /vic/lake-bunga/
 ---

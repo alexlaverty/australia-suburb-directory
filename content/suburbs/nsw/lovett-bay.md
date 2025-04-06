@@ -1,9 +1,10 @@
 ---
-title: LOVETT BAY
-state: NSW
-postcode: 2105
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.642202
-longitude: 151.278293
-url: /nsw/lovett-bay/
 layout: suburb
+longitude: 151.278293
+postcode: '2105'
+state: NSW
+title: LOVETT BAY
+url: /nsw/lovett-bay/
 ---

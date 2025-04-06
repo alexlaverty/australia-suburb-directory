@@ -1,9 +1,10 @@
 ---
-title: BANOON
-state: NSW
-postcode: 2347
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.281899
-longitude: 150.523163
-url: /nsw/banoon/
 layout: suburb
+longitude: 150.523163
+postcode: '2347'
+state: NSW
+title: BANOON
+url: /nsw/banoon/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ETHELTON
-state: SA
-postcode: 5015
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.808422
-longitude: 138.531567
-url: /sa/ethelton/
 layout: suburb
+longitude: 138.531567
+postcode: '5015'
+state: SA
+title: ETHELTON
+url: /sa/ethelton/
 ---

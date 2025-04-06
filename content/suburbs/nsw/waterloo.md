@@ -1,9 +1,10 @@
 ---
-title: WATERLOO
-state: NSW
-postcode: 2017
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.903892
-longitude: 151.206316
-url: /nsw/waterloo/
 layout: suburb
+longitude: 151.206316
+postcode: '2017'
+state: NSW
+title: WATERLOO
+url: /nsw/waterloo/
 ---

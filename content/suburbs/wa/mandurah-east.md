@@ -1,9 +1,10 @@
 ---
-title: MANDURAH EAST
-state: WA
-postcode: 6210
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.557981
-longitude: 115.728286
-url: /wa/mandurah-east/
 layout: suburb
+longitude: 115.728286
+postcode: '6210'
+state: WA
+title: MANDURAH EAST
+url: /wa/mandurah-east/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GLENPATRICK
-state: VIC
-postcode: 3469
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.172964
-longitude: 143.280627
-url: /vic/glenpatrick/
 layout: suburb
+longitude: 143.280627
+postcode: '3469'
+state: VIC
+title: GLENPATRICK
+url: /vic/glenpatrick/
 ---

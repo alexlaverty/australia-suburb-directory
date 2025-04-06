@@ -1,9 +1,10 @@
 ---
-title: BALRANALD
-state: NSW
-postcode: 2715
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.329424
-longitude: 143.491656
-url: /nsw/balranald/
 layout: suburb
+longitude: 143.491656
+postcode: '2715'
+state: NSW
+title: BALRANALD
+url: /nsw/balranald/
 ---

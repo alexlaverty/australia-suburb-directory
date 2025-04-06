@@ -1,9 +1,10 @@
 ---
-title: NANGWARRY
-state: SA
-postcode: 5277
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.435507
-longitude: 140.852283
-url: /sa/nangwarry/
 layout: suburb
+longitude: 140.852283
+postcode: '5277'
+state: SA
+title: NANGWARRY
+url: /sa/nangwarry/
 ---

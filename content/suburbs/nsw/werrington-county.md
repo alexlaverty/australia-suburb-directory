@@ -1,9 +1,10 @@
 ---
-title: WERRINGTON COUNTY
-state: NSW
-postcode: 2747
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.722323
-longitude: 150.739398
-url: /nsw/werrington-county/
 layout: suburb
+longitude: 150.739398
+postcode: '2747'
+state: NSW
+title: WERRINGTON COUNTY
+url: /nsw/werrington-county/
 ---

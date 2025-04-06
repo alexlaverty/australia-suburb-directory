@@ -1,9 +1,10 @@
 ---
-title: NORTH BLACKWOOD
-state: VIC
-postcode: 3458
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.424116
-longitude: 144.33471
-url: /vic/north-blackwood/
 layout: suburb
+longitude: 144.33471
+postcode: '3458'
+state: VIC
+title: NORTH BLACKWOOD
+url: /vic/north-blackwood/
 ---

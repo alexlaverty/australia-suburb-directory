@@ -1,9 +1,10 @@
 ---
-title: KOSCIUSKO NATIONAL PARK
-state: NSW
-postcode: 2627
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.71983893
-longitude: 148.3096588
-url: /nsw/kosciusko-national-park/
 layout: suburb
+longitude: 148.3096588
+postcode: '2627'
+state: NSW
+title: KOSCIUSKO NATIONAL PARK
+url: /nsw/kosciusko-national-park/
 ---

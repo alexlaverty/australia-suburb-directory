@@ -1,9 +1,10 @@
 ---
-title: BRAY
-state: SA
-postcode: 5276
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.214147
-longitude: 139.917377
-url: /sa/bray/
 layout: suburb
+longitude: 139.917377
+postcode: '5276'
+state: SA
+title: BRAY
+url: /sa/bray/
 ---

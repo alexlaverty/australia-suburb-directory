@@ -1,9 +1,10 @@
 ---
-title: PEGS CREEK
-state: WA
-postcode: 6714
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -21.145063
-longitude: 116.349933
-url: /wa/pegs-creek/
 layout: suburb
+longitude: 116.349933
+postcode: '6714'
+state: WA
+title: PEGS CREEK
+url: /wa/pegs-creek/
 ---

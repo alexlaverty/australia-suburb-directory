@@ -1,9 +1,10 @@
 ---
-title: TOMS CREEK
-state: NSW
-postcode: 2446
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.387394
-longitude: 152.466916
-url: /nsw/toms-creek/
 layout: suburb
+longitude: 152.466916
+postcode: '2446'
+state: NSW
+title: TOMS CREEK
+url: /nsw/toms-creek/
 ---

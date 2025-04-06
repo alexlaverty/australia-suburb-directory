@@ -1,9 +1,10 @@
 ---
-title: BOYLAND
-state: QLD
-postcode: 4275
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.111411
-longitude: 153.134987
-url: /qld/boyland/
 layout: suburb
+longitude: 153.134987
+postcode: '4275'
+state: QLD
+title: BOYLAND
+url: /qld/boyland/
 ---

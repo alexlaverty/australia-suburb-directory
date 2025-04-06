@@ -1,9 +1,10 @@
 ---
-title: MACALISTER RANGE
-state: QLD
-postcode: 4871
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.71762977
-longitude: 145.6348702
-url: /qld/macalister-range/
 layout: suburb
+longitude: 145.6348702
+postcode: '4871'
+state: QLD
+title: MACALISTER RANGE
+url: /qld/macalister-range/
 ---

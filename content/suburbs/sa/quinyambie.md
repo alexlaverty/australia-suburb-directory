@@ -1,9 +1,10 @@
 ---
-title: QUINYAMBIE
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.31162569
-longitude: 140.656038
-url: /sa/quinyambie/
 layout: suburb
+longitude: 140.656038
+postcode: '5440'
+state: SA
+title: QUINYAMBIE
+url: /sa/quinyambie/
 ---

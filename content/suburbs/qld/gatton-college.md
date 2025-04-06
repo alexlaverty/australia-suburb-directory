@@ -1,9 +1,10 @@
 ---
-title: GATTON COLLEGE
-state: QLD
-postcode: 4345
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.549094
-longitude: 152.336382
-url: /qld/gatton-college/
 layout: suburb
+longitude: 152.336382
+postcode: '4345'
+state: QLD
+title: GATTON COLLEGE
+url: /qld/gatton-college/
 ---

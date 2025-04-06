@@ -1,9 +1,10 @@
 ---
-title: WARBURTON
-state: VIC
-postcode: 3799
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.727566
-longitude: 145.818512
-url: /vic/warburton/
 layout: suburb
+longitude: 145.818512
+postcode: '3799'
+state: VIC
+title: WARBURTON
+url: /vic/warburton/
 ---

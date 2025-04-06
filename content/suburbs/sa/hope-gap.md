@@ -1,9 +1,10 @@
 ---
-title: HOPE GAP
-state: SA
-postcode: 5555
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.656811
-longitude: 138.191161
-url: /sa/hope-gap/
 layout: suburb
+longitude: 138.191161
+postcode: '5555'
+state: SA
+title: HOPE GAP
+url: /sa/hope-gap/
 ---

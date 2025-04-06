@@ -1,9 +1,10 @@
 ---
-title: EAST LINDFIELD
-state: NSW
-postcode: 2070
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.78042
-longitude: 151.162007
-url: /nsw/east-lindfield/
 layout: suburb
+longitude: 151.162007
+postcode: '2070'
+state: NSW
+title: EAST LINDFIELD
+url: /nsw/east-lindfield/
 ---

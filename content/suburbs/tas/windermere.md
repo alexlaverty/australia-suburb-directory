@@ -1,9 +1,10 @@
 ---
-title: WINDERMERE
-state: TAS
-postcode: 7252
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.148031
-longitude: 146.99252
-url: /tas/windermere/
 layout: suburb
+longitude: 146.99252
+postcode: '7252'
+state: TAS
+title: WINDERMERE
+url: /tas/windermere/
 ---

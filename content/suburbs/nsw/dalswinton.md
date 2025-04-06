@@ -1,9 +1,10 @@
 ---
-title: DALSWINTON
-state: NSW
-postcode: 2328
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.57693
-longitude: 150.564817
-url: /nsw/dalswinton/
 layout: suburb
+longitude: 150.564817
+postcode: '2328'
+state: NSW
+title: DALSWINTON
+url: /nsw/dalswinton/
 ---

@@ -1,9 +1,10 @@
 ---
-title: KINGS FOREST
-state: NSW
-postcode: 2487
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.2993722
-longitude: 153.5490066
-url: /nsw/kings-forest/
 layout: suburb
+longitude: 153.5490066
+postcode: '2487'
+state: NSW
+title: KINGS FOREST
+url: /nsw/kings-forest/
 ---

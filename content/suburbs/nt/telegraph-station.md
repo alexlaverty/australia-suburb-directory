@@ -1,9 +1,10 @@
 ---
-title: TELEGRAPH STATION
-state: NT
-postcode: 0872
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -21.949513
-longitude: 131.298809
-url: /nt/telegraph-station/
 layout: suburb
+longitude: 131.298809
+postcode: 0872
+state: NT
+title: TELEGRAPH STATION
+url: /nt/telegraph-station/
 ---

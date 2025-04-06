@@ -1,9 +1,10 @@
 ---
-title: CHERMSIDE WEST
-state: QLD
-postcode: 4032
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.385605
-longitude: 153.019449
-url: /qld/chermside-west/
 layout: suburb
+longitude: 153.019449
+postcode: '4032'
+state: QLD
+title: CHERMSIDE WEST
+url: /qld/chermside-west/
 ---

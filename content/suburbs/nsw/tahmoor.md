@@ -1,9 +1,10 @@
 ---
-title: TAHMOOR
-state: NSW
-postcode: 2573
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.218439
-longitude: 150.584634
-url: /nsw/tahmoor/
 layout: suburb
+longitude: 150.584634
+postcode: '2573'
+state: NSW
+title: TAHMOOR
+url: /nsw/tahmoor/
 ---

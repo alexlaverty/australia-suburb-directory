@@ -1,9 +1,10 @@
 ---
-title: THRINGTON
-state: SA
-postcode: 5552
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.061253
-longitude: 137.862942
-url: /sa/thrington/
 layout: suburb
+longitude: 137.862942
+postcode: '5552'
+state: SA
+title: THRINGTON
+url: /sa/thrington/
 ---

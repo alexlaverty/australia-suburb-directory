@@ -1,9 +1,10 @@
 ---
-title: BEROWRA HEIGHTS
-state: NSW
-postcode: 2082
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.561858
-longitude: 151.168984
-url: /nsw/berowra-heights/
 layout: suburb
+longitude: 151.168984
+postcode: '2082'
+state: NSW
+title: BEROWRA HEIGHTS
+url: /nsw/berowra-heights/
 ---

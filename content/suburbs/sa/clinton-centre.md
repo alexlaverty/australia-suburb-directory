@@ -1,9 +1,10 @@
 ---
-title: CLINTON CENTRE
-state: SA
-postcode: 5570
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.272303
-longitude: 137.956861
-url: /sa/clinton-centre/
 layout: suburb
+longitude: 137.956861
+postcode: '5570'
+state: SA
+title: CLINTON CENTRE
+url: /sa/clinton-centre/
 ---

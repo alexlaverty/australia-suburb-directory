@@ -1,9 +1,10 @@
 ---
-title: CAMBALONG
-state: NSW
-postcode: 2632
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.020122
-longitude: 149.220453
-url: /nsw/cambalong/
 layout: suburb
+longitude: 149.220453
+postcode: '2632'
+state: NSW
+title: CAMBALONG
+url: /nsw/cambalong/
 ---

@@ -1,9 +1,10 @@
 ---
-title: THARBOGANG
-state: NSW
-postcode: 2680
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.321422
-longitude: 145.914625
-url: /nsw/tharbogang/
 layout: suburb
+longitude: 145.914625
+postcode: '2680'
+state: NSW
+title: THARBOGANG
+url: /nsw/tharbogang/
 ---

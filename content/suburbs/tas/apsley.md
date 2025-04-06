@@ -1,9 +1,10 @@
 ---
-title: APSLEY
-state: TAS
-postcode: 7030
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.304288
-longitude: 146.958381
-url: /tas/apsley/
 layout: suburb
+longitude: 146.958381
+postcode: '7030'
+state: TAS
+title: APSLEY
+url: /tas/apsley/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BULL CREEK
-state: WA
-postcode: 6149
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.064941
-longitude: 115.858679
-url: /wa/bull-creek/
 layout: suburb
+longitude: 115.858679
+postcode: '6149'
+state: WA
+title: BULL CREEK
+url: /wa/bull-creek/
 ---

@@ -1,9 +1,10 @@
 ---
-title: THORNGATE
-state: SA
-postcode: 5082
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.886018
-longitude: 138.587083
-url: /sa/thorngate/
 layout: suburb
+longitude: 138.587083
+postcode: '5082'
+state: SA
+title: THORNGATE
+url: /sa/thorngate/
 ---

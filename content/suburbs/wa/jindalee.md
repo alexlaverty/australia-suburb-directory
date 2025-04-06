@@ -1,9 +1,10 @@
 ---
-title: JINDALEE
-state: WA
-postcode: 6036
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.649385
-longitude: 115.70986
-url: /wa/jindalee/
 layout: suburb
+longitude: 115.70986
+postcode: '6036'
+state: WA
+title: JINDALEE
+url: /wa/jindalee/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HAMPSTEAD GARDENS
-state: SA
-postcode: 5086
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.854247
-longitude: 138.64344
-url: /sa/hampstead-gardens/
 layout: suburb
+longitude: 138.64344
+postcode: '5086'
+state: SA
+title: HAMPSTEAD GARDENS
+url: /sa/hampstead-gardens/
 ---

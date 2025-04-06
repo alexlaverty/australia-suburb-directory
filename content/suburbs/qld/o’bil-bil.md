@@ -1,9 +1,10 @@
 ---
-title: O’BIL BIL
-state: QLD
-postcode: 4626
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.813563
-longitude: 151.205469
-url: /qld/o’bil-bil/
 layout: suburb
+longitude: 151.205469
+postcode: '4626'
+state: QLD
+title: O’BIL BIL
+url: /qld/o’bil-bil/
 ---

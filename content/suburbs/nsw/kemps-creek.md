@@ -1,9 +1,10 @@
 ---
-title: KEMPS CREEK
-state: NSW
-postcode: 2178
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.87478
-longitude: 150.838225
-url: /nsw/kemps-creek/
 layout: suburb
+longitude: 150.838225
+postcode: '2178'
+state: NSW
+title: KEMPS CREEK
+url: /nsw/kemps-creek/
 ---

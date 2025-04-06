@@ -1,9 +1,10 @@
 ---
-title: ERSKINE PARK
-state: NSW
-postcode: 2759
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.82252
-longitude: 150.781767
-url: /nsw/erskine-park/
 layout: suburb
+longitude: 150.781767
+postcode: '2759'
+state: NSW
+title: ERSKINE PARK
+url: /nsw/erskine-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GOOLWA SOUTH
-state: SA
-postcode: 5214
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.491206
-longitude: 138.834806
-url: /sa/goolwa-south/
 layout: suburb
+longitude: 138.834806
+postcode: '5214'
+state: SA
+title: GOOLWA SOUTH
+url: /sa/goolwa-south/
 ---

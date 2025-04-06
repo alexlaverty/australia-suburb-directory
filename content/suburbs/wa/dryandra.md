@@ -1,9 +1,10 @@
 ---
-title: DRYANDRA
-state: WA
-postcode: 6311
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.803533
-longitude: 117.120895
-url: /wa/dryandra/
 layout: suburb
+longitude: 117.120895
+postcode: '6311'
+state: WA
+title: DRYANDRA
+url: /wa/dryandra/
 ---

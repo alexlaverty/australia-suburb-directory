@@ -1,9 +1,10 @@
 ---
-title: BUNDEY
-state: SA
-postcode: 5320
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.010094
-longitude: 139.530277
-url: /sa/bundey/
 layout: suburb
+longitude: 139.530277
+postcode: '5320'
+state: SA
+title: BUNDEY
+url: /sa/bundey/
 ---

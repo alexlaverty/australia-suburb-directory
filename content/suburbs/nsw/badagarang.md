@@ -1,9 +1,10 @@
 ---
-title: BADAGARANG
-state: NSW
-postcode: 2540
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.8282
-longitude: 150.5789
-url: /nsw/badagarang/
 layout: suburb
+longitude: 150.5789
+postcode: '2540'
+state: NSW
+title: BADAGARANG
+url: /nsw/badagarang/
 ---

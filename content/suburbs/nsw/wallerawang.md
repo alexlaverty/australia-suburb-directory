@@ -1,9 +1,10 @@
 ---
-title: WALLERAWANG
-state: NSW
-postcode: 2845
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.404961
-longitude: 150.04201
-url: /nsw/wallerawang/
 layout: suburb
+longitude: 150.04201
+postcode: '2845'
+state: NSW
+title: WALLERAWANG
+url: /nsw/wallerawang/
 ---

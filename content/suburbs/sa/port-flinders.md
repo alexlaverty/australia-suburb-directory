@@ -1,9 +1,10 @@
 ---
-title: PORT FLINDERS
-state: SA
-postcode: 5495
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.88219
-longitude: 137.946255
-url: /sa/port-flinders/
 layout: suburb
+longitude: 137.946255
+postcode: '5495'
+state: SA
+title: PORT FLINDERS
+url: /sa/port-flinders/
 ---

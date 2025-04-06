@@ -1,9 +1,10 @@
 ---
-title: ORFORD
-state: VIC
-postcode: 3284
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.270398
-longitude: 142.119266
-url: /vic/orford/
 layout: suburb
+longitude: 142.119266
+postcode: '3284'
+state: VIC
+title: ORFORD
+url: /vic/orford/
 ---

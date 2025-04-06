@@ -1,9 +1,10 @@
 ---
-title: KOWEN FOREST
-state: ACT
-postcode: 2620
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.317402
-longitude: 149.257101
-url: /act/kowen-forest/
 layout: suburb
+longitude: 149.257101
+postcode: '2620'
+state: ACT
+title: KOWEN FOREST
+url: /act/kowen-forest/
 ---

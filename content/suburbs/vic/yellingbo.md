@@ -1,9 +1,10 @@
 ---
-title: YELLINGBO
-state: VIC
-postcode: 3139
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.814506
-longitude: 145.532666
-url: /vic/yellingbo/
 layout: suburb
+longitude: 145.532666
+postcode: '3139'
+state: VIC
+title: YELLINGBO
+url: /vic/yellingbo/
 ---

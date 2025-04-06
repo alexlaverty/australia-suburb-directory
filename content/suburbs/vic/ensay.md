@@ -1,9 +1,10 @@
 ---
-title: ENSAY
-state: VIC
-postcode: 3895
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.379331
-longitude: 147.887515
-url: /vic/ensay/
 layout: suburb
+longitude: 147.887515
+postcode: '3895'
+state: VIC
+title: ENSAY
+url: /vic/ensay/
 ---

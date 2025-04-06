@@ -1,9 +1,10 @@
 ---
-title: BOWENVILLE
-state: QLD
-postcode: 4404
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.33128
-longitude: 151.480666
-url: /qld/bowenville/
 layout: suburb
+longitude: 151.480666
+postcode: '4404'
+state: QLD
+title: BOWENVILLE
+url: /qld/bowenville/
 ---

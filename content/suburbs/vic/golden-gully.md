@@ -1,9 +1,10 @@
 ---
-title: GOLDEN GULLY
-state: VIC
-postcode: 3555
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.777226
-longitude: 144.245239
-url: /vic/golden-gully/
 layout: suburb
+longitude: 144.245239
+postcode: '3555'
+state: VIC
+title: GOLDEN GULLY
+url: /vic/golden-gully/
 ---

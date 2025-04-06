@@ -1,9 +1,10 @@
 ---
-title: TALLAROOK
-state: VIC
-postcode: 3659
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.110344
-longitude: 145.07088
-url: /vic/tallarook/
 layout: suburb
+longitude: 145.07088
+postcode: '3659'
+state: VIC
+title: TALLAROOK
+url: /vic/tallarook/
 ---

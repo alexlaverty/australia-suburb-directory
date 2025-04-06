@@ -1,9 +1,10 @@
 ---
-title: DOONGIN
-state: WA
-postcode: 6409
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.605391
-longitude: 117.471029
-url: /wa/doongin/
 layout: suburb
+longitude: 117.471029
+postcode: '6409'
+state: WA
+title: DOONGIN
+url: /wa/doongin/
 ---

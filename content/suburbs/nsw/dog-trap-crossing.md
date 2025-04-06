@@ -1,9 +1,10 @@
 ---
-title: DOG TRAP CROSSING
-state: NSW
-postcode: 2582
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.862038
-longitude: 148.796477
-url: /nsw/dog-trap-crossing/
 layout: suburb
+longitude: 148.796477
+postcode: '2582'
+state: NSW
+title: DOG TRAP CROSSING
+url: /nsw/dog-trap-crossing/
 ---

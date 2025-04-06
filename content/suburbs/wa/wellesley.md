@@ -1,9 +1,10 @@
 ---
-title: WELLESLEY
-state: WA
-postcode: 6233
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.279034
-longitude: 115.71443
-url: /wa/wellesley/
 layout: suburb
+longitude: 115.71443
+postcode: '6233'
+state: WA
+title: WELLESLEY
+url: /wa/wellesley/
 ---

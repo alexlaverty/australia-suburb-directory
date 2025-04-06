@@ -1,9 +1,10 @@
 ---
-title: BAREENA
-state: VIC
-postcode: 3220
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.157038
-longitude: 144.34652
-url: /vic/bareena/
 layout: suburb
+longitude: 144.34652
+postcode: '3220'
+state: VIC
+title: BAREENA
+url: /vic/bareena/
 ---

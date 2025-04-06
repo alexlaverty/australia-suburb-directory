@@ -1,9 +1,10 @@
 ---
-title: ST CLAIR
-state: SA
-postcode: 5011
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.87089128
-longitude: 138.5353265
-url: /sa/st-clair/
 layout: suburb
+longitude: 138.5353265
+postcode: '5011'
+state: SA
+title: ST CLAIR
+url: /sa/st-clair/
 ---

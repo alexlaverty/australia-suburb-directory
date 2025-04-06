@@ -1,9 +1,10 @@
 ---
-title: WOG WOG
-state: NSW
-postcode: 2622
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.628428
-longitude: 149.752107
-url: /nsw/wog-wog/
 layout: suburb
+longitude: 149.752107
+postcode: '2622'
+state: NSW
+title: WOG WOG
+url: /nsw/wog-wog/
 ---

@@ -1,9 +1,10 @@
 ---
-title: COOLBIE
-state: QLD
-postcode: 4850
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -18.90354588
-longitude: 146.2680446
-url: /qld/coolbie/
 layout: suburb
+longitude: 146.2680446
+postcode: '4850'
+state: QLD
+title: COOLBIE
+url: /qld/coolbie/
 ---

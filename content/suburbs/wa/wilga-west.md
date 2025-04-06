@@ -1,9 +1,10 @@
 ---
-title: WILGA WEST
-state: WA
-postcode: 6243
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.68873
-longitude: 116.206928
-url: /wa/wilga-west/
 layout: suburb
+longitude: 116.206928
+postcode: '6243'
+state: WA
+title: WILGA WEST
+url: /wa/wilga-west/
 ---

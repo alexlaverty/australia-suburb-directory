@@ -1,9 +1,10 @@
 ---
-title: BINNAWAY
-state: NSW
-postcode: 2395
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.584172
-longitude: 149.440922
-url: /nsw/binnaway/
 layout: suburb
+longitude: 149.440922
+postcode: '2395'
+state: NSW
+title: BINNAWAY
+url: /nsw/binnaway/
 ---

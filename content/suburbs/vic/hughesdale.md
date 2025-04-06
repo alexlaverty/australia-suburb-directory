@@ -1,9 +1,10 @@
 ---
-title: HUGHESDALE
-state: VIC
-postcode: 3166
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.902805
-longitude: 145.089719
-url: /vic/hughesdale/
 layout: suburb
+longitude: 145.089719
+postcode: '3166'
+state: VIC
+title: HUGHESDALE
+url: /vic/hughesdale/
 ---

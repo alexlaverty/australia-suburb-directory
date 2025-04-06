@@ -1,9 +1,10 @@
 ---
-title: JIMBOUR
-state: QLD
-postcode: 4406
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.064207
-longitude: 151.433657
-url: /qld/jimbour/
 layout: suburb
+longitude: 151.433657
+postcode: '4406'
+state: QLD
+title: JIMBOUR
+url: /qld/jimbour/
 ---

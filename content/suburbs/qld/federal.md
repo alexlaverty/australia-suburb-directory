@@ -1,9 +1,10 @@
 ---
-title: FEDERAL
-state: QLD
-postcode: 4568
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.313995
-longitude: 152.876607
-url: /qld/federal/
 layout: suburb
+longitude: 152.876607
+postcode: '4568'
+state: QLD
+title: FEDERAL
+url: /qld/federal/
 ---

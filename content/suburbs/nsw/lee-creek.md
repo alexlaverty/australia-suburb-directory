@@ -1,9 +1,10 @@
 ---
-title: LEE CREEK
-state: NSW
-postcode: 2849
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.708935
-longitude: 150.059088
-url: /nsw/lee-creek/
 layout: suburb
+longitude: 150.059088
+postcode: '2849'
+state: NSW
+title: LEE CREEK
+url: /nsw/lee-creek/
 ---

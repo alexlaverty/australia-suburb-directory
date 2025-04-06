@@ -1,9 +1,10 @@
 ---
-title: KEILOR EAST
-state: VIC
-postcode: 3033
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.74107
-longitude: 144.857638
-url: /vic/keilor-east/
 layout: suburb
+longitude: 144.857638
+postcode: '3033'
+state: VIC
+title: KEILOR EAST
+url: /vic/keilor-east/
 ---

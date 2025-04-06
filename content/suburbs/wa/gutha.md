@@ -1,9 +1,10 @@
 ---
-title: GUTHA
-state: WA
-postcode: 6623
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -29.021683
-longitude: 116.120459
-url: /wa/gutha/
 layout: suburb
+longitude: 116.120459
+postcode: '6623'
+state: WA
+title: GUTHA
+url: /wa/gutha/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MUTOOROO
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.71070856
-longitude: 140.564978
-url: /sa/mutooroo/
 layout: suburb
+longitude: 140.564978
+postcode: '5440'
+state: SA
+title: MUTOOROO
+url: /sa/mutooroo/
 ---

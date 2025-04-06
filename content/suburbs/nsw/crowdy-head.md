@@ -1,9 +1,10 @@
 ---
-title: CROWDY HEAD
-state: NSW
-postcode: 2427
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.842318
-longitude: 152.686583
-url: /nsw/crowdy-head/
 layout: suburb
+longitude: 152.686583
+postcode: '2427'
+state: NSW
+title: CROWDY HEAD
+url: /nsw/crowdy-head/
 ---

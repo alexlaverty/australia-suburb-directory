@@ -1,9 +1,10 @@
 ---
-title: FOSTER NORTH
-state: VIC
-postcode: 3960
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -39.140761
-longitude: 146.360412
-url: /vic/foster-north/
 layout: suburb
+longitude: 146.360412
+postcode: '3960'
+state: VIC
+title: FOSTER NORTH
+url: /vic/foster-north/
 ---

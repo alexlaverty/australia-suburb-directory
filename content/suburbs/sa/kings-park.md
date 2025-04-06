@@ -1,9 +1,10 @@
 ---
-title: KINGS PARK
-state: SA
-postcode: 5034
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.956227
-longitude: 138.58811
-url: /sa/kings-park/
 layout: suburb
+longitude: 138.58811
+postcode: '5034'
+state: SA
+title: KINGS PARK
+url: /sa/kings-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EAST HILLS
-state: NSW
-postcode: 2213
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.964102
-longitude: 150.997836
-url: /nsw/east-hills/
 layout: suburb
+longitude: 150.997836
+postcode: '2213'
+state: NSW
+title: EAST HILLS
+url: /nsw/east-hills/
 ---

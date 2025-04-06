@@ -1,9 +1,10 @@
 ---
-title: CATHERINE FIELD
-state: NSW
-postcode: 2557
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.993545
-longitude: 150.774858
-url: /nsw/catherine-field/
 layout: suburb
+longitude: 150.774858
+postcode: '2557'
+state: NSW
+title: CATHERINE FIELD
+url: /nsw/catherine-field/
 ---

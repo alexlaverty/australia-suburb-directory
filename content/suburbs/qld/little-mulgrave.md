@@ -1,9 +1,10 @@
 ---
-title: LITTLE MULGRAVE
-state: QLD
-postcode: 4865
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -17.095516
-longitude: 145.782765
-url: /qld/little-mulgrave/
 layout: suburb
+longitude: 145.782765
+postcode: '4865'
+state: QLD
+title: LITTLE MULGRAVE
+url: /qld/little-mulgrave/
 ---

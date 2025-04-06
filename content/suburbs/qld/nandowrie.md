@@ -1,9 +1,10 @@
 ---
-title: NANDOWRIE
-state: QLD
-postcode: 4722
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.34409784
-longitude: 147.5161049
-url: /qld/nandowrie/
 layout: suburb
+longitude: 147.5161049
+postcode: '4722'
+state: QLD
+title: NANDOWRIE
+url: /qld/nandowrie/
 ---

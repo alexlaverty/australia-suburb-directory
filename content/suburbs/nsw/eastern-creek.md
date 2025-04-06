@@ -1,9 +1,10 @@
 ---
-title: EASTERN CREEK
-state: NSW
-postcode: 2766
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.810388
-longitude: 150.850764
-url: /nsw/eastern-creek/
 layout: suburb
+longitude: 150.850764
+postcode: '2766'
+state: NSW
+title: EASTERN CREEK
+url: /nsw/eastern-creek/
 ---

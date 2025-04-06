@@ -1,9 +1,10 @@
 ---
-title: DARETON
-state: NSW
-postcode: 2717
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.090426
-longitude: 142.065808
-url: /nsw/dareton/
 layout: suburb
+longitude: 142.065808
+postcode: '2717'
+state: NSW
+title: DARETON
+url: /nsw/dareton/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NORTH BRUNY
-state: TAS
-postcode: 7150
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.077586
-longitude: 147.958441
-url: /tas/north-bruny/
 layout: suburb
+longitude: 147.958441
+postcode: '7150'
+state: TAS
+title: NORTH BRUNY
+url: /tas/north-bruny/
 ---

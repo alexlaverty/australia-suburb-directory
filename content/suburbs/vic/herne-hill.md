@@ -1,9 +1,10 @@
 ---
-title: HERNE HILL
-state: VIC
-postcode: 3218
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.138728
-longitude: 144.330986
-url: /vic/herne-hill/
 layout: suburb
+longitude: 144.330986
+postcode: '3218'
+state: VIC
+title: HERNE HILL
+url: /vic/herne-hill/
 ---

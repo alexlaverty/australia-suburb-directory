@@ -1,9 +1,10 @@
 ---
-title: ROUND HILL
-state: QLD
-postcode: 4677
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.318471
-longitude: 151.727736
-url: /qld/round-hill/
 layout: suburb
+longitude: 151.727736
+postcode: '4677'
+state: QLD
+title: ROUND HILL
+url: /qld/round-hill/
 ---

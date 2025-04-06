@@ -1,9 +1,10 @@
 ---
-title: WATTENING
-state: WA
-postcode: 6568
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -31.246581
-longitude: 116.537461
-url: /wa/wattening/
 layout: suburb
+longitude: 116.537461
+postcode: '6568'
+state: WA
+title: WATTENING
+url: /wa/wattening/
 ---

@@ -1,9 +1,10 @@
 ---
-title: YIELIMA
-state: VIC
-postcode: 3638
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.03202
-longitude: 145.246572
-url: /vic/yielima/
 layout: suburb
+longitude: 145.246572
+postcode: '3638'
+state: VIC
+title: YIELIMA
+url: /vic/yielima/
 ---

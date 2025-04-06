@@ -1,9 +1,10 @@
 ---
-title: MULGUTHRIE
-state: NSW
-postcode: 2877
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.844998
-longitude: 146.085138
-url: /nsw/mulguthrie/
 layout: suburb
+longitude: 146.085138
+postcode: '2877'
+state: NSW
+title: MULGUTHRIE
+url: /nsw/mulguthrie/
 ---

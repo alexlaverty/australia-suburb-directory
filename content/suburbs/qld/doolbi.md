@@ -1,9 +1,10 @@
 ---
-title: DOOLBI
-state: QLD
-postcode: 4660
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.189298
-longitude: 152.300968
-url: /qld/doolbi/
 layout: suburb
+longitude: 152.300968
+postcode: '4660'
+state: QLD
+title: DOOLBI
+url: /qld/doolbi/
 ---

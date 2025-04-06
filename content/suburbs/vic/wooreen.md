@@ -1,9 +1,10 @@
 ---
-title: WOOREEN
-state: VIC
-postcode: 3953
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.40506851
-longitude: 146.0204631
-url: /vic/wooreen/
 layout: suburb
+longitude: 146.0204631
+postcode: '3953'
+state: VIC
+title: WOOREEN
+url: /vic/wooreen/
 ---

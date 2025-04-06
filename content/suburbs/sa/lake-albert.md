@@ -1,9 +1,10 @@
 ---
-title: LAKE ALBERT
-state: SA
-postcode: 5259
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.62498319
-longitude: 139.2848845
-url: /sa/lake-albert/
 layout: suburb
+longitude: 139.2848845
+postcode: '5259'
+state: SA
+title: LAKE ALBERT
+url: /sa/lake-albert/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PARA VISTA
-state: SA
-postcode: 5093
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.83977
-longitude: 138.657974
-url: /sa/para-vista/
 layout: suburb
+longitude: 138.657974
+postcode: '5093'
+state: SA
+title: PARA VISTA
+url: /sa/para-vista/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WATTLE GROVE
-state: WA
-postcode: 6107
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.017663
-longitude: 115.967142
-url: /wa/wattle-grove/
 layout: suburb
+longitude: 115.967142
+postcode: '6107'
+state: WA
+title: WATTLE GROVE
+url: /wa/wattle-grove/
 ---

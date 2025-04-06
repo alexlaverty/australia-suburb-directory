@@ -1,9 +1,10 @@
 ---
-title: APPLE TREE FLAT
-state: NSW
-postcode: 2850
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.685033
-longitude: 149.602925
-url: /nsw/apple-tree-flat/
 layout: suburb
+longitude: 149.602925
+postcode: '2850'
+state: NSW
+title: APPLE TREE FLAT
+url: /nsw/apple-tree-flat/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CRAMPHORNE
-state: WA
-postcode: 6420
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.748338
-longitude: 118.718262
-url: /wa/cramphorne/
 layout: suburb
+longitude: 118.718262
+postcode: '6420'
+state: WA
+title: CRAMPHORNE
+url: /wa/cramphorne/
 ---

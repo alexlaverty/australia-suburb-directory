@@ -1,9 +1,10 @@
 ---
-title: DALWALLINU
-state: WA
-postcode: 6609
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -30.266489
-longitude: 116.750631
-url: /wa/dalwallinu/
 layout: suburb
+longitude: 116.750631
+postcode: '6609'
+state: WA
+title: DALWALLINU
+url: /wa/dalwallinu/
 ---

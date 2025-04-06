@@ -1,9 +1,10 @@
 ---
-title: FRANKSTON HEIGHTS
-state: VIC
-postcode: 3199
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.162578
-longitude: 145.135961
-url: /vic/frankston-heights/
 layout: suburb
+longitude: 145.135961
+postcode: '3199'
+state: VIC
+title: FRANKSTON HEIGHTS
+url: /vic/frankston-heights/
 ---

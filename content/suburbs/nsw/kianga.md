@@ -1,9 +1,10 @@
 ---
-title: KIANGA
-state: NSW
-postcode: 2546
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.25486
-longitude: 150.225372
-url: /nsw/kianga/
 layout: suburb
+longitude: 150.225372
+postcode: '2546'
+state: NSW
+title: KIANGA
+url: /nsw/kianga/
 ---

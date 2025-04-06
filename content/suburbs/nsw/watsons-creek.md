@@ -1,9 +1,10 @@
 ---
-title: WATSONS CREEK
-state: NSW
-postcode: 2355
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.775229
-longitude: 151.154222
-url: /nsw/watsons-creek/
 layout: suburb
+longitude: 151.154222
+postcode: '2355'
+state: NSW
+title: WATSONS CREEK
+url: /nsw/watsons-creek/
 ---

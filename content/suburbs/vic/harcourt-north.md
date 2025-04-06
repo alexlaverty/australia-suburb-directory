@@ -1,9 +1,10 @@
 ---
-title: HARCOURT NORTH
-state: VIC
-postcode: 3453
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.950365
-longitude: 144.281488
-url: /vic/harcourt-north/
 layout: suburb
+longitude: 144.281488
+postcode: '3453'
+state: VIC
+title: HARCOURT NORTH
+url: /vic/harcourt-north/
 ---

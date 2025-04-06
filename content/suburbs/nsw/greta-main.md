@@ -1,9 +1,10 @@
 ---
-title: GRETA MAIN
-state: NSW
-postcode: 2325
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.88882897
-longitude: 151.2826072
-url: /nsw/greta-main/
 layout: suburb
+longitude: 151.2826072
+postcode: '2325'
+state: NSW
+title: GRETA MAIN
+url: /nsw/greta-main/
 ---

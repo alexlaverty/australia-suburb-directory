@@ -1,9 +1,10 @@
 ---
-title: EIGHT MILE CREEK
-state: QLD
-postcode: 4807
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.914965
-longitude: 147.133033
-url: /qld/eight-mile-creek/
 layout: suburb
+longitude: 147.133033
+postcode: '4807'
+state: QLD
+title: EIGHT MILE CREEK
+url: /qld/eight-mile-creek/
 ---

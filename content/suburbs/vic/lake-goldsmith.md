@@ -1,9 +1,10 @@
 ---
-title: LAKE GOLDSMITH
-state: VIC
-postcode: 3373
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.457785
-longitude: 143.343429
-url: /vic/lake-goldsmith/
 layout: suburb
+longitude: 143.343429
+postcode: '3373'
+state: VIC
+title: LAKE GOLDSMITH
+url: /vic/lake-goldsmith/
 ---

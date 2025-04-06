@@ -1,9 +1,10 @@
 ---
-title: TINTINHULL
-state: NSW
-postcode: 2352
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.088119
-longitude: 151.246189
-url: /nsw/tintinhull/
 layout: suburb
+longitude: 151.246189
+postcode: '2352'
+state: NSW
+title: TINTINHULL
+url: /nsw/tintinhull/
 ---

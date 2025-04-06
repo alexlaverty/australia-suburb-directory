@@ -1,9 +1,10 @@
 ---
-title: KEWDALE
-state: WA
-postcode: 6105
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.95388
-longitude: 115.963293
-url: /wa/kewdale/
 layout: suburb
+longitude: 115.963293
+postcode: '6105'
+state: WA
+title: KEWDALE
+url: /wa/kewdale/
 ---

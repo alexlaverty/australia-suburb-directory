@@ -1,9 +1,10 @@
 ---
-title: MAHOGANY CREEK
-state: WA
-postcode: 6072
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.907828
-longitude: 116.132045
-url: /wa/mahogany-creek/
 layout: suburb
+longitude: 116.132045
+postcode: '6072'
+state: WA
+title: MAHOGANY CREEK
+url: /wa/mahogany-creek/
 ---

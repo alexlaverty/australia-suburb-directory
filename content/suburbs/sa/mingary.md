@@ -1,9 +1,10 @@
 ---
-title: MINGARY
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.339759
-longitude: 140.027346
-url: /sa/mingary/
 layout: suburb
+longitude: 140.027346
+postcode: '5440'
+state: SA
+title: MINGARY
+url: /sa/mingary/
 ---

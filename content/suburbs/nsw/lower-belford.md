@@ -1,9 +1,10 @@
 ---
-title: LOWER BELFORD
-state: NSW
-postcode: 2335
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.642118
-longitude: 151.319414
-url: /nsw/lower-belford/
 layout: suburb
+longitude: 151.319414
+postcode: '2335'
+state: NSW
+title: LOWER BELFORD
+url: /nsw/lower-belford/
 ---

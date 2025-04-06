@@ -1,9 +1,10 @@
 ---
-title: MYRTLE BANK
-state: TAS
-postcode: 7259
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.358817
-longitude: 147.357686
-url: /tas/myrtle-bank/
 layout: suburb
+longitude: 147.357686
+postcode: '7259'
+state: TAS
+title: MYRTLE BANK
+url: /tas/myrtle-bank/
 ---

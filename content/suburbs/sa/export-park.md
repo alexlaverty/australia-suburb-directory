@@ -1,9 +1,10 @@
 ---
-title: EXPORT PARK
-state: SA
-postcode: 5950
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.945146
-longitude: 138.530183
-url: /sa/export-park/
 layout: suburb
+longitude: 138.530183
+postcode: '5950'
+state: SA
+title: EXPORT PARK
+url: /sa/export-park/
 ---

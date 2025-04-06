@@ -1,9 +1,10 @@
 ---
-title: MEDINDIE
-state: SA
-postcode: 5081
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.891417
-longitude: 138.617673
-url: /sa/medindie/
 layout: suburb
+longitude: 138.617673
+postcode: '5081'
+state: SA
+title: MEDINDIE
+url: /sa/medindie/
 ---

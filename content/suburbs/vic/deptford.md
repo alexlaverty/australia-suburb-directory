@@ -1,9 +1,10 @@
 ---
-title: DEPTFORD
-state: VIC
-postcode: 3875
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.826032
-longitude: 147.63201
-url: /vic/deptford/
 layout: suburb
+longitude: 147.63201
+postcode: '3875'
+state: VIC
+title: DEPTFORD
+url: /vic/deptford/
 ---

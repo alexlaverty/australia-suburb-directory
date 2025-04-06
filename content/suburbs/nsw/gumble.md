@@ -1,9 +1,10 @@
 ---
-title: GUMBLE
-state: NSW
-postcode: 2865
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.213883
-longitude: 148.684862
-url: /nsw/gumble/
 layout: suburb
+longitude: 148.684862
+postcode: '2865'
+state: NSW
+title: GUMBLE
+url: /nsw/gumble/
 ---

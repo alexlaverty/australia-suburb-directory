@@ -1,9 +1,10 @@
 ---
-title: JUBILEE
-state: QLD
-postcode: 4065
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.462504
-longitude: 152.975992
-url: /qld/jubilee/
 layout: suburb
+longitude: 152.975992
+postcode: '4065'
+state: QLD
+title: JUBILEE
+url: /qld/jubilee/
 ---

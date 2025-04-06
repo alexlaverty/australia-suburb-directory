@@ -1,9 +1,10 @@
 ---
-title: WATTLETREE ROAD PO
-state: VIC
-postcode: 3145
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.873557
-longitude: 145.049328
-url: /vic/wattletree-road-po/
 layout: suburb
+longitude: 145.049328
+postcode: '3145'
+state: VIC
+title: WATTLETREE ROAD PO
+url: /vic/wattletree-road-po/
 ---

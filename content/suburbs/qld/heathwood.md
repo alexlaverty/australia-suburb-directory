@@ -1,9 +1,10 @@
 ---
-title: HEATHWOOD
-state: QLD
-postcode: 4110
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.612178
-longitude: 153.009526
-url: /qld/heathwood/
 layout: suburb
+longitude: 153.009526
+postcode: '4110'
+state: QLD
+title: HEATHWOOD
+url: /qld/heathwood/
 ---

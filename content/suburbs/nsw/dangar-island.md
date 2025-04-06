@@ -1,9 +1,10 @@
 ---
-title: DANGAR ISLAND
-state: NSW
-postcode: 2083
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.525322
-longitude: 151.194452
-url: /nsw/dangar-island/
 layout: suburb
+longitude: 151.194452
+postcode: '2083'
+state: NSW
+title: DANGAR ISLAND
+url: /nsw/dangar-island/
 ---

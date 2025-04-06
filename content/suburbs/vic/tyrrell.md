@@ -1,9 +1,10 @@
 ---
-title: TYRRELL
-state: VIC
-postcode: 3533
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.384557
-longitude: 142.839304
-url: /vic/tyrrell/
 layout: suburb
+longitude: 142.839304
+postcode: '3533'
+state: VIC
+title: TYRRELL
+url: /vic/tyrrell/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BIELSDOWN HILLS
-state: NSW
-postcode: 2453
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.36840993
-longitude: 152.6703126
-url: /nsw/bielsdown-hills/
 layout: suburb
+longitude: 152.6703126
+postcode: '2453'
+state: NSW
+title: BIELSDOWN HILLS
+url: /nsw/bielsdown-hills/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DUNDEE FOREST
-state: NT
-postcode: 0840
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.71366907
-longitude: 130.4518371
-url: /nt/dundee-forest/
 layout: suburb
+longitude: 130.4518371
+postcode: 0840
+state: NT
+title: DUNDEE FOREST
+url: /nt/dundee-forest/
 ---

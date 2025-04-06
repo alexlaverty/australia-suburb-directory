@@ -1,9 +1,10 @@
 ---
-title: TALLEBUDGERA VALLEY
-state: QLD
-postcode: 4228
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.182084
-longitude: 153.37739
-url: /qld/tallebudgera-valley/
 layout: suburb
+longitude: 153.37739
+postcode: '4228'
+state: QLD
+title: TALLEBUDGERA VALLEY
+url: /qld/tallebudgera-valley/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PRIORS POCKET
-state: QLD
-postcode: 4070
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.559944
-longitude: 152.871141
-url: /qld/priors-pocket/
 layout: suburb
+longitude: 152.871141
+postcode: '4070'
+state: QLD
+title: PRIORS POCKET
+url: /qld/priors-pocket/
 ---

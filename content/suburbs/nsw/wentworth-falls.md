@@ -1,9 +1,10 @@
 ---
-title: WENTWORTH FALLS
-state: NSW
-postcode: 2782
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.704416
-longitude: 150.366015
-url: /nsw/wentworth-falls/
 layout: suburb
+longitude: 150.366015
+postcode: '2782'
+state: NSW
+title: WENTWORTH FALLS
+url: /nsw/wentworth-falls/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MCDONALD ISLANDS
-state: TAS
-postcode: 7151
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.518719
-longitude: 146.64266
-url: /tas/mcdonald-islands/
 layout: suburb
+longitude: 146.64266
+postcode: '7151'
+state: TAS
+title: MCDONALD ISLANDS
+url: /tas/mcdonald-islands/
 ---

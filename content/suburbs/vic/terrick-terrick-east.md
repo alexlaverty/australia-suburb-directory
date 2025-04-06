@@ -1,9 +1,10 @@
 ---
-title: TERRICK TERRICK EAST
-state: VIC
-postcode: 3573
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.164865
-longitude: 144.297958
-url: /vic/terrick-terrick-east/
 layout: suburb
+longitude: 144.297958
+postcode: '3573'
+state: VIC
+title: TERRICK TERRICK EAST
+url: /vic/terrick-terrick-east/
 ---

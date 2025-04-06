@@ -1,9 +1,10 @@
 ---
-title: LONGWOOD
-state: VIC
-postcode: 3665
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.844091
-longitude: 145.357627
-url: /vic/longwood/
 layout: suburb
+longitude: 145.357627
+postcode: '3665'
+state: VIC
+title: LONGWOOD
+url: /vic/longwood/
 ---

@@ -1,9 +1,10 @@
 ---
-title: POTTSVILLE BEACH
-state: NSW
-postcode: 2489
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.379066
-longitude: 153.56855
-url: /nsw/pottsville-beach/
 layout: suburb
+longitude: 153.56855
+postcode: '2489'
+state: NSW
+title: POTTSVILLE BEACH
+url: /nsw/pottsville-beach/
 ---

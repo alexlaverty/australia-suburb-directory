@@ -1,9 +1,10 @@
 ---
-title: MERTON VALE
-state: NSW
-postcode: 2646
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.757569
-longitude: 146.324523
-url: /nsw/merton-vale/
 layout: suburb
+longitude: 146.324523
+postcode: '2646'
+state: NSW
+title: MERTON VALE
+url: /nsw/merton-vale/
 ---

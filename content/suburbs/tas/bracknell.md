@@ -1,9 +1,10 @@
 ---
-title: BRACKNELL
-state: TAS
-postcode: 7302
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.70457
-longitude: 146.988293
-url: /tas/bracknell/
 layout: suburb
+longitude: 146.988293
+postcode: '7302'
+state: TAS
+title: BRACKNELL
+url: /tas/bracknell/
 ---

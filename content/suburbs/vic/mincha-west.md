@@ -1,9 +1,10 @@
 ---
-title: MINCHA WEST
-state: VIC
-postcode: 3568
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.809462
-longitude: 144.184089
-url: /vic/mincha-west/
 layout: suburb
+longitude: 144.184089
+postcode: '3568'
+state: VIC
+title: MINCHA WEST
+url: /vic/mincha-west/
 ---

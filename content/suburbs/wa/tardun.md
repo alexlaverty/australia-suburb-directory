@@ -1,9 +1,10 @@
 ---
-title: TARDUN
-state: WA
-postcode: 6628
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -28.833846
-longitude: 115.764797
-url: /wa/tardun/
 layout: suburb
+longitude: 115.764797
+postcode: '6628'
+state: WA
+title: TARDUN
+url: /wa/tardun/
 ---

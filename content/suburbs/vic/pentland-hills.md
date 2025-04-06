@@ -1,9 +1,10 @@
 ---
-title: PENTLAND HILLS
-state: VIC
-postcode: 3341
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.573711
-longitude: 144.308232
-url: /vic/pentland-hills/
 layout: suburb
+longitude: 144.308232
+postcode: '3341'
+state: VIC
+title: PENTLAND HILLS
+url: /vic/pentland-hills/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DUARINGA
-state: QLD
-postcode: 4712
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.69521
-longitude: 149.673726
-url: /qld/duaringa/
 layout: suburb
+longitude: 149.673726
+postcode: '4712'
+state: QLD
+title: DUARINGA
+url: /qld/duaringa/
 ---

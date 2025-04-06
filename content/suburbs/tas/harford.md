@@ -1,9 +1,10 @@
 ---
-title: HARFORD
-state: TAS
-postcode: 7307
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.210495
-longitude: 146.57356
-url: /tas/harford/
 layout: suburb
+longitude: 146.57356
+postcode: '7307'
+state: TAS
+title: HARFORD
+url: /tas/harford/
 ---

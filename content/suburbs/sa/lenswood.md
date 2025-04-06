@@ -1,9 +1,10 @@
 ---
-title: LENSWOOD
-state: SA
-postcode: 5240
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.906905
-longitude: 138.815277
-url: /sa/lenswood/
 layout: suburb
+longitude: 138.815277
+postcode: '5240'
+state: SA
+title: LENSWOOD
+url: /sa/lenswood/
 ---

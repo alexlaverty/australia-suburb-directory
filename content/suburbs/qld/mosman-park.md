@@ -1,9 +1,10 @@
 ---
-title: MOSMAN PARK
-state: QLD
-postcode: 4820
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -20.09881303
-longitude: 146.2604909
-url: /qld/mosman-park/
 layout: suburb
+longitude: 146.2604909
+postcode: '4820'
+state: QLD
+title: MOSMAN PARK
+url: /qld/mosman-park/
 ---

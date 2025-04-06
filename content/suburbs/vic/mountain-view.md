@@ -1,9 +1,10 @@
 ---
-title: MOUNTAIN VIEW
-state: VIC
-postcode: 3988
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.313447
-longitude: 145.811863
-url: /vic/mountain-view/
 layout: suburb
+longitude: 145.811863
+postcode: '3988'
+state: VIC
+title: MOUNTAIN VIEW
+url: /vic/mountain-view/
 ---

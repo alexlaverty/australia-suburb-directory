@@ -1,9 +1,10 @@
 ---
-title: CONCORD REPATRIATION HOSPITAL
-state: NSW
-postcode: 2139
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.835993
-longitude: 151.095163
-url: /nsw/concord-repatriation-hospital/
 layout: suburb
+longitude: 151.095163
+postcode: '2139'
+state: NSW
+title: CONCORD REPATRIATION HOSPITAL
+url: /nsw/concord-repatriation-hospital/
 ---

@@ -1,9 +1,10 @@
 ---
-title: RAYWOOD
-state: VIC
-postcode: 3570
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.515303
-longitude: 144.28053
-url: /vic/raywood/
 layout: suburb
+longitude: 144.28053
+postcode: '3570'
+state: VIC
+title: RAYWOOD
+url: /vic/raywood/
 ---

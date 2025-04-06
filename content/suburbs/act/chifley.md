@@ -1,9 +1,10 @@
 ---
-title: CHIFLEY
-state: ACT
-postcode: 2606
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.351693
-longitude: 149.092601
-url: /act/chifley/
 layout: suburb
+longitude: 149.092601
+postcode: '2606'
+state: ACT
+title: CHIFLEY
+url: /act/chifley/
 ---

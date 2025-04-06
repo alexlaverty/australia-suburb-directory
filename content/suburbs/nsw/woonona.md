@@ -1,9 +1,10 @@
 ---
-title: WOONONA
-state: NSW
-postcode: 2517
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.349362
-longitude: 150.891169
-url: /nsw/woonona/
 layout: suburb
+longitude: 150.891169
+postcode: '2517'
+state: NSW
+title: WOONONA
+url: /nsw/woonona/
 ---

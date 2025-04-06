@@ -1,9 +1,10 @@
 ---
-title: GOODMANS FORD
-state: NSW
-postcode: 2575
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.29792221
-longitude: 150.0663753
-url: /nsw/goodmans-ford/
 layout: suburb
+longitude: 150.0663753
+postcode: '2575'
+state: NSW
+title: GOODMANS FORD
+url: /nsw/goodmans-ford/
 ---

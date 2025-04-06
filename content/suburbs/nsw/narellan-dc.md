@@ -1,9 +1,10 @@
 ---
-title: NARELLAN DC
-state: NSW
-postcode: 2567
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.055155
-longitude: 150.756493
-url: /nsw/narellan-dc/
 layout: suburb
+longitude: 150.756493
+postcode: '2567'
+state: NSW
+title: NARELLAN DC
+url: /nsw/narellan-dc/
 ---

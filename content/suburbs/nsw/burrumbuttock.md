@@ -1,9 +1,10 @@
 ---
-title: BURRUMBUTTOCK
-state: NSW
-postcode: 2642
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.044097
-longitude: 148.094043
-url: /nsw/burrumbuttock/
 layout: suburb
+longitude: 148.094043
+postcode: '2642'
+state: NSW
+title: BURRUMBUTTOCK
+url: /nsw/burrumbuttock/
 ---

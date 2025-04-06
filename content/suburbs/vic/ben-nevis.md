@@ -1,9 +1,10 @@
 ---
-title: BEN NEVIS
-state: VIC
-postcode: 3377
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.231524
-longitude: 142.956916
-url: /vic/ben-nevis/
 layout: suburb
+longitude: 142.956916
+postcode: '3377'
+state: VIC
+title: BEN NEVIS
+url: /vic/ben-nevis/
 ---

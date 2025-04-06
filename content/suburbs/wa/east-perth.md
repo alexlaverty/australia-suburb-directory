@@ -1,9 +1,10 @@
 ---
-title: EAST PERTH
-state: WA
-postcode: 6892
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -31.777103
-longitude: 115.817894
-url: /wa/east-perth/
 layout: suburb
+longitude: 115.817894
+postcode: '6892'
+state: WA
+title: EAST PERTH
+url: /wa/east-perth/
 ---

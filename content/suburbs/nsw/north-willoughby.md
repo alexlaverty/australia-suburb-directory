@@ -1,9 +1,10 @@
 ---
-title: NORTH WILLOUGHBY
-state: NSW
-postcode: 2068
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.79634382
-longitude: 151.1973964
-url: /nsw/north-willoughby/
 layout: suburb
+longitude: 151.1973964
+postcode: '2068'
+state: NSW
+title: NORTH WILLOUGHBY
+url: /nsw/north-willoughby/
 ---

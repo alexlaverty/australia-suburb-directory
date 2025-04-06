@@ -1,9 +1,10 @@
 ---
-title: AMBER
-state: QLD
-postcode: 4871
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -17.72028371
-longitude: 144.2385409
-url: /qld/amber/
 layout: suburb
+longitude: 144.2385409
+postcode: '4871'
+state: QLD
+title: AMBER
+url: /qld/amber/
 ---

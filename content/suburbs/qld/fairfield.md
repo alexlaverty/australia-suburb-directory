@@ -1,9 +1,10 @@
 ---
-title: FAIRFIELD
-state: QLD
-postcode: 4103
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.512175
-longitude: 153.028768
-url: /qld/fairfield/
 layout: suburb
+longitude: 153.028768
+postcode: '4103'
+state: QLD
+title: FAIRFIELD
+url: /qld/fairfield/
 ---

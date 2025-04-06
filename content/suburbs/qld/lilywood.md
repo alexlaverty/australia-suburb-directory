@@ -1,9 +1,10 @@
 ---
-title: LILYWOOD
-state: QLD
-postcode: 4513
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.1017
-longitude: 152.8987
-url: /qld/lilywood/
 layout: suburb
+longitude: 152.8987
+postcode: '4513'
+state: QLD
+title: LILYWOOD
+url: /qld/lilywood/
 ---

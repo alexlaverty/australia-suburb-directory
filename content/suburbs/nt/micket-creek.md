@@ -1,9 +1,10 @@
 ---
-title: MICKET CREEK
-state: NT
-postcode: 0822
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.3651
-longitude: 130.9523
-url: /nt/micket-creek/
 layout: suburb
+longitude: 130.9523
+postcode: 0822
+state: NT
+title: MICKET CREEK
+url: /nt/micket-creek/
 ---

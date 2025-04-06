@@ -1,9 +1,10 @@
 ---
-title: STANHOPE SOUTH
-state: VIC
-postcode: 3623
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.461381
-longitude: 144.976813
-url: /vic/stanhope-south/
 layout: suburb
+longitude: 144.976813
+postcode: '3623'
+state: VIC
+title: STANHOPE SOUTH
+url: /vic/stanhope-south/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DRY PLAIN
-state: NSW
-postcode: 2630
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.177296
-longitude: 149.129166
-url: /nsw/dry-plain/
 layout: suburb
+longitude: 149.129166
+postcode: '2630'
+state: NSW
+title: DRY PLAIN
+url: /nsw/dry-plain/
 ---

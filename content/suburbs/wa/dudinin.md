@@ -1,9 +1,10 @@
 ---
-title: DUDININ
-state: WA
-postcode: 6363
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.919792
-longitude: 118.004212
-url: /wa/dudinin/
 layout: suburb
+longitude: 118.004212
+postcode: '6363'
+state: WA
+title: DUDININ
+url: /wa/dudinin/
 ---

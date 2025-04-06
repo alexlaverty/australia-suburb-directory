@@ -1,9 +1,10 @@
 ---
-title: HORNSBY
-state: NSW
-postcode: 2077
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.691922
-longitude: 151.097508
-url: /nsw/hornsby/
 layout: suburb
+longitude: 151.097508
+postcode: '2077'
+state: NSW
+title: HORNSBY
+url: /nsw/hornsby/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ROEBOURNE
-state: WA
-postcode: 6718
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -20.971499
-longitude: 117.740969
-url: /wa/roebourne/
 layout: suburb
+longitude: 117.740969
+postcode: '6718'
+state: WA
+title: ROEBOURNE
+url: /wa/roebourne/
 ---

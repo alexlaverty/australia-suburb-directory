@@ -1,9 +1,10 @@
 ---
-title: CUNYARIE
-state: SA
-postcode: 5641
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.100172
-longitude: 136.318517
-url: /sa/cunyarie/
 layout: suburb
+longitude: 136.318517
+postcode: '5641'
+state: SA
+title: CUNYARIE
+url: /sa/cunyarie/
 ---

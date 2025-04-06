@@ -1,9 +1,10 @@
 ---
-title: QUANDIALLA
-state: NSW
-postcode: 2721
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.04948
-longitude: 147.712064
-url: /nsw/quandialla/
 layout: suburb
+longitude: 147.712064
+postcode: '2721'
+state: NSW
+title: QUANDIALLA
+url: /nsw/quandialla/
 ---

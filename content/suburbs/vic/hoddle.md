@@ -1,9 +1,10 @@
 ---
-title: HODDLE
-state: VIC
-postcode: 3959
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.734636
-longitude: 146.066529
-url: /vic/hoddle/
 layout: suburb
+longitude: 146.066529
+postcode: '3959'
+state: VIC
+title: HODDLE
+url: /vic/hoddle/
 ---

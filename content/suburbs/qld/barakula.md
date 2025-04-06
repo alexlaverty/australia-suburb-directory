@@ -1,9 +1,10 @@
 ---
-title: BARAKULA
-state: QLD
-postcode: 4413
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.33662328
-longitude: 150.6022055
-url: /qld/barakula/
 layout: suburb
+longitude: 150.6022055
+postcode: '4413'
+state: QLD
+title: BARAKULA
+url: /qld/barakula/
 ---

@@ -1,9 +1,10 @@
 ---
-title: REVESBY
-state: NSW
-postcode: 2212
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.947286
-longitude: 151.014547
-url: /nsw/revesby/
 layout: suburb
+longitude: 151.014547
+postcode: '2212'
+state: NSW
+title: REVESBY
+url: /nsw/revesby/
 ---

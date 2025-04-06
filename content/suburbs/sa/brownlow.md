@@ -1,9 +1,10 @@
 ---
-title: BROWNLOW
-state: SA
-postcode: 5374
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.152477
-longitude: 139.12488
-url: /sa/brownlow/
 layout: suburb
+longitude: 139.12488
+postcode: '5374'
+state: SA
+title: BROWNLOW
+url: /sa/brownlow/
 ---

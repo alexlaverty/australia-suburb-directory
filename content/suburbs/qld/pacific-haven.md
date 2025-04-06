@@ -1,9 +1,10 @@
 ---
-title: PACIFIC HAVEN
-state: QLD
-postcode: 4659
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.266279
-longitude: 152.568678
-url: /qld/pacific-haven/
 layout: suburb
+longitude: 152.568678
+postcode: '4659'
+state: QLD
+title: PACIFIC HAVEN
+url: /qld/pacific-haven/
 ---

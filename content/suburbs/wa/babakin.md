@@ -1,9 +1,10 @@
 ---
-title: BABAKIN
-state: WA
-postcode: 6428
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.142001
-longitude: 118.020545
-url: /wa/babakin/
 layout: suburb
+longitude: 118.020545
+postcode: '6428'
+state: WA
+title: BABAKIN
+url: /wa/babakin/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ORA BANDA
-state: WA
-postcode: 6431
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.40364
-longitude: 122.683881
-url: /wa/ora-banda/
 layout: suburb
+longitude: 122.683881
+postcode: '6431'
+state: WA
+title: ORA BANDA
+url: /wa/ora-banda/
 ---

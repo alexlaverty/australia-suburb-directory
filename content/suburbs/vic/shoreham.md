@@ -1,9 +1,10 @@
 ---
-title: SHOREHAM
-state: VIC
-postcode: 3916
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.415199
-longitude: 145.050587
-url: /vic/shoreham/
 layout: suburb
+longitude: 145.050587
+postcode: '3916'
+state: VIC
+title: SHOREHAM
+url: /vic/shoreham/
 ---

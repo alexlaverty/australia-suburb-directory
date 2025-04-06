@@ -1,9 +1,10 @@
 ---
-title: WOLLANGAMBE
-state: NSW
-postcode: 2790
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.34286524
-longitude: 150.4413864
-url: /nsw/wollangambe/
 layout: suburb
+longitude: 150.4413864
+postcode: '2790'
+state: NSW
+title: WOLLANGAMBE
+url: /nsw/wollangambe/
 ---

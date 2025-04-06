@@ -1,9 +1,10 @@
 ---
-title: WYBERBA
-state: QLD
-postcode: 4382
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.845315
-longitude: 151.847374
-url: /qld/wyberba/
 layout: suburb
+longitude: 151.847374
+postcode: '4382'
+state: QLD
+title: WYBERBA
+url: /qld/wyberba/
 ---

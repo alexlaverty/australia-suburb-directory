@@ -1,9 +1,10 @@
 ---
-title: BLYTH
-state: SA
-postcode: 5462
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.896378
-longitude: 138.43015
-url: /sa/blyth/
 layout: suburb
+longitude: 138.43015
+postcode: '5462'
+state: SA
+title: BLYTH
+url: /sa/blyth/
 ---

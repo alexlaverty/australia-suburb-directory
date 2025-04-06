@@ -1,9 +1,10 @@
 ---
-title: ENGADINE
-state: NSW
-postcode: 2233
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.114626
-longitude: 151.027919
-url: /nsw/engadine/
 layout: suburb
+longitude: 151.027919
+postcode: '2233'
+state: NSW
+title: ENGADINE
+url: /nsw/engadine/
 ---

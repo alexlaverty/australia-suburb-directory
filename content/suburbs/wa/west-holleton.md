@@ -1,9 +1,10 @@
 ---
-title: WEST HOLLETON
-state: WA
-postcode: 6369
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.023679
-longitude: 118.806453
-url: /wa/west-holleton/
 layout: suburb
+longitude: 118.806453
+postcode: '6369'
+state: WA
+title: WEST HOLLETON
+url: /wa/west-holleton/
 ---

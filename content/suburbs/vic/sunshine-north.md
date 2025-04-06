@@ -1,9 +1,10 @@
 ---
-title: SUNSHINE NORTH
-state: VIC
-postcode: 3020
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.777204
-longitude: 144.829945
-url: /vic/sunshine-north/
 layout: suburb
+longitude: 144.829945
+postcode: '3020'
+state: VIC
+title: SUNSHINE NORTH
+url: /vic/sunshine-north/
 ---

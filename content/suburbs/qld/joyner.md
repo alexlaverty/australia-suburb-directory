@@ -1,9 +1,10 @@
 ---
-title: JOYNER
-state: QLD
-postcode: 4500
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.307845
-longitude: 152.939438
-url: /qld/joyner/
 layout: suburb
+longitude: 152.939438
+postcode: '4500'
+state: QLD
+title: JOYNER
+url: /qld/joyner/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SARATOGA
-state: NSW
-postcode: 2251
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.482209
-longitude: 151.401999
-url: /nsw/saratoga/
 layout: suburb
+longitude: 151.401999
+postcode: '2251'
+state: NSW
+title: SARATOGA
+url: /nsw/saratoga/
 ---

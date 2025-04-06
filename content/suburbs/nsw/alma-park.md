@@ -1,9 +1,10 @@
 ---
-title: ALMA PARK
-state: NSW
-postcode: 2659
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.610147
-longitude: 146.767477
-url: /nsw/alma-park/
 layout: suburb
+longitude: 146.767477
+postcode: '2659'
+state: NSW
+title: ALMA PARK
+url: /nsw/alma-park/
 ---

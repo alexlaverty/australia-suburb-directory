@@ -1,9 +1,10 @@
 ---
-title: NORTH ROAD
-state: VIC
-postcode: 3187
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.925371
-longitude: 145.013593
-url: /vic/north-road/
 layout: suburb
+longitude: 145.013593
+postcode: '3187'
+state: VIC
+title: NORTH ROAD
+url: /vic/north-road/
 ---

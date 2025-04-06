@@ -1,9 +1,10 @@
 ---
-title: DAWES POINT
-state: NSW
-postcode: 2000
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.859953
-longitude: 151.256649
-url: /nsw/dawes-point/
 layout: suburb
+longitude: 151.256649
+postcode: '2000'
+state: NSW
+title: DAWES POINT
+url: /nsw/dawes-point/
 ---

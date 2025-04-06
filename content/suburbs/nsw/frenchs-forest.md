@@ -1,9 +1,10 @@
 ---
-title: FRENCHS FOREST
-state: NSW
-postcode: 2086
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.75185
-longitude: 151.229211
-url: /nsw/frenchs-forest/
 layout: suburb
+longitude: 151.229211
+postcode: '2086'
+state: NSW
+title: FRENCHS FOREST
+url: /nsw/frenchs-forest/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PINNACLES
-state: QLD
-postcode: 4815
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.372329
-longitude: 146.707586
-url: /qld/pinnacles/
 layout: suburb
+longitude: 146.707586
+postcode: '4815'
+state: QLD
+title: PINNACLES
+url: /qld/pinnacles/
 ---

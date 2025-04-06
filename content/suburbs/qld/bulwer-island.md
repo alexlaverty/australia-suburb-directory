@@ -1,9 +1,10 @@
 ---
-title: BULWER ISLAND
-state: QLD
-postcode: 4008
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.399839
-longitude: 153.14232
-url: /qld/bulwer-island/
 layout: suburb
+longitude: 153.14232
+postcode: '4008'
+state: QLD
+title: BULWER ISLAND
+url: /qld/bulwer-island/
 ---

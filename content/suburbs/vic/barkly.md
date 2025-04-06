@@ -1,9 +1,10 @@
 ---
-title: BARKLY
-state: VIC
-postcode: 3384
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.93829078
-longitude: 143.2173081
-url: /vic/barkly/
 layout: suburb
+longitude: 143.2173081
+postcode: '3384'
+state: VIC
+title: BARKLY
+url: /vic/barkly/
 ---

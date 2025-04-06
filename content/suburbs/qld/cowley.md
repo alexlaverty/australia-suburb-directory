@@ -1,9 +1,10 @@
 ---
-title: COWLEY
-state: QLD
-postcode: 4871
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.934184
-longitude: 145.994075
-url: /qld/cowley/
 layout: suburb
+longitude: 145.994075
+postcode: '4871'
+state: QLD
+title: COWLEY
+url: /qld/cowley/
 ---

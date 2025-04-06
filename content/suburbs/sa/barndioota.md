@@ -1,9 +1,10 @@
 ---
-title: BARNDIOOTA
-state: SA
-postcode: 5434
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.568218
-longitude: 138.70506
-url: /sa/barndioota/
 layout: suburb
+longitude: 138.70506
+postcode: '5434'
+state: SA
+title: BARNDIOOTA
+url: /sa/barndioota/
 ---

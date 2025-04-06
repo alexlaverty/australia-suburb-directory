@@ -1,9 +1,10 @@
 ---
-title: TONGALA
-state: VIC
-postcode: 3621
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.206055
-longitude: 144.961183
-url: /vic/tongala/
 layout: suburb
+longitude: 144.961183
+postcode: '3621'
+state: VIC
+title: TONGALA
+url: /vic/tongala/
 ---

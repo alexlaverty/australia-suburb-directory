@@ -1,9 +1,10 @@
 ---
-title: MILLIE
-state: NSW
-postcode: 2397
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.925739
-longitude: 149.690988
-url: /nsw/millie/
 layout: suburb
+longitude: 149.690988
+postcode: '2397'
+state: NSW
+title: MILLIE
+url: /nsw/millie/
 ---

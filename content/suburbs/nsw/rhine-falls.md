@@ -1,9 +1,10 @@
 ---
-title: RHINE FALLS
-state: NSW
-postcode: 2630
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.177296
-longitude: 149.129166
-url: /nsw/rhine-falls/
 layout: suburb
+longitude: 149.129166
+postcode: '2630'
+state: NSW
+title: RHINE FALLS
+url: /nsw/rhine-falls/
 ---

@@ -1,9 +1,10 @@
 ---
-title: TOLMANS HILL
-state: TAS
-postcode: 7007
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.922863
-longitude: 147.319501
-url: /tas/tolmans-hill/
 layout: suburb
+longitude: 147.319501
+postcode: '7007'
+state: TAS
+title: TOLMANS HILL
+url: /tas/tolmans-hill/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SHOALHAVEN HEADS
-state: NSW
-postcode: 2535
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.762116
-longitude: 150.678303
-url: /nsw/shoalhaven-heads/
 layout: suburb
+longitude: 150.678303
+postcode: '2535'
+state: NSW
+title: SHOALHAVEN HEADS
+url: /nsw/shoalhaven-heads/
 ---

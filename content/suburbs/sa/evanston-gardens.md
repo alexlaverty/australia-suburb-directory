@@ -1,9 +1,10 @@
 ---
-title: EVANSTON GARDENS
-state: SA
-postcode: 5116
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.622783
-longitude: 138.724059
-url: /sa/evanston-gardens/
 layout: suburb
+longitude: 138.724059
+postcode: '5116'
+state: SA
+title: EVANSTON GARDENS
+url: /sa/evanston-gardens/
 ---

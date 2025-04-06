@@ -1,9 +1,10 @@
 ---
-title: STRATHGORDON
-state: TAS
-postcode: 7139
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.715494
-longitude: 145.925302
-url: /tas/strathgordon/
 layout: suburb
+longitude: 145.925302
+postcode: '7139'
+state: TAS
+title: STRATHGORDON
+url: /tas/strathgordon/
 ---

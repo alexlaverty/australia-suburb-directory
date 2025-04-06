@@ -1,9 +1,10 @@
 ---
-title: RAYMOND ISLAND
-state: VIC
-postcode: 3880
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.914728
-longitude: 147.727389
-url: /vic/raymond-island/
 layout: suburb
+longitude: 147.727389
+postcode: '3880'
+state: VIC
+title: RAYMOND ISLAND
+url: /vic/raymond-island/
 ---

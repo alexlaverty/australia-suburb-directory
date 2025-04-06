@@ -1,9 +1,10 @@
 ---
-title: MEGALONG
-state: NSW
-postcode: 2785
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.707725
-longitude: 150.181517
-url: /nsw/megalong/
 layout: suburb
+longitude: 150.181517
+postcode: '2785'
+state: NSW
+title: MEGALONG
+url: /nsw/megalong/
 ---

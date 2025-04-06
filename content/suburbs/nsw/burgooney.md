@@ -1,9 +1,10 @@
 ---
-title: BURGOONEY
-state: NSW
-postcode: 2672
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.24358
-longitude: 146.40002
-url: /nsw/burgooney/
 layout: suburb
+longitude: 146.40002
+postcode: '2672'
+state: NSW
+title: BURGOONEY
+url: /nsw/burgooney/
 ---

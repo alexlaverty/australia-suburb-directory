@@ -1,9 +1,10 @@
 ---
-title: LUMEAH
-state: WA
-postcode: 6395
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.885153
-longitude: 117.065276
-url: /wa/lumeah/
 layout: suburb
+longitude: 117.065276
+postcode: '6395'
+state: WA
+title: LUMEAH
+url: /wa/lumeah/
 ---

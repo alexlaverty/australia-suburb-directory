@@ -1,9 +1,10 @@
 ---
-title: BELLELLEN
-state: VIC
-postcode: 3381
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.13783665
-longitude: 142.6925099
-url: /vic/bellellen/
 layout: suburb
+longitude: 142.6925099
+postcode: '3381'
+state: VIC
+title: BELLELLEN
+url: /vic/bellellen/
 ---

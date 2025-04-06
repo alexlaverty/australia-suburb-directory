@@ -1,9 +1,10 @@
 ---
-title: LEMON TREE PASSAGE
-state: NSW
-postcode: 2319
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.730927
-longitude: 152.039551
-url: /nsw/lemon-tree-passage/
 layout: suburb
+longitude: 152.039551
+postcode: '2319'
+state: NSW
+title: LEMON TREE PASSAGE
+url: /nsw/lemon-tree-passage/
 ---

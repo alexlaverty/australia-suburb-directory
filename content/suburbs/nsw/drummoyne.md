@@ -1,9 +1,10 @@
 ---
-title: DRUMMOYNE
-state: NSW
-postcode: 2047
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.853924
-longitude: 151.165735
-url: /nsw/drummoyne/
 layout: suburb
+longitude: 151.165735
+postcode: '2047'
+state: NSW
+title: DRUMMOYNE
+url: /nsw/drummoyne/
 ---

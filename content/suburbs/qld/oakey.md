@@ -1,9 +1,10 @@
 ---
-title: OAKEY
-state: QLD
-postcode: 4401
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.473135
-longitude: 151.703647
-url: /qld/oakey/
 layout: suburb
+longitude: 151.703647
+postcode: '4401'
+state: QLD
+title: OAKEY
+url: /qld/oakey/
 ---

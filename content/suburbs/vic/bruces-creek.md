@@ -1,9 +1,10 @@
 ---
-title: BRUCES CREEK
-state: VIC
-postcode: 3757
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.469784
-longitude: 145.182221
-url: /vic/bruces-creek/
 layout: suburb
+longitude: 145.182221
+postcode: '3757'
+state: VIC
+title: BRUCES CREEK
+url: /vic/bruces-creek/
 ---

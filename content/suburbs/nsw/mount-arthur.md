@@ -1,9 +1,10 @@
 ---
-title: MOUNT ARTHUR
-state: NSW
-postcode: 2820
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.553282
-longitude: 148.989227
-url: /nsw/mount-arthur/
 layout: suburb
+longitude: 148.989227
+postcode: '2820'
+state: NSW
+title: MOUNT ARTHUR
+url: /nsw/mount-arthur/
 ---

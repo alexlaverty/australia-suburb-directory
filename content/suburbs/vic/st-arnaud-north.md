@@ -1,9 +1,10 @@
 ---
-title: ST ARNAUD NORTH
-state: VIC
-postcode: 3478
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.688551
-longitude: 143.230699
-url: /vic/st-arnaud-north/
 layout: suburb
+longitude: 143.230699
+postcode: '3478'
+state: VIC
+title: ST ARNAUD NORTH
+url: /vic/st-arnaud-north/
 ---

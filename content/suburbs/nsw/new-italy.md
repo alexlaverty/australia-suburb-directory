@@ -1,9 +1,10 @@
 ---
-title: NEW ITALY
-state: NSW
-postcode: 2472
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.156771
-longitude: 153.303855
-url: /nsw/new-italy/
 layout: suburb
+longitude: 153.303855
+postcode: '2472'
+state: NSW
+title: NEW ITALY
+url: /nsw/new-italy/
 ---

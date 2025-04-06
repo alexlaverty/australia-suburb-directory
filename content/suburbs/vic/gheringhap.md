@@ -1,9 +1,10 @@
 ---
-title: GHERINGHAP
-state: VIC
-postcode: 3331
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.049195
-longitude: 144.194625
-url: /vic/gheringhap/
 layout: suburb
+longitude: 144.194625
+postcode: '3331'
+state: VIC
+title: GHERINGHAP
+url: /vic/gheringhap/
 ---

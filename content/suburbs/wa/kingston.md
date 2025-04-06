@@ -1,9 +1,10 @@
 ---
-title: KINGSTON
-state: WA
-postcode: 6256
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.052334
-longitude: 116.166583
-url: /wa/kingston/
 layout: suburb
+longitude: 116.166583
+postcode: '6256'
+state: WA
+title: KINGSTON
+url: /wa/kingston/
 ---

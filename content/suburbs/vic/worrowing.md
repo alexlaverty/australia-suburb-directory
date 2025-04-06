@@ -1,9 +1,10 @@
 ---
-title: WORROWING
-state: VIC
-postcode: 3858
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.66889173
-longitude: 146.7419767
-url: /vic/worrowing/
 layout: suburb
+longitude: 146.7419767
+postcode: '3858'
+state: VIC
+title: WORROWING
+url: /vic/worrowing/
 ---

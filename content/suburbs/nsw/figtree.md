@@ -1,9 +1,10 @@
 ---
-title: FIGTREE
-state: NSW
-postcode: 2525
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.437229
-longitude: 150.818904
-url: /nsw/figtree/
 layout: suburb
+longitude: 150.818904
+postcode: '2525'
+state: NSW
+title: FIGTREE
+url: /nsw/figtree/
 ---

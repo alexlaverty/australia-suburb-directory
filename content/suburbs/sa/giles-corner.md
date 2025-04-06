@@ -1,9 +1,10 @@
 ---
-title: GILES CORNER
-state: SA
-postcode: 5411
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.256363
-longitude: 138.772345
-url: /sa/giles-corner/
 layout: suburb
+longitude: 138.772345
+postcode: '5411'
+state: SA
+title: GILES CORNER
+url: /sa/giles-corner/
 ---

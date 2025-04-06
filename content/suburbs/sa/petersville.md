@@ -1,9 +1,10 @@
 ---
-title: PETERSVILLE
-state: SA
-postcode: 5571
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.51494
-longitude: 137.811541
-url: /sa/petersville/
 layout: suburb
+longitude: 137.811541
+postcode: '5571'
+state: SA
+title: PETERSVILLE
+url: /sa/petersville/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WEST CAPE HOWE
-state: WA
-postcode: 6330
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.905438
-longitude: 117.863286
-url: /wa/west-cape-howe/
 layout: suburb
+longitude: 117.863286
+postcode: '6330'
+state: WA
+title: WEST CAPE HOWE
+url: /wa/west-cape-howe/
 ---

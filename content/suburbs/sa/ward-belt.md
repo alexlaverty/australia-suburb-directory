@@ -1,9 +1,10 @@
 ---
-title: WARD BELT
-state: SA
-postcode: 5118
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.58378
-longitude: 138.705675
-url: /sa/ward-belt/
 layout: suburb
+longitude: 138.705675
+postcode: '5118'
+state: SA
+title: WARD BELT
+url: /sa/ward-belt/
 ---

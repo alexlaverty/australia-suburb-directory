@@ -1,9 +1,10 @@
 ---
-title: THE FRESHWATER
-state: NSW
-postcode: 2466
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.407475
-longitude: 153.350886
-url: /nsw/the-freshwater/
 layout: suburb
+longitude: 153.350886
+postcode: '2466'
+state: NSW
+title: THE FRESHWATER
+url: /nsw/the-freshwater/
 ---

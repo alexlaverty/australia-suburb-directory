@@ -1,9 +1,10 @@
 ---
-title: COLBINABBIN
-state: VIC
-postcode: 3559
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.570077
-longitude: 144.805307
-url: /vic/colbinabbin/
 layout: suburb
+longitude: 144.805307
+postcode: '3559'
+state: VIC
+title: COLBINABBIN
+url: /vic/colbinabbin/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NINGI
-state: QLD
-postcode: 4511
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.077933
-longitude: 153.080799
-url: /qld/ningi/
 layout: suburb
+longitude: 153.080799
+postcode: '4511'
+state: QLD
+title: NINGI
+url: /qld/ningi/
 ---

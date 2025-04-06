@@ -1,9 +1,10 @@
 ---
-title: ROSS
-state: TAS
-postcode: 7209
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.104584
-longitude: 147.614307
-url: /tas/ross/
 layout: suburb
+longitude: 147.614307
+postcode: '7209'
+state: TAS
+title: ROSS
+url: /tas/ross/
 ---

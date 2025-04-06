@@ -1,9 +1,10 @@
 ---
-title: HIGHTON
-state: VIC
-postcode: 3216
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.215906
-longitude: 144.334005
-url: /vic/highton/
 layout: suburb
+longitude: 144.334005
+postcode: '3216'
+state: VIC
+title: HIGHTON
+url: /vic/highton/
 ---

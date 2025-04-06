@@ -1,9 +1,10 @@
 ---
-title: VICTORIA POINT
-state: VIC
-postcode: 3294
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.573978
-longitude: 142.312764
-url: /vic/victoria-point/
 layout: suburb
+longitude: 142.312764
+postcode: '3294'
+state: VIC
+title: VICTORIA POINT
+url: /vic/victoria-point/
 ---

@@ -1,9 +1,10 @@
 ---
-title: POINT SOUTTAR
-state: SA
-postcode: 5577
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.92792886
-longitude: 137.2658828
-url: /sa/point-souttar/
 layout: suburb
+longitude: 137.2658828
+postcode: '5577'
+state: SA
+title: POINT SOUTTAR
+url: /sa/point-souttar/
 ---

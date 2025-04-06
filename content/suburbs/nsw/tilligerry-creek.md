@@ -1,9 +1,10 @@
 ---
-title: TILLIGERRY CREEK
-state: NSW
-postcode: 2319
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.75944213
-longitude: 151.990451
-url: /nsw/tilligerry-creek/
 layout: suburb
+longitude: 151.990451
+postcode: '2319'
+state: NSW
+title: TILLIGERRY CREEK
+url: /nsw/tilligerry-creek/
 ---

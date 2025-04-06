@@ -1,9 +1,10 @@
 ---
-title: WHYALLA STUART
-state: SA
-postcode: 5608
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.034213
-longitude: 137.525354
-url: /sa/whyalla-stuart/
 layout: suburb
+longitude: 137.525354
+postcode: '5608'
+state: SA
+title: WHYALLA STUART
+url: /sa/whyalla-stuart/
 ---

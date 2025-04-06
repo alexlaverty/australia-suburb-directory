@@ -1,9 +1,10 @@
 ---
-title: BLACKSWAMP
-state: QLD
-postcode: 4413
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.56584719
-longitude: 150.5283778
-url: /qld/blackswamp/
 layout: suburb
+longitude: 150.5283778
+postcode: '4413'
+state: QLD
+title: BLACKSWAMP
+url: /qld/blackswamp/
 ---

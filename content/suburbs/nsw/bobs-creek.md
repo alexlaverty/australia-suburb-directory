@@ -1,9 +1,10 @@
 ---
-title: BOBS CREEK
-state: NSW
-postcode: 2443
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.725436
-longitude: 152.747152
-url: /nsw/bobs-creek/
 layout: suburb
+longitude: 152.747152
+postcode: '2443'
+state: NSW
+title: BOBS CREEK
+url: /nsw/bobs-creek/
 ---

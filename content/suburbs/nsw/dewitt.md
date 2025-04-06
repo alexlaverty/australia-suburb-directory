@@ -1,9 +1,10 @@
 ---
-title: DEWITT
-state: NSW
-postcode: 2422
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.973082
-longitude: 151.865806
-url: /nsw/dewitt/
 layout: suburb
+longitude: 151.865806
+postcode: '2422'
+state: NSW
+title: DEWITT
+url: /nsw/dewitt/
 ---

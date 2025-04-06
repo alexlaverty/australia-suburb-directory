@@ -1,9 +1,10 @@
 ---
-title: COWABBIE
-state: NSW
-postcode: 2663
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.933478
-longitude: 147.716767
-url: /nsw/cowabbie/
 layout: suburb
+longitude: 147.716767
+postcode: '2663'
+state: NSW
+title: COWABBIE
+url: /nsw/cowabbie/
 ---

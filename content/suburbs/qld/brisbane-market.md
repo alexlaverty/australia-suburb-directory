@@ -1,9 +1,10 @@
 ---
-title: BRISBANE MARKET
-state: QLD
-postcode: 4106
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.552137
-longitude: 153.004615
-url: /qld/brisbane-market/
 layout: suburb
+longitude: 153.004615
+postcode: '4106'
+state: QLD
+title: BRISBANE MARKET
+url: /qld/brisbane-market/
 ---

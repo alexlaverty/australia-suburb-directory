@@ -1,9 +1,10 @@
 ---
-title: ASHBY HEIGHTS
-state: NSW
-postcode: 2463
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.36691
-longitude: 153.104789
-url: /nsw/ashby-heights/
 layout: suburb
+longitude: 153.104789
+postcode: '2463'
+state: NSW
+title: ASHBY HEIGHTS
+url: /nsw/ashby-heights/
 ---

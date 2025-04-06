@@ -1,9 +1,10 @@
 ---
-title: DARBYS FALLS
-state: NSW
-postcode: 2793
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.783955
-longitude: 148.90873
-url: /nsw/darbys-falls/
 layout: suburb
+longitude: 148.90873
+postcode: '2793'
+state: NSW
+title: DARBYS FALLS
+url: /nsw/darbys-falls/
 ---

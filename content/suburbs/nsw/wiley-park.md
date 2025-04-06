@@ -1,9 +1,10 @@
 ---
-title: WILEY PARK
-state: NSW
-postcode: 2195
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.924525
-longitude: 151.076939
-url: /nsw/wiley-park/
 layout: suburb
+longitude: 151.076939
+postcode: '2195'
+state: NSW
+title: WILEY PARK
+url: /nsw/wiley-park/
 ---

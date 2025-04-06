@@ -1,9 +1,10 @@
 ---
-title: HECTORVILLE
-state: SA
-postcode: 5073
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.89528
-longitude: 138.683151
-url: /sa/hectorville/
 layout: suburb
+longitude: 138.683151
+postcode: '5073'
+state: SA
+title: HECTORVILLE
+url: /sa/hectorville/
 ---

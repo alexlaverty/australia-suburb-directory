@@ -1,9 +1,10 @@
 ---
-title: KEMP BEACH
-state: QLD
-postcode: 4703
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.074563
-longitude: 150.894331
-url: /qld/kemp-beach/
 layout: suburb
+longitude: 150.894331
+postcode: '4703'
+state: QLD
+title: KEMP BEACH
+url: /qld/kemp-beach/
 ---

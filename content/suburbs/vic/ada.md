@@ -1,9 +1,10 @@
 ---
-title: ADA
-state: VIC
-postcode: 3833
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.84222154
-longitude: 145.851865
-url: /vic/ada/
 layout: suburb
+longitude: 145.851865
+postcode: '3833'
+state: VIC
+title: ADA
+url: /vic/ada/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MACDONALD PARK
-state: SA
-postcode: 5121
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.681077
-longitude: 138.616157
-url: /sa/macdonald-park/
 layout: suburb
+longitude: 138.616157
+postcode: '5121'
+state: SA
+title: MACDONALD PARK
+url: /sa/macdonald-park/
 ---

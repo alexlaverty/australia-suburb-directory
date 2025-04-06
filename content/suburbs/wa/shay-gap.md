@@ -1,9 +1,10 @@
 ---
-title: SHAY GAP
-state: WA
-postcode: 6761
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -20.403598
-longitude: 120.469973
-url: /wa/shay-gap/
 layout: suburb
+longitude: 120.469973
+postcode: '6761'
+state: WA
+title: SHAY GAP
+url: /wa/shay-gap/
 ---

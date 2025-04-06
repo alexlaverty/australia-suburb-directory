@@ -1,9 +1,10 @@
 ---
-title: LYNWOOD
-state: WA
-postcode: 6147
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.043771
-longitude: 115.941353
-url: /wa/lynwood/
 layout: suburb
+longitude: 115.941353
+postcode: '6147'
+state: WA
+title: LYNWOOD
+url: /wa/lynwood/
 ---

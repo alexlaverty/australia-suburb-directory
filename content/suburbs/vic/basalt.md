@@ -1,9 +1,10 @@
 ---
-title: BASALT
-state: VIC
-postcode: 3460
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.351704
-longitude: 144.144216
-url: /vic/basalt/
 layout: suburb
+longitude: 144.144216
+postcode: '3460'
+state: VIC
+title: BASALT
+url: /vic/basalt/
 ---

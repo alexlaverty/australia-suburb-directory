@@ -1,9 +1,10 @@
 ---
-title: CORINGA
-state: QLD
-postcode: 4621
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.535828
-longitude: 152.042802
-url: /qld/coringa/
 layout: suburb
+longitude: 152.042802
+postcode: '4621'
+state: QLD
+title: CORINGA
+url: /qld/coringa/
 ---

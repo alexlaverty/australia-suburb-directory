@@ -1,9 +1,10 @@
 ---
-title: KEILOR
-state: VIC
-postcode: 3036
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.705324
-longitude: 144.82246
-url: /vic/keilor/
 layout: suburb
+longitude: 144.82246
+postcode: '3036'
+state: VIC
+title: KEILOR
+url: /vic/keilor/
 ---

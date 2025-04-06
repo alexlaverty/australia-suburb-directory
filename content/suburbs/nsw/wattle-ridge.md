@@ -1,9 +1,10 @@
 ---
-title: WATTLE RIDGE
-state: NSW
-postcode: 2575
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.28320094
-longitude: 150.4274089
-url: /nsw/wattle-ridge/
 layout: suburb
+longitude: 150.4274089
+postcode: '2575'
+state: NSW
+title: WATTLE RIDGE
+url: /nsw/wattle-ridge/
 ---

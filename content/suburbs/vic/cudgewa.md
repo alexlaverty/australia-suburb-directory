@@ -1,9 +1,10 @@
 ---
-title: CUDGEWA
-state: VIC
-postcode: 3705
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.322884
-longitude: 147.769911
-url: /vic/cudgewa/
 layout: suburb
+longitude: 147.769911
+postcode: '3705'
+state: VIC
+title: CUDGEWA
+url: /vic/cudgewa/
 ---

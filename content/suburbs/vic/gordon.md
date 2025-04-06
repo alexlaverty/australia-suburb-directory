@@ -1,9 +1,10 @@
 ---
-title: GORDON
-state: VIC
-postcode: 3345
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.5878
-longitude: 144.123664
-url: /vic/gordon/
 layout: suburb
+longitude: 144.123664
+postcode: '3345'
+state: VIC
+title: GORDON
+url: /vic/gordon/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SWAN ISLAND
-state: VIC
-postcode: 3225
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.271074
-longitude: 144.614191
-url: /vic/swan-island/
 layout: suburb
+longitude: 144.614191
+postcode: '3225'
+state: VIC
+title: SWAN ISLAND
+url: /vic/swan-island/
 ---

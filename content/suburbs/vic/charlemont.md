@@ -1,9 +1,10 @@
 ---
-title: CHARLEMONT
-state: VIC
-postcode: 3217
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.21558906
-longitude: 144.3683696
-url: /vic/charlemont/
 layout: suburb
+longitude: 144.3683696
+postcode: '3217'
+state: VIC
+title: CHARLEMONT
+url: /vic/charlemont/
 ---

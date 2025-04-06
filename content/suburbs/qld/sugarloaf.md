@@ -1,9 +1,10 @@
 ---
-title: SUGARLOAF
-state: QLD
-postcode: 4800
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -20.465423
-longitude: 148.516317
-url: /qld/sugarloaf/
 layout: suburb
+longitude: 148.516317
+postcode: '4800'
+state: QLD
+title: SUGARLOAF
+url: /qld/sugarloaf/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SHEEP HILLS
-state: VIC
-postcode: 3392
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.430131
-longitude: 142.677858
-url: /vic/sheep-hills/
 layout: suburb
+longitude: 142.677858
+postcode: '3392'
+state: VIC
+title: SHEEP HILLS
+url: /vic/sheep-hills/
 ---

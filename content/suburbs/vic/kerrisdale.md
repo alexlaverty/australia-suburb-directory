@@ -1,9 +1,10 @@
 ---
-title: KERRISDALE
-state: VIC
-postcode: 3660
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.035925
-longitude: 145.257867
-url: /vic/kerrisdale/
 layout: suburb
+longitude: 145.257867
+postcode: '3660'
+state: VIC
+title: KERRISDALE
+url: /vic/kerrisdale/
 ---

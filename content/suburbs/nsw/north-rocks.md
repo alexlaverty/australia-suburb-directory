@@ -1,9 +1,10 @@
 ---
-title: NORTH ROCKS
-state: NSW
-postcode: 2151
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.78709
-longitude: 151.012511
-url: /nsw/north-rocks/
 layout: suburb
+longitude: 151.012511
+postcode: '2151'
+state: NSW
+title: NORTH ROCKS
+url: /nsw/north-rocks/
 ---

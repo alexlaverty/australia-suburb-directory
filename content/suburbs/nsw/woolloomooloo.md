@@ -1,9 +1,10 @@
 ---
-title: WOOLLOOMOOLOO
-state: NSW
-postcode: 2011
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.873599
-longitude: 151.221626
-url: /nsw/woolloomooloo/
 layout: suburb
+longitude: 151.221626
+postcode: '2011'
+state: NSW
+title: WOOLLOOMOOLOO
+url: /nsw/woolloomooloo/
 ---

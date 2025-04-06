@@ -1,9 +1,10 @@
 ---
-title: GUTHRIDGE
-state: VIC
-postcode: 3850
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.224191
-longitude: 147.106181
-url: /vic/guthridge/
 layout: suburb
+longitude: 147.106181
+postcode: '3850'
+state: VIC
+title: GUTHRIDGE
+url: /vic/guthridge/
 ---

@@ -1,9 +1,10 @@
 ---
-title: OAKY PARK
-state: NSW
-postcode: 2790
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.471048
-longitude: 150.178208
-url: /nsw/oaky-park/
 layout: suburb
+longitude: 150.178208
+postcode: '2790'
+state: NSW
+title: OAKY PARK
+url: /nsw/oaky-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PADDINGTON
-state: NSW
-postcode: 2021
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.895705
-longitude: 151.227236
-url: /nsw/paddington/
 layout: suburb
+longitude: 151.227236
+postcode: '2021'
+state: NSW
+title: PADDINGTON
+url: /nsw/paddington/
 ---

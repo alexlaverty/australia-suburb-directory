@@ -1,9 +1,10 @@
 ---
-title: MOLLYAN
-state: NSW
-postcode: 2842
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.58474786
-longitude: 149.2014179
-url: /nsw/mollyan/
 layout: suburb
+longitude: 149.2014179
+postcode: '2842'
+state: NSW
+title: MOLLYAN
+url: /nsw/mollyan/
 ---

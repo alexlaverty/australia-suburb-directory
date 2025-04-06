@@ -1,9 +1,10 @@
 ---
-title: HUGHES
-state: NT
-postcode: 0822
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -11.75841975
-longitude: 130.6254299
-url: /nt/hughes/
 layout: suburb
+longitude: 130.6254299
+postcode: 0822
+state: NT
+title: HUGHES
+url: /nt/hughes/
 ---

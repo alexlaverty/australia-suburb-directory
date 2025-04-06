@@ -1,9 +1,10 @@
 ---
-title: MACKAY DC
-state: QLD
-postcode: 4740
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -21.33763
-longitude: 149.059737
-url: /qld/mackay-dc/
 layout: suburb
+longitude: 149.059737
+postcode: '4740'
+state: QLD
+title: MACKAY DC
+url: /qld/mackay-dc/
 ---

@@ -1,9 +1,10 @@
 ---
-title: DOONBAH
-state: NSW
-postcode: 2473
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.0878662
-longitude: 153.3880933
-url: /nsw/doonbah/
 layout: suburb
+longitude: 153.3880933
+postcode: '2473'
+state: NSW
+title: DOONBAH
+url: /nsw/doonbah/
 ---

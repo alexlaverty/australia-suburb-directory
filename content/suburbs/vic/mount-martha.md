@@ -1,9 +1,10 @@
 ---
-title: MOUNT MARTHA
-state: VIC
-postcode: 3934
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.2783
-longitude: 145.031598
-url: /vic/mount-martha/
 layout: suburb
+longitude: 145.031598
+postcode: '3934'
+state: VIC
+title: MOUNT MARTHA
+url: /vic/mount-martha/
 ---

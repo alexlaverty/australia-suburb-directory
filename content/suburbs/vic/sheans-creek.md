@@ -1,9 +1,10 @@
 ---
-title: SHEANS CREEK
-state: VIC
-postcode: 3666
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.786777
-longitude: 145.565512
-url: /vic/sheans-creek/
 layout: suburb
+longitude: 145.565512
+postcode: '3666'
+state: VIC
+title: SHEANS CREEK
+url: /vic/sheans-creek/
 ---

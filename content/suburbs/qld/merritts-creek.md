@@ -1,9 +1,10 @@
 ---
-title: MERRITTS CREEK
-state: QLD
-postcode: 4352
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.627661
-longitude: 151.94182
-url: /qld/merritts-creek/
 layout: suburb
+longitude: 151.94182
+postcode: '4352'
+state: QLD
+title: MERRITTS CREEK
+url: /qld/merritts-creek/
 ---

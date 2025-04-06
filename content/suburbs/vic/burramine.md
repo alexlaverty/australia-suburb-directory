@@ -1,9 +1,10 @@
 ---
-title: BURRAMINE
-state: VIC
-postcode: 3730
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.00973295
-longitude: 145.882739
-url: /vic/burramine/
 layout: suburb
+longitude: 145.882739
+postcode: '3730'
+state: VIC
+title: BURRAMINE
+url: /vic/burramine/
 ---

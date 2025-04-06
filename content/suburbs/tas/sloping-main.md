@@ -1,9 +1,10 @@
 ---
-title: SLOPING MAIN
-state: TAS
-postcode: 7186
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -43.029525
-longitude: 147.663981
-url: /tas/sloping-main/
 layout: suburb
+longitude: 147.663981
+postcode: '7186'
+state: TAS
+title: SLOPING MAIN
+url: /tas/sloping-main/
 ---

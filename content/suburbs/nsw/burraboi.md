@@ -1,9 +1,10 @@
 ---
-title: BURRABOI
-state: NSW
-postcode: 2732
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.542622
-longitude: 144.230168
-url: /nsw/burraboi/
 layout: suburb
+longitude: 144.230168
+postcode: '2732'
+state: NSW
+title: BURRABOI
+url: /nsw/burraboi/
 ---

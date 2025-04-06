@@ -1,9 +1,10 @@
 ---
-title: TERREEL
-state: NSW
-postcode: 2422
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.22050122
-longitude: 152.0443123
-url: /nsw/terreel/
 layout: suburb
+longitude: 152.0443123
+postcode: '2422'
+state: NSW
+title: TERREEL
+url: /nsw/terreel/
 ---

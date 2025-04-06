@@ -1,9 +1,10 @@
 ---
-title: MINLATON
-state: SA
-postcode: 5575
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.823141
-longitude: 137.544605
-url: /sa/minlaton/
 layout: suburb
+longitude: 137.544605
+postcode: '5575'
+state: SA
+title: MINLATON
+url: /sa/minlaton/
 ---

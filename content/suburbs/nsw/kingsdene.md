@@ -1,9 +1,10 @@
 ---
-title: KINGSDENE
-state: NSW
-postcode: 2118
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.775596
-longitude: 151.043518
-url: /nsw/kingsdene/
 layout: suburb
+longitude: 151.043518
+postcode: '2118'
+state: NSW
+title: KINGSDENE
+url: /nsw/kingsdene/
 ---

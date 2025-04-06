@@ -1,9 +1,10 @@
 ---
-title: BURPENGARY DC
-state: QLD
-postcode: 4505
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.153669
-longitude: 152.976886
-url: /qld/burpengary-dc/
 layout: suburb
+longitude: 152.976886
+postcode: '4505'
+state: QLD
+title: BURPENGARY DC
+url: /qld/burpengary-dc/
 ---

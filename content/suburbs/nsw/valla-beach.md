@@ -1,9 +1,10 @@
 ---
-title: VALLA BEACH
-state: NSW
-postcode: 2448
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.604667
-longitude: 152.956681
-url: /nsw/valla-beach/
 layout: suburb
+longitude: 152.956681
+postcode: '2448'
+state: NSW
+title: VALLA BEACH
+url: /nsw/valla-beach/
 ---

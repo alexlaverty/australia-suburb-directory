@@ -1,9 +1,10 @@
 ---
-title: BROXBURN
-state: QLD
-postcode: 4356
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.663074
-longitude: 151.550271
-url: /qld/broxburn/
 layout: suburb
+longitude: 151.550271
+postcode: '4356'
+state: QLD
+title: BROXBURN
+url: /qld/broxburn/
 ---

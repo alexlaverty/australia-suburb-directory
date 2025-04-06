@@ -1,9 +1,10 @@
 ---
-title: KOO WEE RUP NORTH
-state: VIC
-postcode: 3981
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.207298
-longitude: 145.575
-url: /vic/koo-wee-rup-north/
 layout: suburb
+longitude: 145.575
+postcode: '3981'
+state: VIC
+title: KOO WEE RUP NORTH
+url: /vic/koo-wee-rup-north/
 ---

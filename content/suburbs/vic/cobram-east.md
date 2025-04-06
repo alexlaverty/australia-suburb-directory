@@ -1,9 +1,10 @@
 ---
-title: COBRAM EAST
-state: VIC
-postcode: 3644
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.945353
-longitude: 145.632682
-url: /vic/cobram-east/
 layout: suburb
+longitude: 145.632682
+postcode: '3644'
+state: VIC
+title: COBRAM EAST
+url: /vic/cobram-east/
 ---

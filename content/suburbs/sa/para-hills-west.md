@@ -1,9 +1,10 @@
 ---
-title: PARA HILLS WEST
-state: SA
-postcode: 5096
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.798549
-longitude: 138.644685
-url: /sa/para-hills-west/
 layout: suburb
+longitude: 138.644685
+postcode: '5096'
+state: SA
+title: PARA HILLS WEST
+url: /sa/para-hills-west/
 ---

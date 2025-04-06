@@ -1,9 +1,10 @@
 ---
-title: CHAIN OF LAGOONS
-state: TAS
-postcode: 7215
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.314526
-longitude: 148.281407
-url: /tas/chain-of-lagoons/
 layout: suburb
+longitude: 148.281407
+postcode: '7215'
+state: TAS
+title: CHAIN OF LAGOONS
+url: /tas/chain-of-lagoons/
 ---

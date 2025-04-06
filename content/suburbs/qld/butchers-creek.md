@@ -1,9 +1,10 @@
 ---
-title: BUTCHERS CREEK
-state: QLD
-postcode: 4885
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -17.384187
-longitude: 145.624143
-url: /qld/butchers-creek/
 layout: suburb
+longitude: 145.624143
+postcode: '4885'
+state: QLD
+title: BUTCHERS CREEK
+url: /qld/butchers-creek/
 ---

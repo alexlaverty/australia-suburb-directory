@@ -1,9 +1,10 @@
 ---
-title: ARCHIES CREEK
-state: VIC
-postcode: 3995
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.578071
-longitude: 145.630713
-url: /vic/archies-creek/
 layout: suburb
+longitude: 145.630713
+postcode: '3995'
+state: VIC
+title: ARCHIES CREEK
+url: /vic/archies-creek/
 ---

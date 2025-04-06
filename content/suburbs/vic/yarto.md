@@ -1,9 +1,10 @@
 ---
-title: YARTO
-state: VIC
-postcode: 3396
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.7157
-longitude: 142.329159
-url: /vic/yarto/
 layout: suburb
+longitude: 142.329159
+postcode: '3396'
+state: VIC
+title: YARTO
+url: /vic/yarto/
 ---

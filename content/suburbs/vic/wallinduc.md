@@ -1,9 +1,10 @@
 ---
-title: WALLINDUC
-state: VIC
-postcode: 3351
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.758248
-longitude: 143.637463
-url: /vic/wallinduc/
 layout: suburb
+longitude: 143.637463
+postcode: '3351'
+state: VIC
+title: WALLINDUC
+url: /vic/wallinduc/
 ---

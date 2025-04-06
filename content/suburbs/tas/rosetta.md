@@ -1,9 +1,10 @@
 ---
-title: ROSETTA
-state: TAS
-postcode: 7010
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.85913
-longitude: 147.212366
-url: /tas/rosetta/
 layout: suburb
+longitude: 147.212366
+postcode: '7010'
+state: TAS
+title: ROSETTA
+url: /tas/rosetta/
 ---

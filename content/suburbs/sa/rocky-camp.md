@@ -1,9 +1,10 @@
 ---
-title: ROCKY CAMP
-state: SA
-postcode: 5280
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.57887498
-longitude: 140.4077684
-url: /sa/rocky-camp/
 layout: suburb
+longitude: 140.4077684
+postcode: '5280'
+state: SA
+title: ROCKY CAMP
+url: /sa/rocky-camp/
 ---

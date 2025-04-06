@@ -1,9 +1,10 @@
 ---
-title: PINJAR
-state: WA
-postcode: 6078
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.69444
-longitude: 115.845329
-url: /wa/pinjar/
 layout: suburb
+longitude: 115.845329
+postcode: '6078'
+state: WA
+title: PINJAR
+url: /wa/pinjar/
 ---

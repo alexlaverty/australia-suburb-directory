@@ -1,9 +1,10 @@
 ---
-title: OCEAN BEACH
-state: WA
-postcode: 6333
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.902512
-longitude: 117.158861
-url: /wa/ocean-beach/
 layout: suburb
+longitude: 117.158861
+postcode: '6333'
+state: WA
+title: OCEAN BEACH
+url: /wa/ocean-beach/
 ---

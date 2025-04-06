@@ -1,9 +1,10 @@
 ---
-title: LONE PINE
-state: QLD
-postcode: 4069
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.502784
-longitude: 152.898911
-url: /qld/lone-pine/
 layout: suburb
+longitude: 152.898911
+postcode: '4069'
+state: QLD
+title: LONE PINE
+url: /qld/lone-pine/
 ---

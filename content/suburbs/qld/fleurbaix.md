@@ -1,9 +1,10 @@
 ---
-title: FLEURBAIX
-state: QLD
-postcode: 4375
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.52776721
-longitude: 151.9153278
-url: /qld/fleurbaix/
 layout: suburb
+longitude: 151.9153278
+postcode: '4375'
+state: QLD
+title: FLEURBAIX
+url: /qld/fleurbaix/
 ---

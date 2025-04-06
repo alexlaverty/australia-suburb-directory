@@ -1,9 +1,10 @@
 ---
-title: MONT ALBERT
-state: VIC
-postcode: 3127
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.825173
-longitude: 145.097236
-url: /vic/mont-albert/
 layout: suburb
+longitude: 145.097236
+postcode: '3127'
+state: VIC
+title: MONT ALBERT
+url: /vic/mont-albert/
 ---

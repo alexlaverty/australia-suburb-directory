@@ -1,9 +1,10 @@
 ---
-title: MOORINA
-state: QLD
-postcode: 4506
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.128401
-longitude: 152.936289
-url: /qld/moorina/
 layout: suburb
+longitude: 152.936289
+postcode: '4506'
+state: QLD
+title: MOORINA
+url: /qld/moorina/
 ---

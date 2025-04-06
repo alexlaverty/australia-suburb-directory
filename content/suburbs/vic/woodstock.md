@@ -1,9 +1,10 @@
 ---
-title: WOODSTOCK
-state: VIC
-postcode: 3751
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.554655
-longitude: 145.052904
-url: /vic/woodstock/
 layout: suburb
+longitude: 145.052904
+postcode: '3751'
+state: VIC
+title: WOODSTOCK
+url: /vic/woodstock/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MACQUARIE UNIVERSITY
-state: NSW
-postcode: 2109
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.771558
-longitude: 151.113473
-url: /nsw/macquarie-university/
 layout: suburb
+longitude: 151.113473
+postcode: '2109'
+state: NSW
+title: MACQUARIE UNIVERSITY
+url: /nsw/macquarie-university/
 ---

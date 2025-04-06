@@ -1,9 +1,10 @@
 ---
-title: LIDSTER
-state: NSW
-postcode: 2800
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.32136418
-longitude: 148.923664
-url: /nsw/lidster/
 layout: suburb
+longitude: 148.923664
+postcode: '2800'
+state: NSW
+title: LIDSTER
+url: /nsw/lidster/
 ---

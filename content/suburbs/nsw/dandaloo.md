@@ -1,9 +1,10 @@
 ---
-title: DANDALOO
-state: NSW
-postcode: 2823
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.07687
-longitude: 147.838499
-url: /nsw/dandaloo/
 layout: suburb
+longitude: 147.838499
+postcode: '2823'
+state: NSW
+title: DANDALOO
+url: /nsw/dandaloo/
 ---

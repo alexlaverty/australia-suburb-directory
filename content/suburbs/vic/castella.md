@@ -1,9 +1,10 @@
 ---
-title: CASTELLA
-state: VIC
-postcode: 3777
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.606088
-longitude: 145.513804
-url: /vic/castella/
 layout: suburb
+longitude: 145.513804
+postcode: '3777'
+state: VIC
+title: CASTELLA
+url: /vic/castella/
 ---

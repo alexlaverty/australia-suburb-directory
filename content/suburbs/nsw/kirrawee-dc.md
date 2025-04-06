@@ -1,9 +1,10 @@
 ---
-title: KIRRAWEE DC
-state: NSW
-postcode: 2232
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.034
-longitude: 151.071
-url: /nsw/kirrawee-dc/
 layout: suburb
+longitude: 151.071
+postcode: '2232'
+state: NSW
+title: KIRRAWEE DC
+url: /nsw/kirrawee-dc/
 ---

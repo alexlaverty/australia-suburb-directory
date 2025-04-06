@@ -1,9 +1,10 @@
 ---
-title: COOLADAR HILL
-state: WA
-postcode: 6638
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -28.612449
-longitude: 118.157573
-url: /wa/cooladar-hill/
 layout: suburb
+longitude: 118.157573
+postcode: '6638'
+state: WA
+title: COOLADAR HILL
+url: /wa/cooladar-hill/
 ---

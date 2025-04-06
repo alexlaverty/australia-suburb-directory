@@ -1,9 +1,10 @@
 ---
-title: BEROWRA CREEK
-state: NSW
-postcode: 2082
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.54620871
-longitude: 151.138709
-url: /nsw/berowra-creek/
 layout: suburb
+longitude: 151.138709
+postcode: '2082'
+state: NSW
+title: BEROWRA CREEK
+url: /nsw/berowra-creek/
 ---

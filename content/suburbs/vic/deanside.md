@@ -1,9 +1,10 @@
 ---
-title: DEANSIDE
-state: VIC
-postcode: 3336
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.7332
-longitude: 144.7041
-url: /vic/deanside/
 layout: suburb
+longitude: 144.7041
+postcode: '3336'
+state: VIC
+title: DEANSIDE
+url: /vic/deanside/
 ---

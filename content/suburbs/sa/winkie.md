@@ -1,9 +1,10 @@
 ---
-title: WINKIE
-state: SA
-postcode: 5343
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.321288
-longitude: 140.556181
-url: /sa/winkie/
 layout: suburb
+longitude: 140.556181
+postcode: '5343'
+state: SA
+title: WINKIE
+url: /sa/winkie/
 ---

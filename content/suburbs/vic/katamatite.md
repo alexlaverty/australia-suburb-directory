@@ -1,9 +1,10 @@
 ---
-title: KATAMATITE
-state: VIC
-postcode: 3649
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.082665
-longitude: 145.688671
-url: /vic/katamatite/
 layout: suburb
+longitude: 145.688671
+postcode: '3649'
+state: VIC
+title: KATAMATITE
+url: /vic/katamatite/
 ---

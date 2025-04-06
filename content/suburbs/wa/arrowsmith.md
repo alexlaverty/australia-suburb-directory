@@ -1,9 +1,10 @@
 ---
-title: ARROWSMITH
-state: WA
-postcode: 6525
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -29.327323
-longitude: 115.098073
-url: /wa/arrowsmith/
 layout: suburb
+longitude: 115.098073
+postcode: '6525'
+state: WA
+title: ARROWSMITH
+url: /wa/arrowsmith/
 ---

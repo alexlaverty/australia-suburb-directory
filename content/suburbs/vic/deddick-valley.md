@@ -1,9 +1,10 @@
 ---
-title: DEDDICK VALLEY
-state: VIC
-postcode: 3888
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.05839205
-longitude: 148.4725251
-url: /vic/deddick-valley/
 layout: suburb
+longitude: 148.4725251
+postcode: '3888'
+state: VIC
+title: DEDDICK VALLEY
+url: /vic/deddick-valley/
 ---

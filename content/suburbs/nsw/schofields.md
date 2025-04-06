@@ -1,9 +1,10 @@
 ---
-title: SCHOFIELDS
-state: NSW
-postcode: 2762
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.700603
-longitude: 150.880097
-url: /nsw/schofields/
 layout: suburb
+longitude: 150.880097
+postcode: '2762'
+state: NSW
+title: SCHOFIELDS
+url: /nsw/schofields/
 ---

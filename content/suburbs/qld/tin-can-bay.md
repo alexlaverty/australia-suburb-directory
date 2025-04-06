@@ -1,9 +1,10 @@
 ---
-title: TIN CAN BAY
-state: QLD
-postcode: 4580
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.891004
-longitude: 152.928987
-url: /qld/tin-can-bay/
 layout: suburb
+longitude: 152.928987
+postcode: '4580'
+state: QLD
+title: TIN CAN BAY
+url: /qld/tin-can-bay/
 ---

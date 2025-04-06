@@ -1,9 +1,10 @@
 ---
-title: PINELANDS
-state: NT
-postcode: 0829
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.45763297
-longitude: 130.9597671
-url: /nt/pinelands/
 layout: suburb
+longitude: 130.9597671
+postcode: 0829
+state: NT
+title: PINELANDS
+url: /nt/pinelands/
 ---

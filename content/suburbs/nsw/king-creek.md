@@ -1,9 +1,10 @@
 ---
-title: KING CREEK
-state: NSW
-postcode: 2446
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.49239677
-longitude: 152.756541
-url: /nsw/king-creek/
 layout: suburb
+longitude: 152.756541
+postcode: '2446'
+state: NSW
+title: KING CREEK
+url: /nsw/king-creek/
 ---

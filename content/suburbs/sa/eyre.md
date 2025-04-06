@@ -1,9 +1,10 @@
 ---
-title: EYRE
-state: SA
-postcode: 5121
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.68857809
-longitude: 138.6507658
-url: /sa/eyre/
 layout: suburb
+longitude: 138.6507658
+postcode: '5121'
+state: SA
+title: EYRE
+url: /sa/eyre/
 ---

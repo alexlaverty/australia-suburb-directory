@@ -1,9 +1,10 @@
 ---
-title: MULGRAVE
-state: VIC
-postcode: 3170
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.920945
-longitude: 145.167859
-url: /vic/mulgrave/
 layout: suburb
+longitude: 145.167859
+postcode: '3170'
+state: VIC
+title: MULGRAVE
+url: /vic/mulgrave/
 ---

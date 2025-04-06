@@ -1,9 +1,10 @@
 ---
-title: KAWL KAWL
-state: QLD
-postcode: 4612
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.004636
-longitude: 151.589811
-url: /qld/kawl-kawl/
 layout: suburb
+longitude: 151.589811
+postcode: '4612'
+state: QLD
+title: KAWL KAWL
+url: /qld/kawl-kawl/
 ---

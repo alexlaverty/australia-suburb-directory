@@ -1,9 +1,10 @@
 ---
-title: TOM GROGGIN
-state: VIC
-postcode: 3707
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.59561902
-longitude: 148.0805746
-url: /vic/tom-groggin/
 layout: suburb
+longitude: 148.0805746
+postcode: '3707'
+state: VIC
+title: TOM GROGGIN
+url: /vic/tom-groggin/
 ---

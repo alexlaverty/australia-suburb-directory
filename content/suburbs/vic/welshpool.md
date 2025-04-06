@@ -1,9 +1,10 @@
 ---
-title: WELSHPOOL
-state: VIC
-postcode: 3966
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.630568
-longitude: 146.436583
-url: /vic/welshpool/
 layout: suburb
+longitude: 146.436583
+postcode: '3966'
+state: VIC
+title: WELSHPOOL
+url: /vic/welshpool/
 ---

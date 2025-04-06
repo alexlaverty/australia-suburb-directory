@@ -1,9 +1,10 @@
 ---
-title: CONSTITUTION HILL
-state: NSW
-postcode: 2145
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.79382308
-longitude: 150.9751544
-url: /nsw/constitution-hill/
 layout: suburb
+longitude: 150.9751544
+postcode: '2145'
+state: NSW
+title: CONSTITUTION HILL
+url: /nsw/constitution-hill/
 ---

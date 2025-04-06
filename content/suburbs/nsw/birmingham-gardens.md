@@ -1,9 +1,10 @@
 ---
-title: BIRMINGHAM GARDENS
-state: NSW
-postcode: 2287
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.892577
-longitude: 151.65807
-url: /nsw/birmingham-gardens/
 layout: suburb
+longitude: 151.65807
+postcode: '2287'
+state: NSW
+title: BIRMINGHAM GARDENS
+url: /nsw/birmingham-gardens/
 ---

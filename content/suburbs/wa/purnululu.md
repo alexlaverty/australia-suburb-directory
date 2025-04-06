@@ -1,9 +1,10 @@
 ---
-title: PURNULULU
-state: WA
-postcode: 6770
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -17.4484816
-longitude: 128.5465458
-url: /wa/purnululu/
 layout: suburb
+longitude: 128.5465458
+postcode: '6770'
+state: WA
+title: PURNULULU
+url: /wa/purnululu/
 ---

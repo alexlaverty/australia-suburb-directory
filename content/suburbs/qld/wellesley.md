@@ -1,9 +1,10 @@
 ---
-title: WELLESLEY
-state: QLD
-postcode: 4417
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.348199
-longitude: 149.070172
-url: /qld/wellesley/
 layout: suburb
+longitude: 149.070172
+postcode: '4417'
+state: QLD
+title: WELLESLEY
+url: /qld/wellesley/
 ---

@@ -1,9 +1,10 @@
 ---
-title: COROP WEST
-state: VIC
-postcode: 3558
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.51553
-longitude: 144.638363
-url: /vic/corop-west/
 layout: suburb
+longitude: 144.638363
+postcode: '3558'
+state: VIC
+title: COROP WEST
+url: /vic/corop-west/
 ---

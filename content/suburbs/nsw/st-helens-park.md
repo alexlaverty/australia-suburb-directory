@@ -1,9 +1,10 @@
 ---
-title: ST HELENS PARK
-state: NSW
-postcode: 2560
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.194216
-longitude: 150.768408
-url: /nsw/st-helens-park/
 layout: suburb
+longitude: 150.768408
+postcode: '2560'
+state: NSW
+title: ST HELENS PARK
+url: /nsw/st-helens-park/
 ---

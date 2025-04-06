@@ -1,9 +1,10 @@
 ---
-title: SVENSSON HEIGHTS
-state: QLD
-postcode: 4670
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.88776
-longitude: 152.297855
-url: /qld/svensson-heights/
 layout: suburb
+longitude: 152.297855
+postcode: '4670'
+state: QLD
+title: SVENSSON HEIGHTS
+url: /qld/svensson-heights/
 ---

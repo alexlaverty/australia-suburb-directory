@@ -1,9 +1,10 @@
 ---
-title: EURELLA
-state: QLD
-postcode: 4462
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.549209
-longitude: 148.186897
-url: /qld/eurella/
 layout: suburb
+longitude: 148.186897
+postcode: '4462'
+state: QLD
+title: EURELLA
+url: /qld/eurella/
 ---

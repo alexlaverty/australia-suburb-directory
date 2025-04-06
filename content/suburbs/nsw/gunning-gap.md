@@ -1,9 +1,10 @@
 ---
-title: GUNNING GAP
-state: NSW
-postcode: 2876
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.25391402
-longitude: 147.7419456
-url: /nsw/gunning-gap/
 layout: suburb
+longitude: 147.7419456
+postcode: '2876'
+state: NSW
+title: GUNNING GAP
+url: /nsw/gunning-gap/
 ---

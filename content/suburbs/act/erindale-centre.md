@@ -1,9 +1,10 @@
 ---
-title: ERINDALE CENTRE
-state: ACT
-postcode: 2903
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.402705
-longitude: 149.081776
-url: /act/erindale-centre/
 layout: suburb
+longitude: 149.081776
+postcode: '2903'
+state: ACT
+title: ERINDALE CENTRE
+url: /act/erindale-centre/
 ---

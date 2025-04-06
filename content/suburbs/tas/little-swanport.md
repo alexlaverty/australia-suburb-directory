@@ -1,9 +1,10 @@
 ---
-title: LITTLE SWANPORT
-state: TAS
-postcode: 7190
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.62988
-longitude: 148.091696
-url: /tas/little-swanport/
 layout: suburb
+longitude: 148.091696
+postcode: '7190'
+state: TAS
+title: LITTLE SWANPORT
+url: /tas/little-swanport/
 ---

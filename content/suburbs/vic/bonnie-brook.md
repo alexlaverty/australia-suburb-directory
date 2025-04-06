@@ -1,9 +1,10 @@
 ---
-title: BONNIE BROOK
-state: VIC
-postcode: 3335
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.69608887
-longitude: 144.6698898
-url: /vic/bonnie-brook/
 layout: suburb
+longitude: 144.6698898
+postcode: '3335'
+state: VIC
+title: BONNIE BROOK
+url: /vic/bonnie-brook/
 ---

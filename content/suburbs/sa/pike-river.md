@@ -1,9 +1,10 @@
 ---
-title: PIKE RIVER
-state: SA
-postcode: 5340
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.176844
-longitude: 140.782026
-url: /sa/pike-river/
 layout: suburb
+longitude: 140.782026
+postcode: '5340'
+state: SA
+title: PIKE RIVER
+url: /sa/pike-river/
 ---

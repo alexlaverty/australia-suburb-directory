@@ -1,9 +1,10 @@
 ---
-title: CLAREMONT NORTH
-state: WA
-postcode: 6010
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.971647
-longitude: 115.77639
-url: /wa/claremont-north/
 layout: suburb
+longitude: 115.77639
+postcode: '6010'
+state: WA
+title: CLAREMONT NORTH
+url: /wa/claremont-north/
 ---

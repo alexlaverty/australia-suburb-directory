@@ -1,9 +1,10 @@
 ---
-title: MAWSON LAKES
-state: SA
-postcode: 5095
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.820685
-longitude: 138.6199
-url: /sa/mawson-lakes/
 layout: suburb
+longitude: 138.6199
+postcode: '5095'
+state: SA
+title: MAWSON LAKES
+url: /sa/mawson-lakes/
 ---

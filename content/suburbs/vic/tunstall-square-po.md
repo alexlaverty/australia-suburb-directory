@@ -1,9 +1,10 @@
 ---
-title: TUNSTALL SQUARE PO
-state: VIC
-postcode: 3109
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.784786
-longitude: 145.161649
-url: /vic/tunstall-square-po/
 layout: suburb
+longitude: 145.161649
+postcode: '3109'
+state: VIC
+title: TUNSTALL SQUARE PO
+url: /vic/tunstall-square-po/
 ---

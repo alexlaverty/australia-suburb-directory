@@ -1,9 +1,10 @@
 ---
-title: MINTABIE
-state: SA
-postcode: 5724
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.180602
-longitude: 133.420868
-url: /sa/mintabie/
 layout: suburb
+longitude: 133.420868
+postcode: '5724'
+state: SA
+title: MINTABIE
+url: /sa/mintabie/
 ---

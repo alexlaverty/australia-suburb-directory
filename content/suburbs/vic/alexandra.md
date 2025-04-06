@@ -1,9 +1,10 @@
 ---
-title: ALEXANDRA
-state: VIC
-postcode: 3714
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.210538
-longitude: 145.687889
-url: /vic/alexandra/
 layout: suburb
+longitude: 145.687889
+postcode: '3714'
+state: VIC
+title: ALEXANDRA
+url: /vic/alexandra/
 ---

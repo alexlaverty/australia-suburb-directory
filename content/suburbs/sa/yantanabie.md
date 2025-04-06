@@ -1,9 +1,10 @@
 ---
-title: YANTANABIE
-state: SA
-postcode: 5661
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.360111
-longitude: 134.539431
-url: /sa/yantanabie/
 layout: suburb
+longitude: 134.539431
+postcode: '5661'
+state: SA
+title: YANTANABIE
+url: /sa/yantanabie/
 ---

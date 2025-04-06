@@ -1,9 +1,10 @@
 ---
-title: SASSAFRAS GULLY
-state: VIC
-postcode: 3787
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.866786
-longitude: 145.350888
-url: /vic/sassafras-gully/
 layout: suburb
+longitude: 145.350888
+postcode: '3787'
+state: VIC
+title: SASSAFRAS GULLY
+url: /vic/sassafras-gully/
 ---

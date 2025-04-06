@@ -1,9 +1,10 @@
 ---
-title: ARTARMON
-state: NSW
-postcode: 2064
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.813209
-longitude: 151.183801
-url: /nsw/artarmon/
 layout: suburb
+longitude: 151.183801
+postcode: '2064'
+state: NSW
+title: ARTARMON
+url: /nsw/artarmon/
 ---

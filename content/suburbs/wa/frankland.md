@@ -1,9 +1,10 @@
 ---
-title: FRANKLAND
-state: WA
-postcode: 6396
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.372016
-longitude: 117.096189
-url: /wa/frankland/
 layout: suburb
+longitude: 117.096189
+postcode: '6396'
+state: WA
+title: FRANKLAND
+url: /wa/frankland/
 ---

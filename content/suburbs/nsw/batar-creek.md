@@ -1,9 +1,10 @@
 ---
-title: BATAR CREEK
-state: NSW
-postcode: 2439
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.654722
-longitude: 152.652155
-url: /nsw/batar-creek/
 layout: suburb
+longitude: 152.652155
+postcode: '2439'
+state: NSW
+title: BATAR CREEK
+url: /nsw/batar-creek/
 ---

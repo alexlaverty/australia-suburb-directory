@@ -1,9 +1,10 @@
 ---
-title: MOUNT MITCHELL
-state: NSW
-postcode: 2365
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.115913
-longitude: 151.673028
-url: /nsw/mount-mitchell/
 layout: suburb
+longitude: 151.673028
+postcode: '2365'
+state: NSW
+title: MOUNT MITCHELL
+url: /nsw/mount-mitchell/
 ---

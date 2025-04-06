@@ -1,9 +1,10 @@
 ---
-title: MALAGA
-state: WA
-postcode: 6944
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -31.864862
-longitude: 115.895533
-url: /wa/malaga/
 layout: suburb
+longitude: 115.895533
+postcode: '6944'
+state: WA
+title: MALAGA
+url: /wa/malaga/
 ---

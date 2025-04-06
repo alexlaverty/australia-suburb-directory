@@ -1,9 +1,10 @@
 ---
-title: CABRAMATTA
-state: NSW
-postcode: 2166
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.892738
-longitude: 150.92937
-url: /nsw/cabramatta/
 layout: suburb
+longitude: 150.92937
+postcode: '2166'
+state: NSW
+title: CABRAMATTA
+url: /nsw/cabramatta/
 ---

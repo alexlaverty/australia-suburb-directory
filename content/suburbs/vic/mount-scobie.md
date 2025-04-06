@@ -1,9 +1,10 @@
 ---
-title: MOUNT SCOBIE
-state: VIC
-postcode: 3620
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.284584
-longitude: 145.082735
-url: /vic/mount-scobie/
 layout: suburb
+longitude: 145.082735
+postcode: '3620'
+state: VIC
+title: MOUNT SCOBIE
+url: /vic/mount-scobie/
 ---

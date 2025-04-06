@@ -1,9 +1,10 @@
 ---
-title: FITZROY
-state: VIC
-postcode: 3065
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.802608
-longitude: 144.977795
-url: /vic/fitzroy/
 layout: suburb
+longitude: 144.977795
+postcode: '3065'
+state: VIC
+title: FITZROY
+url: /vic/fitzroy/
 ---

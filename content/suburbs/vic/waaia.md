@@ -1,9 +1,10 @@
 ---
-title: WAAIA
-state: VIC
-postcode: 3637
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.050686
-longitude: 145.329026
-url: /vic/waaia/
 layout: suburb
+longitude: 145.329026
+postcode: '3637'
+state: VIC
+title: WAAIA
+url: /vic/waaia/
 ---

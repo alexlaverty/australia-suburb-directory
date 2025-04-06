@@ -1,9 +1,10 @@
 ---
-title: BENAYEO
-state: VIC
-postcode: 3319
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.873961
-longitude: 141.051389
-url: /vic/benayeo/
 layout: suburb
+longitude: 141.051389
+postcode: '3319'
+state: VIC
+title: BENAYEO
+url: /vic/benayeo/
 ---

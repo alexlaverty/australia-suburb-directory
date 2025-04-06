@@ -1,9 +1,10 @@
 ---
-title: WARRUMBUNGLE
-state: NSW
-postcode: 2828
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.298962
-longitude: 148.581142
-url: /nsw/warrumbungle/
 layout: suburb
+longitude: 148.581142
+postcode: '2828'
+state: NSW
+title: WARRUMBUNGLE
+url: /nsw/warrumbungle/
 ---

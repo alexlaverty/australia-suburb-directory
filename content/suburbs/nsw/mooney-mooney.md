@@ -1,9 +1,10 @@
 ---
-title: MOONEY MOONEY
-state: NSW
-postcode: 2083
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.525322
-longitude: 151.194452
-url: /nsw/mooney-mooney/
 layout: suburb
+longitude: 151.194452
+postcode: '2083'
+state: NSW
+title: MOONEY MOONEY
+url: /nsw/mooney-mooney/
 ---

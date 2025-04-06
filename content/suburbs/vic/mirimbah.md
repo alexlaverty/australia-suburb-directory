@@ -1,9 +1,10 @@
 ---
-title: MIRIMBAH
-state: VIC
-postcode: 3722
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.202634
-longitude: 146.253268
-url: /vic/mirimbah/
 layout: suburb
+longitude: 146.253268
+postcode: '3722'
+state: VIC
+title: MIRIMBAH
+url: /vic/mirimbah/
 ---

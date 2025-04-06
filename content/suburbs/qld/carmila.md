@@ -1,9 +1,10 @@
 ---
-title: CARMILA
-state: QLD
-postcode: 4739
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -21.930567
-longitude: 149.395052
-url: /qld/carmila/
 layout: suburb
+longitude: 149.395052
+postcode: '4739'
+state: QLD
+title: CARMILA
+url: /qld/carmila/
 ---

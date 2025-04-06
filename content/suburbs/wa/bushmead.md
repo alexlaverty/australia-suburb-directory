@@ -1,9 +1,10 @@
 ---
-title: BUSHMEAD
-state: WA
-postcode: 6055
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.92821488
-longitude: 116.0299538
-url: /wa/bushmead/
 layout: suburb
+longitude: 116.0299538
+postcode: '6055'
+state: WA
+title: BUSHMEAD
+url: /wa/bushmead/
 ---

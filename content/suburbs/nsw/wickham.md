@@ -1,9 +1,10 @@
 ---
-title: WICKHAM
-state: NSW
-postcode: 2293
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.917776
-longitude: 151.754696
-url: /nsw/wickham/
 layout: suburb
+longitude: 151.754696
+postcode: '2293'
+state: NSW
+title: WICKHAM
+url: /nsw/wickham/
 ---

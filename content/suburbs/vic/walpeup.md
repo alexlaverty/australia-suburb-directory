@@ -1,9 +1,10 @@
 ---
-title: WALPEUP
-state: VIC
-postcode: 3507
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.120596
-longitude: 142.035659
-url: /vic/walpeup/
 layout: suburb
+longitude: 142.035659
+postcode: '3507'
+state: VIC
+title: WALPEUP
+url: /vic/walpeup/
 ---

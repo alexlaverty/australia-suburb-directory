@@ -1,9 +1,10 @@
 ---
-title: SOUTH MACLEAN
-state: QLD
-postcode: 4280
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.81609
-longitude: 153.048563
-url: /qld/south-maclean/
 layout: suburb
+longitude: 153.048563
+postcode: '4280'
+state: QLD
+title: SOUTH MACLEAN
+url: /qld/south-maclean/
 ---

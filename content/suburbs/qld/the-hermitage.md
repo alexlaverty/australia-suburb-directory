@@ -1,9 +1,10 @@
 ---
-title: THE HERMITAGE
-state: QLD
-postcode: 4370
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.20564803
-longitude: 152.0942372
-url: /qld/the-hermitage/
 layout: suburb
+longitude: 152.0942372
+postcode: '4370'
+state: QLD
+title: THE HERMITAGE
+url: /qld/the-hermitage/
 ---

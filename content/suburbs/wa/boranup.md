@@ -1,9 +1,10 @@
 ---
-title: BORANUP
-state: WA
-postcode: 6286
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.061823
-longitude: 115.176529
-url: /wa/boranup/
 layout: suburb
+longitude: 115.176529
+postcode: '6286'
+state: WA
+title: BORANUP
+url: /wa/boranup/
 ---

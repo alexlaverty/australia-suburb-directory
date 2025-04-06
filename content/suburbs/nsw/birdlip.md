@@ -1,9 +1,10 @@
 ---
-title: BIRDLIP
-state: NSW
-postcode: 2655
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.225102
-longitude: 147.047366
-url: /nsw/birdlip/
 layout: suburb
+longitude: 147.047366
+postcode: '2655'
+state: NSW
+title: BIRDLIP
+url: /nsw/birdlip/
 ---

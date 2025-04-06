@@ -1,9 +1,10 @@
 ---
-title: CANNING MILLS
-state: WA
-postcode: 6111
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.09788
-longitude: 116.095955
-url: /wa/canning-mills/
 layout: suburb
+longitude: 116.095955
+postcode: '6111'
+state: WA
+title: CANNING MILLS
+url: /wa/canning-mills/
 ---

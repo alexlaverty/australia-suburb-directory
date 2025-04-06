@@ -1,9 +1,10 @@
 ---
-title: WENTWORTH
-state: VIC
-postcode: 3875
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.30864369
-longitude: 147.63201
-url: /vic/wentworth/
 layout: suburb
+longitude: 147.63201
+postcode: '3875'
+state: VIC
+title: WENTWORTH
+url: /vic/wentworth/
 ---

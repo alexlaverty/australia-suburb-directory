@@ -1,9 +1,10 @@
 ---
-title: MAROUBRA
-state: NSW
-postcode: 2035
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.945635
-longitude: 151.241292
-url: /nsw/maroubra/
 layout: suburb
+longitude: 151.241292
+postcode: '2035'
+state: NSW
+title: MAROUBRA
+url: /nsw/maroubra/
 ---

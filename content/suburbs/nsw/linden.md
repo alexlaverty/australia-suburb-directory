@@ -1,9 +1,10 @@
 ---
-title: LINDEN
-state: NSW
-postcode: 2778
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.728545
-longitude: 150.484549
-url: /nsw/linden/
 layout: suburb
+longitude: 150.484549
+postcode: '2778'
+state: NSW
+title: LINDEN
+url: /nsw/linden/
 ---

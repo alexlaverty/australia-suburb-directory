@@ -1,9 +1,10 @@
 ---
-title: NINYEUNOOK
-state: VIC
-postcode: 3540
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.89277
-longitude: 143.45008
-url: /vic/ninyeunook/
 layout: suburb
+longitude: 143.45008
+postcode: '3540'
+state: VIC
+title: NINYEUNOOK
+url: /vic/ninyeunook/
 ---

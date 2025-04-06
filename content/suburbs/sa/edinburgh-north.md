@@ -1,9 +1,10 @@
 ---
-title: EDINBURGH NORTH
-state: SA
-postcode: 5113
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.70432849
-longitude: 138.6581221
-url: /sa/edinburgh-north/
 layout: suburb
+longitude: 138.6581221
+postcode: '5113'
+state: SA
+title: EDINBURGH NORTH
+url: /sa/edinburgh-north/
 ---

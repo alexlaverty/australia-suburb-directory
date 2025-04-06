@@ -1,9 +1,10 @@
 ---
-title: CALLANNA
-state: SA
-postcode: 5733
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -29.64748515
-longitude: 137.704561
-url: /sa/callanna/
 layout: suburb
+longitude: 137.704561
+postcode: '5733'
+state: SA
+title: CALLANNA
+url: /sa/callanna/
 ---

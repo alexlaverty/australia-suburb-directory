@@ -1,9 +1,10 @@
 ---
-title: COLLINGWOOD
-state: VIC
-postcode: 3066
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.804846
-longitude: 144.986906
-url: /vic/collingwood/
 layout: suburb
+longitude: 144.986906
+postcode: '3066'
+state: VIC
+title: COLLINGWOOD
+url: /vic/collingwood/
 ---

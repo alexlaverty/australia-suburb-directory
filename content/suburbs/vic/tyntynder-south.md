@@ -1,9 +1,10 @@
 ---
-title: TYNTYNDER SOUTH
-state: VIC
-postcode: 3586
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.114021
-longitude: 143.792594
-url: /vic/tyntynder-south/
 layout: suburb
+longitude: 143.792594
+postcode: '3586'
+state: VIC
+title: TYNTYNDER SOUTH
+url: /vic/tyntynder-south/
 ---

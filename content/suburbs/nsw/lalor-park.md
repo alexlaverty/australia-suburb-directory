@@ -1,9 +1,10 @@
 ---
-title: LALOR PARK
-state: NSW
-postcode: 2147
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.766075
-longitude: 150.935836
-url: /nsw/lalor-park/
 layout: suburb
+longitude: 150.935836
+postcode: '2147'
+state: NSW
+title: LALOR PARK
+url: /nsw/lalor-park/
 ---

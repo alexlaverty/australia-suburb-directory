@@ -1,9 +1,10 @@
 ---
-title: THORNBURY
-state: VIC
-postcode: 3071
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.759426
-longitude: 145.007006
-url: /vic/thornbury/
 layout: suburb
+longitude: 145.007006
+postcode: '3071'
+state: VIC
+title: THORNBURY
+url: /vic/thornbury/
 ---

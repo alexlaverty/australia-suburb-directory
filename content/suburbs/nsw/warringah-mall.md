@@ -1,9 +1,10 @@
 ---
-title: WARRINGAH MALL
-state: NSW
-postcode: 2100
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.766409
-longitude: 151.257781
-url: /nsw/warringah-mall/
 layout: suburb
+longitude: 151.257781
+postcode: '2100'
+state: NSW
+title: WARRINGAH MALL
+url: /nsw/warringah-mall/
 ---

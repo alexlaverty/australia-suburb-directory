@@ -1,9 +1,10 @@
 ---
-title: TERIDGERIE
-state: NSW
-postcode: 2829
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.766245
-longitude: 148.261265
-url: /nsw/teridgerie/
 layout: suburb
+longitude: 148.261265
+postcode: '2829'
+state: NSW
+title: TERIDGERIE
+url: /nsw/teridgerie/
 ---

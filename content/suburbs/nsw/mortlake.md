@@ -1,9 +1,10 @@
 ---
-title: MORTLAKE
-state: NSW
-postcode: 2137
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.85749
-longitude: 151.103751
-url: /nsw/mortlake/
 layout: suburb
+longitude: 151.103751
+postcode: '2137'
+state: NSW
+title: MORTLAKE
+url: /nsw/mortlake/
 ---

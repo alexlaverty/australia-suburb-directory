@@ -1,9 +1,10 @@
 ---
-title: BONVILLE
-state: NSW
-postcode: 2450
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.37491129
-longitude: 153.0171326
-url: /nsw/bonville/
 layout: suburb
+longitude: 153.0171326
+postcode: '2450'
+state: NSW
+title: BONVILLE
+url: /nsw/bonville/
 ---

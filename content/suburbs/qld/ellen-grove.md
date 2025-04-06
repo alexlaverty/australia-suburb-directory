@@ -1,9 +1,10 @@
 ---
-title: ELLEN GROVE
-state: QLD
-postcode: 4078
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.612653
-longitude: 152.950579
-url: /qld/ellen-grove/
 layout: suburb
+longitude: 152.950579
+postcode: '4078'
+state: QLD
+title: ELLEN GROVE
+url: /qld/ellen-grove/
 ---

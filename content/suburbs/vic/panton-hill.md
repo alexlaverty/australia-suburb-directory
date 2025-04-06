@@ -1,9 +1,10 @@
 ---
-title: PANTON HILL
-state: VIC
-postcode: 3759
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.650385
-longitude: 145.247277
-url: /vic/panton-hill/
 layout: suburb
+longitude: 145.247277
+postcode: '3759'
+state: VIC
+title: PANTON HILL
+url: /vic/panton-hill/
 ---

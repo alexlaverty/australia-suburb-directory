@@ -1,9 +1,10 @@
 ---
-title: GNANGARA
-state: WA
-postcode: 6077
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.69444
-longitude: 115.845329
-url: /wa/gnangara/
 layout: suburb
+longitude: 115.845329
+postcode: '6077'
+state: WA
+title: GNANGARA
+url: /wa/gnangara/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MERRICUMBENE
-state: NSW
-postcode: 2622
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.73121517
-longitude: 149.872747
-url: /nsw/merricumbene/
 layout: suburb
+longitude: 149.872747
+postcode: '2622'
+state: NSW
+title: MERRICUMBENE
+url: /nsw/merricumbene/
 ---

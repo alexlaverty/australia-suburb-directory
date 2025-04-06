@@ -1,9 +1,10 @@
 ---
-title: PEMBERTON
-state: WA
-postcode: 6260
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.438738
-longitude: 115.860627
-url: /wa/pemberton/
 layout: suburb
+longitude: 115.860627
+postcode: '6260'
+state: WA
+title: PEMBERTON
+url: /wa/pemberton/
 ---

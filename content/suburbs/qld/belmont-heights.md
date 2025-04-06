@@ -1,9 +1,10 @@
 ---
-title: BELMONT HEIGHTS
-state: QLD
-postcode: 4153
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.510035
-longitude: 153.131429
-url: /qld/belmont-heights/
 layout: suburb
+longitude: 153.131429
+postcode: '4153'
+state: QLD
+title: BELMONT HEIGHTS
+url: /qld/belmont-heights/
 ---

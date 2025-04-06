@@ -1,9 +1,10 @@
 ---
-title: KURANDA
-state: QLD
-postcode: 4881
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -18.028128
-longitude: 145.157257
-url: /qld/kuranda/
 layout: suburb
+longitude: 145.157257
+postcode: '4881'
+state: QLD
+title: KURANDA
+url: /qld/kuranda/
 ---

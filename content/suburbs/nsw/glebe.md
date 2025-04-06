@@ -1,9 +1,10 @@
 ---
-title: GLEBE
-state: NSW
-postcode: 2037
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.880179
-longitude: 151.184458
-url: /nsw/glebe/
 layout: suburb
+longitude: 151.184458
+postcode: '2037'
+state: NSW
+title: GLEBE
+url: /nsw/glebe/
 ---

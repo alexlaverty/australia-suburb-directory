@@ -1,9 +1,10 @@
 ---
-title: PORT NOARLUNGA
-state: SA
-postcode: 5167
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.166866
-longitude: 138.481211
-url: /sa/port-noarlunga/
 layout: suburb
+longitude: 138.481211
+postcode: '5167'
+state: SA
+title: PORT NOARLUNGA
+url: /sa/port-noarlunga/
 ---

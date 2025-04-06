@@ -1,9 +1,10 @@
 ---
-title: CAMMERAY
-state: NSW
-postcode: 2062
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.822837
-longitude: 151.21246
-url: /nsw/cammeray/
 layout: suburb
+longitude: 151.21246
+postcode: '2062'
+state: NSW
+title: CAMMERAY
+url: /nsw/cammeray/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GRAFTON WEST
-state: NSW
-postcode: 2460
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.320772
-longitude: 153.271074
-url: /nsw/grafton-west/
 layout: suburb
+longitude: 153.271074
+postcode: '2460'
+state: NSW
+title: GRAFTON WEST
+url: /nsw/grafton-west/
 ---

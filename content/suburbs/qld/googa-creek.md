@@ -1,9 +1,10 @@
 ---
-title: GOOGA CREEK
-state: QLD
-postcode: 4314
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.96546369
-longitude: 152.054265
-url: /qld/googa-creek/
 layout: suburb
+longitude: 152.054265
+postcode: '4314'
+state: QLD
+title: GOOGA CREEK
+url: /qld/googa-creek/
 ---

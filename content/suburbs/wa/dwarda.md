@@ -1,9 +1,10 @@
 ---
-title: DWARDA
-state: WA
-postcode: 6308
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.579015
-longitude: 116.665242
-url: /wa/dwarda/
 layout: suburb
+longitude: 116.665242
+postcode: '6308'
+state: WA
+title: DWARDA
+url: /wa/dwarda/
 ---

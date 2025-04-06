@@ -1,9 +1,10 @@
 ---
-title: YALLAH
-state: NSW
-postcode: 2530
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.505411
-longitude: 150.766132
-url: /nsw/yallah/
 layout: suburb
+longitude: 150.766132
+postcode: '2530'
+state: NSW
+title: YALLAH
+url: /nsw/yallah/
 ---

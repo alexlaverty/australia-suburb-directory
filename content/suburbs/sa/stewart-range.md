@@ -1,9 +1,10 @@
 ---
-title: STEWART RANGE
-state: SA
-postcode: 5271
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.792946
-longitude: 140.496496
-url: /sa/stewart-range/
 layout: suburb
+longitude: 140.496496
+postcode: '5271'
+state: SA
+title: STEWART RANGE
+url: /sa/stewart-range/
 ---

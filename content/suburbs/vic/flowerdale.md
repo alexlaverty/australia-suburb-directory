@@ -1,9 +1,10 @@
 ---
-title: FLOWERDALE
-state: VIC
-postcode: 3717
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.286611
-longitude: 145.435776
-url: /vic/flowerdale/
 layout: suburb
+longitude: 145.435776
+postcode: '3717'
+state: VIC
+title: FLOWERDALE
+url: /vic/flowerdale/
 ---

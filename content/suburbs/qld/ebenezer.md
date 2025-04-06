@@ -1,9 +1,10 @@
 ---
-title: EBENEZER
-state: QLD
-postcode: 4340
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.803453
-longitude: 152.472702
-url: /qld/ebenezer/
 layout: suburb
+longitude: 152.472702
+postcode: '4340'
+state: QLD
+title: EBENEZER
+url: /qld/ebenezer/
 ---

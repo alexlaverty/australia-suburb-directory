@@ -1,9 +1,10 @@
 ---
-title: PALMWOODS
-state: QLD
-postcode: 4555
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.691701
-longitude: 152.95452
-url: /qld/palmwoods/
 layout: suburb
+longitude: 152.95452
+postcode: '4555'
+state: QLD
+title: PALMWOODS
+url: /qld/palmwoods/
 ---

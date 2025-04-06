@@ -1,9 +1,10 @@
 ---
-title: SOUTH KINGSVILLE
-state: VIC
-postcode: 3015
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.838242
-longitude: 144.880556
-url: /vic/south-kingsville/
 layout: suburb
+longitude: 144.880556
+postcode: '3015'
+state: VIC
+title: SOUTH KINGSVILLE
+url: /vic/south-kingsville/
 ---

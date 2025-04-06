@@ -1,9 +1,10 @@
 ---
-title: LIBERTY GROVE
-state: NSW
-postcode: 2138
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.846098
-longitude: 151.086036
-url: /nsw/liberty-grove/
 layout: suburb
+longitude: 151.086036
+postcode: '2138'
+state: NSW
+title: LIBERTY GROVE
+url: /nsw/liberty-grove/
 ---

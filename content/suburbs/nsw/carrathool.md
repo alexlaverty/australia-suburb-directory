@@ -1,9 +1,10 @@
 ---
-title: CARRATHOOL
-state: NSW
-postcode: 2711
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.257669
-longitude: 144.695233
-url: /nsw/carrathool/
 layout: suburb
+longitude: 144.695233
+postcode: '2711'
+state: NSW
+title: CARRATHOOL
+url: /nsw/carrathool/
 ---

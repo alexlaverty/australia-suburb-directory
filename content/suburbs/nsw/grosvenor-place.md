@@ -1,9 +1,10 @@
 ---
-title: GROSVENOR PLACE
-state: NSW
-postcode: 1220
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.741311
-longitude: 151.034025
-url: /nsw/grosvenor-place/
 layout: suburb
+longitude: 151.034025
+postcode: '1220'
+state: NSW
+title: GROSVENOR PLACE
+url: /nsw/grosvenor-place/
 ---

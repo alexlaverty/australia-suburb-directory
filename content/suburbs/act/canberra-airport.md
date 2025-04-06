@@ -1,9 +1,10 @@
 ---
-title: CANBERRA AIRPORT
-state: ACT
-postcode: 2609
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.304469
-longitude: 149.1940419
-url: /act/canberra-airport/
 layout: suburb
+longitude: 149.1940419
+postcode: '2609'
+state: ACT
+title: CANBERRA AIRPORT
+url: /act/canberra-airport/
 ---

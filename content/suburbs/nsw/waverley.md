@@ -1,9 +1,10 @@
 ---
-title: WAVERLEY
-state: NSW
-postcode: 2024
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.904414
-longitude: 151.259392
-url: /nsw/waverley/
 layout: suburb
+longitude: 151.259392
+postcode: '2024'
+state: NSW
+title: WAVERLEY
+url: /nsw/waverley/
 ---

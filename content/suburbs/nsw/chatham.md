@@ -1,9 +1,10 @@
 ---
-title: CHATHAM
-state: NSW
-postcode: 2430
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.899311
-longitude: 152.503209
-url: /nsw/chatham/
 layout: suburb
+longitude: 152.503209
+postcode: '2430'
+state: NSW
+title: CHATHAM
+url: /nsw/chatham/
 ---

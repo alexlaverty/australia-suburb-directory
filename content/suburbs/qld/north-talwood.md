@@ -1,9 +1,10 @@
 ---
-title: NORTH TALWOOD
-state: QLD
-postcode: 4496
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.364992
-longitude: 149.267966
-url: /qld/north-talwood/
 layout: suburb
+longitude: 149.267966
+postcode: '4496'
+state: QLD
+title: NORTH TALWOOD
+url: /qld/north-talwood/
 ---

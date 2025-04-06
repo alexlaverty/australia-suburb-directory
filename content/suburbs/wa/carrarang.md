@@ -1,9 +1,10 @@
 ---
-title: CARRARANG
-state: WA
-postcode: 6532
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.440886
-longitude: 115.004595
-url: /wa/carrarang/
 layout: suburb
+longitude: 115.004595
+postcode: '6532'
+state: WA
+title: CARRARANG
+url: /wa/carrarang/
 ---

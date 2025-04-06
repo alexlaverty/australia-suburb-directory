@@ -1,9 +1,10 @@
 ---
-title: MOUNT EVELYN
-state: VIC
-postcode: 3796
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.786977
-longitude: 145.384922
-url: /vic/mount-evelyn/
 layout: suburb
+longitude: 145.384922
+postcode: '3796'
+state: VIC
+title: MOUNT EVELYN
+url: /vic/mount-evelyn/
 ---

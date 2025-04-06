@@ -1,9 +1,10 @@
 ---
-title: GROVELY
-state: QLD
-postcode: 4054
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.409817
-longitude: 152.956014
-url: /qld/grovely/
 layout: suburb
+longitude: 152.956014
+postcode: '4054'
+state: QLD
+title: GROVELY
+url: /qld/grovely/
 ---

@@ -1,9 +1,10 @@
 ---
-title: CHEWTON BUSHLANDS
-state: VIC
-postcode: 3451
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.125338
-longitude: 144.21419
-url: /vic/chewton-bushlands/
 layout: suburb
+longitude: 144.21419
+postcode: '3451'
+state: VIC
+title: CHEWTON BUSHLANDS
+url: /vic/chewton-bushlands/
 ---

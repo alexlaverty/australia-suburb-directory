@@ -1,9 +1,10 @@
 ---
-title: MOORARA
-state: NSW
-postcode: 2648
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.02877594
-longitude: 142.6530287
-url: /nsw/moorara/
 layout: suburb
+longitude: 142.6530287
+postcode: '2648'
+state: NSW
+title: MOORARA
+url: /nsw/moorara/
 ---

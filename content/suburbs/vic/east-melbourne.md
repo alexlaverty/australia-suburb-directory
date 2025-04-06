@@ -1,9 +1,10 @@
 ---
-title: EAST MELBOURNE
-state: VIC
-postcode: 8002
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -37.81443733
-longitude: 144.9825846
-url: /vic/east-melbourne/
 layout: suburb
+longitude: 144.9825846
+postcode: '8002'
+state: VIC
+title: EAST MELBOURNE
+url: /vic/east-melbourne/
 ---

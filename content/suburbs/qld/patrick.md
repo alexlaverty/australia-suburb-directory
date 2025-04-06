@@ -1,9 +1,10 @@
 ---
-title: PATRICK
-state: QLD
-postcode: 4725
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -23.73624214
-longitude: 145.2156326
-url: /qld/patrick/
 layout: suburb
+longitude: 145.2156326
+postcode: '4725'
+state: QLD
+title: PATRICK
+url: /qld/patrick/
 ---

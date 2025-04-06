@@ -1,9 +1,10 @@
 ---
-title: KONDUT
-state: WA
-postcode: 6605
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -30.730158
-longitude: 116.762957
-url: /wa/kondut/
 layout: suburb
+longitude: 116.762957
+postcode: '6605'
+state: WA
+title: KONDUT
+url: /wa/kondut/
 ---

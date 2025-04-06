@@ -1,9 +1,10 @@
 ---
-title: GWABEGAR
-state: NSW
-postcode: 2356
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.619798
-longitude: 148.96949
-url: /nsw/gwabegar/
 layout: suburb
+longitude: 148.96949
+postcode: '2356'
+state: NSW
+title: GWABEGAR
+url: /nsw/gwabegar/
 ---

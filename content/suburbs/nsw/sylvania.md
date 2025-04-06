@@ -1,9 +1,10 @@
 ---
-title: SYLVANIA
-state: NSW
-postcode: 2224
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.01362
-longitude: 151.101891
-url: /nsw/sylvania/
 layout: suburb
+longitude: 151.101891
+postcode: '2224'
+state: NSW
+title: SYLVANIA
+url: /nsw/sylvania/
 ---

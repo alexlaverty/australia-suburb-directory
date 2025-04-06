@@ -1,9 +1,10 @@
 ---
-title: SEBASTOPOL
-state: VIC
-postcode: 3356
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.592283
-longitude: 143.82846
-url: /vic/sebastopol/
 layout: suburb
+longitude: 143.82846
+postcode: '3356'
+state: VIC
+title: SEBASTOPOL
+url: /vic/sebastopol/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ST AGNES
-state: SA
-postcode: 5097
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.819614
-longitude: 138.707261
-url: /sa/st-agnes/
 layout: suburb
+longitude: 138.707261
+postcode: '5097'
+state: SA
+title: ST AGNES
+url: /sa/st-agnes/
 ---

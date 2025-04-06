@@ -1,9 +1,10 @@
 ---
-title: BOSCABEL
-state: WA
-postcode: 6394
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.83319
-longitude: 116.972036
-url: /wa/boscabel/
 layout: suburb
+longitude: 116.972036
+postcode: '6394'
+state: WA
+title: BOSCABEL
+url: /wa/boscabel/
 ---

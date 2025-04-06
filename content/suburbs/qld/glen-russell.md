@@ -1,9 +1,10 @@
 ---
-title: GLEN RUSSELL
-state: QLD
-postcode: 4880
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.95931822
-longitude: 145.2375044
-url: /qld/glen-russell/
 layout: suburb
+longitude: 145.2375044
+postcode: '4880'
+state: QLD
+title: GLEN RUSSELL
+url: /qld/glen-russell/
 ---

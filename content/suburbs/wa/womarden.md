@@ -1,9 +1,10 @@
 ---
-title: WOMARDEN
-state: WA
-postcode: 6519
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -29.514304
-longitude: 115.597715
-url: /wa/womarden/
 layout: suburb
+longitude: 115.597715
+postcode: '6519'
+state: WA
+title: WOMARDEN
+url: /wa/womarden/
 ---

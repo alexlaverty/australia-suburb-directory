@@ -1,9 +1,10 @@
 ---
-title: ZUCCOLI
-state: NT
-postcode: 0832
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.51070433
-longitude: 131.0058233
-url: /nt/zuccoli/
 layout: suburb
+longitude: 131.0058233
+postcode: 0832
+state: NT
+title: ZUCCOLI
+url: /nt/zuccoli/
 ---

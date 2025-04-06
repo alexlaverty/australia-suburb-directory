@@ -1,9 +1,10 @@
 ---
-title: BUTTABA
-state: NSW
-postcode: 2283
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.019117
-longitude: 151.57181
-url: /nsw/buttaba/
 layout: suburb
+longitude: 151.57181
+postcode: '2283'
+state: NSW
+title: BUTTABA
+url: /nsw/buttaba/
 ---

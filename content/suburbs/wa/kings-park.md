@@ -1,9 +1,10 @@
 ---
-title: KINGS PARK
-state: WA
-postcode: 6005
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.95707
-longitude: 115.836896
-url: /wa/kings-park/
 layout: suburb
+longitude: 115.836896
+postcode: '6005'
+state: WA
+title: KINGS PARK
+url: /wa/kings-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: KEPERRA
-state: QLD
-postcode: 4054
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.409817
-longitude: 152.956014
-url: /qld/keperra/
 layout: suburb
+longitude: 152.956014
+postcode: '4054'
+state: QLD
+title: KEPERRA
+url: /qld/keperra/
 ---

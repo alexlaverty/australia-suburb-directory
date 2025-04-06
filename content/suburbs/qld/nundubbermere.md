@@ -1,9 +1,10 @@
 ---
-title: NUNDUBBERMERE
-state: QLD
-postcode: 4380
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.72462596
-longitude: 151.7611772
-url: /qld/nundubbermere/
 layout: suburb
+longitude: 151.7611772
+postcode: '4380'
+state: QLD
+title: NUNDUBBERMERE
+url: /qld/nundubbermere/
 ---

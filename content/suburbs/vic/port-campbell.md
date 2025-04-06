@@ -1,9 +1,10 @@
 ---
-title: PORT CAMPBELL
-state: VIC
-postcode: 3269
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.660637
-longitude: 143.177116
-url: /vic/port-campbell/
 layout: suburb
+longitude: 143.177116
+postcode: '3269'
+state: VIC
+title: PORT CAMPBELL
+url: /vic/port-campbell/
 ---

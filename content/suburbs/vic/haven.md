@@ -1,9 +1,10 @@
 ---
-title: HAVEN
-state: VIC
-postcode: 3401
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.881534
-longitude: 141.940832
-url: /vic/haven/
 layout: suburb
+longitude: 141.940832
+postcode: '3401'
+state: VIC
+title: HAVEN
+url: /vic/haven/
 ---

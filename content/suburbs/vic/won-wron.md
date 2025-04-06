@@ -1,9 +1,10 @@
 ---
-title: WON WRON
-state: VIC
-postcode: 3971
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.631942
-longitude: 146.815723
-url: /vic/won-wron/
 layout: suburb
+longitude: 146.815723
+postcode: '3971'
+state: VIC
+title: WON WRON
+url: /vic/won-wron/
 ---

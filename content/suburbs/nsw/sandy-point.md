@@ -1,9 +1,10 @@
 ---
-title: SANDY POINT
-state: NSW
-postcode: 2172
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.951109
-longitude: 150.917444
-url: /nsw/sandy-point/
 layout: suburb
+longitude: 150.917444
+postcode: '2172'
+state: NSW
+title: SANDY POINT
+url: /nsw/sandy-point/
 ---

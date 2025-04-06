@@ -1,9 +1,10 @@
 ---
-title: AINTREE
-state: VIC
-postcode: 3336
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.719
-longitude: 144.6684
-url: /vic/aintree/
 layout: suburb
+longitude: 144.6684
+postcode: '3336'
+state: VIC
+title: AINTREE
+url: /vic/aintree/
 ---

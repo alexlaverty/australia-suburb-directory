@@ -1,9 +1,10 @@
 ---
-title: BUCKLAND
-state: VIC
-postcode: 3740
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -36.731686
-longitude: 146.834561
-url: /vic/buckland/
 layout: suburb
+longitude: 146.834561
+postcode: '3740'
+state: VIC
+title: BUCKLAND
+url: /vic/buckland/
 ---

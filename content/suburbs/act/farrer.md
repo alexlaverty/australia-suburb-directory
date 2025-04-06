@@ -1,9 +1,10 @@
 ---
-title: FARRER
-state: ACT
-postcode: 2607
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.369991
-longitude: 149.094831
-url: /act/farrer/
 layout: suburb
+longitude: 149.094831
+postcode: '2607'
+state: ACT
+title: FARRER
+url: /act/farrer/
 ---

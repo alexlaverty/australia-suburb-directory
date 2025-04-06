@@ -1,9 +1,10 @@
 ---
-title: WOODFORD
-state: VIC
-postcode: 3281
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.254454
-longitude: 142.630109
-url: /vic/woodford/
 layout: suburb
+longitude: 142.630109
+postcode: '3281'
+state: VIC
+title: WOODFORD
+url: /vic/woodford/
 ---

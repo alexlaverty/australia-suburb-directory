@@ -1,9 +1,10 @@
 ---
-title: MAULES CREEK
-state: NSW
-postcode: 2382
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.595044
-longitude: 150.17806
-url: /nsw/maules-creek/
 layout: suburb
+longitude: 150.17806
+postcode: '2382'
+state: NSW
+title: MAULES CREEK
+url: /nsw/maules-creek/
 ---

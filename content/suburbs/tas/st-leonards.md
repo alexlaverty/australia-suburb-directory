@@ -1,9 +1,10 @@
 ---
-title: ST LEONARDS
-state: TAS
-postcode: 7250
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.432254
-longitude: 147.077589
-url: /tas/st-leonards/
 layout: suburb
+longitude: 147.077589
+postcode: '7250'
+state: TAS
+title: ST LEONARDS
+url: /tas/st-leonards/
 ---

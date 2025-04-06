@@ -1,9 +1,10 @@
 ---
-title: PALMYRA
-state: WA
-postcode: 6957
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.038228
-longitude: 115.783732
-url: /wa/palmyra/
 layout: suburb
+longitude: 115.783732
+postcode: '6957'
+state: WA
+title: PALMYRA
+url: /wa/palmyra/
 ---

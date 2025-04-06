@@ -1,9 +1,10 @@
 ---
-title: MOOLLATTOO
-state: NSW
-postcode: 2540
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.78701418
-longitude: 150.3784308
-url: /nsw/moollattoo/
 layout: suburb
+longitude: 150.3784308
+postcode: '2540'
+state: NSW
+title: MOOLLATTOO
+url: /nsw/moollattoo/
 ---

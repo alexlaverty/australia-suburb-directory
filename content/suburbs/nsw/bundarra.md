@@ -1,9 +1,10 @@
 ---
-title: BUNDARRA
-state: NSW
-postcode: 2359
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.140505
-longitude: 151.001122
-url: /nsw/bundarra/
 layout: suburb
+longitude: 151.001122
+postcode: '2359'
+state: NSW
+title: BUNDARRA
+url: /nsw/bundarra/
 ---

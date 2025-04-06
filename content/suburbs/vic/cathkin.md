@@ -1,9 +1,10 @@
 ---
-title: CATHKIN
-state: VIC
-postcode: 3714
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.210538
-longitude: 145.687889
-url: /vic/cathkin/
 layout: suburb
+longitude: 145.687889
+postcode: '3714'
+state: VIC
+title: CATHKIN
+url: /vic/cathkin/
 ---

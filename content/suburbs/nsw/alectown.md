@@ -1,9 +1,10 @@
 ---
-title: ALECTOWN
-state: NSW
-postcode: 2870
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.035496
-longitude: 148.16819
-url: /nsw/alectown/
 layout: suburb
+longitude: 148.16819
+postcode: '2870'
+state: NSW
+title: ALECTOWN
+url: /nsw/alectown/
 ---

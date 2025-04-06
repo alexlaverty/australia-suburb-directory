@@ -1,9 +1,10 @@
 ---
-title: WERRIS CREEK
-state: NSW
-postcode: 2341
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.34664
-longitude: 150.611053
-url: /nsw/werris-creek/
 layout: suburb
+longitude: 150.611053
+postcode: '2341'
+state: NSW
+title: WERRIS CREEK
+url: /nsw/werris-creek/
 ---

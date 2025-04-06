@@ -1,9 +1,10 @@
 ---
-title: MOUNT DAMPER
-state: SA
-postcode: 5654
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.833204
-longitude: 135.02092
-url: /sa/mount-damper/
 layout: suburb
+longitude: 135.02092
+postcode: '5654'
+state: SA
+title: MOUNT DAMPER
+url: /sa/mount-damper/
 ---

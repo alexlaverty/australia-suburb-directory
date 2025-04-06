@@ -1,9 +1,10 @@
 ---
-title: ST PAULS
-state: NSW
-postcode: 2031
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.914832
-longitude: 151.239167
-url: /nsw/st-pauls/
 layout: suburb
+longitude: 151.239167
+postcode: '2031'
+state: NSW
+title: ST PAULS
+url: /nsw/st-pauls/
 ---

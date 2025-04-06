@@ -1,9 +1,10 @@
 ---
-title: LARA
-state: VIC
-postcode: 3212
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.039958
-longitude: 144.422666
-url: /vic/lara/
 layout: suburb
+longitude: 144.422666
+postcode: '3212'
+state: VIC
+title: LARA
+url: /vic/lara/
 ---

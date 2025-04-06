@@ -1,9 +1,10 @@
 ---
-title: WATERWAYS
-state: VIC
-postcode: 3195
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.007024
-longitude: 145.104105
-url: /vic/waterways/
 layout: suburb
+longitude: 145.104105
+postcode: '3195'
+state: VIC
+title: WATERWAYS
+url: /vic/waterways/
 ---

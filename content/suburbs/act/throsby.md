@@ -1,9 +1,10 @@
 ---
-title: THROSBY
-state: ACT
-postcode: 2914
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.19159199
-longitude: 149.1636815
-url: /act/throsby/
 layout: suburb
+longitude: 149.1636815
+postcode: '2914'
+state: ACT
+title: THROSBY
+url: /act/throsby/
 ---

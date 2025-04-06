@@ -1,9 +1,10 @@
 ---
-title: UPTON HILL
-state: VIC
-postcode: 3664
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.89547953
-longitude: 145.4034627
-url: /vic/upton-hill/
 layout: suburb
+longitude: 145.4034627
+postcode: '3664'
+state: VIC
+title: UPTON HILL
+url: /vic/upton-hill/
 ---

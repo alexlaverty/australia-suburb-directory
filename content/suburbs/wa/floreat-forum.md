@@ -1,9 +1,10 @@
 ---
-title: FLOREAT FORUM
-state: WA
-postcode: 6014
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.936389
-longitude: 115.808169
-url: /wa/floreat-forum/
 layout: suburb
+longitude: 115.808169
+postcode: '6014'
+state: WA
+title: FLOREAT FORUM
+url: /wa/floreat-forum/
 ---

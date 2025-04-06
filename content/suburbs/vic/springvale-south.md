@@ -1,9 +1,10 @@
 ---
-title: SPRINGVALE SOUTH
-state: VIC
-postcode: 3172
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.975981
-longitude: 145.13465
-url: /vic/springvale-south/
 layout: suburb
+longitude: 145.13465
+postcode: '3172'
+state: VIC
+title: SPRINGVALE SOUTH
+url: /vic/springvale-south/
 ---

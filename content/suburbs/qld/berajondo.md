@@ -1,9 +1,10 @@
 ---
-title: BERAJONDO
-state: QLD
-postcode: 4674
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -24.688503
-longitude: 151.872531
-url: /qld/berajondo/
 layout: suburb
+longitude: 151.872531
+postcode: '4674'
+state: QLD
+title: BERAJONDO
+url: /qld/berajondo/
 ---

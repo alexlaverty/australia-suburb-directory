@@ -1,9 +1,10 @@
 ---
-title: STANLEY
-state: SA
-postcode: 5415
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.942677
-longitude: 138.722876
-url: /sa/stanley/
 layout: suburb
+longitude: 138.722876
+postcode: '5415'
+state: SA
+title: STANLEY
+url: /sa/stanley/
 ---

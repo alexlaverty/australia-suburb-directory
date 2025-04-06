@@ -1,9 +1,10 @@
 ---
-title: MITCHAM
-state: VIC
-postcode: 3132
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.819222
-longitude: 145.196686
-url: /vic/mitcham/
 layout: suburb
+longitude: 145.196686
+postcode: '3132'
+state: VIC
+title: MITCHAM
+url: /vic/mitcham/
 ---

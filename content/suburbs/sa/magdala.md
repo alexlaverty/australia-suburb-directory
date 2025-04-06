@@ -1,9 +1,10 @@
 ---
-title: MAGDALA
-state: SA
-postcode: 5400
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.42150567
-longitude: 138.7042845
-url: /sa/magdala/
 layout: suburb
+longitude: 138.7042845
+postcode: '5400'
+state: SA
+title: MAGDALA
+url: /sa/magdala/
 ---

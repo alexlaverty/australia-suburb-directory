@@ -1,9 +1,10 @@
 ---
-title: LANSDOWNE
-state: NT
-postcode: 0850
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -14.43162875
-longitude: 132.3888705
-url: /nt/lansdowne/
 layout: suburb
+longitude: 132.3888705
+postcode: 0850
+state: NT
+title: LANSDOWNE
+url: /nt/lansdowne/
 ---

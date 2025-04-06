@@ -1,9 +1,10 @@
 ---
-title: SANDERSON
-state: NT
-postcode: 0813
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.404778
-longitude: 130.916098
-url: /nt/sanderson/
 layout: suburb
+longitude: 130.916098
+postcode: 0813
+state: NT
+title: SANDERSON
+url: /nt/sanderson/
 ---

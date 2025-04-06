@@ -1,9 +1,10 @@
 ---
-title: HENLEY BEACH SOUTH
-state: SA
-postcode: 5022
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.905461
-longitude: 138.49264
-url: /sa/henley-beach-south/
 layout: suburb
+longitude: 138.49264
+postcode: '5022'
+state: SA
+title: HENLEY BEACH SOUTH
+url: /sa/henley-beach-south/
 ---

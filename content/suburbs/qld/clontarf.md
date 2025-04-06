@@ -1,9 +1,10 @@
 ---
-title: CLONTARF
-state: QLD
-postcode: 4357
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.957654
-longitude: 151.103872
-url: /qld/clontarf/
 layout: suburb
+longitude: 151.103872
+postcode: '4357'
+state: QLD
+title: CLONTARF
+url: /qld/clontarf/
 ---

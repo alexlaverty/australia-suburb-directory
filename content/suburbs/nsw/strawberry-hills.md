@@ -1,9 +1,10 @@
 ---
-title: STRAWBERRY HILLS
-state: NSW
-postcode: 2013
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.726098
-longitude: 150.931838
-url: /nsw/strawberry-hills/
 layout: suburb
+longitude: 150.931838
+postcode: '2013'
+state: NSW
+title: STRAWBERRY HILLS
+url: /nsw/strawberry-hills/
 ---

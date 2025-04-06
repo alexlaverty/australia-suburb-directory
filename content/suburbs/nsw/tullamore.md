@@ -1,9 +1,10 @@
 ---
-title: TULLAMORE
-state: NSW
-postcode: 2874
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.619929
-longitude: 147.538565
-url: /nsw/tullamore/
 layout: suburb
+longitude: 147.538565
+postcode: '2874'
+state: NSW
+title: TULLAMORE
+url: /nsw/tullamore/
 ---

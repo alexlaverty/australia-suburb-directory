@@ -1,9 +1,10 @@
 ---
-title: LOWALDIE
-state: SA
-postcode: 5307
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.037558
-longitude: 140.242147
-url: /sa/lowaldie/
 layout: suburb
+longitude: 140.242147
+postcode: '5307'
+state: SA
+title: LOWALDIE
+url: /sa/lowaldie/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BULL PLAIN
-state: NSW
-postcode: 2646
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.757569
-longitude: 146.324523
-url: /nsw/bull-plain/
 layout: suburb
+longitude: 146.324523
+postcode: '2646'
+state: NSW
+title: BULL PLAIN
+url: /nsw/bull-plain/
 ---

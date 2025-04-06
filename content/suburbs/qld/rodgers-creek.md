@@ -1,9 +1,10 @@
 ---
-title: RODGERS CREEK
-state: QLD
-postcode: 4370
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.22233044
-longitude: 151.8326766
-url: /qld/rodgers-creek/
 layout: suburb
+longitude: 151.8326766
+postcode: '4370'
+state: QLD
+title: RODGERS CREEK
+url: /qld/rodgers-creek/
 ---

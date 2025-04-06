@@ -1,9 +1,10 @@
 ---
-title: WHITESIDE
-state: QLD
-postcode: 4503
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.240638
-longitude: 152.993187
-url: /qld/whiteside/
 layout: suburb
+longitude: 152.993187
+postcode: '4503'
+state: QLD
+title: WHITESIDE
+url: /qld/whiteside/
 ---

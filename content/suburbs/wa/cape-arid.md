@@ -1,9 +1,10 @@
 ---
-title: CAPE ARID
-state: WA
-postcode: 6452
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.91833
-longitude: 122.895
-url: /wa/cape-arid/
 layout: suburb
+longitude: 122.895
+postcode: '6452'
+state: WA
+title: CAPE ARID
+url: /wa/cape-arid/
 ---

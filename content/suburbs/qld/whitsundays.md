@@ -1,9 +1,10 @@
 ---
-title: WHITSUNDAYS
-state: QLD
-postcode: 4802
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -20.271072
-longitude: 148.989038
-url: /qld/whitsundays/
 layout: suburb
+longitude: 148.989038
+postcode: '4802'
+state: QLD
+title: WHITSUNDAYS
+url: /qld/whitsundays/
 ---

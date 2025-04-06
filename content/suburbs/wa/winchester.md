@@ -1,9 +1,10 @@
 ---
-title: WINCHESTER
-state: WA
-postcode: 6517
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -29.740667
-longitude: 115.839422
-url: /wa/winchester/
 layout: suburb
+longitude: 115.839422
+postcode: '6517'
+state: WA
+title: WINCHESTER
+url: /wa/winchester/
 ---

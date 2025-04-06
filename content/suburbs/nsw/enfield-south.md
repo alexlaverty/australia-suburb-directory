@@ -1,9 +1,10 @@
 ---
-title: ENFIELD SOUTH
-state: NSW
-postcode: 2133
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.898793
-longitude: 151.102087
-url: /nsw/enfield-south/
 layout: suburb
+longitude: 151.102087
+postcode: '2133'
+state: NSW
+title: ENFIELD SOUTH
+url: /nsw/enfield-south/
 ---

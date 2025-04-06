@@ -1,9 +1,10 @@
 ---
-title: ORCHARD HILLS
-state: NSW
-postcode: 2748
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.811042
-longitude: 150.72319
-url: /nsw/orchard-hills/
 layout: suburb
+longitude: 150.72319
+postcode: '2748'
+state: NSW
+title: ORCHARD HILLS
+url: /nsw/orchard-hills/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BURAGWONDUC
-state: VIC
-postcode: 3858
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.49088696
-longitude: 146.7706256
-url: /vic/buragwonduc/
 layout: suburb
+longitude: 146.7706256
+postcode: '3858'
+state: VIC
+title: BURAGWONDUC
+url: /vic/buragwonduc/
 ---

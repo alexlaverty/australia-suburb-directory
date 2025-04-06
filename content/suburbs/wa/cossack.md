@@ -1,9 +1,10 @@
 ---
-title: COSSACK
-state: WA
-postcode: 6720
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -20.699288
-longitude: 117.067614
-url: /wa/cossack/
 layout: suburb
+longitude: 117.067614
+postcode: '6720'
+state: WA
+title: COSSACK
+url: /wa/cossack/
 ---

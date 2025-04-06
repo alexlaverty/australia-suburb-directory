@@ -1,9 +1,10 @@
 ---
-title: DANDENONG NORTH
-state: VIC
-postcode: 3175
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.016114
-longitude: 145.208504
-url: /vic/dandenong-north/
 layout: suburb
+longitude: 145.208504
+postcode: '3175'
+state: VIC
+title: DANDENONG NORTH
+url: /vic/dandenong-north/
 ---

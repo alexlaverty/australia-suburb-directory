@@ -1,9 +1,10 @@
 ---
-title: HEATHCOTE JUNCTION
-state: VIC
-postcode: 3758
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.354647
-longitude: 145.052552
-url: /vic/heathcote-junction/
 layout: suburb
+longitude: 145.052552
+postcode: '3758'
+state: VIC
+title: HEATHCOTE JUNCTION
+url: /vic/heathcote-junction/
 ---

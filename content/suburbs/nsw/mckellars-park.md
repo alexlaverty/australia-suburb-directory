@@ -1,9 +1,10 @@
 ---
-title: MCKELLARS PARK
-state: NSW
-postcode: 2790
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.47039743
-longitude: 150.153024
-url: /nsw/mckellars-park/
 layout: suburb
+longitude: 150.153024
+postcode: '2790'
+state: NSW
+title: MCKELLARS PARK
+url: /nsw/mckellars-park/
 ---

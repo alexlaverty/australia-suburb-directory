@@ -1,9 +1,10 @@
 ---
-title: WEST RIDGLEY
-state: TAS
-postcode: 7321
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.456389
-longitude: 145.503726
-url: /tas/west-ridgley/
 layout: suburb
+longitude: 145.503726
+postcode: '7321'
+state: TAS
+title: WEST RIDGLEY
+url: /tas/west-ridgley/
 ---

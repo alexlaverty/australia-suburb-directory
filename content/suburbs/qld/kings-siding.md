@@ -1,9 +1,10 @@
 ---
-title: KINGS SIDING
-state: QLD
-postcode: 4401
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.303702
-longitude: 151.691102
-url: /qld/kings-siding/
 layout: suburb
+longitude: 151.691102
+postcode: '4401'
+state: QLD
+title: KINGS SIDING
+url: /qld/kings-siding/
 ---

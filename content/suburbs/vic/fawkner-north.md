@@ -1,9 +1,10 @@
 ---
-title: FAWKNER NORTH
-state: VIC
-postcode: 3060
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.707326
-longitude: 144.967874
-url: /vic/fawkner-north/
 layout: suburb
+longitude: 144.967874
+postcode: '3060'
+state: VIC
+title: FAWKNER NORTH
+url: /vic/fawkner-north/
 ---

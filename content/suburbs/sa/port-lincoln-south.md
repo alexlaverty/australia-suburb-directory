@@ -1,9 +1,10 @@
 ---
-title: PORT LINCOLN SOUTH
-state: SA
-postcode: 5606
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.724
-longitude: 135.861
-url: /sa/port-lincoln-south/
 layout: suburb
+longitude: 135.861
+postcode: '5606'
+state: SA
+title: PORT LINCOLN SOUTH
+url: /sa/port-lincoln-south/
 ---

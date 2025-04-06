@@ -1,9 +1,10 @@
 ---
-title: WOOLLAHRA
-state: NSW
-postcode: 2025
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.88871
-longitude: 151.240508
-url: /nsw/woollahra/
 layout: suburb
+longitude: 151.240508
+postcode: '2025'
+state: NSW
+title: WOOLLAHRA
+url: /nsw/woollahra/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BALMAIN
-state: NSW
-postcode: 2041
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.858556
-longitude: 151.180095
-url: /nsw/balmain/
 layout: suburb
+longitude: 151.180095
+postcode: '2041'
+state: NSW
+title: BALMAIN
+url: /nsw/balmain/
 ---

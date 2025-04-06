@@ -1,9 +1,10 @@
 ---
-title: LAKEMBA
-state: NSW
-postcode: 2195
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.924525
-longitude: 151.076939
-url: /nsw/lakemba/
 layout: suburb
+longitude: 151.076939
+postcode: '2195'
+state: NSW
+title: LAKEMBA
+url: /nsw/lakemba/
 ---

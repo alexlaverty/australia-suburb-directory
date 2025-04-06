@@ -1,9 +1,10 @@
 ---
-title: BYLANDS
-state: VIC
-postcode: 3762
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.354143
-longitude: 144.936707
-url: /vic/bylands/
 layout: suburb
+longitude: 144.936707
+postcode: '3762'
+state: VIC
+title: BYLANDS
+url: /vic/bylands/
 ---

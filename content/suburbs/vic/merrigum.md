@@ -1,9 +1,10 @@
 ---
-title: MERRIGUM
-state: VIC
-postcode: 3618
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.37708
-longitude: 145.125014
-url: /vic/merrigum/
 layout: suburb
+longitude: 145.125014
+postcode: '3618'
+state: VIC
+title: MERRIGUM
+url: /vic/merrigum/
 ---

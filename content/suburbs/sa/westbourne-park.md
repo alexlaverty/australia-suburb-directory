@@ -1,9 +1,10 @@
 ---
-title: WESTBOURNE PARK
-state: SA
-postcode: 5041
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.00298
-longitude: 138.594176
-url: /sa/westbourne-park/
 layout: suburb
+longitude: 138.594176
+postcode: '5041'
+state: SA
+title: WESTBOURNE PARK
+url: /sa/westbourne-park/
 ---

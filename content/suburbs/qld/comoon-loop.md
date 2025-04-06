@@ -1,9 +1,10 @@
 ---
-title: COMOON LOOP
-state: QLD
-postcode: 4858
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -17.622583
-longitude: 146.078807
-url: /qld/comoon-loop/
 layout: suburb
+longitude: 146.078807
+postcode: '4858'
+state: QLD
+title: COMOON LOOP
+url: /qld/comoon-loop/
 ---

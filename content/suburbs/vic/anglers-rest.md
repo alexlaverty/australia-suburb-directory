@@ -1,9 +1,10 @@
 ---
-title: ANGLERS REST
-state: VIC
-postcode: 3898
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.066169
-longitude: 147.464799
-url: /vic/anglers-rest/
 layout: suburb
+longitude: 147.464799
+postcode: '3898'
+state: VIC
+title: ANGLERS REST
+url: /vic/anglers-rest/
 ---

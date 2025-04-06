@@ -1,9 +1,10 @@
 ---
-title: LARDNER
-state: VIC
-postcode: 3821
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.919937
-longitude: 145.945214
-url: /vic/lardner/
 layout: suburb
+longitude: 145.945214
+postcode: '3821'
+state: VIC
+title: LARDNER
+url: /vic/lardner/
 ---

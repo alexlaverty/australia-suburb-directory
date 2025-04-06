@@ -1,9 +1,10 @@
 ---
-title: OLD NOARLUNGA
-state: SA
-postcode: 5168
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.149737
-longitude: 138.49632
-url: /sa/old-noarlunga/
 layout: suburb
+longitude: 138.49632
+postcode: '5168'
+state: SA
+title: OLD NOARLUNGA
+url: /sa/old-noarlunga/
 ---

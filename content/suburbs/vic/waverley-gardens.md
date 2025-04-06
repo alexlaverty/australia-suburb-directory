@@ -1,9 +1,10 @@
 ---
-title: WAVERLEY GARDENS
-state: VIC
-postcode: 3170
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.920945
-longitude: 145.167859
-url: /vic/waverley-gardens/
 layout: suburb
+longitude: 145.167859
+postcode: '3170'
+state: VIC
+title: WAVERLEY GARDENS
+url: /vic/waverley-gardens/
 ---

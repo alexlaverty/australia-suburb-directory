@@ -1,9 +1,10 @@
 ---
-title: CROWEA
-state: WA
-postcode: 6262
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.53603099
-longitude: 116.1729816
-url: /wa/crowea/
 layout: suburb
+longitude: 116.1729816
+postcode: '6262'
+state: WA
+title: CROWEA
+url: /wa/crowea/
 ---

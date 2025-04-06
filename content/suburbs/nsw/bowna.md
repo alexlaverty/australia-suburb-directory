@@ -1,9 +1,10 @@
 ---
-title: BOWNA
-state: NSW
-postcode: 2644
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.773247
-longitude: 147.391271
-url: /nsw/bowna/
 layout: suburb
+longitude: 147.391271
+postcode: '2644'
+state: NSW
+title: BOWNA
+url: /nsw/bowna/
 ---

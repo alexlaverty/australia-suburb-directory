@@ -1,9 +1,10 @@
 ---
-title: SHEEP STATION CREEK
-state: QLD
-postcode: 4515
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.84934234
-longitude: 152.4920925
-url: /qld/sheep-station-creek/
 layout: suburb
+longitude: 152.4920925
+postcode: '4515'
+state: QLD
+title: SHEEP STATION CREEK
+url: /qld/sheep-station-creek/
 ---

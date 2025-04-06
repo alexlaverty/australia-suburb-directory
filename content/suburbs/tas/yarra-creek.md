@@ -1,9 +1,10 @@
 ---
-title: YARRA CREEK
-state: TAS
-postcode: 7256
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -39.830946
-longitude: 144.159775
-url: /tas/yarra-creek/
 layout: suburb
+longitude: 144.159775
+postcode: '7256'
+state: TAS
+title: YARRA CREEK
+url: /tas/yarra-creek/
 ---

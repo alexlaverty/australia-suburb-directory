@@ -1,9 +1,10 @@
 ---
-title: BLACKSTONE
-state: QLD
-postcode: 4304
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.620656
-longitude: 152.80457
-url: /qld/blackstone/
 layout: suburb
+longitude: 152.80457
+postcode: '4304'
+state: QLD
+title: BLACKSTONE
+url: /qld/blackstone/
 ---

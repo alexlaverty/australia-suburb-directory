@@ -1,9 +1,10 @@
 ---
-title: WODONGA
-state: VIC
-postcode: 3690
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.135717
-longitude: 146.864361
-url: /vic/wodonga/
 layout: suburb
+longitude: 146.864361
+postcode: '3690'
+state: VIC
+title: WODONGA
+url: /vic/wodonga/
 ---

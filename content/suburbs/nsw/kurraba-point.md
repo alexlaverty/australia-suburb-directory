@@ -1,9 +1,10 @@
 ---
-title: KURRABA POINT
-state: NSW
-postcode: 2089
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.84149573
-longitude: 151.2228263
-url: /nsw/kurraba-point/
 layout: suburb
+longitude: 151.2228263
+postcode: '2089'
+state: NSW
+title: KURRABA POINT
+url: /nsw/kurraba-point/
 ---

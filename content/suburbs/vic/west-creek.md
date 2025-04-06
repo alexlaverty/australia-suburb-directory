@@ -1,9 +1,10 @@
 ---
-title: WEST CREEK
-state: VIC
-postcode: 3992
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.569135
-longitude: 145.534315
-url: /vic/west-creek/
 layout: suburb
+longitude: 145.534315
+postcode: '3992'
+state: VIC
+title: WEST CREEK
+url: /vic/west-creek/
 ---

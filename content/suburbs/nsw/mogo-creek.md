@@ -1,9 +1,10 @@
 ---
-title: MOGO CREEK
-state: NSW
-postcode: 2775
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.14502192
-longitude: 151.0693014
-url: /nsw/mogo-creek/
 layout: suburb
+longitude: 151.0693014
+postcode: '2775'
+state: NSW
+title: MOGO CREEK
+url: /nsw/mogo-creek/
 ---

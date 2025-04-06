@@ -1,9 +1,10 @@
 ---
-title: TAMBORINE VILLAGE
-state: QLD
-postcode: 4270
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.862349
-longitude: 153.135566
-url: /qld/tamborine-village/
 layout: suburb
+longitude: 153.135566
+postcode: '4270'
+state: QLD
+title: TAMBORINE VILLAGE
+url: /qld/tamborine-village/
 ---

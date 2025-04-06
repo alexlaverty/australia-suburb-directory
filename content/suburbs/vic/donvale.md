@@ -1,9 +1,10 @@
 ---
-title: DONVALE
-state: VIC
-postcode: 3111
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.794054
-longitude: 145.186334
-url: /vic/donvale/
 layout: suburb
+longitude: 145.186334
+postcode: '3111'
+state: VIC
+title: DONVALE
+url: /vic/donvale/
 ---

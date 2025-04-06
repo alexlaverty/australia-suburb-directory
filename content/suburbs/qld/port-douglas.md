@@ -1,9 +1,10 @@
 ---
-title: PORT DOUGLAS
-state: QLD
-postcode: 4877
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.535286
-longitude: 145.467604
-url: /qld/port-douglas/
 layout: suburb
+longitude: 145.467604
+postcode: '4877'
+state: QLD
+title: PORT DOUGLAS
+url: /qld/port-douglas/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WILBINGA
-state: WA
-postcode: 6041
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.379673
-longitude: 115.568551
-url: /wa/wilbinga/
 layout: suburb
+longitude: 115.568551
+postcode: '6041'
+state: WA
+title: WILBINGA
+url: /wa/wilbinga/
 ---

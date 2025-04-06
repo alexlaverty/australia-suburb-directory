@@ -1,9 +1,10 @@
 ---
-title: MOUNT CLEAR
-state: VIC
-postcode: 3350
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.571941
-longitude: 143.864505
-url: /vic/mount-clear/
 layout: suburb
+longitude: 143.864505
+postcode: '3350'
+state: VIC
+title: MOUNT CLEAR
+url: /vic/mount-clear/
 ---

@@ -1,9 +1,10 @@
 ---
-title: JULIA CREEK
-state: QLD
-postcode: 4823
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.214466
-longitude: 141.243755
-url: /qld/julia-creek/
 layout: suburb
+longitude: 141.243755
+postcode: '4823'
+state: QLD
+title: JULIA CREEK
+url: /qld/julia-creek/
 ---

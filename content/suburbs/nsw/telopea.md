@@ -1,9 +1,10 @@
 ---
-title: TELOPEA
-state: NSW
-postcode: 2117
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.797127
-longitude: 151.04218
-url: /nsw/telopea/
 layout: suburb
+longitude: 151.04218
+postcode: '2117'
+state: NSW
+title: TELOPEA
+url: /nsw/telopea/
 ---

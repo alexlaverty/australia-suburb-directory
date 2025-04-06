@@ -1,9 +1,10 @@
 ---
-title: GENOA
-state: VIC
-postcode: 3891
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.567684
-longitude: 149.538907
-url: /vic/genoa/
 layout: suburb
+longitude: 149.538907
+postcode: '3891'
+state: VIC
+title: GENOA
+url: /vic/genoa/
 ---

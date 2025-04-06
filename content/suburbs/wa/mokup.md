@@ -1,9 +1,10 @@
 ---
-title: MOKUP
-state: WA
-postcode: 6394
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.62943162
-longitude: 116.8415415
-url: /wa/mokup/
 layout: suburb
+longitude: 116.8415415
+postcode: '6394'
+state: WA
+title: MOKUP
+url: /wa/mokup/
 ---

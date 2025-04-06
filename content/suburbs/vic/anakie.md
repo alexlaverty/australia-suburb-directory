@@ -1,9 +1,10 @@
 ---
-title: ANAKIE
-state: VIC
-postcode: 3221
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.181608
-longitude: 144.427419
-url: /vic/anakie/
 layout: suburb
+longitude: 144.427419
+postcode: '3221'
+state: VIC
+title: ANAKIE
+url: /vic/anakie/
 ---

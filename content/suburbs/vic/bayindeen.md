@@ -1,9 +1,10 @@
 ---
-title: BAYINDEEN
-state: VIC
-postcode: 3375
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.424288
-longitude: 143.143621
-url: /vic/bayindeen/
 layout: suburb
+longitude: 143.143621
+postcode: '3375'
+state: VIC
+title: BAYINDEEN
+url: /vic/bayindeen/
 ---

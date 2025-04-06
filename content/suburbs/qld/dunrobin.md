@@ -1,9 +1,10 @@
 ---
-title: DUNROBIN
-state: QLD
-postcode: 4728
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -22.77109111
-longitude: 146.0994297
-url: /qld/dunrobin/
 layout: suburb
+longitude: 146.0994297
+postcode: '4728'
+state: QLD
+title: DUNROBIN
+url: /qld/dunrobin/
 ---

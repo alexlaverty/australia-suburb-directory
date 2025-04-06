@@ -1,9 +1,10 @@
 ---
-title: JEFFCOTT NORTH
-state: VIC
-postcode: 3525
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.2835
-longitude: 143.364316
-url: /vic/jeffcott-north/
 layout: suburb
+longitude: 143.364316
+postcode: '3525'
+state: VIC
+title: JEFFCOTT NORTH
+url: /vic/jeffcott-north/
 ---

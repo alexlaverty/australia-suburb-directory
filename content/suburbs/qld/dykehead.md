@@ -1,9 +1,10 @@
 ---
-title: DYKEHEAD
-state: QLD
-postcode: 4626
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.765416
-longitude: 151.105529
-url: /qld/dykehead/
 layout: suburb
+longitude: 151.105529
+postcode: '4626'
+state: QLD
+title: DYKEHEAD
+url: /qld/dykehead/
 ---

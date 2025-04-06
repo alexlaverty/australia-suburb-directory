@@ -1,9 +1,10 @@
 ---
-title: PRIMROSE SANDS
-state: TAS
-postcode: 7173
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -42.823649
-longitude: 147.630737
-url: /tas/primrose-sands/
 layout: suburb
+longitude: 147.630737
+postcode: '7173'
+state: TAS
+title: PRIMROSE SANDS
+url: /tas/primrose-sands/
 ---

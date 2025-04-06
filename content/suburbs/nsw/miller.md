@@ -1,9 +1,10 @@
 ---
-title: MILLER
-state: NSW
-postcode: 2168
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.915939
-longitude: 150.875345
-url: /nsw/miller/
 layout: suburb
+longitude: 150.875345
+postcode: '2168'
+state: NSW
+title: MILLER
+url: /nsw/miller/
 ---

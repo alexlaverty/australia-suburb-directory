@@ -1,9 +1,10 @@
 ---
-title: FREMANTLE
-state: WA
-postcode: 6959
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.067114
-longitude: 115.986396
-url: /wa/fremantle/
 layout: suburb
+longitude: 115.986396
+postcode: '6959'
+state: WA
+title: FREMANTLE
+url: /wa/fremantle/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EMU HEIGHTS
-state: NSW
-postcode: 2750
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.755476
-longitude: 150.678551
-url: /nsw/emu-heights/
 layout: suburb
+longitude: 150.678551
+postcode: '2750'
+state: NSW
+title: EMU HEIGHTS
+url: /nsw/emu-heights/
 ---

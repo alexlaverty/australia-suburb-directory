@@ -1,9 +1,10 @@
 ---
-title: GOROKE
-state: VIC
-postcode: 3412
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.658804
-longitude: 141.366071
-url: /vic/goroke/
 layout: suburb
+longitude: 141.366071
+postcode: '3412'
+state: VIC
+title: GOROKE
+url: /vic/goroke/
 ---

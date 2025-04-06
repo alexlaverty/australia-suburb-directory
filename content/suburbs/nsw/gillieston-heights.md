@@ -1,9 +1,10 @@
 ---
-title: GILLIESTON HEIGHTS
-state: NSW
-postcode: 2321
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.660186
-longitude: 151.683702
-url: /nsw/gillieston-heights/
 layout: suburb
+longitude: 151.683702
+postcode: '2321'
+state: NSW
+title: GILLIESTON HEIGHTS
+url: /nsw/gillieston-heights/
 ---

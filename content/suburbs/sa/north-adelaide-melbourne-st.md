@@ -1,9 +1,10 @@
 ---
-title: NORTH ADELAIDE MELBOURNE ST
-state: SA
-postcode: 5006
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.911523
-longitude: 138.584497
-url: /sa/north-adelaide-melbourne-st/
 layout: suburb
+longitude: 138.584497
+postcode: '5006'
+state: SA
+title: NORTH ADELAIDE MELBOURNE ST
+url: /sa/north-adelaide-melbourne-st/
 ---

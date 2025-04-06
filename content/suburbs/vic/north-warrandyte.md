@@ -1,9 +1,10 @@
 ---
-title: NORTH WARRANDYTE
-state: VIC
-postcode: 3113
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.752123
-longitude: 145.204689
-url: /vic/north-warrandyte/
 layout: suburb
+longitude: 145.204689
+postcode: '3113'
+state: VIC
+title: NORTH WARRANDYTE
+url: /vic/north-warrandyte/
 ---

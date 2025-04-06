@@ -1,9 +1,10 @@
 ---
-title: PANTAPIN
-state: WA
-postcode: 6384
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.955552
-longitude: 117.666205
-url: /wa/pantapin/
 layout: suburb
+longitude: 117.666205
+postcode: '6384'
+state: WA
+title: PANTAPIN
+url: /wa/pantapin/
 ---

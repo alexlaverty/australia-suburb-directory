@@ -1,9 +1,10 @@
 ---
-title: YENDA
-state: NSW
-postcode: 2681
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.116715
-longitude: 146.14674
-url: /nsw/yenda/
 layout: suburb
+longitude: 146.14674
+postcode: '2681'
+state: NSW
+title: YENDA
+url: /nsw/yenda/
 ---

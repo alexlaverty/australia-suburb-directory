@@ -1,9 +1,10 @@
 ---
-title: TRUNDLE
-state: NSW
-postcode: 2875
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.915604
-longitude: 147.603587
-url: /nsw/trundle/
 layout: suburb
+longitude: 147.603587
+postcode: '2875'
+state: NSW
+title: TRUNDLE
+url: /nsw/trundle/
 ---

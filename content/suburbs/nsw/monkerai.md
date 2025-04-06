@@ -1,9 +1,10 @@
 ---
-title: MONKERAI
-state: NSW
-postcode: 2415
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.306267
-longitude: 151.888327
-url: /nsw/monkerai/
 layout: suburb
+longitude: 151.888327
+postcode: '2415'
+state: NSW
+title: MONKERAI
+url: /nsw/monkerai/
 ---

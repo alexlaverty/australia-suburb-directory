@@ -1,9 +1,10 @@
 ---
-title: HIGH WYCOMBE
-state: WA
-postcode: 6057
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.94994
-longitude: 116.004245
-url: /wa/high-wycombe/
 layout: suburb
+longitude: 116.004245
+postcode: '6057'
+state: WA
+title: HIGH WYCOMBE
+url: /wa/high-wycombe/
 ---

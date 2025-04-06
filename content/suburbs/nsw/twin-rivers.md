@@ -1,9 +1,10 @@
 ---
-title: TWIN RIVERS
-state: NSW
-postcode: 2410
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -28.70513532
-longitude: 150.6884812
-url: /nsw/twin-rivers/
 layout: suburb
+longitude: 150.6884812
+postcode: '2410'
+state: NSW
+title: TWIN RIVERS
+url: /nsw/twin-rivers/
 ---

@@ -1,9 +1,10 @@
 ---
-title: SOUTH MAROOTA
-state: NSW
-postcode: 2756
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.466271
-longitude: 150.88744
-url: /nsw/south-maroota/
 layout: suburb
+longitude: 150.88744
+postcode: '2756'
+state: NSW
+title: SOUTH MAROOTA
+url: /nsw/south-maroota/
 ---

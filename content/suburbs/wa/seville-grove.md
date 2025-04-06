@@ -1,9 +1,10 @@
 ---
-title: SEVILLE GROVE
-state: WA
-postcode: 6112
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.158675
-longitude: 115.997934
-url: /wa/seville-grove/
 layout: suburb
+longitude: 115.997934
+postcode: '6112'
+state: WA
+title: SEVILLE GROVE
+url: /wa/seville-grove/
 ---

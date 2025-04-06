@@ -1,9 +1,10 @@
 ---
-title: SHAILER PARK
-state: QLD
-postcode: 4128
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.652403
-longitude: 153.174214
-url: /qld/shailer-park/
 layout: suburb
+longitude: 153.174214
+postcode: '4128'
+state: QLD
+title: SHAILER PARK
+url: /qld/shailer-park/
 ---

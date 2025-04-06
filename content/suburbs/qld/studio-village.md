@@ -1,9 +1,10 @@
 ---
-title: STUDIO VILLAGE
-state: QLD
-postcode: 4210
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.932207
-longitude: 153.279483
-url: /qld/studio-village/
 layout: suburb
+longitude: 153.279483
+postcode: '4210'
+state: QLD
+title: STUDIO VILLAGE
+url: /qld/studio-village/
 ---

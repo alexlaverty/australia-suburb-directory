@@ -1,9 +1,10 @@
 ---
-title: GLENELLEN
-state: NSW
-postcode: 2642
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.884679
-longitude: 146.9037334
-url: /nsw/glenellen/
 layout: suburb
+longitude: 146.9037334
+postcode: '2642'
+state: NSW
+title: GLENELLEN
+url: /nsw/glenellen/
 ---

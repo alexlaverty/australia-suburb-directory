@@ -1,9 +1,10 @@
 ---
-title: CITY BEACH
-state: WA
-postcode: 6015
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.938454
-longitude: 115.764683
-url: /wa/city-beach/
 layout: suburb
+longitude: 115.764683
+postcode: '6015'
+state: WA
+title: CITY BEACH
+url: /wa/city-beach/
 ---

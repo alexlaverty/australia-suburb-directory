@@ -1,9 +1,10 @@
 ---
-title: STUART PARK
-state: NT
-postcode: 0820
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.428017
-longitude: 130.873315
-url: /nt/stuart-park/
 layout: suburb
+longitude: 130.873315
+postcode: 0820
+state: NT
+title: STUART PARK
+url: /nt/stuart-park/
 ---

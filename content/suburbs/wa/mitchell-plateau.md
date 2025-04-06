@@ -1,9 +1,10 @@
 ---
-title: MITCHELL PLATEAU
-state: WA
-postcode: 6740
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -14.962686
-longitude: 128.397192
-url: /wa/mitchell-plateau/
 layout: suburb
+longitude: 128.397192
+postcode: '6740'
+state: WA
+title: MITCHELL PLATEAU
+url: /wa/mitchell-plateau/
 ---

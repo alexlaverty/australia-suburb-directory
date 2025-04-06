@@ -1,9 +1,10 @@
 ---
-title: OULNINA
-state: SA
-postcode: 5440
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.40343883
-longitude: 140.4738498
-url: /sa/oulnina/
 layout: suburb
+longitude: 140.4738498
+postcode: '5440'
+state: SA
+title: OULNINA
+url: /sa/oulnina/
 ---

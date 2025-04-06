@@ -1,9 +1,10 @@
 ---
-title: NARRE WARREN EAST
-state: VIC
-postcode: 3804
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.980059
-longitude: 145.325994
-url: /vic/narre-warren-east/
 layout: suburb
+longitude: 145.325994
+postcode: '3804'
+state: VIC
+title: NARRE WARREN EAST
+url: /vic/narre-warren-east/
 ---

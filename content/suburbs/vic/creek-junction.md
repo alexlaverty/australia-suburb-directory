@@ -1,9 +1,10 @@
 ---
-title: CREEK JUNCTION
-state: VIC
-postcode: 3669
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.625333
-longitude: 145.708668
-url: /vic/creek-junction/
 layout: suburb
+longitude: 145.708668
+postcode: '3669'
+state: VIC
+title: CREEK JUNCTION
+url: /vic/creek-junction/
 ---

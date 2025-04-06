@@ -1,9 +1,10 @@
 ---
-title: BUNGAL
-state: VIC
-postcode: 3334
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.75803
-longitude: 144.086089
-url: /vic/bungal/
 layout: suburb
+longitude: 144.086089
+postcode: '3334'
+state: VIC
+title: BUNGAL
+url: /vic/bungal/
 ---

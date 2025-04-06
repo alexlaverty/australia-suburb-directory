@@ -1,9 +1,10 @@
 ---
-title: BULLOCK HILLS
-state: WA
-postcode: 6350
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.4339
-longitude: 117.6947
-url: /wa/bullock-hills/
 layout: suburb
+longitude: 117.6947
+postcode: '6350'
+state: WA
+title: BULLOCK HILLS
+url: /wa/bullock-hills/
 ---

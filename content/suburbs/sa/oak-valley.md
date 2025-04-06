@@ -1,9 +1,10 @@
 ---
-title: OAK VALLEY
-state: SA
-postcode: 5690
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -29.4494112
-longitude: 130.806497
-url: /sa/oak-valley/
 layout: suburb
+longitude: 130.806497
+postcode: '5690'
+state: SA
+title: OAK VALLEY
+url: /sa/oak-valley/
 ---

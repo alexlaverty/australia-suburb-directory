@@ -1,9 +1,10 @@
 ---
-title: MOUNT MAJOR
-state: VIC
-postcode: 3646
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.247446
-longitude: 145.704042
-url: /vic/mount-major/
 layout: suburb
+longitude: 145.704042
+postcode: '3646'
+state: VIC
+title: MOUNT MAJOR
+url: /vic/mount-major/
 ---

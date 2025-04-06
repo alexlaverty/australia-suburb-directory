@@ -1,9 +1,10 @@
 ---
-title: NUBBA
-state: NSW
-postcode: 2587
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.505797
-longitude: 148.360971
-url: /nsw/nubba/
 layout: suburb
+longitude: 148.360971
+postcode: '2587'
+state: NSW
+title: NUBBA
+url: /nsw/nubba/
 ---

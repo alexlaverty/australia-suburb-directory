@@ -1,9 +1,10 @@
 ---
-title: SHELFORD
-state: VIC
-postcode: 3329
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.983701
-longitude: 143.908716
-url: /vic/shelford/
 layout: suburb
+longitude: 143.908716
+postcode: '3329'
+state: VIC
+title: SHELFORD
+url: /vic/shelford/
 ---

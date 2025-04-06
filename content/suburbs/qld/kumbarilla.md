@@ -1,9 +1,10 @@
 ---
-title: KUMBARILLA
-state: QLD
-postcode: 4405
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.26215846
-longitude: 150.8985785
-url: /qld/kumbarilla/
 layout: suburb
+longitude: 150.8985785
+postcode: '4405'
+state: QLD
+title: KUMBARILLA
+url: /qld/kumbarilla/
 ---

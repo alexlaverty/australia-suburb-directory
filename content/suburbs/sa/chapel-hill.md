@@ -1,9 +1,10 @@
 ---
-title: CHAPEL HILL
-state: SA
-postcode: 5153
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.08426812
-longitude: 138.7644846
-url: /sa/chapel-hill/
 layout: suburb
+longitude: 138.7644846
+postcode: '5153'
+state: SA
+title: CHAPEL HILL
+url: /sa/chapel-hill/
 ---

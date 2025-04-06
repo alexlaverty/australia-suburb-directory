@@ -1,9 +1,10 @@
 ---
-title: SCOTT RIVER EAST
-state: WA
-postcode: 6275
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.055304
-longitude: 115.626518
-url: /wa/scott-river-east/
 layout: suburb
+longitude: 115.626518
+postcode: '6275'
+state: WA
+title: SCOTT RIVER EAST
+url: /wa/scott-river-east/
 ---

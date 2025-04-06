@@ -1,9 +1,10 @@
 ---
-title: SYDNEY GATEWAY FACILITY
-state: NSW
-postcode: 2891
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.8688
-longitude: 151.209
-url: /nsw/sydney-gateway-facility/
 layout: suburb
+longitude: 151.209
+postcode: '2891'
+state: NSW
+title: SYDNEY GATEWAY FACILITY
+url: /nsw/sydney-gateway-facility/
 ---

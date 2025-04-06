@@ -1,9 +1,10 @@
 ---
-title: THOMASTOWN
-state: VIC
-postcode: 3074
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.684684
-longitude: 145.006644
-url: /vic/thomastown/
 layout: suburb
+longitude: 145.006644
+postcode: '3074'
+state: VIC
+title: THOMASTOWN
+url: /vic/thomastown/
 ---

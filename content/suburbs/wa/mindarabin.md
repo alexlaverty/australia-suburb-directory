@@ -1,9 +1,10 @@
 ---
-title: MINDARABIN
-state: WA
-postcode: 6336
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.928235
-longitude: 118.596801
-url: /wa/mindarabin/
 layout: suburb
+longitude: 118.596801
+postcode: '6336'
+state: WA
+title: MINDARABIN
+url: /wa/mindarabin/
 ---

@@ -1,9 +1,10 @@
 ---
-title: EIDSVOLD
-state: QLD
-postcode: 4627
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -25.350178
-longitude: 150.778657
-url: /qld/eidsvold/
 layout: suburb
+longitude: 150.778657
+postcode: '4627'
+state: QLD
+title: EIDSVOLD
+url: /qld/eidsvold/
 ---

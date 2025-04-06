@@ -1,9 +1,10 @@
 ---
-title: KINYPANIAL
-state: VIC
-postcode: 3520
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.405771
-longitude: 143.810786
-url: /vic/kinypanial/
 layout: suburb
+longitude: 143.810786
+postcode: '3520'
+state: VIC
+title: KINYPANIAL
+url: /vic/kinypanial/
 ---

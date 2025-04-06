@@ -1,9 +1,10 @@
 ---
-title: LOGANLEA
-state: QLD
-postcode: 4131
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.669913
-longitude: 153.136072
-url: /qld/loganlea/
 layout: suburb
+longitude: 153.136072
+postcode: '4131'
+state: QLD
+title: LOGANLEA
+url: /qld/loganlea/
 ---

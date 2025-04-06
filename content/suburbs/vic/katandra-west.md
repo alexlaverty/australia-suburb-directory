@@ -1,9 +1,10 @@
 ---
-title: KATANDRA WEST
-state: VIC
-postcode: 3634
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.224186
-longitude: 145.440315
-url: /vic/katandra-west/
 layout: suburb
+longitude: 145.440315
+postcode: '3634'
+state: VIC
+title: KATANDRA WEST
+url: /vic/katandra-west/
 ---

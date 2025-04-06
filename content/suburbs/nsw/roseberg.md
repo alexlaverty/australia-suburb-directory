@@ -1,9 +1,10 @@
 ---
-title: ROSEBERG
-state: NSW
-postcode: 2793
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.85547148
-longitude: 149.0498273
-url: /nsw/roseberg/
 layout: suburb
+longitude: 149.0498273
+postcode: '2793'
+state: NSW
+title: ROSEBERG
+url: /nsw/roseberg/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HODDYS WELL
-state: WA
-postcode: 6566
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.484853
-longitude: 116.38064
-url: /wa/hoddys-well/
 layout: suburb
+longitude: 116.38064
+postcode: '6566'
+state: WA
+title: HODDYS WELL
+url: /wa/hoddys-well/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MUMBERKINE
-state: WA
-postcode: 6401
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.640292
-longitude: 116.681727
-url: /wa/mumberkine/
 layout: suburb
+longitude: 116.681727
+postcode: '6401'
+state: WA
+title: MUMBERKINE
+url: /wa/mumberkine/
 ---

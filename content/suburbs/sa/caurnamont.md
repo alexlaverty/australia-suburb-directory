@@ -1,9 +1,10 @@
 ---
-title: CAURNAMONT
-state: SA
-postcode: 5238
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.86825297
-longitude: 139.5901634
-url: /sa/caurnamont/
 layout: suburb
+longitude: 139.5901634
+postcode: '5238'
+state: SA
+title: CAURNAMONT
+url: /sa/caurnamont/
 ---

@@ -1,9 +1,10 @@
 ---
-title: HORTON VALLEY
-state: NSW
-postcode: 2347
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.281899
-longitude: 150.523163
-url: /nsw/horton-valley/
 layout: suburb
+longitude: 150.523163
+postcode: '2347'
+state: NSW
+title: HORTON VALLEY
+url: /nsw/horton-valley/
 ---

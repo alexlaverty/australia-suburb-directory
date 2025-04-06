@@ -1,9 +1,10 @@
 ---
-title: OSBORNE PARK
-state: WA
-postcode: 6917
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -31.885883
-longitude: 115.804802
-url: /wa/osborne-park/
 layout: suburb
+longitude: 115.804802
+postcode: '6917'
+state: WA
+title: OSBORNE PARK
+url: /wa/osborne-park/
 ---

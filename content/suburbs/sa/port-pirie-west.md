@@ -1,9 +1,10 @@
 ---
-title: PORT PIRIE WEST
-state: SA
-postcode: 5540
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.205773
-longitude: 138.080191
-url: /sa/port-pirie-west/
 layout: suburb
+longitude: 138.080191
+postcode: '5540'
+state: SA
+title: PORT PIRIE WEST
+url: /sa/port-pirie-west/
 ---

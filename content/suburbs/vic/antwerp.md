@@ -1,9 +1,10 @@
 ---
-title: ANTWERP
-state: VIC
-postcode: 3414
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.388628
-longitude: 142.093883
-url: /vic/antwerp/
 layout: suburb
+longitude: 142.093883
+postcode: '3414'
+state: VIC
+title: ANTWERP
+url: /vic/antwerp/
 ---

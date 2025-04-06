@@ -1,9 +1,10 @@
 ---
-title: CAMEBY
-state: QLD
-postcode: 4413
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.63319425
-longitude: 150.4704649
-url: /qld/cameby/
 layout: suburb
+longitude: 150.4704649
+postcode: '4413'
+state: QLD
+title: CAMEBY
+url: /qld/cameby/
 ---

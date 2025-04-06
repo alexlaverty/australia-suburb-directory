@@ -1,9 +1,10 @@
 ---
-title: REPTON
-state: NSW
-postcode: 2454
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.459807
-longitude: 152.840266
-url: /nsw/repton/
 layout: suburb
+longitude: 152.840266
+postcode: '2454'
+state: NSW
+title: REPTON
+url: /nsw/repton/
 ---

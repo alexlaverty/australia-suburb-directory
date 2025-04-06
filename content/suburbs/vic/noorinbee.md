@@ -1,9 +1,10 @@
 ---
-title: NOORINBEE
-state: VIC
-postcode: 3890
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.566489
-longitude: 149.217216
-url: /vic/noorinbee/
 layout: suburb
+longitude: 149.217216
+postcode: '3890'
+state: VIC
+title: NOORINBEE
+url: /vic/noorinbee/
 ---

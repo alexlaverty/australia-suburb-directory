@@ -1,9 +1,10 @@
 ---
-title: ASHBURTON
-state: VIC
-postcode: 3147
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.867864
-longitude: 145.092946
-url: /vic/ashburton/
 layout: suburb
+longitude: 145.092946
+postcode: '3147'
+state: VIC
+title: ASHBURTON
+url: /vic/ashburton/
 ---

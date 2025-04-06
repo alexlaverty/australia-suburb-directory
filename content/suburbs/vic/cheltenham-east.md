@@ -1,9 +1,10 @@
 ---
-title: CHELTENHAM EAST
-state: VIC
-postcode: 3192
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.965655
-longitude: 145.0623
-url: /vic/cheltenham-east/
 layout: suburb
+longitude: 145.0623
+postcode: '3192'
+state: VIC
+title: CHELTENHAM EAST
+url: /vic/cheltenham-east/
 ---

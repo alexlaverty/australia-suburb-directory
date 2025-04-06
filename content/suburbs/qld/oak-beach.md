@@ -1,9 +1,10 @@
 ---
-title: OAK BEACH
-state: QLD
-postcode: 4877
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -16.535286
-longitude: 145.467604
-url: /qld/oak-beach/
 layout: suburb
+longitude: 145.467604
+postcode: '4877'
+state: QLD
+title: OAK BEACH
+url: /qld/oak-beach/
 ---

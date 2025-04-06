@@ -1,9 +1,10 @@
 ---
-title: UPPER PILTON
-state: QLD
-postcode: 4361
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.965214
-longitude: 151.948279
-url: /qld/upper-pilton/
 layout: suburb
+longitude: 151.948279
+postcode: '4361'
+state: QLD
+title: UPPER PILTON
+url: /qld/upper-pilton/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WALLISTON DC
-state: WA
-postcode: 6925
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.108961
-longitude: 116.208263
-url: /wa/walliston-dc/
 layout: suburb
+longitude: 116.208263
+postcode: '6925'
+state: WA
+title: WALLISTON DC
+url: /wa/walliston-dc/
 ---

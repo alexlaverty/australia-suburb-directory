@@ -1,9 +1,10 @@
 ---
-title: BARMERA
-state: SA
-postcode: 5345
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.187027
-longitude: 140.454506
-url: /sa/barmera/
 layout: suburb
+longitude: 140.454506
+postcode: '5345'
+state: SA
+title: BARMERA
+url: /sa/barmera/
 ---

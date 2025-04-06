@@ -1,9 +1,10 @@
 ---
-title: GREENWITH
-state: SA
-postcode: 5125
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.773234
-longitude: 138.738733
-url: /sa/greenwith/
 layout: suburb
+longitude: 138.738733
+postcode: '5125'
+state: SA
+title: GREENWITH
+url: /sa/greenwith/
 ---

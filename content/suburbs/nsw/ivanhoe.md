@@ -1,9 +1,10 @@
 ---
-title: IVANHOE
-state: NSW
-postcode: 2878
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.823221
-longitude: 144.495401
-url: /nsw/ivanhoe/
 layout: suburb
+longitude: 144.495401
+postcode: '2878'
+state: NSW
+title: IVANHOE
+url: /nsw/ivanhoe/
 ---

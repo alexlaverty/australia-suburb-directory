@@ -1,9 +1,10 @@
 ---
-title: EATON
-state: NT
-postcode: 0820
+lastmod: '2025-04-06T06:05:19+00:00'
 latitude: -12.4123871
-longitude: 130.880692
-url: /nt/eaton/
 layout: suburb
+longitude: 130.880692
+postcode: 0820
+state: NT
+title: EATON
+url: /nt/eaton/
 ---

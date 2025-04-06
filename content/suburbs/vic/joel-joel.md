@@ -1,9 +1,10 @@
 ---
-title: JOEL JOEL
-state: VIC
-postcode: 3384
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.01984772
-longitude: 142.9867746
-url: /vic/joel-joel/
 layout: suburb
+longitude: 142.9867746
+postcode: '3384'
+state: VIC
+title: JOEL JOEL
+url: /vic/joel-joel/
 ---

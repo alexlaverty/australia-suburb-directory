@@ -1,9 +1,10 @@
 ---
-title: DUCK PONDS
-state: SA
-postcode: 5607
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.156446
-longitude: 136.456454
-url: /sa/duck-ponds/
 layout: suburb
+longitude: 136.456454
+postcode: '5607'
+state: SA
+title: DUCK PONDS
+url: /sa/duck-ponds/
 ---

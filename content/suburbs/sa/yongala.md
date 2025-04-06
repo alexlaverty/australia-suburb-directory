@@ -1,9 +1,10 @@
 ---
-title: YONGALA
-state: SA
-postcode: 5493
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.015031
-longitude: 138.746595
-url: /sa/yongala/
 layout: suburb
+longitude: 138.746595
+postcode: '5493'
+state: SA
+title: YONGALA
+url: /sa/yongala/
 ---

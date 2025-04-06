@@ -1,9 +1,10 @@
 ---
-title: SUMNER
-state: VIC
-postcode: 3057
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.772232
-longitude: 144.98034
-url: /vic/sumner/
 layout: suburb
+longitude: 144.98034
+postcode: '3057'
+state: VIC
+title: SUMNER
+url: /vic/sumner/
 ---

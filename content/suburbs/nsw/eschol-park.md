@@ -1,9 +1,10 @@
 ---
-title: ESCHOL PARK
-state: NSW
-postcode: 2558
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.031602
-longitude: 150.799483
-url: /nsw/eschol-park/
 layout: suburb
+longitude: 150.799483
+postcode: '2558'
+state: NSW
+title: ESCHOL PARK
+url: /nsw/eschol-park/
 ---

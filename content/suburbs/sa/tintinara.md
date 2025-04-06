@@ -1,9 +1,10 @@
 ---
-title: TINTINARA
-state: SA
-postcode: 5266
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.902842
-longitude: 139.815539
-url: /sa/tintinara/
 layout: suburb
+longitude: 139.815539
+postcode: '5266'
+state: SA
+title: TINTINARA
+url: /sa/tintinara/
 ---

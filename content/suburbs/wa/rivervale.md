@@ -1,9 +1,10 @@
 ---
-title: RIVERVALE
-state: WA
-postcode: 6103
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.960364
-longitude: 115.913458
-url: /wa/rivervale/
 layout: suburb
+longitude: 115.913458
+postcode: '6103'
+state: WA
+title: RIVERVALE
+url: /wa/rivervale/
 ---

@@ -1,9 +1,10 @@
 ---
-title: ROCHESTER WEST
-state: VIC
-postcode: 3561
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.321109
-longitude: 144.709543
-url: /vic/rochester-west/
 layout: suburb
+longitude: 144.709543
+postcode: '3561'
+state: VIC
+title: ROCHESTER WEST
+url: /vic/rochester-west/
 ---

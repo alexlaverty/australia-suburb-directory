@@ -1,9 +1,10 @@
 ---
-title: GREEN GULLY
-state: VIC
-postcode: 3462
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.083561
-longitude: 144.053611
-url: /vic/green-gully/
 layout: suburb
+longitude: 144.053611
+postcode: '3462'
+state: VIC
+title: GREEN GULLY
+url: /vic/green-gully/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NARRANGULLEN
-state: NSW
-postcode: 2582
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.02111866
-longitude: 148.7278088
-url: /nsw/narrangullen/
 layout: suburb
+longitude: 148.7278088
+postcode: '2582'
+state: NSW
+title: NARRANGULLEN
+url: /nsw/narrangullen/
 ---

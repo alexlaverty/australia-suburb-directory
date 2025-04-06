@@ -1,9 +1,10 @@
 ---
-title: CAMPBELLS FOREST
-state: VIC
-postcode: 3556
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.656422
-longitude: 144.178282
-url: /vic/campbells-forest/
 layout: suburb
+longitude: 144.178282
+postcode: '3556'
+state: VIC
+title: CAMPBELLS FOREST
+url: /vic/campbells-forest/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BERGALIA
-state: NSW
-postcode: 2537
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.939649
-longitude: 149.912199
-url: /nsw/bergalia/
 layout: suburb
+longitude: 149.912199
+postcode: '2537'
+state: NSW
+title: BERGALIA
+url: /nsw/bergalia/
 ---

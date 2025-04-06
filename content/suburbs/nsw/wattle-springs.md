@@ -1,9 +1,10 @@
 ---
-title: WATTLE SPRINGS
-state: NSW
-postcode: 2357
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.44646535
-longitude: 149.2810155
-url: /nsw/wattle-springs/
 layout: suburb
+longitude: 149.2810155
+postcode: '2357'
+state: NSW
+title: WATTLE SPRINGS
+url: /nsw/wattle-springs/
 ---

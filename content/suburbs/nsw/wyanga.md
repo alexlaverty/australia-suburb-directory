@@ -1,9 +1,10 @@
 ---
-title: WYANGA
-state: NSW
-postcode: 2821
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.255249
-longitude: 148.110385
-url: /nsw/wyanga/
 layout: suburb
+longitude: 148.110385
+postcode: '2821'
+state: NSW
+title: WYANGA
+url: /nsw/wyanga/
 ---

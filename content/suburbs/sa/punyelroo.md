@@ -1,9 +1,10 @@
 ---
-title: PUNYELROO
-state: SA
-postcode: 5354
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.538013
-longitude: 139.652642
-url: /sa/punyelroo/
 layout: suburb
+longitude: 139.652642
+postcode: '5354'
+state: SA
+title: PUNYELROO
+url: /sa/punyelroo/
 ---

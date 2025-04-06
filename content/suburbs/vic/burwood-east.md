@@ -1,9 +1,10 @@
 ---
-title: BURWOOD EAST
-state: VIC
-postcode: 3151
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.85523
-longitude: 145.151119
-url: /vic/burwood-east/
 layout: suburb
+longitude: 145.151119
+postcode: '3151'
+state: VIC
+title: BURWOOD EAST
+url: /vic/burwood-east/
 ---

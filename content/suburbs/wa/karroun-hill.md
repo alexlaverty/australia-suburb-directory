@@ -1,9 +1,10 @@
 ---
-title: KARROUN HILL
-state: WA
-postcode: 6472
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.261439
-longitude: 117.789878
-url: /wa/karroun-hill/
 layout: suburb
+longitude: 117.789878
+postcode: '6472'
+state: WA
+title: KARROUN HILL
+url: /wa/karroun-hill/
 ---

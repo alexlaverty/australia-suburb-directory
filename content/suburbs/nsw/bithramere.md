@@ -1,9 +1,10 @@
 ---
-title: BITHRAMERE
-state: NSW
-postcode: 2340
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.333592
-longitude: 151.138322
-url: /nsw/bithramere/
 layout: suburb
+longitude: 151.138322
+postcode: '2340'
+state: NSW
+title: BITHRAMERE
+url: /nsw/bithramere/
 ---

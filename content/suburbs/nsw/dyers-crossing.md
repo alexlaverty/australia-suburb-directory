@@ -1,9 +1,10 @@
 ---
-title: DYERS CROSSING
-state: NSW
-postcode: 2429
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.770375
-longitude: 152.292395
-url: /nsw/dyers-crossing/
 layout: suburb
+longitude: 152.292395
+postcode: '2429'
+state: NSW
+title: DYERS CROSSING
+url: /nsw/dyers-crossing/
 ---

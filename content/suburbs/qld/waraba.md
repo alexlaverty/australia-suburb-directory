@@ -1,9 +1,10 @@
 ---
-title: WARABA
-state: QLD
-postcode: 4513
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.0866
-longitude: 152.8783
-url: /qld/waraba/
 layout: suburb
+longitude: 152.8783
+postcode: '4513'
+state: QLD
+title: WARABA
+url: /qld/waraba/
 ---

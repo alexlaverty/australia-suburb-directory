@@ -1,9 +1,10 @@
 ---
-title: NEWHAVEN
-state: VIC
-postcode: 3925
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.528213
-longitude: 145.379683
-url: /vic/newhaven/
 layout: suburb
+longitude: 145.379683
+postcode: '3925'
+state: VIC
+title: NEWHAVEN
+url: /vic/newhaven/
 ---

@@ -1,9 +1,10 @@
 ---
-title: STRATHTULLOH
-state: VIC
-postcode: 3338
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.73398997
-longitude: 144.5969094
-url: /vic/strathtulloh/
 layout: suburb
+longitude: 144.5969094
+postcode: '3338'
+state: VIC
+title: STRATHTULLOH
+url: /vic/strathtulloh/
 ---

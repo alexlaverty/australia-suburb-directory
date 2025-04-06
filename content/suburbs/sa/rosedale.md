@@ -1,9 +1,10 @@
 ---
-title: ROSEDALE
-state: SA
-postcode: 5350
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.550897
-longitude: 138.83423
-url: /sa/rosedale/
 layout: suburb
+longitude: 138.83423
+postcode: '5350'
+state: SA
+title: ROSEDALE
+url: /sa/rosedale/
 ---

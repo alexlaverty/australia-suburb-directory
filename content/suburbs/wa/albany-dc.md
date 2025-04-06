@@ -1,9 +1,10 @@
 ---
-title: ALBANY DC
-state: WA
-postcode: 6331
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.0269
-longitude: 117.884
-url: /wa/albany-dc/
 layout: suburb
+longitude: 117.884
+postcode: '6331'
+state: WA
+title: ALBANY DC
+url: /wa/albany-dc/
 ---

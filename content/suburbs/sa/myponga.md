@@ -1,9 +1,10 @@
 ---
-title: MYPONGA
-state: SA
-postcode: 5202
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.386025
-longitude: 138.505922
-url: /sa/myponga/
 layout: suburb
+longitude: 138.505922
+postcode: '5202'
+state: SA
+title: MYPONGA
+url: /sa/myponga/
 ---

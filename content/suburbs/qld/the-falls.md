@@ -1,9 +1,10 @@
 ---
-title: THE FALLS
-state: QLD
-postcode: 4373
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.31602867
-longitude: 152.3836665
-url: /qld/the-falls/
 layout: suburb
+longitude: 152.3836665
+postcode: '4373'
+state: QLD
+title: THE FALLS
+url: /qld/the-falls/
 ---

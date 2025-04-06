@@ -1,9 +1,10 @@
 ---
-title: PINE CAMP
-state: NSW
-postcode: 2648
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.67053259
-longitude: 141.2234086
-url: /nsw/pine-camp/
 layout: suburb
+longitude: 141.2234086
+postcode: '2648'
+state: NSW
+title: PINE CAMP
+url: /nsw/pine-camp/
 ---

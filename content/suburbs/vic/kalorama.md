@@ -1,9 +1,10 @@
 ---
-title: KALORAMA
-state: VIC
-postcode: 3766
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -37.817818
-longitude: 145.384955
-url: /vic/kalorama/
 layout: suburb
+longitude: 145.384955
+postcode: '3766'
+state: VIC
+title: KALORAMA
+url: /vic/kalorama/
 ---

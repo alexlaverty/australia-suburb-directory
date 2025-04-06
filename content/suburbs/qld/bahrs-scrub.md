@@ -1,9 +1,10 @@
 ---
-title: BAHRS SCRUB
-state: QLD
-postcode: 4207
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.733991
-longitude: 153.204523
-url: /qld/bahrs-scrub/
 layout: suburb
+longitude: 153.204523
+postcode: '4207'
+state: QLD
+title: BAHRS SCRUB
+url: /qld/bahrs-scrub/
 ---

@@ -1,9 +1,10 @@
 ---
-title: TARWIN LOWER
-state: VIC
-postcode: 3956
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.77338675
-longitude: 145.9119412
-url: /vic/tarwin-lower/
 layout: suburb
+longitude: 145.9119412
+postcode: '3956'
+state: VIC
+title: TARWIN LOWER
+url: /vic/tarwin-lower/
 ---

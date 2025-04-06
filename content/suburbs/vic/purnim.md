@@ -1,9 +1,10 @@
 ---
-title: PURNIM
-state: VIC
-postcode: 3278
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.278013
-longitude: 142.624719
-url: /vic/purnim/
 layout: suburb
+longitude: 142.624719
+postcode: '3278'
+state: VIC
+title: PURNIM
+url: /vic/purnim/
 ---

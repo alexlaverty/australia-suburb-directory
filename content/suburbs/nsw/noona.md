@@ -1,9 +1,10 @@
 ---
-title: NOONA
-state: NSW
-postcode: 2835
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.551822
-longitude: 145.406579
-url: /nsw/noona/
 layout: suburb
+longitude: 145.406579
+postcode: '2835'
+state: NSW
+title: NOONA
+url: /nsw/noona/
 ---

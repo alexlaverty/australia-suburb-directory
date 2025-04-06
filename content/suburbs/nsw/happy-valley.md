@@ -1,9 +1,10 @@
 ---
-title: HAPPY VALLEY
-state: NSW
-postcode: 2430
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.78951
-longitude: 148.80671
-url: /nsw/happy-valley/
 layout: suburb
+longitude: 148.80671
+postcode: '2430'
+state: NSW
+title: HAPPY VALLEY
+url: /nsw/happy-valley/
 ---

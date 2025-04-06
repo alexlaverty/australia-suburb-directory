@@ -1,9 +1,10 @@
 ---
-title: JEIR
-state: NSW
-postcode: 2582
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.05637116
-longitude: 148.9725226
-url: /nsw/jeir/
 layout: suburb
+longitude: 148.9725226
+postcode: '2582'
+state: NSW
+title: JEIR
+url: /nsw/jeir/
 ---

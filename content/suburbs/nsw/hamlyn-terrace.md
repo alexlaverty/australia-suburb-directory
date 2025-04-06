@@ -1,9 +1,10 @@
 ---
-title: HAMLYN TERRACE
-state: NSW
-postcode: 2259
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.208801
-longitude: 151.377213
-url: /nsw/hamlyn-terrace/
 layout: suburb
+longitude: 151.377213
+postcode: '2259'
+state: NSW
+title: HAMLYN TERRACE
+url: /nsw/hamlyn-terrace/
 ---

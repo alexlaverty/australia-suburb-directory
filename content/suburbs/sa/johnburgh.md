@@ -1,9 +1,10 @@
 ---
-title: JOHNBURGH
-state: SA
-postcode: 5431
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -32.4953907
-longitude: 138.6849657
-url: /sa/johnburgh/
 layout: suburb
+longitude: 138.6849657
+postcode: '5431'
+state: SA
+title: JOHNBURGH
+url: /sa/johnburgh/
 ---

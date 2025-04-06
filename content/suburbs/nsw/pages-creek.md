@@ -1,9 +1,10 @@
 ---
-title: PAGES CREEK
-state: NSW
-postcode: 2337
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.966754
-longitude: 151.080412
-url: /nsw/pages-creek/
 layout: suburb
+longitude: 151.080412
+postcode: '2337'
+state: NSW
+title: PAGES CREEK
+url: /nsw/pages-creek/
 ---

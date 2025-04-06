@@ -1,9 +1,10 @@
 ---
-title: NOCCUNDRA
-state: QLD
-postcode: 4492
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.783565
-longitude: 143.373975
-url: /qld/noccundra/
 layout: suburb
+longitude: 143.373975
+postcode: '4492'
+state: QLD
+title: NOCCUNDRA
+url: /qld/noccundra/
 ---

@@ -1,9 +1,10 @@
 ---
-title: LOWER CRESSBROOK
-state: QLD
-postcode: 4313
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.089517
-longitude: 152.321536
-url: /qld/lower-cressbrook/
 layout: suburb
+longitude: 152.321536
+postcode: '4313'
+state: QLD
+title: LOWER CRESSBROOK
+url: /qld/lower-cressbrook/
 ---

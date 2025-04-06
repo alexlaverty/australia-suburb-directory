@@ -1,9 +1,10 @@
 ---
-title: MORUBEN
-state: NSW
-postcode: 2325
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.052927
-longitude: 150.889563
-url: /nsw/moruben/
 layout: suburb
+longitude: 150.889563
+postcode: '2325'
+state: NSW
+title: MORUBEN
+url: /nsw/moruben/
 ---

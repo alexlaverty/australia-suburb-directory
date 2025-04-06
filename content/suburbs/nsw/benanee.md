@@ -1,9 +1,10 @@
 ---
-title: BENANEE
-state: NSW
-postcode: 2737
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.574113
-longitude: 142.87381
-url: /nsw/benanee/
 layout: suburb
+longitude: 142.87381
+postcode: '2737'
+state: NSW
+title: BENANEE
+url: /nsw/benanee/
 ---

@@ -1,9 +1,10 @@
 ---
-title: NEWCASTLE WEST
-state: NSW
-postcode: 2302
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.931265
-longitude: 151.752466
-url: /nsw/newcastle-west/
 layout: suburb
+longitude: 151.752466
+postcode: '2302'
+state: NSW
+title: NEWCASTLE WEST
+url: /nsw/newcastle-west/
 ---

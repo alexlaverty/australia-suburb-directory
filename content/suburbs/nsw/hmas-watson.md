@@ -1,9 +1,10 @@
 ---
-title: HMAS WATSON
-state: NSW
-postcode: 2030
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.858378
-longitude: 151.275977
-url: /nsw/hmas-watson/
 layout: suburb
+longitude: 151.275977
+postcode: '2030'
+state: NSW
+title: HMAS WATSON
+url: /nsw/hmas-watson/
 ---

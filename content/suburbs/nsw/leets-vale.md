@@ -1,9 +1,10 @@
 ---
-title: LEETS VALE
-state: NSW
-postcode: 2775
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.42581736
-longitude: 150.9487827
-url: /nsw/leets-vale/
 layout: suburb
+longitude: 150.9487827
+postcode: '2775'
+state: NSW
+title: LEETS VALE
+url: /nsw/leets-vale/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MONARCH GLEN
-state: QLD
-postcode: 4285
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.81431835
-longitude: 152.917364
-url: /qld/monarch-glen/
 layout: suburb
+longitude: 152.917364
+postcode: '4285'
+state: QLD
+title: MONARCH GLEN
+url: /qld/monarch-glen/
 ---

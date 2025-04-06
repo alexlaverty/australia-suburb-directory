@@ -1,9 +1,10 @@
 ---
-title: WEST NOWRA
-state: NSW
-postcode: 2541
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.990592
-longitude: 150.450994
-url: /nsw/west-nowra/
 layout: suburb
+longitude: 150.450994
+postcode: '2541'
+state: NSW
+title: WEST NOWRA
+url: /nsw/west-nowra/
 ---

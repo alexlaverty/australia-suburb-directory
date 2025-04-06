@@ -1,9 +1,10 @@
 ---
-title: BIRDWOODTON
-state: VIC
-postcode: 3505
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.180532
-longitude: 142.004192
-url: /vic/birdwoodton/
 layout: suburb
+longitude: 142.004192
+postcode: '3505'
+state: VIC
+title: BIRDWOODTON
+url: /vic/birdwoodton/
 ---

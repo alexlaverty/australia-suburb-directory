@@ -1,9 +1,10 @@
 ---
-title: THE JUNCTION
-state: NSW
-postcode: 2291
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.951039
-longitude: 151.742882
-url: /nsw/the-junction/
 layout: suburb
+longitude: 151.742882
+postcode: '2291'
+state: NSW
+title: THE JUNCTION
+url: /nsw/the-junction/
 ---

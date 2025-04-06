@@ -1,9 +1,10 @@
 ---
-title: WOODLANDS
-state: NSW
-postcode: 2575
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.40830246
-longitude: 150.3943541
-url: /nsw/woodlands/
 layout: suburb
+longitude: 150.3943541
+postcode: '2575'
+state: NSW
+title: WOODLANDS
+url: /nsw/woodlands/
 ---

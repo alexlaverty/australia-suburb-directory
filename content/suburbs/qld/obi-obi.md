@@ -1,9 +1,10 @@
 ---
-title: OBI OBI
-state: QLD
-postcode: 4574
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -26.630369
-longitude: 152.761131
-url: /qld/obi-obi/
 layout: suburb
+longitude: 152.761131
+postcode: '4574'
+state: QLD
+title: OBI OBI
+url: /qld/obi-obi/
 ---

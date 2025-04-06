@@ -1,9 +1,10 @@
 ---
-title: SUMNER PARK BC
-state: QLD
-postcode: 4074
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.554082
-longitude: 152.921521
-url: /qld/sumner-park-bc/
 layout: suburb
+longitude: 152.921521
+postcode: '4074'
+state: QLD
+title: SUMNER PARK BC
+url: /qld/sumner-park-bc/
 ---

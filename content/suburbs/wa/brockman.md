@@ -1,9 +1,10 @@
 ---
-title: BROCKMAN
-state: WA
-postcode: 6701
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -24.734545
-longitude: 115.15198
-url: /wa/brockman/
 layout: suburb
+longitude: 115.15198
+postcode: '6701'
+state: WA
+title: BROCKMAN
+url: /wa/brockman/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MIDDLE DURAL
-state: NSW
-postcode: 2158
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.690331
-longitude: 151.040358
-url: /nsw/middle-dural/
 layout: suburb
+longitude: 151.040358
+postcode: '2158'
+state: NSW
+title: MIDDLE DURAL
+url: /nsw/middle-dural/
 ---

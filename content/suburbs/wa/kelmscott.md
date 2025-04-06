@@ -1,9 +1,10 @@
 ---
-title: KELMSCOTT
-state: WA
-postcode: 6991
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -32.09788
-longitude: 116.095955
-url: /wa/kelmscott/
 layout: suburb
+longitude: 116.095955
+postcode: '6991'
+state: WA
+title: KELMSCOTT
+url: /wa/kelmscott/
 ---

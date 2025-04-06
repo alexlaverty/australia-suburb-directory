@@ -1,9 +1,10 @@
 ---
-title: GLENTROMIE
-state: WA
-postcode: 6509
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -30.912266
-longitude: 116.252618
-url: /wa/glentromie/
 layout: suburb
+longitude: 116.252618
+postcode: '6509'
+state: WA
+title: GLENTROMIE
+url: /wa/glentromie/
 ---

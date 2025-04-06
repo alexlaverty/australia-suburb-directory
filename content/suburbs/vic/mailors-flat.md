@@ -1,9 +1,10 @@
 ---
-title: MAILORS FLAT
-state: VIC
-postcode: 3275
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -38.301794
-longitude: 142.457611
-url: /vic/mailors-flat/
 layout: suburb
+longitude: 142.457611
+postcode: '3275'
+state: VIC
+title: MAILORS FLAT
+url: /vic/mailors-flat/
 ---

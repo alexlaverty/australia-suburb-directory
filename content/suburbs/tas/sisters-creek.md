@@ -1,9 +1,10 @@
 ---
-title: SISTERS CREEK
-state: TAS
-postcode: 7325
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -41.100305
-longitude: 145.607556
-url: /tas/sisters-creek/
 layout: suburb
+longitude: 145.607556
+postcode: '7325'
+state: TAS
+title: SISTERS CREEK
+url: /tas/sisters-creek/
 ---

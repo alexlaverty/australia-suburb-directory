@@ -1,9 +1,10 @@
 ---
-title: JUNCTION VILLAGE
-state: VIC
-postcode: 3977
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.135253
-longitude: 145.268888
-url: /vic/junction-village/
 layout: suburb
+longitude: 145.268888
+postcode: '3977'
+state: VIC
+title: JUNCTION VILLAGE
+url: /vic/junction-village/
 ---

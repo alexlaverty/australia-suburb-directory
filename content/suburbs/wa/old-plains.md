@@ -1,9 +1,10 @@
 ---
-title: OLD PLAINS
-state: WA
-postcode: 6569
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -31.085084
-longitude: 116.452845
-url: /wa/old-plains/
 layout: suburb
+longitude: 116.452845
+postcode: '6569'
+state: WA
+title: OLD PLAINS
+url: /wa/old-plains/
 ---

@@ -1,9 +1,10 @@
 ---
-title: BEACH HOLM
-state: QLD
-postcode: 4818
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -19.23794
-longitude: 146.540275
-url: /qld/beach-holm/
 layout: suburb
+longitude: 146.540275
+postcode: '4818'
+state: QLD
+title: BEACH HOLM
+url: /qld/beach-holm/
 ---

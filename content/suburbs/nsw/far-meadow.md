@@ -1,9 +1,10 @@
 ---
-title: FAR MEADOW
-state: NSW
-postcode: 2535
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.762116
-longitude: 150.678303
-url: /nsw/far-meadow/
 layout: suburb
+longitude: 150.678303
+postcode: '2535'
+state: NSW
+title: FAR MEADOW
+url: /nsw/far-meadow/
 ---

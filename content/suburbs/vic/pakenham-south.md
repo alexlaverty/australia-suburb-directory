@@ -1,9 +1,10 @@
 ---
-title: PAKENHAM SOUTH
-state: VIC
-postcode: 3810
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.04658
-longitude: 145.472514
-url: /vic/pakenham-south/
 layout: suburb
+longitude: 145.472514
+postcode: '3810'
+state: VIC
+title: PAKENHAM SOUTH
+url: /vic/pakenham-south/
 ---

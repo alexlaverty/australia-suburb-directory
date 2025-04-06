@@ -1,9 +1,10 @@
 ---
-title: QUINNS ROCKS
-state: WA
-postcode: 6030
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.687341
-longitude: 115.711684
-url: /wa/quinns-rocks/
 layout: suburb
+longitude: 115.711684
+postcode: '6030'
+state: WA
+title: QUINNS ROCKS
+url: /wa/quinns-rocks/
 ---

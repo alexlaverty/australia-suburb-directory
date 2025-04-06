@@ -1,9 +1,10 @@
 ---
-title: MANGROVE CREEK
-state: NSW
-postcode: 2250
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.325373
-longitude: 151.189243
-url: /nsw/mangrove-creek/
 layout: suburb
+longitude: 151.189243
+postcode: '2250'
+state: NSW
+title: MANGROVE CREEK
+url: /nsw/mangrove-creek/
 ---

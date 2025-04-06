@@ -1,9 +1,10 @@
 ---
-title: PIALLAWAY
-state: NSW
-postcode: 2342
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.155223
-longitude: 150.54907
-url: /nsw/piallaway/
 layout: suburb
+longitude: 150.54907
+postcode: '2342'
+state: NSW
+title: PIALLAWAY
+url: /nsw/piallaway/
 ---

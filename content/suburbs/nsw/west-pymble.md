@@ -1,9 +1,10 @@
 ---
-title: WEST PYMBLE
-state: NSW
-postcode: 2073
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.757296
-longitude: 151.130278
-url: /nsw/west-pymble/
 layout: suburb
+longitude: 151.130278
+postcode: '2073'
+state: NSW
+title: WEST PYMBLE
+url: /nsw/west-pymble/
 ---

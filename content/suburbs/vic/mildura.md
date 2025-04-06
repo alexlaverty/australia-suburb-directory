@@ -1,9 +1,10 @@
 ---
-title: MILDURA
-state: VIC
-postcode: 3502
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.972887
-longitude: 145.25835
-url: /vic/mildura/
 layout: suburb
+longitude: 145.25835
+postcode: '3502'
+state: VIC
+title: MILDURA
+url: /vic/mildura/
 ---

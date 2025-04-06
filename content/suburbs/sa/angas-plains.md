@@ -1,9 +1,10 @@
 ---
-title: ANGAS PLAINS
-state: SA
-postcode: 5255
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.248539
-longitude: 138.975861
-url: /sa/angas-plains/
 layout: suburb
+longitude: 138.975861
+postcode: '5255'
+state: SA
+title: ANGAS PLAINS
+url: /sa/angas-plains/
 ---

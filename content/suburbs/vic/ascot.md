@@ -1,9 +1,10 @@
 ---
-title: ASCOT
-state: VIC
-postcode: 3551
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.78137
-longitude: 144.457937
-url: /vic/ascot/
 layout: suburb
+longitude: 144.457937
+postcode: '3551'
+state: VIC
+title: ASCOT
+url: /vic/ascot/
 ---

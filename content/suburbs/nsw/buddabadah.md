@@ -1,9 +1,10 @@
 ---
-title: BUDDABADAH
-state: NSW
-postcode: 2825
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -31.95106116
-longitude: 147.1626847
-url: /nsw/buddabadah/
 layout: suburb
+longitude: 147.1626847
+postcode: '2825'
+state: NSW
+title: BUDDABADAH
+url: /nsw/buddabadah/
 ---

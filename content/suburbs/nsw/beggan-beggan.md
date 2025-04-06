@@ -1,9 +1,10 @@
 ---
-title: BEGGAN BEGGAN
-state: NSW
-postcode: 2587
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.64538957
-longitude: 148.2926805
-url: /nsw/beggan-beggan/
 layout: suburb
+longitude: 148.2926805
+postcode: '2587'
+state: NSW
+title: BEGGAN BEGGAN
+url: /nsw/beggan-beggan/
 ---

@@ -1,9 +1,10 @@
 ---
-title: GLENBURN
-state: VIC
-postcode: 3717
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.286611
-longitude: 145.435776
-url: /vic/glenburn/
 layout: suburb
+longitude: 145.435776
+postcode: '3717'
+state: VIC
+title: GLENBURN
+url: /vic/glenburn/
 ---

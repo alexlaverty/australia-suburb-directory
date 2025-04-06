@@ -1,9 +1,10 @@
 ---
-title: YADBORO
-state: NSW
-postcode: 2539
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.36846014
-longitude: 150.1765812
-url: /nsw/yadboro/
 layout: suburb
+longitude: 150.1765812
+postcode: '2539'
+state: NSW
+title: YADBORO
+url: /nsw/yadboro/
 ---

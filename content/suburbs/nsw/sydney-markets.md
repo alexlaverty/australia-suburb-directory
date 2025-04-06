@@ -1,9 +1,10 @@
 ---
-title: SYDNEY MARKETS
-state: NSW
-postcode: 2129
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.864104
-longitude: 151.069553
-url: /nsw/sydney-markets/
 layout: suburb
+longitude: 151.069553
+postcode: '2129'
+state: NSW
+title: SYDNEY MARKETS
+url: /nsw/sydney-markets/
 ---

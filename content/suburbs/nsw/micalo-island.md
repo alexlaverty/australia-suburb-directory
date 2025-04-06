@@ -1,9 +1,10 @@
 ---
-title: MICALO ISLAND
-state: NSW
-postcode: 2464
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -29.484556
-longitude: 153.334228
-url: /nsw/micalo-island/
 layout: suburb
+longitude: 153.334228
+postcode: '2464'
+state: NSW
+title: MICALO ISLAND
+url: /nsw/micalo-island/
 ---

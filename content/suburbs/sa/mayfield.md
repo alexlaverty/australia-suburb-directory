@@ -1,9 +1,10 @@
 ---
-title: MAYFIELD
-state: SA
-postcode: 5454
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -33.3599977
-longitude: 138.6866032
-url: /sa/mayfield/
 layout: suburb
+longitude: 138.6866032
+postcode: '5454'
+state: SA
+title: MAYFIELD
+url: /sa/mayfield/
 ---

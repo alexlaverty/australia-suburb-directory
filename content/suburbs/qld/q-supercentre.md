@@ -1,9 +1,10 @@
 ---
-title: Q SUPERCENTRE
-state: QLD
-postcode: 4218
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.037627
-longitude: 153.41692
-url: /qld/q-supercentre/
 layout: suburb
+longitude: 153.41692
+postcode: '4218'
+state: QLD
+title: Q SUPERCENTRE
+url: /qld/q-supercentre/
 ---

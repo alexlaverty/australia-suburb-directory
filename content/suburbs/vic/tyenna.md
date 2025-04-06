@@ -1,9 +1,10 @@
 ---
-title: TYENNA
-state: VIC
-postcode: 3533
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -35.32433058
-longitude: 142.5758665
-url: /vic/tyenna/
 layout: suburb
+longitude: 142.5758665
+postcode: '3533'
+state: VIC
+title: TYENNA
+url: /vic/tyenna/
 ---

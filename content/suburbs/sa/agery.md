@@ -1,9 +1,10 @@
 ---
-title: AGERY
-state: SA
-postcode: 5558
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.105205
-longitude: 137.598449
-url: /sa/agery/
 layout: suburb
+longitude: 137.598449
+postcode: '5558'
+state: SA
+title: AGERY
+url: /sa/agery/
 ---

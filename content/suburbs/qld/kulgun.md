@@ -1,9 +1,10 @@
 ---
-title: KULGUN
-state: QLD
-postcode: 4309
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.98728
-longitude: 152.523366
-url: /qld/kulgun/
 layout: suburb
+longitude: 152.523366
+postcode: '4309'
+state: QLD
+title: KULGUN
+url: /qld/kulgun/
 ---

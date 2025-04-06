@@ -1,9 +1,10 @@
 ---
-title: BURKES FLAT
-state: VIC
-postcode: 3475
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.70633
-longitude: 143.51213
-url: /vic/burkes-flat/
 layout: suburb
+longitude: 143.51213
+postcode: '3475'
+state: VIC
+title: BURKES FLAT
+url: /vic/burkes-flat/
 ---

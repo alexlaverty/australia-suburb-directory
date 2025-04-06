@@ -1,9 +1,10 @@
 ---
-title: ALFORDS POINT
-state: NSW
-postcode: 2234
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.021938
-longitude: 151.004412
-url: /nsw/alfords-point/
 layout: suburb
+longitude: 151.004412
+postcode: '2234'
+state: NSW
+title: ALFORDS POINT
+url: /nsw/alfords-point/
 ---

@@ -1,9 +1,10 @@
 ---
-title: KEEBRA PARK
-state: QLD
-postcode: 4215
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.967134
-longitude: 153.397952
-url: /qld/keebra-park/
 layout: suburb
+longitude: 153.397952
+postcode: '4215'
+state: QLD
+title: KEEBRA PARK
+url: /qld/keebra-park/
 ---

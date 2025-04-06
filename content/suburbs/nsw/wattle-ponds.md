@@ -1,9 +1,10 @@
 ---
-title: WATTLE PONDS
-state: NSW
-postcode: 2330
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -32.760486
-longitude: 150.972137
-url: /nsw/wattle-ponds/
 layout: suburb
+longitude: 150.972137
+postcode: '2330'
+state: NSW
+title: WATTLE PONDS
+url: /nsw/wattle-ponds/
 ---

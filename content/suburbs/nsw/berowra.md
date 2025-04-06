@@ -1,9 +1,10 @@
 ---
-title: BEROWRA
-state: NSW
-postcode: 2081
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.619756
-longitude: 151.150498
-url: /nsw/berowra/
 layout: suburb
+longitude: 151.150498
+postcode: '2081'
+state: NSW
+title: BEROWRA
+url: /nsw/berowra/
 ---

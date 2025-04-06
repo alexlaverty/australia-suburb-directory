@@ -1,9 +1,10 @@
 ---
-title: RINGWOOD EAST
-state: VIC
-postcode: 3135
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -37.819594
-longitude: 145.248209
-url: /vic/ringwood-east/
 layout: suburb
+longitude: 145.248209
+postcode: '3135'
+state: VIC
+title: RINGWOOD EAST
+url: /vic/ringwood-east/
 ---

@@ -1,9 +1,10 @@
 ---
-title: PASADENA
-state: SA
-postcode: 5042
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -35.007341
-longitude: 138.575023
-url: /sa/pasadena/
 layout: suburb
+longitude: 138.575023
+postcode: '5042'
+state: SA
+title: PASADENA
+url: /sa/pasadena/
 ---

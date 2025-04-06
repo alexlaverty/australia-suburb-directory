@@ -1,9 +1,10 @@
 ---
-title: ROBINA
-state: QLD
-postcode: 4226
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -28.06794
-longitude: 153.40282
-url: /qld/robina/
 layout: suburb
+longitude: 153.40282
+postcode: '4226'
+state: QLD
+title: ROBINA
+url: /qld/robina/
 ---

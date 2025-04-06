@@ -1,9 +1,10 @@
 ---
-title: CORINDI BEACH
-state: NSW
-postcode: 2456
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -30.073663
-longitude: 153.143409
-url: /nsw/corindi-beach/
 layout: suburb
+longitude: 153.143409
+postcode: '2456'
+state: NSW
+title: CORINDI BEACH
+url: /nsw/corindi-beach/
 ---

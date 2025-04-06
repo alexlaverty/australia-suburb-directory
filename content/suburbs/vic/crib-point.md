@@ -1,9 +1,10 @@
 ---
-title: CRIB POINT
-state: VIC
-postcode: 3919
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -38.352327
-longitude: 145.199777
-url: /vic/crib-point/
 layout: suburb
+longitude: 145.199777
+postcode: '3919'
+state: VIC
+title: CRIB POINT
+url: /vic/crib-point/
 ---

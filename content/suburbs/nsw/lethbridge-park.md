@@ -1,9 +1,10 @@
 ---
-title: LETHBRIDGE PARK
-state: NSW
-postcode: 2770
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.756443
-longitude: 150.810246
-url: /nsw/lethbridge-park/
 layout: suburb
+longitude: 150.810246
+postcode: '2770'
+state: NSW
+title: LETHBRIDGE PARK
+url: /nsw/lethbridge-park/
 ---

@@ -1,9 +1,10 @@
 ---
-title: MIDLAND DC
-state: WA
-postcode: 6936
+lastmod: '2025-04-06T06:05:22+00:00'
 latitude: -31.8918
-longitude: 116.013
-url: /wa/midland-dc/
 layout: suburb
+longitude: 116.013
+postcode: '6936'
+state: WA
+title: MIDLAND DC
+url: /wa/midland-dc/
 ---

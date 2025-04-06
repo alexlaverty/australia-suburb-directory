@@ -1,9 +1,10 @@
 ---
-title: BELLA VISTA
-state: NSW
-postcode: 2153
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -33.731651
-longitude: 150.955942
-url: /nsw/bella-vista/
 layout: suburb
+longitude: 150.955942
+postcode: '2153'
+state: NSW
+title: BELLA VISTA
+url: /nsw/bella-vista/
 ---

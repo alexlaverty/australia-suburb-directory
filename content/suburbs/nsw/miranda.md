@@ -1,9 +1,10 @@
 ---
-title: MIRANDA
-state: NSW
-postcode: 2228
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.037692
-longitude: 151.101564
-url: /nsw/miranda/
 layout: suburb
+longitude: 151.101564
+postcode: '2228'
+state: NSW
+title: MIRANDA
+url: /nsw/miranda/
 ---

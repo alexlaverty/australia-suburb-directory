@@ -1,9 +1,10 @@
 ---
-title: MUNGALLI
-state: QLD
-postcode: 4886
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -17.535676
-longitude: 145.633789
-url: /qld/mungalli/
 layout: suburb
+longitude: 145.633789
+postcode: '4886'
+state: QLD
+title: MUNGALLI
+url: /qld/mungalli/
 ---

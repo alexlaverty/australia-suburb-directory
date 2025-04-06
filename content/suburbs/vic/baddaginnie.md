@@ -1,9 +1,10 @@
 ---
-title: BADDAGINNIE
-state: VIC
-postcode: 3670
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -36.623748
-longitude: 145.852449
-url: /vic/baddaginnie/
 layout: suburb
+longitude: 145.852449
+postcode: '3670'
+state: VIC
+title: BADDAGINNIE
+url: /vic/baddaginnie/
 ---

@@ -1,9 +1,10 @@
 ---
-title: WOOLOOWIN
-state: QLD
-postcode: 4030
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -27.42687
-longitude: 153.029681
-url: /qld/wooloowin/
 layout: suburb
+longitude: 153.029681
+postcode: '4030'
+state: QLD
+title: WOOLOOWIN
+url: /qld/wooloowin/
 ---

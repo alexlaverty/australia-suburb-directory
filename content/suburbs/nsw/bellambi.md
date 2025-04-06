@@ -1,9 +1,10 @@
 ---
-title: BELLAMBI
-state: NSW
-postcode: 2518
+lastmod: '2025-04-06T06:05:20+00:00'
 latitude: -34.373654
-longitude: 150.886721
-url: /nsw/bellambi/
 layout: suburb
+longitude: 150.886721
+postcode: '2518'
+state: NSW
+title: BELLAMBI
+url: /nsw/bellambi/
 ---

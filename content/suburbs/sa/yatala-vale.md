@@ -1,9 +1,10 @@
 ---
-title: YATALA VALE
-state: SA
-postcode: 5126
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.793414
-longitude: 138.724953
-url: /sa/yatala-vale/
 layout: suburb
+longitude: 138.724953
+postcode: '5126'
+state: SA
+title: YATALA VALE
+url: /sa/yatala-vale/
 ---

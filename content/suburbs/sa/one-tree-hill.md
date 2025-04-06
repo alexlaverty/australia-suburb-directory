@@ -1,9 +1,10 @@
 ---
-title: ONE TREE HILL
-state: SA
-postcode: 5114
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -34.718681
-longitude: 138.754254
-url: /sa/one-tree-hill/
 layout: suburb
+longitude: 138.754254
+postcode: '5114'
+state: SA
+title: ONE TREE HILL
+url: /sa/one-tree-hill/
 ---

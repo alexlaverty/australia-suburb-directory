@@ -1,9 +1,10 @@
 ---
-title: BELDON
-state: WA
-postcode: 6027
+lastmod: '2025-04-06T06:05:21+00:00'
 latitude: -31.763347
-longitude: 115.756405
-url: /wa/beldon/
 layout: suburb
+longitude: 115.756405
+postcode: '6027'
+state: WA
+title: BELDON
+url: /wa/beldon/
 ---
