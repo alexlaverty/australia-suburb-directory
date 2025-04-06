@@ -1,0 +1,54 @@
+name: Enrich Suburb Data
+
+on:
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+  schedule:
+    - cron: '0 * * * *' # Run hourly (at the start of the hour)
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository # Check out the code including full history
+      uses: actions/checkout@v4 # Use latest checkout action
+      with:
+        fetch-depth: 0 # Needed to compare changes correctly
+        token: ${{ secrets.PAT_TOKEN }} # Use PAT for commit/push permissions
+
+    - name: Set up Python
+      uses: actions/setup-python@v5 # Use latest setup-python action
+      with:
+        python-version: '3.11' # Or your preferred Python version
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install google-generativeai python-frontmatter PyYAML python-dotenv
+
+    - name: Run enrichment script and commit changes
+      run: |
+        # Run the Python script to potentially modify a suburb file
+        python enrich_suburb.py
+
+        # Configure Git user for commit
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+        # Stage *all* potential changes (e.g., modified .md files)
+        git add -A
+
+        # Check if there are any staged changes
+        # If git diff --staged --quiet exits with 1, there are changes
+        if ! git diff --staged --quiet; then
+          echo "Changes detected. Committing and pushing..."
+          git commit -m "Auto-enrich suburb data [skip ci]" # Commit changes
+          git push origin main # Push to the main branch (adjust if needed)
+        else
+          echo "No changes detected by the script."
+        fi
+      env:
+         # Pass API key securely to the script via environment variable
+         # The script uses load_dotenv() to read this if GOOGLE_API_KEY isn't set
+         # Ensure your script reads os.getenv("GOOGLE_API_KEY")
+         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }} # Assumes you also add API key as a GitHub secret
