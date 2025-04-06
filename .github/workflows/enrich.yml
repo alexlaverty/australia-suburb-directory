@@ -26,9 +26,26 @@ jobs:
         python -m pip install --upgrade pip
         pip install google-generativeai python-frontmatter PyYAML python-dotenv
 
-    - name: Run enrichment script
+    - name: Run enrichment script and commit changes
       run: |
+        # Run the enrichment script
         python enrich_suburb.py
+
+        # Configure Git user for commit
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+        # Stage all changes
+        git add -A
+
+        # Commit changes if there are any
+        if ! git diff --staged --quiet; then
+          echo "Changes detected. Committing to main branch..."
+          git commit -m "Auto-enrich suburb data [skip ci]"
+          git push origin main
+        else
+          echo "No changes detected by the enrichment script."
+        fi
 
     - name: Set up Hugo
       uses: peaceiris/actions-hugo@v2
