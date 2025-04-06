@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/australia-suburb-directory/</loc>
-    <lastmod>2025-04-06T07:48:25+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/australia-suburb-directory/vic/streatham/</loc>
-    <lastmod>2025-04-06T07:48:25+00:00</lastmod>
+    <lastmod>2025-04-06T08:21:40+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/suburbs/</loc>
+    <lastmod>2025-04-06T08:21:40+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/australia-suburb-directory/vic/west-bendigo/</loc>
+    <lastmod>2025-04-06T08:21:40+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/australia-suburb-directory/nsw/queanbeyan/</loc>
+    <lastmod>2025-04-06T08:20:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/australia-suburb-directory/qld/cooktown/</loc>
+    <lastmod>2025-04-06T08:18:11+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/australia-suburb-directory/qld/sandgate/</loc>
+    <lastmod>2025-04-06T08:13:55+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/australia-suburb-directory/vic/streatham/</loc>
     <lastmod>2025-04-06T07:48:25+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/wa/carramar/</loc>
@@ -8307,9 +8319,6 @@
     <lastmod>2025-04-06T06:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/wa/cookernup/</loc>
-    <lastmod>2025-04-06T06:05:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/australia-suburb-directory/qld/cooktown/</loc>
     <lastmod>2025-04-06T06:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/qld/coolabine/</loc>
@@ -22365,9 +22374,6 @@
     <lastmod>2025-04-06T06:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/sa/sanderston/</loc>
-    <lastmod>2025-04-06T06:05:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/australia-suburb-directory/qld/sandgate/</loc>
     <lastmod>2025-04-06T06:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/qld/sandgate-dc/</loc>
@@ -45062,9 +45068,6 @@
     <loc>http://localhost:1313/australia-suburb-directory/vic/quarry-hill/</loc>
     <lastmod>2025-04-06T06:05:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/australia-suburb-directory/nsw/queanbeyan/</loc>
-    <lastmod>2025-04-06T06:05:20+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/nsw/queanbeyan-dc/</loc>
     <lastmod>2025-04-06T06:05:20+00:00</lastmod>
   </url><url>
@@ -49932,9 +49935,6 @@
     <lastmod>2025-04-06T06:05:20+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/nsw/west-bathurst/</loc>
-    <lastmod>2025-04-06T06:05:20+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/australia-suburb-directory/vic/west-bendigo/</loc>
     <lastmod>2025-04-06T06:05:20+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/nsw/west-bungawalbin/</loc>

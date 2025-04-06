@@ -1,12 +1,10 @@
 {{ define "title" }}Homepage - {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
-    <h1>Welcome to {{ .Site.Title }}</h1>
+    <h1>Welcome to the {{ .Site.Title }}</h1>
     <p>Learn about a new suburb everyday!</p>
 
     <section class="recent-updates">
-        <h2>Recently Updated Suburbs</h2>
-
         {{ $pages := where .Site.RegularPages "Kind" "page" }}
         {{ $sortedPages := sort $pages ".Lastmod" "desc" }}
         {{ $recentPages := first 10 $sortedPages }}
@@ -16,7 +14,7 @@
             {{ $currentPage := . }} {{/* Assign current page object to a variable */}}
             <article class="suburb-entry">
                 <header>
-                    <h2><a href="{{ $currentPage.RelPermalink }}">Facts about {{ $currentPage.Title }}, {{ $currentPage.Params.postcode }}, {{ $currentPage.Params.state }}</a></h2>
+                    <h2><a href="{{ $currentPage.RelPermalink }}">{{ $currentPage.Title }}, {{ $currentPage.Params.postcode }}, {{ $currentPage.Params.state }}</a></h2>
                     <p class="update-date">{{ $currentPage.Lastmod.Format "Jan 2, 2006" }}</p>
                 </header>
                 {{/* --- Embedded Map Section --- */}}
@@ -42,7 +40,7 @@
                     {{ with $currentPage.Params.facts }}
                         {{ if gt (len .) 0 }}
                         <section class="facts-section">
-                            <!-- <h3>Facts about {{ $currentPage.Title }}, {{ $currentPage.Params.postcode }}, {{ $currentPage.Params.state }}</h3> {{/* Corrected */}} -->
+                            <h3>Facts about {{ $currentPage.Title }}</h3> {{/* Corrected */}}
                             <ul>
                                 {{ range . }}
                                 <li>{{ . }}</li>

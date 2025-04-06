@@ -1,19 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Site.Title }} | All Suburbs by State</title> <!-- Use Site title & specific page title -->
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-</head>
-<body>
+{{ define "main" }}
     <header>
-        <!-- Keep existing header or integrate theme header if desired -->
         <h1>Australian Suburbs by State</h1>
         <p>Explore all suburbs sorted alphabetically within each state.</p>
     </header>
 
-    <main> <!-- Keep the main container -->
+    <main>
         {{ $allSuburbPages := where .Site.Pages "Type" "suburbs" }}
         {{ $suburbsToGroup := where $allSuburbPages "Kind" "page" }}
 
@@ -26,22 +17,17 @@
             {{ end }}
             {{ $states = uniq $states | sort }}
 
-            <!-- Removed debug text -->
-
             {{ range $states }}
                 {{ $state := . }}
                 {{ $pagesInState := where $suburbsToGroup "Params.state" $state }}
                 {{ $sortedPages := sort $pagesInState "Title" }}
 
-                <section class="state-section"> <!-- Added a section wrapper for better structure/spacing -->
+                <section class="state-section">
                     <h3>{{ $state }} ({{ len $pagesInState }} suburbs)</h3>
-                    <ul class="suburb-list"> <!-- Added class="suburb-list" -->
+                    <ul class="suburb-list">
                         {{ range $sortedPages }}
-                            <li> <!-- Keep list item simple -->
+                            <li>
                                 <a href="{{ .Permalink }}">{{ .Title }}</a>
-                                {{/* Removed postcode display for cleaner columns, add back if desired
-                                {{ if .Params.postcode }} - {{ .Params.postcode }}{{ end }}
-                                */}}
                             </li>
                         {{ end }}
                     </ul>
@@ -51,10 +37,4 @@
             <p>No suburb pages found.</p>
         {{ end }}
     </main>
-
-    <footer>
-         <!-- Keep existing footer -->
-        <p>© {{ now.Format "2006" }} Aussie Suburbs</p>
-    </footer>
-</body>
-</html>
+{{ end }}

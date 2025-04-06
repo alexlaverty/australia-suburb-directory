@@ -18,14 +18,33 @@
 </head>
 <body>
     <header>
-         <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-         <!-- Navigation -->
+        <h1><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
     </header>
-    <main>
-        {{ block "main" . }}
-            <!-- Default main content -->
-        {{ end }}
-    </main>
+    <div class="container">
+        <main class="main-content">
+            {{ block "main" . }}
+                <!-- Default main content -->
+            {{ end }}
+        </main>
+        <aside class="sidebar">
+            <nav class="sidebar-nav">
+                <h3>Navigation</h3>
+                <ul>
+                    <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+                    <li><a href="{{ .Site.BaseURL }}suburbs/">All Suburbs</a></li>
+                </ul>
+                <h3>Recently Updated</h3>
+                <ul>
+                    {{ $pages := where .Site.RegularPages "Kind" "page" }}
+                    {{ $sortedPages := sort $pages ".Lastmod" "desc" }}
+                    {{ $recentPages := first 10 $sortedPages }}
+                    {{ range $recentPages }}
+                    <li><a href="{{ .RelPermalink }}">{{ .Title }}, {{ .Params.state }}</a></li>
+                    {{ end }}
+                </ul>
+            </nav>
+        </aside>
+    </div>
     <footer>
         <p>© {{ now.Format "2006" }} {{ .Site.Title }}</p>
     </footer>

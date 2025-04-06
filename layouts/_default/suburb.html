@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{ $desc := printf "Explore %s, located in %s. Discover information about this suburb, including its postcode, latitude, and longitude." .Title .Params.state }}
-    {{ with .Lastmod }}{{ $desc = printf "%s Last updated: %s." $desc (.Format "January 2, 2006") }}{{ end }}
-    <meta name="description" content="{{ $desc }}">
-    <meta name="keywords" content="{{ .Title }}, {{ .Params.state }}, suburb directory, Australian suburbs">
-    <title>{{ .Title }} - {{ .Params.state }}</title>
-    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
-
-    <!-- Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4P23WF01YZ"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'G-4P23WF01YZ');
-    </script>
-    <!-- End Google Analytics -->
-</head>
-<body>
+{{ define "main" }}
     <header>
         <h1>{{ .Title }}</h1>
         <p>State: {{ .Params.state }}</p>
@@ -32,8 +10,8 @@
     <main>
         {{/* --- Embedded Map Section --- */}}
         {{ if .Params.state }}
-        <section class="map-section">
-            <h3>Location Map</h3>
+        <section class="map-section" id="location-map">
+            <h3><a href="#location-map">Location Map</a></h3>
             {{ $suburb := .Title }}
             {{ $state := .Params.state }}
             {{ $query := printf "%s, %s" $suburb $state }}
@@ -52,8 +30,8 @@
         {{/* --- Display Facts if they exist --- */}}
         {{ with .Params.facts }}
             {{ if gt (len .) 0 }}
-            <section class="facts-section">
-                <h3>Facts about {{ $.Title }}</h3>
+            <section class="facts-section" id="facts">
+                <h3><a href="#facts">Facts about {{ $.Title }}</a></h3>
                 <ol>
                     {{ range . }}
                     <li>{{ . }}</li>
@@ -67,8 +45,8 @@
         {{/* --- Display Tourist Locations if they exist --- */}}
         {{ with .Params.tourist_locations }}
             {{ if gt (len .) 0 }}
-            <section class="locations-section">
-                <h3>Tourist Locations near {{ $.Title }}</h3>
+            <section class="locations-section" id="tourist-locations">
+                <h3><a href="#tourist-locations">Tourist Locations near {{ $.Title }}</a></h3>
                 <ol>
                     {{ range . }}
                     <li>{{ . }}</li>
@@ -82,8 +60,8 @@
         {{/* --- Display Notable People if they exist --- */}}
         {{ with .Params.notable_people }}
             {{ if gt (len .) 0 }}
-            <section class="notable-people-section">
-                <h3>Notable People from {{ $.Title }}</h3>
+            <section class="notable-people-section" id="notable-people">
+                <h3><a href="#notable-people">Notable People from {{ $.Title }}</a></h3>
                 <ul>
                     {{ range . }}
                     <li>{{ . }}</li>
@@ -97,8 +75,8 @@
         {{/* --- Display Historical Events if they exist --- */}}
         {{ with .Params.historical_events }}
             {{ if gt (len .) 0 }}
-            <section class="historical-events-section">
-                <h3>Notable Historical Events in {{ $.Title }}</h3>
+            <section class="historical-events-section" id="historical-events">
+                <h3><a href="#historical-events">Notable Historical Events in {{ $.Title }}</a></h3>
                 <ul>
                     {{ range . }}
                     <li>{{ . }}</li>
@@ -110,8 +88,8 @@
         {{/* --- End Historical Events Section --- */}}
 
         {{/* --- Disqus Comments Section --- */}}
-        <section class="comments-section">
-            <h3>Comments</h3>
+        <section class="comments-section" id="comments">
+            <h3><a href="#comments">Comments</a></h3>
             <div id="disqus_thread"></div>
             <script>
                 var disqus_config = function () {
@@ -130,8 +108,4 @@
         </section>
         {{/* --- End Disqus Comments Section --- */}}
     </main>
-    <footer>
-        <p>© {{ now.Format "2006" }} Australian Suburb Directory</p>
-    </footer>
-</body>
-</html>
+{{ end }}

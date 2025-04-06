@@ -45,7 +45,7 @@ main {
 }
 
 .state-section h3 {
-    color: #343a40; /* Dark heading color */
+    color: #b0c6dc; /* Dark heading color */
     margin-top: 0;
     margin-bottom: 1rem; /* Space below header */
     font-size: 1.5rem;
@@ -150,3 +150,60 @@ footer {
 }
 
 /* --- End Map Section Styles --- */
+
+/* --- Layout Styles --- */
+.container {
+    display: flex;
+    flex-direction: row; /* Ensure horizontal layout */
+    align-items: flex-start; /* Align items to the top */
+    gap: 20px; /* Space between main content and sidebar */
+    max-width: 1200px; /* Limit the container width */
+    margin: 0 auto; /* Center the container */
+    padding: 1rem;
+}
+
+main.main-content {
+    flex: 3; /* Main content takes up more space */
+    background: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.sidebar {
+    flex: 1; /* Sidebar takes up less space */
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-left: 1px solid #dee2e6;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+}
+
+.sidebar h3 {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    color: #343a40;
+    border-bottom: 2px solid #dee2e6;
+    padding-bottom: 0.5rem;
+}
+
+.sidebar-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar-nav ul li {
+    margin-bottom: 0.5rem;
+}
+
+.sidebar-nav ul li a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1rem;
+    transition: color 0.2s ease;
+}
+
+.sidebar-nav ul li a:hover {
+    color: #0056b3;
+}

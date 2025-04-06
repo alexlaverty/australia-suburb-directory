@@ -9,6 +9,16 @@
     <meta name="keywords" content="EVANSTON GARDENS, SA, suburb directory, Australian suburbs">
     <title>EVANSTON GARDENS - SA</title>
     <link rel="stylesheet" href="/australia-suburb-directory/css/style.css">
+
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4P23WF01YZ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4P23WF01YZ');
+    </script>
+    
 </head>
 <body>
     <header>
@@ -22,8 +32,8 @@
     <main>
         
         
-        <section class="map-section">
-            <h3>Location Map</h3>
+        <section class="map-section" id="location-map">
+            <h3><a href="#location-map">Location Map</a></h3>
             
             
             
@@ -38,7 +48,6 @@
         </section>
         
         
-        
 
         
         
@@ -54,6 +63,27 @@
 
         
         
+        
+
+        
+        <section class="comments-section" id="comments">
+            <h3><a href="#comments">Comments</a></h3>
+            <div id="disqus_thread"></div>
+            <script>
+                var disqus_config = function () {
+                    this.page.url = "http:\/\/localhost:1313\/australia-suburb-directory\/sa\/evanston-gardens\/";  
+                    this.page.identifier = "suburbs\/sa\/evanston-gardens.md"; 
+                };
+
+                (function() { 
+                    var d = document, s = d.createElement('script');
+                    s.src = 'https://alexlaverty.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        </section>
         
     </main>
     <footer>
