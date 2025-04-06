@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/australia-suburb-directory/suburbs/</loc>
     <lastmod>2025-04-06T07:48:25+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/australia-suburb-directory/wa/carramar/</loc>
+    <lastmod>2025-04-06T07:32:49+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/tas/loira/</loc>
     <lastmod>2025-04-06T07:28:16+00:00</lastmod>
   </url><url>
@@ -7374,9 +7377,6 @@
     <lastmod>2025-04-06T06:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/vic/carrajung-south/</loc>
-    <lastmod>2025-04-06T06:05:21+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/australia-suburb-directory/wa/carramar/</loc>
     <lastmod>2025-04-06T06:05:21+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/qld/carrandotta/</loc>
