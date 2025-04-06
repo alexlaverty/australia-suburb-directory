@@ -28,6 +28,9 @@ jobs:
 
     - name: Run enrichment script and commit changes
       run: |
+        # Change to the correct directory
+        cd src/australia-suburb-directory
+
         # Run the Python script to potentially modify a suburb file
         python enrich_suburb.py
 
@@ -39,7 +42,6 @@ jobs:
         git add -A
 
         # Check if there are any staged changes
-        # If git diff --staged --quiet exits with 1, there are changes
         if ! git diff --staged --quiet; then
           echo "Changes detected. Committing and pushing..."
           git commit -m "Auto-enrich suburb data [skip ci]" # Commit changes
@@ -48,7 +50,4 @@ jobs:
           echo "No changes detected by the script."
         fi
       env:
-         # Pass API key securely to the script via environment variable
-         # The script uses load_dotenv() to read this if GOOGLE_API_KEY isn't set
-         # Ensure your script reads os.getenv("GOOGLE_API_KEY")
-         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }} # Assumes you also add API key as a GitHub secret
+         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
