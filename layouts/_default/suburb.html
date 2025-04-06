@@ -38,14 +38,14 @@
         </section>
         {{ end }}
         {{/* --- End Embedded Map Section --- */}}
-        <section class="about-section">
+        <!-- <section class="about-section">
             <h2>About {{ .Title }}</h2>
             <p>{{ .Title }} is located in {{ .Params.state }}.</p>
             <ul>
                 <li>Latitude: {{ .Params.latitude | default "N/A" }}</li>
                 <li>Longitude: {{ .Params.longitude | default "N/A" }}</li>
             </ul>
-        </section>
+        </section> -->
 
         {{/* --- Display Facts if they exist --- */}}
         {{ with .Params.facts }}
@@ -77,9 +77,35 @@
         {{ end }}
         {{/* --- End Tourist Locations Section --- */}}
 
+        {{/* --- Display Notable People if they exist --- */}}
+        {{ with .Params.notable_people }}
+            {{ if gt (len .) 0 }}
+            <section class="notable-people-section">
+                <h3>Notable People from {{ $.Title }}</h3>
+                <ul>
+                    {{ range . }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </section>
+            {{ end }}
+        {{ end }}
+        {{/* --- End Notable People Section --- */}}
 
-
-
+        {{/* --- Display Historical Events if they exist --- */}}
+        {{ with .Params.historical_events }}
+            {{ if gt (len .) 0 }}
+            <section class="historical-events-section">
+                <h3>Notable Historical Events in {{ $.Title }}</h3>
+                <ul>
+                    {{ range . }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </section>
+            {{ end }}
+        {{ end }}
+        {{/* --- End Historical Events Section --- */}}
     </main>
     <footer>
         <p>© {{ now.Format "2006" }} Australian Suburb Directory</p>

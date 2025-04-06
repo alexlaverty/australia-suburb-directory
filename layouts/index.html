@@ -1,39 +1,108 @@
 {{ define "title" }}Homepage - {{ .Site.Title }}{{ end }}
 
 {{ define "main" }}
-    <h1>Welcome - Linking Correctly</h1>
-    <p>Displaying recent suburbs with correct links and titles.</p>
+    <h1>Welcome to {{ .Site.Title }}</h1>
+    <p>Learn about a new suburb everyday!</p>
 
     <section class="recent-updates">
         <h2>Recently Updated Suburbs</h2>
 
         {{ $pages := where .Site.RegularPages "Kind" "page" }}
         {{ $sortedPages := sort $pages ".Lastmod" "desc" }}
-        {{ $recentPages := first 50 $sortedPages }}
+        {{ $recentPages := first 10 $sortedPages }}
 
         {{ if $recentPages }}
-            <ul>
-                {{/* Loop through the pages */}}
-                {{ range $recentPages }}
-                    {{ $currentPage := . }} {{/* Assign current page object to a variable */}}
-                <li>
-                    {{/* Use 'with' on the page's permalink */}}
-                    {{ with $currentPage.RelPermalink }}
-                        {{/* Inside 'with', '.' is the permalink, use $currentPage for page properties */}}
-                        <a href="{{ . }}">{{ $currentPage.Title }}</a>
-                    {{ else }}
-                        {{/* Fallback if permalink fails (unlikely now, but safe) */}}
-                        {{ $currentPage.Title }} <strong style="color:red;">(Permalink Error)</strong>
+            {{ range $recentPages }}
+            {{ $currentPage := . }} {{/* Assign current page object to a variable */}}
+            <article class="suburb-entry">
+                <header>
+                    <h2><a href="{{ $currentPage.RelPermalink }}">Facts about {{ $currentPage.Title }}, {{ $currentPage.Params.postcode }}, {{ $currentPage.Params.state }}</a></h2>
+                    <p class="update-date">{{ $currentPage.Lastmod.Format "Jan 2, 2006" }}</p>
+                </header>
+                {{/* --- Embedded Map Section --- */}}
+                {{ if .Params.state }}
+                <section class="map-section">
+                    <h3>Location Map</h3>
+                    {{ $suburb := $currentPage.Title }}
+                    {{ $state := $currentPage.Params.state }}
+                    {{ $query := printf "%s, %s" $suburb $state }}
+                    {{ $mapURL := printf "https://maps.google.com/maps?q=%s&hl=en&output=embed" ($query | urlquery) }}
+                    <div class="map-container">
+                         <iframe
+                            width="100%" height="300" style="border:0; border-radius: 8px;"
+                            loading="lazy" allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"
+                            title="Map location for {{ $query }}" src="{{ $mapURL | safeURL }}">
+                        </iframe>
+                    </div>
+                </section>
+                {{ end }}
+                {{/* --- End Embedded Map Section --- */}}
+                <section class="suburb-content">
+                    {{/* Display Facts - Use $currentPage.Title */}}
+                    {{ with $currentPage.Params.facts }}
+                        {{ if gt (len .) 0 }}
+                        <section class="facts-section">
+                            <!-- <h3>Facts about {{ $currentPage.Title }}, {{ $currentPage.Params.postcode }}, {{ $currentPage.Params.state }}</h3> {{/* Corrected */}} -->
+                            <ul>
+                                {{ range . }}
+                                <li>{{ . }}</li>
+                                {{ end }}
+                            </ul>
+                        </section>
+                        {{ end }}
                     {{ end }}
 
-                    {{/* Use the variable to access Lastmod outside the 'with' block */}}
-                    <span class="update-date">(Updated: {{ $currentPage.Lastmod.Format "Jan 2, 2006" }})</span>
-                </li>
-                {{ end }} {{/* End range */}}
-            </ul>
+                    {{/* Display Tourist Locations - Use $currentPage.Title */}}
+                    {{ with $currentPage.Params.tourist_locations }}
+                        {{ if gt (len .) 0 }}
+                        <section class="locations-section">
+                            <h3>Tourist Locations near {{ $currentPage.Title }}</h3> {{/* Corrected */}}
+                            <ul>
+                                {{ range . }}
+                                <li>{{ . }}</li>
+                                {{ end }}
+                            </ul>
+                        </section>
+                        {{ end }}
+                    {{ end }}
+
+                    {{/* Display Notable People - Use $currentPage.Title */}}
+                    {{ with $currentPage.Params.notable_people }}
+                        {{ if gt (len .) 0 }}
+                        <section class="notable-people-section">
+                            <h3>Notable People from {{ $currentPage.Title }}</h3> {{/* Corrected */}}
+                            <ul>
+                                {{ range . }}
+                                <li>{{ . }}</li>
+                                {{ end }}
+                            </ul>
+                        </section>
+                        {{ end }}
+                    {{ end }}
+
+                    {{/* Display Historical Events - Use $currentPage.Title */}}
+                    {{ with $currentPage.Params.historical_events }}
+                        {{ if gt (len .) 0 }}
+                        <section class="historical-events-section">
+                            <h3>Notable Historical Events in {{ $currentPage.Title }}</h3> {{/* Corrected */}}
+                            <ul>
+                                {{ range . }}
+                                <li>{{ . }}</li>
+                                {{ end }}
+                            </ul>
+                        </section>
+                        {{ end }}
+                    {{ end }}
+                </section>
+                <footer>
+                    <a href="{{ $currentPage.RelPermalink }}" class="read-more">Read more about {{ $currentPage.Title }}</a>
+                </footer>
+            </article>
+            <hr>
+            {{ end }} {{/* End range */}}
         {{ else }}
-            <p>No recently updated pages found.</p>
+            <p>No recently updated suburbs found.</p>
         {{ end }}
     </section>
 
-{{ end }} {{/* End main block */}}
+{{ end }} {{/* End main */}}

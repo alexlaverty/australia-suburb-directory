@@ -18,14 +18,14 @@ except ImportError as e:
 
 # --- Configuration ---
 CONTENT_DIR = "content/suburbs"
-FACTS_KEY = "facts" # Key for facts in front matter
-LOCATIONS_KEY = "tourist_locations" # Key for locations
-MODEL_NAME = "gemini-1.5-pro-latest" # Or other suitable Gemini model
+FACTS_KEY = "facts"  # Key for facts in front matter
+LOCATIONS_KEY = "tourist_locations"  # Key for locations
+NOTABLE_PEOPLE_KEY = "notable_people"  # Key for notable people
+HISTORICAL_EVENTS_KEY = "historical_events"  # Key for historical events
+MODEL_NAME = "gemini-1.5-pro-latest"  # Or other suitable Gemini model
 # --- End Configuration ---
 
 # --- Safety Settings for Gemini ---
-# Adjust as needed, see Google AI documentation
-# https://ai.google.dev/docs/safety_setting_gemini
 SAFETY_SETTINGS = [
     {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_MEDIUM_AND_ABOVE"},
     {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_MEDIUM_AND_ABOVE"},
@@ -33,11 +33,11 @@ SAFETY_SETTINGS = [
     {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_MEDIUM_AND_ABOVE"},
 ]
 GENERATION_CONFIG = {
-    "temperature": 0.7, # Adjust for creativity vs factualness
+    "temperature": 0.7,
     "top_p": 1.0,
     "top_k": 32,
-    "max_output_tokens": 1024, # Adjust if needed
-    "response_mime_type": "application/json", # Request JSON output
+    "max_output_tokens": 1024,
+    "response_mime_type": "application/json",
 }
 # --- End Safety Settings ---
 
@@ -54,8 +54,8 @@ def find_markdown_files(directory):
                 md_files.append(os.path.join(subdir, filename))
     return md_files
 
-def update_suburb_file(filepath, facts_list, locations_list):
-    """Reads, updates front matter with facts/locations/lastmod, writes back."""
+def update_suburb_file(filepath, facts_list, locations_list, notable_people_list, historical_events_list):
+    """Reads, updates front matter with facts/locations/notable_people/historical_events/lastmod, writes back."""
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             post = frontmatter.load(f)
@@ -63,7 +63,9 @@ def update_suburb_file(filepath, facts_list, locations_list):
         # Update metadata
         post.metadata[FACTS_KEY] = facts_list
         post.metadata[LOCATIONS_KEY] = locations_list
-        post.metadata['lastmod'] = datetime.now(timezone.utc).isoformat(timespec='seconds') # Update timestamp
+        post.metadata[NOTABLE_PEOPLE_KEY] = notable_people_list
+        post.metadata[HISTORICAL_EVENTS_KEY] = historical_events_list
+        post.metadata['lastmod'] = datetime.now(timezone.utc).isoformat(timespec='seconds')  # Update timestamp
 
         # Write back using binary mode for dump
         with open(filepath, 'wb') as f:
@@ -74,22 +76,26 @@ def update_suburb_file(filepath, facts_list, locations_list):
         return False
 
 def get_gemini_data(suburb_name, state):
-    """Queries Gemini API for facts and locations, expects JSON."""
+    """Queries Gemini API for facts, locations, notable people, and historical events."""
     print(f"\nQuerying Gemini for {suburb_name}, {state}...")
 
     prompt = f"""
     Provide information about the suburb "{suburb_name}" in the state "{state}", Australia.
-    Please return the response strictly as a JSON object with two keys:
-    1.  "facts": A list containing exactly 10 interesting facts about this suburb.
-    2.  "tourist_locations": A list containing exactly 10 tourist locations or points of interest in or very near this suburb.
+    Please return the response strictly as a JSON object with four keys:
+    1. "facts": A list containing exactly 10 interesting facts about this suburb.
+    2. "tourist_locations": A list containing exactly 10 tourist locations or points of interest in or very near this suburb.
+    3. "notable_people": A list containing up to 10 famous or notable people who live or have lived in this suburb.
+    4. "historical_events": A list containing up to 10 notable historical events that occurred in this suburb.
 
     Example JSON format:
     {{
       "facts": ["Fact 1", "Fact 2", ..., "Fact 10"],
-      "tourist_locations": ["Location 1", "Location 2", ..., "Location 10"]
+      "tourist_locations": ["Location 1", "Location 2", ..., "Location 10"],
+      "notable_people": ["Person 1", "Person 2", ..., "Person 10"],
+      "historical_events": ["Event 1", "Event 2", ..., "Event 10"]
     }}
 
-    If the suburb is very small or obscure and you cannot find 10 distinct facts or locations, provide as many as you can find, up to 10, but still maintain the list format within the JSON structure. If you find absolutely nothing, return empty lists for both keys.
+    If the suburb is very small or obscure and you cannot find 10 distinct facts, locations, people, or events, provide as many as you can find, up to 10, but still maintain the list format within the JSON structure. If you find absolutely nothing, return empty lists for all keys.
     """
 
     try:
@@ -100,46 +106,28 @@ def get_gemini_data(suburb_name, state):
         )
         response = model.generate_content(prompt)
 
-        # Debug: Print raw response text
-        # print("--- Gemini Raw Response Text ---")
-        # print(response.text)
-        # print("-------------------------------")
-
         # Attempt to parse the JSON response
         data = json.loads(response.text)
 
         # Validate structure and extract lists
         facts = data.get(FACTS_KEY, [])
         locations = data.get(LOCATIONS_KEY, [])
+        notable_people = data.get(NOTABLE_PEOPLE_KEY, [])
+        historical_events = data.get(HISTORICAL_EVENTS_KEY, [])
 
-        if not isinstance(facts, list) or not isinstance(locations, list):
-             print("Error: Gemini response did not contain valid lists for 'facts' and 'tourist_locations'.")
-             return None, None
+        if not all(isinstance(lst, list) for lst in [facts, locations, notable_people, historical_events]):
+            print("Error: Gemini response did not contain valid lists for all keys.")
+            return None, None, None, None
 
-        print(f"Successfully retrieved {len(facts)} facts and {len(locations)} locations.")
-        return facts, locations
+        print(f"Successfully retrieved {len(facts)} facts, {len(locations)} locations, {len(notable_people)} notable people, and {len(historical_events)} historical events.")
+        return facts, locations, notable_people, historical_events
 
     except json.JSONDecodeError as e:
         print(f"Error: Failed to decode JSON response from Gemini: {e}")
-        print("--- Gemini Raw Response Text ---")
-        # Try to print the raw text even if JSON parsing failed
-        try:
-            print(response.text)
-        except Exception:
-            print("(Could not retrieve raw response text)")
-        print("-------------------------------")
-        return None, None
+        return None, None, None, None
     except Exception as e:
         print(f"Error querying Gemini API: {e}")
-        # This could be API key issues, connection errors, safety blocks, etc.
-        # Check response.prompt_feedback for safety blocks if needed
-        try:
-            if response and response.prompt_feedback:
-                 print(f"Prompt Feedback (Safety): {response.prompt_feedback}")
-        except Exception:
-             pass # Ignore errors trying to get feedback details
-        return None, None
-
+        return None, None, None, None
 
 def main():
     """Main script logic."""
@@ -170,9 +158,9 @@ def main():
         with open(selected_file, 'r', encoding='utf-8') as f:
             post = frontmatter.load(f)
 
-        if FACTS_KEY in post.metadata or LOCATIONS_KEY in post.metadata:
-            print(f"Skipping: File already contains '{FACTS_KEY}' or '{LOCATIONS_KEY}'.")
-            sys.exit(0) # Exit successfully, nothing to do
+        if any(key in post.metadata for key in [FACTS_KEY, LOCATIONS_KEY, NOTABLE_PEOPLE_KEY, HISTORICAL_EVENTS_KEY]):
+            print(f"Skipping: File already contains enrichment data.")
+            sys.exit(0)  # Exit successfully, nothing to do
 
         # Extract needed info for prompt
         suburb_name = post.metadata.get('title')
@@ -180,18 +168,18 @@ def main():
 
         if not suburb_name or not state:
             print(f"Skipping: Missing 'title' or 'state' in front matter for {selected_file}.")
-            sys.exit(1) # Exit with error, file is malformed for our purpose
+            sys.exit(1)  # Exit with error, file is malformed for our purpose
 
     except (yaml.YAMLError, FileNotFoundError, Exception) as e:
         print(f"Error reading or parsing {selected_file}: {e}")
-        sys.exit(1) # Exit with error
+        sys.exit(1)  # Exit with error
 
     # --- Query Gemini ---
-    facts_list, locations_list = get_gemini_data(suburb_name, state)
+    facts_list, locations_list, notable_people_list, historical_events_list = get_gemini_data(suburb_name, state)
 
     # --- Update file if data received ---
-    if facts_list is not None and locations_list is not None:
-        if update_suburb_file(selected_file, facts_list, locations_list):
+    if all(lst is not None for lst in [facts_list, locations_list, notable_people_list, historical_events_list]):
+        if update_suburb_file(selected_file, facts_list, locations_list, notable_people_list, historical_events_list):
             print(f"\nSuccessfully updated {selected_file} with Gemini data.")
         else:
             print(f"\nFailed to update {selected_file} after retrieving data.")
