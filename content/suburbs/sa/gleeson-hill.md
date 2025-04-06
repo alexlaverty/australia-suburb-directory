@@ -1,0 +1,9 @@
+---
+title: GLEESON HILL
+state: SA
+postcode: 5520
+latitude: -33.769107
+longitude: 138.12018
+url: /sa/gleeson-hill/
+layout: suburb
+---

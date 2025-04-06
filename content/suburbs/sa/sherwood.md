@@ -1,0 +1,9 @@
+---
+title: SHERWOOD
+state: SA
+postcode: 5267
+latitude: -36.093534
+longitude: 140.348707
+url: /sa/sherwood/
+layout: suburb
+---

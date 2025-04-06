@@ -1,0 +1,9 @@
+---
+title: ROUND HILL
+state: QLD
+postcode: 4677
+latitude: -24.318471
+longitude: 151.727736
+url: /qld/round-hill/
+layout: suburb
+---

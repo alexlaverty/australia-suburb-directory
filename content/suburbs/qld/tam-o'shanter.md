@@ -1,0 +1,9 @@
+---
+title: TAM O'SHANTER
+state: QLD
+postcode: 4852
+latitude: -17.830091
+longitude: 146.09996
+url: /qld/tam-o'shanter/
+layout: suburb
+---

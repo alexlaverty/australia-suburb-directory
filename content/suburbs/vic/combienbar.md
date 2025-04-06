@@ -1,0 +1,9 @@
+---
+title: COMBIENBAR
+state: VIC
+postcode: 3889
+latitude: -37.610841
+longitude: 148.873952
+url: /vic/combienbar/
+layout: suburb
+---

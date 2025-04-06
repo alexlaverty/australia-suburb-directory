@@ -1,0 +1,9 @@
+---
+title: HILLSDALE
+state: NSW
+postcode: 2036
+latitude: -33.969624
+longitude: 151.237844
+url: /nsw/hillsdale/
+layout: suburb
+---

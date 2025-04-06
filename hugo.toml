@@ -1,0 +1,4 @@
+baseURL = 'https://aussiesuburbs.org/'
+languageCode = 'en-us'
+title = 'Aussie Suburbs'
+theme = "ananke"

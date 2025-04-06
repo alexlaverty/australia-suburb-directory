@@ -1,0 +1,9 @@
+---
+title: GEILSTON BAY
+state: TAS
+postcode: 7015
+latitude: -42.83903
+longitude: 147.360174
+url: /tas/geilston-bay/
+layout: suburb
+---

@@ -1,0 +1,9 @@
+---
+title: WHITE MOUNTAIN
+state: QLD
+postcode: 4352
+latitude: -27.627661
+longitude: 151.94182
+url: /qld/white-mountain/
+layout: suburb
+---

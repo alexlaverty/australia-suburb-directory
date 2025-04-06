@@ -1,0 +1,9 @@
+---
+title: NORTHERN HEIGHTS
+state: SA
+postcode: 5253
+latitude: -35.109083
+longitude: 139.273641
+url: /sa/northern-heights/
+layout: suburb
+---

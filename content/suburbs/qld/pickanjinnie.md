@@ -1,0 +1,9 @@
+---
+title: PICKANJINNIE
+state: QLD
+postcode: 4428
+latitude: -26.40373
+longitude: 149.206489
+url: /qld/pickanjinnie/
+layout: suburb
+---

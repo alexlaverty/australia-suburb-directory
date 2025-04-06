@@ -1,0 +1,9 @@
+---
+title: PINE GROVE EAST
+state: VIC
+postcode: 3573
+latitude: -36.164865
+longitude: 144.297958
+url: /vic/pine-grove-east/
+layout: suburb
+---

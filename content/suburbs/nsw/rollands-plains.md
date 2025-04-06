@@ -1,0 +1,9 @@
+---
+title: ROLLANDS PLAINS
+state: NSW
+postcode: 2441
+latitude: -30.816097
+longitude: 152.831369
+url: /nsw/rollands-plains/
+layout: suburb
+---

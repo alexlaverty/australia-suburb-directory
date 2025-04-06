@@ -1,0 +1,9 @@
+---
+title: PYMBLE
+state: NSW
+postcode: 2073
+latitude: -33.757296
+longitude: 151.130278
+url: /nsw/pymble/
+layout: suburb
+---

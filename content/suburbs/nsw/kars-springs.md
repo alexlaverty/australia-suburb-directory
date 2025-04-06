@@ -1,0 +1,9 @@
+---
+title: KARS SPRINGS
+state: NSW
+postcode: 2337
+latitude: -31.966754
+longitude: 151.080412
+url: /nsw/kars-springs/
+layout: suburb
+---

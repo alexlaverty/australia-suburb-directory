@@ -1,0 +1,9 @@
+---
+title: TURNERS MARSH
+state: TAS
+postcode: 7267
+latitude: -41.264912
+longitude: 147.086396
+url: /tas/turners-marsh/
+layout: suburb
+---
