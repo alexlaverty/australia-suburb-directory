@@ -207,3 +207,75 @@ main.main-content {
 .sidebar-nav ul li a:hover {
     color: #0056b3;
 }
+
+/* ======================================== */
+/* Pagination Styling                     */
+/* ======================================== */
+
+/* Main container for the pagination links */
+.pagination {
+    display: flex;          /* Arrange items horizontally */
+    flex-wrap: wrap;        /* Allow items to wrap onto the next line on small screens */
+    justify-content: center; /* Center the pagination block horizontally */
+    list-style: none;       /* Remove default bullet points */
+    padding: 0;             /* Remove default padding */
+    margin-top: 2rem;       /* Add some space above the pagination */
+    margin-bottom: 2rem;    /* Add some space below the pagination */
+    gap: 5px;               /* Space between pagination items */
+  }
+  
+  /* Individual pagination items (list items) */
+  .pagination li {
+    margin: 0; /* Reset any default margins */
+  }
+  
+  /* Style for the links (<a>) and the current page indicator (<span>) */
+  .pagination li a,
+  .pagination li span {
+    display: block;         /* Make them block-level to accept padding/border */
+    padding: 8px 15px;     /* Padding inside each button */
+    border: 1px solid #ddd; /* Subtle border */
+    text-decoration: none;  /* Remove underline from links */
+    color: #0056b3;         /* Link color (adjust to your theme) */
+    background-color: #fff; /* Default background */
+    border-radius: 4px;     /* Slightly rounded corners */
+    transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease; /* Smooth transitions */
+    white-space: nowrap;    /* Prevent text like "Previous" from breaking */
+  }
+  
+  /* Hover effect for clickable links */
+  .pagination li a:hover {
+    background-color: #eee; /* Light grey background on hover */
+    border-color: #ccc;     /* Darker border on hover */
+    color: #003d80;         /* Darker link color on hover */
+  }
+  
+  /* Styling for the CURRENT/ACTIVE page item */
+  .pagination li.active span { /* Hugo often uses <li class="active"><span>...</span> */
+    background-color: #0056b3; /* Primary color background (adjust to your theme) */
+    border-color: #0056b3;     /* Matching border color */
+    color: #fff;             /* White text */
+    font-weight: bold;      /* Make the current page number bold */
+    cursor: default;        /* Indicate it's not clickable */
+  }
+  /* Fallback if active item is an <a> (less common for internal template) */
+  .pagination li.active a {
+      background-color: #0056b3;
+      border-color: #0056b3;
+      color: #fff;
+      font-weight: bold;
+      pointer-events: none; /* Disable click events */
+      cursor: default;
+  }
+  
+  
+  /* Styling for DISABLED Previous/Next links */
+  .pagination li.disabled span,
+  .pagination li.disabled a { /* Handle both span (common) and a */
+    color: #6c757d;         /* Greyed-out text color */
+    background-color: #f8f9fa; /* Very light grey background */
+    border-color: #dee2e6;     /* Lighter border color */
+    pointer-events: none;   /* Make sure it's not clickable */
+    cursor: default;        /* Default cursor */
+  }
+  

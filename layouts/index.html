@@ -5,12 +5,19 @@
     <p>Learn about a new suburb everyday!</p>
 
     <section class="recent-updates">
+        {{/* --- PAGINATION SETUP --- */}}
+        {{/* 1. Get all regular pages */}}
         {{ $pages := where .Site.RegularPages "Kind" "page" }}
+        {{/* 2. Sort them (descending by modification date) */}}
         {{ $sortedPages := sort $pages ".Lastmod" "desc" }}
-        {{ $recentPages := first 10 $sortedPages }}
+        {{/* 3. Paginate the sorted list - Hugo handles the slicing based on config */}}
+        {{ $paginator := .Paginate $sortedPages }}
+        {{/* --- END PAGINATION SETUP --- */}}
 
-        {{ if $recentPages }}
-            {{ range $recentPages }}
+
+        {{/* --- Range over the pages for the *current* pagination page --- */}}
+        {{ if $paginator.Pages }}
+            {{ range $paginator.Pages }}
             {{ $currentPage := . }} {{/* Assign current page object to a variable */}}
             <article class="suburb-entry">
                 <header>
@@ -40,7 +47,7 @@
                     {{ with $currentPage.Params.facts }}
                         {{ if gt (len .) 0 }}
                         <section class="facts-section">
-                            <h3>Facts about {{ $currentPage.Title }}</h3> {{/* Corrected */}}
+                            <h3>Facts about {{ $currentPage.Title }}</h3>
                             <ul>
                                 {{ range . }}
                                 <li>{{ . }}</li>
@@ -54,7 +61,7 @@
                     {{ with $currentPage.Params.tourist_locations }}
                         {{ if gt (len .) 0 }}
                         <section class="locations-section">
-                            <h3>Tourist Locations near {{ $currentPage.Title }}</h3> {{/* Corrected */}}
+                            <h3>Tourist Locations near {{ $currentPage.Title }}</h3>
                             <ul>
                                 {{ range . }}
                                 <li>{{ . }}</li>
@@ -68,7 +75,7 @@
                     {{ with $currentPage.Params.notable_people }}
                         {{ if gt (len .) 0 }}
                         <section class="notable-people-section">
-                            <h3>Notable People from {{ $currentPage.Title }}</h3> {{/* Corrected */}}
+                            <h3>Notable People from {{ $currentPage.Title }}</h3>
                             <ul>
                                 {{ range . }}
                                 <li>{{ . }}</li>
@@ -82,7 +89,7 @@
                     {{ with $currentPage.Params.historical_events }}
                         {{ if gt (len .) 0 }}
                         <section class="historical-events-section">
-                            <h3>Notable Historical Events in {{ $currentPage.Title }}</h3> {{/* Corrected */}}
+                            <h3>Notable Historical Events in {{ $currentPage.Title }}</h3>
                             <ul>
                                 {{ range . }}
                                 <li>{{ . }}</li>
@@ -97,10 +104,17 @@
                 </footer>
             </article>
             <hr>
-            {{ end }} {{/* End range */}}
+            {{ end }} {{/* End range $paginator.Pages */}}
         {{ else }}
-            <p>No recently updated suburbs found.</p>
+            <p>No suburbs found to display.</p> {{/* Slightly updated message */}}
         {{ end }}
+        {{/* --- END Range --- */}}
+
+        {{/* --- Add Pagination Links --- */}}
+        {{/* Use Hugo's built-in pagination template */}}
+        {{ template "_internal/pagination.html" . }}
+        {{/* --- END Pagination Links --- */}}
+
     </section>
 
 {{ end }} {{/* End main */}}

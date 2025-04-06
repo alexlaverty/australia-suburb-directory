@@ -2,3 +2,7 @@ baseURL = 'https://alexlaverty.github.io/australia-suburb-directory/'
 languageCode = 'en-us'
 title = 'Australia Suburb Directory'
 theme = "ananke"
+
+[pagination]
+pagerSize = 10  # Show 10 suburbs per page
+path = "page"   # URL structure will be /page/2/, /page/3/, etc.
