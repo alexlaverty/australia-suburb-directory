@@ -64,7 +64,17 @@
                             <h3>Tourist Locations near {{ $currentPage.Title }}</h3>
                             <ul>
                                 {{ range . }}
-                                <li>{{ . }}</li>
+                                <li>
+                                    {{ if reflect.IsMap . }} <!-- Check if the item is a dictionary -->
+                                        {{ if .url }}
+                                            <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .name }}</a>
+                                        {{ else }}
+                                            {{ .name }}
+                                        {{ end }}
+                                    {{ else }} <!-- If the item is a string -->
+                                        {{ . }}
+                                    {{ end }}
+                                </li>
                                 {{ end }}
                             </ul>
                         </section>
