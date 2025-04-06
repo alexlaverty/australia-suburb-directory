@@ -26,15 +26,15 @@ jobs:
         python -m pip install --upgrade pip
         pip install google-generativeai python-frontmatter PyYAML python-dotenv
 
-    - name: Debug current directory
-      run: |
-        echo "Current directory: $(pwd)"
-        ls -R
-        
+    # - name: Debug current directory
+    #   run: |
+    #     echo "Current directory: $(pwd)"
+    #     ls -R
+
     - name: Run enrichment script and commit changes
       run: |
         # Change to the correct directory
-        cd src/australia-suburb-directory
+        #cd src/australia-suburb-directory
 
         # Run the Python script to potentially modify a suburb file
         python enrich_suburb.py
