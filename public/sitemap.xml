@@ -3,10 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/australia-suburb-directory/</loc>
-    <lastmod>2025-04-06T08:21:40+00:00</lastmod>
+    <lastmod>2025-04-06T09:14:12+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/suburbs/</loc>
-    <lastmod>2025-04-06T08:21:40+00:00</lastmod>
+    <lastmod>2025-04-06T09:14:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/australia-suburb-directory/nsw/the-pilliga/</loc>
+    <lastmod>2025-04-06T09:14:12+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/australia-suburb-directory/nsw/ulan/</loc>
+    <lastmod>2025-04-06T08:55:58+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/vic/west-bendigo/</loc>
     <lastmod>2025-04-06T08:21:40+00:00</lastmod>
@@ -47870,9 +47876,6 @@
     <loc>http://localhost:1313/australia-suburb-directory/nsw/the-oaks/</loc>
     <lastmod>2025-04-06T06:05:20+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/australia-suburb-directory/nsw/the-pilliga/</loc>
-    <lastmod>2025-04-06T06:05:20+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/vic/the-pines/</loc>
     <lastmod>2025-04-06T06:05:20+00:00</lastmod>
   </url><url>
@@ -48684,9 +48687,6 @@
     <lastmod>2025-04-06T06:05:20+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/nsw/ulamambri/</loc>
-    <lastmod>2025-04-06T06:05:20+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/australia-suburb-directory/nsw/ulan/</loc>
     <lastmod>2025-04-06T06:05:20+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/australia-suburb-directory/nsw/ulladulla/</loc>
