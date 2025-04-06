@@ -55,7 +55,7 @@
                             {{ if reflect.IsMap . }} {{/* Check if the CURRENT ITEM is a map */}}
                                 {{ $location := . }}
                                 {{ with $location.name }} {{/* Check if 'name' key exists */}}
-                                    {{ $nameValue := . }}
+                                    {{ $nameValue := .name }}
                                     {{ with $location.url }} {{/* Check if 'url' key exists AND IS NOT EMPTY/NULL */}}
                                         <a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ $nameValue }}</a>
                                     {{ else }}
