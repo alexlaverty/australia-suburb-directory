@@ -1,4 +1,4 @@
-baseURL = 'https://aussiesuburbs.org/'
+baseURL = 'https://alexlaverty.github.io/australia-suburb-directory/'
 languageCode = 'en-us'
 title = 'Aussie Suburbs'
 theme = "ananke"
