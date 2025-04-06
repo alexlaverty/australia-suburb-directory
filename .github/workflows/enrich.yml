@@ -26,6 +26,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install google-generativeai python-frontmatter PyYAML python-dotenv
 
+    - name: Debug current directory
+      run: |
+        echo "Current directory: $(pwd)"
+        ls -R
+        
     - name: Run enrichment script and commit changes
       run: |
         # Change to the correct directory
