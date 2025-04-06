@@ -113,3 +113,40 @@ footer {
     margin-top: 3rem;
     font-size: 0.9rem;
 }
+
+/* --- Styles for Map Section --- */
+
+.map-section {
+    margin-top: 2rem; /* Space above the map section */
+}
+
+.map-section h3 {
+    color: #343a40;
+    margin-bottom: 1rem;
+    font-size: 1.3rem; /* Slightly smaller than H2 */
+    font-weight: 600;
+}
+
+.map-container {
+    max-width: 100%; /* Ensure container doesn't overflow */
+    /* Optional: Add aspect ratio box if you want responsive height */
+    /* position: relative;
+    overflow: hidden;
+    padding-top: 75%; /* Adjust percentage for aspect ratio (e.g., 75% = 4:3) */
+    /* border-radius: 8px; /* Apply radius to container if using aspect ratio */
+}
+
+.map-container iframe {
+    /* If using aspect ratio box, uncomment these: */
+    /* position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; */
+    /* If not using aspect ratio box, ensure vertical alignment if needed */
+    display: block; /* Removes potential extra space below iframe */
+    margin: 0 auto; /* Center if container is wider */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional subtle shadow */
+}
+
+/* --- End Map Section Styles --- */

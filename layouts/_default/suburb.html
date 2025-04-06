@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Explore {{ .Title }}, located in {{ .Params.state }}. Discover information about this suburb, including its postcode, latitude, and longitude.">
+    <meta name="description" content="Explore {{ .Title }}, located in {{ .Params.state }}. Discover information about this suburb, including its postcode, latitude, and longitude. Last updated: {{ .Lastmod.Format "January 2, 2006" }}.">
     <meta name="keywords" content="{{ .Title }}, {{ .Params.state }}, suburb directory, Australian suburbs">
     <title>{{ .Title }} - {{ .Params.state }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
@@ -13,19 +13,56 @@
         <h1>{{ .Title }}</h1>
         <p>State: {{ .Params.state }}</p>
         <p>Postcode: {{ .Params.postcode }}</p>
+        {{ with .Lastmod }}
+        <p class="last-updated">Last Updated: {{ .Format "January 2, 2006" }}</p>
+        {{ end }}
     </header>
     <main>
         <section>
             <h2>About {{ .Title }}</h2>
-            <p>{{ .Title }} is located in {{ .Params.state }} with the following coordinates:</p>
+            <p>{{ .Title }} is located in {{ .Params.state }}.</p>
             <ul>
-                <li>Latitude: {{ .Params.latitude }}</li>
-                <li>Longitude: {{ .Params.longitude }}</li>
+                <li>Latitude: {{ .Params.latitude | default "N/A" }}</li>
+                <li>Longitude: {{ .Params.longitude | default "N/A" }}</li>
             </ul>
         </section>
+
+        {{/* --- Add Embedded Map Section (Using Name + State) --- */}}
+        {{/* Display map if state exists (essential for query) */}}
+        {{ if .Params.state }}
+        <section class="map-section">
+            <h3>Location Map</h3>
+            {{/* Construct the query string: "Suburb Name, STATE" */}}
+            {{ $suburb := .Title }}
+            {{ $state := .Params.state }}
+            {{ $query := printf "%s, %s" $suburb $state }}
+
+            {{/* Construct Google Maps Embed URL using the query */}}
+            {{/* URL encode the query string to handle spaces/special chars */}}
+            {{ $mapURL := printf "https://maps.google.com/maps?q=%s&hl=en&output=embed" ($query | urlquery) }}
+
+            <div class="map-container">
+                 <iframe
+                    width="100%"
+                    height="300"
+                    style="border:0; border-radius: 8px;"
+                    loading="lazy"
+                    allowfullscreen=""
+                    referrerpolicy="no-referrer-when-downgrade"
+                    title="Map location for {{ $query }}" {{/* Update title attribute */}}
+                    src="{{ $mapURL | safeURL }}"> {{/* Use safeURL */}}
+                </iframe>
+            </div>
+        </section>
+        {{ else }}
+            {{/* Optional: Message if state is missing */}}
+            <!-- <p>Map cannot be displayed without state information.</p> -->
+        {{ end }}
+        {{/* --- End Embedded Map Section --- */}}
+
     </main>
     <footer>
-        <p>&copy; {{ now.Format "2006" }} Australian Suburb Directory</p>
+        <p>© {{ now.Format "2006" }} Australian Suburb Directory</p>
     </footer>
 </body>
 </html>
