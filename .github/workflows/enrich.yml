@@ -1,4 +1,4 @@
-name: Enrich Suburb Data
+name: Enrich Suburb Data and Build Hugo Site
 
 on:
   workflow_dispatch: # Allows manual triggering from the Actions tab
@@ -6,53 +6,41 @@ on:
     - cron: '0 * * * *' # Run hourly (at the start of the hour)
 
 jobs:
-  enrich:
+  enrich_and_build:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository # Check out the code including full history
-      uses: actions/checkout@v4 # Use latest checkout action
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0 # Needed to compare changes correctly
         token: ${{ secrets.PAT_TOKEN }} # Use PAT for commit/push permissions
 
     - name: Set up Python
-      uses: actions/setup-python@v5 # Use latest setup-python action
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.11' # Or your preferred Python version
+        python-version: '3.11'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install google-generativeai python-frontmatter PyYAML python-dotenv
 
-    # - name: Debug current directory
-    #   run: |
-    #     echo "Current directory: $(pwd)"
-    #     ls -R
-
-    - name: Run enrichment script and commit changes
+    - name: Run enrichment script
       run: |
-        # Change to the correct directory
-        #cd src/australia-suburb-directory
-
-        # Run the Python script to potentially modify a suburb file
         python enrich_suburb.py
 
-        # Configure Git user for commit
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+    - name: Set up Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
 
-        # Stage *all* potential changes (e.g., modified .md files)
-        git add -A
+    - name: Build Hugo site
+      run: |
+        hugo --minify
 
-        # Check if there are any staged changes
-        if ! git diff --staged --quiet; then
-          echo "Changes detected. Committing and pushing..."
-          git commit -m "Auto-enrich suburb data [skip ci]" # Commit changes
-          git push origin main # Push to the main branch (adjust if needed)
-        else
-          echo "No changes detected by the script."
-        fi
-      env:
-         GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: public
