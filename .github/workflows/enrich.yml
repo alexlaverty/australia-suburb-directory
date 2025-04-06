@@ -30,6 +30,8 @@ jobs:
         pip install google-generativeai python-frontmatter PyYAML python-dotenv
 
     - name: Run enrichment script and commit changes
+      env:
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       run: |
         # Run the enrichment script
         python enrich_suburb.py
