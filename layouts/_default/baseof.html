@@ -6,6 +6,15 @@
     <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     {{ block "head" . }}{{ end }} <!-- Extra head stuff -->
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4P23WF01YZ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-4P23WF01YZ');
+    </script>
+    <!-- End Google Analytics -->
 </head>
 <body>
     <header>
