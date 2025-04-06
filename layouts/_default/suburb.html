@@ -45,18 +45,36 @@
         {{/* --- End Facts Section --- */}}
 
         {{/* --- Display Tourist Locations if they exist --- */}}
-        {{ with .Params.tourist_locations }}
-            {{ if gt (len .) 0 }}
+        {{ with .Params.tourist_locations }} {{/* Makes the list the context '.' */}}
+            {{ if gt (len .) 0 }} {{/* Check if the list is not empty */}}
             <section class="locations-section" id="tourist-locations">
-                <h3><a href="#tourist-locations">Tourist Locations near {{ $.Title }}</a></h3>
+                <h3><a href="#tourist-locations">Tourist Locations near {{ $.Page.Title }}</a></h3>
                 <ol>
-                    {{ range . }}
-                    <li>{{ . }}</li>
-                    {{ end }}
+                    {{ range . }} {{/* Loop through each ITEM in the list. '.' is now the item */}}
+                        <li>
+                            {{ if reflect.IsMap . }} {{/* Check if the CURRENT ITEM is a map */}}
+                                {{ $location := . }}
+                                {{ with $location.name }} {{/* Check if 'name' key exists */}}
+                                    {{ $nameValue := . }}
+                                    {{ with $location.url }} {{/* Check if 'url' key exists AND IS NOT EMPTY/NULL */}}
+                                        <a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ $nameValue }}</a>
+                                    {{ else }}
+                                        {{/* URL doesn't exist OR is empty, just output the name */}}
+                                        {{ $nameValue }}
+                                    {{ end }} {{/* End with url */}}
+                                {{ else }}
+                                    <!-- Map item missing 'name' key -->
+                                {{ end }} {{/* End with name */}}
+                            {{ else }}
+                                {{/* BACKWARDS COMPATIBILITY: It's not a map, assume it's a string */}}
+                                {{ . }} {{/* Output the string item directly */}}
+                            {{ end }} {{/* End if reflect.IsMap */}}
+                        </li>
+                    {{ end }} {{/* End range */}}
                 </ol>
             </section>
-            {{ end }}
-        {{ end }}
+            {{ end }} {{/* End if gt (len .) 0 */}}
+        {{ end }} {{/* End with .Params.tourist_locations */}}
         {{/* --- End Tourist Locations Section --- */}}
 
         {{/* --- Display Notable People if they exist --- */}}
