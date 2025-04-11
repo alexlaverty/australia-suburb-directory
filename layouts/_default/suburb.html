@@ -98,6 +98,22 @@
         {{ end }}
         {{/* --- End Historical Events Section --- */}}
 
+        <section class="youtube-section" id="youtube">
+            <h3><a href="#youtube">Videos about {{ .Title }}</a></h3>
+            {{ $suburb := .Title | urlquery }}
+            {{ $state := .Params.state | urlquery }}
+            {{ $youtubeSearchURL := printf "https://www.youtube.com/results?search_query=%s+%s" $suburb $state }}
+            <iframe
+                src="https://www.youtube.com/embed?listType=search&list={{ $suburb }}+{{ $state }}"
+                width="100%"
+                height="500"
+                style="border:0; border-radius: 8px;"
+                loading="lazy"
+                allowfullscreen>
+            </iframe>
+            <p><a href="{{ $youtubeSearchURL }}" target="_blank" rel="noopener noreferrer">View more on YouTube</a></p>
+        </section>
+        
         {{/* --- Disqus Comments Section --- */}}
         <section class="comments-section" id="comments">
             <h3><a href="#comments">Comments</a></h3>

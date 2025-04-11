@@ -1,0 +1,49 @@
+{{ define "main" }}
+    <header>
+        <h1>Suburbs in Western Australia (WA)</h1>
+        <p>Explore all suburbs in WA, grouped alphabetically by their first letter.</p>
+    </header>
+
+    <main>
+        {{/* Filter suburbs where state is WA */}}
+        {{ $allSuburbPages := where .Site.Pages "Type" "suburbs" }}
+        {{ $waSuburbs := where $allSuburbPages "Params.state" "WA" }}
+
+        {{ if $waSuburbs }}
+            {{/* Group suburbs by first letter */}}
+            {{ $letterGroups := dict }}
+            
+            {{/* First, collect all first letters */}}
+            {{ $allLetters := slice }}
+            {{ range $waSuburbs }}
+                {{ $firstLetter := substr .Title 0 1 | upper }}
+                {{ $allLetters = $allLetters | append $firstLetter }}
+            {{ end }}
+            
+            {{/* Get unique letters and sort them */}}
+            {{ $uniqueLetters := slice }}
+            {{ range $allLetters | uniq | sort }}
+                {{ $uniqueLetters = $uniqueLetters | append . }}
+            {{ end }}
+            
+            {{/* Render each letter group */}}
+            {{ range $uniqueLetters }}
+                {{ $letter := . }}
+                <section class="letter-section">
+                    <h2>{{ $letter }}</h2>
+                    <ul class="suburb-list">
+                        {{ range $waSuburbs }}
+                            {{ if eq (substr .Title 0 1 | upper) $letter }}
+                                <li>
+                                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                </li>
+                            {{ end }}
+                        {{ end }}
+                    </ul>
+                </section>
+            {{ end }}
+        {{ else }}
+            <p>No suburbs found for Western Australia (WA).</p>
+        {{ end }}
+    </main>
+{{ end }}

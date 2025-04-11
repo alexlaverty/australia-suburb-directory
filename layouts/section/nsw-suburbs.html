@@ -1,0 +1,49 @@
+{{ define "main" }}
+    <header>
+        <h1>Suburbs in New South Wales (NSW)</h1>
+        <p>Explore all suburbs in NSW, grouped alphabetically by their first letter.</p>
+    </header>
+
+    <main>
+        {{/* Filter suburbs where state is NSW */}}
+        {{ $allSuburbPages := where .Site.Pages "Type" "suburbs" }}
+        {{ $nswSuburbs := where $allSuburbPages "Params.state" "NSW" }}
+
+        {{ if $nswSuburbs }}
+            {{/* Group suburbs by first letter */}}
+            {{ $letterGroups := dict }}
+            
+            {{/* First, collect all first letters */}}
+            {{ $allLetters := slice }}
+            {{ range $nswSuburbs }}
+                {{ $firstLetter := substr .Title 0 1 | upper }}
+                {{ $allLetters = $allLetters | append $firstLetter }}
+            {{ end }}
+            
+            {{/* Get unique letters and sort them */}}
+            {{ $uniqueLetters := slice }}
+            {{ range $allLetters | uniq | sort }}
+                {{ $uniqueLetters = $uniqueLetters | append . }}
+            {{ end }}
+            
+            {{/* Render each letter group */}}
+            {{ range $uniqueLetters }}
+                {{ $letter := . }}
+                <section class="letter-section">
+                    <h2>{{ $letter }}</h2>
+                    <ul class="suburb-list">
+                        {{ range $nswSuburbs }}
+                            {{ if eq (substr .Title 0 1 | upper) $letter }}
+                                <li>
+                                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                </li>
+                            {{ end }}
+                        {{ end }}
+                    </ul>
+                </section>
+            {{ end }}
+        {{ else }}
+            <p>No suburbs found for New South Wales (NSW).</p>
+        {{ end }}
+    </main>
+{{ end }}

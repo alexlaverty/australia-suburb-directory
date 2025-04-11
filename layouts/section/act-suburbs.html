@@ -1,0 +1,49 @@
+{{ define "main" }}
+    <header>
+        <h1>Suburbs in Australian Capital Territory (ACT)</h1>
+        <p>Explore all suburbs in ACT, grouped alphabetically by their first letter.</p>
+    </header>
+
+    <main>
+        {{/* Filter suburbs where state is ACT */}}
+        {{ $allSuburbPages := where .Site.Pages "Type" "suburbs" }}
+        {{ $actSuburbs := where $allSuburbPages "Params.state" "ACT" }}
+
+        {{ if $actSuburbs }}
+            {{/* Group suburbs by first letter */}}
+            {{ $letterGroups := dict }}
+            
+            {{/* First, collect all first letters */}}
+            {{ $allLetters := slice }}
+            {{ range $actSuburbs }}
+                {{ $firstLetter := substr .Title 0 1 | upper }}
+                {{ $allLetters = $allLetters | append $firstLetter }}
+            {{ end }}
+            
+            {{/* Get unique letters and sort them */}}
+            {{ $uniqueLetters := slice }}
+            {{ range $allLetters | uniq | sort }}
+                {{ $uniqueLetters = $uniqueLetters | append . }}
+            {{ end }}
+            
+            {{/* Render each letter group */}}
+            {{ range $uniqueLetters }}
+                {{ $letter := . }}
+                <section class="letter-section">
+                    <h2>{{ $letter }}</h2>
+                    <ul class="suburb-list">
+                        {{ range $actSuburbs }}
+                            {{ if eq (substr .Title 0 1 | upper) $letter }}
+                                <li>
+                                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                </li>
+                            {{ end }}
+                        {{ end }}
+                    </ul>
+                </section>
+            {{ end }}
+        {{ else }}
+            <p>No suburbs found for Australian Capital Territory (ACT).</p>
+        {{ end }}
+    </main>
+{{ end }}

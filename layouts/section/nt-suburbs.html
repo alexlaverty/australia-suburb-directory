@@ -1,0 +1,49 @@
+{{ define "main" }}
+    <header>
+        <h1>Suburbs in Nothern Territory (NT)</h1>
+        <p>Explore all suburbs in Nothern Territory, grouped alphabetically by their first letter.</p>
+    </header>
+
+    <main>
+        {{/* Filter suburbs where state is NT */}}
+        {{ $allSuburbPages := where .Site.Pages "Type" "suburbs" }}
+        {{ $ntSuburbs := where $allSuburbPages "Params.state" "NT" }}
+
+        {{ if $ntSuburbs }}
+            {{/* Group suburbs by first letter */}}
+            {{ $letterGroups := dict }}
+            
+            {{/* First, collect all first letters */}}
+            {{ $allLetters := slice }}
+            {{ range $ntSuburbs }}
+                {{ $firstLetter := substr .Title 0 1 | upper }}
+                {{ $allLetters = $allLetters | append $firstLetter }}
+            {{ end }}
+            
+            {{/* Get unique letters and sort them */}}
+            {{ $uniqueLetters := slice }}
+            {{ range $allLetters | uniq | sort }}
+                {{ $uniqueLetters = $uniqueLetters | append . }}
+            {{ end }}
+            
+            {{/* Render each letter group */}}
+            {{ range $uniqueLetters }}
+                {{ $letter := . }}
+                <section class="letter-section">
+                    <h2>{{ $letter }}</h2>
+                    <ul class="suburb-list">
+                        {{ range $ntSuburbs }}
+                            {{ if eq (substr .Title 0 1 | upper) $letter }}
+                                <li>
+                                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                </li>
+                            {{ end }}
+                        {{ end }}
+                    </ul>
+                </section>
+            {{ end }}
+        {{ else }}
+            <p>No suburbs found for New South Wales (NT).</p>
+        {{ end }}
+    </main>
+{{ end }}

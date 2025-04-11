@@ -88,7 +88,17 @@
                             <h3>Notable People from {{ $currentPage.Title }}</h3>
                             <ul>
                                 {{ range . }}
-                                <li>{{ . }}</li>
+                                <li>
+                                    {{ if reflect.IsMap . }} <!-- Check if the item is a dictionary -->
+                                        {{ if .description }}
+                                            <strong>{{ .name }}</strong> - {{ .description }}
+                                        {{ else }}
+                                            {{ .name }}
+                                        {{ end }}
+                                    {{ else }} <!-- If the item is a string -->
+                                        {{ . }}
+                                    {{ end }}
+                                </li>
                                 {{ end }}
                             </ul>
                         </section>
