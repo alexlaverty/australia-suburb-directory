@@ -102,7 +102,17 @@
                             <h3>Notable Historical Events in {{ $currentPage.Title }}</h3>
                             <ul>
                                 {{ range . }}
-                                <li>{{ . }}</li>
+                                <li>
+                                    {{ if reflect.IsMap . }} <!-- Check if the item is a dictionary -->
+                                        {{ if .date }}
+                                            <strong>{{ .date }}:</strong> {{ .name }}
+                                        {{ else }}
+                                            {{ .name }}
+                                        {{ end }}
+                                    {{ else }} <!-- If the item is a string -->
+                                        {{ . }}
+                                    {{ end }}
+                                </li>
                                 {{ end }}
                             </ul>
                         </section>
