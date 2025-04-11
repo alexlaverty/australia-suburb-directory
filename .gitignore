@@ -8,7 +8,7 @@
 /public/
 /static/public/ # If using staticDir setting pointing to public inside static
 /resources/
-
+public/
 # Hugo build lock file and stats
 .hugo_build.lock
 hugo_stats.json
