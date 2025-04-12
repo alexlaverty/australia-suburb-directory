@@ -5,7 +5,7 @@
     </header>
 
     <main>
-        {{ $allSuburbPages := where .Site.Pages "Type" "suburbs" }}
+        {{ $allSuburbPages := where .Site.RegularPages "Type" "suburbs" }}
         {{ $suburbsToGroup := where $allSuburbPages "Kind" "page" }}
 
         {{ if $suburbsToGroup }}

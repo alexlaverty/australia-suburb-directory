@@ -6,7 +6,7 @@
 
     <main>
         {{/* Filter suburbs where state is ACT */}}
-        {{ $allSuburbPages := where .Site.Pages "Type" "suburbs" }}
+        {{ $allSuburbPages := where .Site.RegularPages "Type" "suburbs" }}
         {{ $actSuburbs := where $allSuburbPages "Params.state" "ACT" }}
 
         {{ if $actSuburbs }}
