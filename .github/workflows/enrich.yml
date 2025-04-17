@@ -2,8 +2,8 @@ name: Enrich Suburb Data and Build Hugo Site
 
 on:
   workflow_dispatch: # Allows manual triggering from the Actions tab
-  schedule:
-    - cron: '0 * * * *' # Run hourly (at the start of the hour)
+  # schedule:
+  #   - cron: '0 * * * *' # Run hourly (at the start of the hour)
   push:
     branches:
       - main # Trigger when changes are pushed to the main branch
